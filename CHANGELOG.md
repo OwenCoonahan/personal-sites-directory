@@ -1,6 +1,15 @@
 # Changelog — Homepages
 
-## 2026-06-23 — v0.2 submit flow + moderation queue (Dev)
+## 2026-06-29 — live on Vercel + simplified (Dev)
+
+Shipped it and stripped the over-built bits.
+
+- **Live**: own GitHub repo (`OwenCoonahan/personal-sites-directory`, public) + Vercel deploy (`homepages-iota.vercel.app`). Pushes to `main` auto-deploy.
+- **Submit flow simplified**: deleted the whole submission backend — `/api/submit`, `/api/admin`, `/admin`, `store.ts` (Upstash queue + rate limit), `profile-lite.ts`, Turnstile. "Suggest a site" is now a plain inline form that POSTs to **Formspree** (set `NEXT_PUBLIC_FORMSPREE_ID`), or falls back to a pre-filled email if unset. Approved-queue merge removed from `sites.ts`; home page is no longer `force-dynamic` — the whole app is now a single static page.
+- **Header / filters redesigned**: the filter wall (7 roles + features + ~28 tags + sort) used to eat the entire first screen on mobile. Now one compact row — search · **Filters** (collapsible, closed by default, with active count) · **Sort** dropdown. Active filters show as removable chips. Cards are visible immediately on mobile.
+- **Detail modal**: the `esc` text close affordance is now a clear round **✕** button.
+
+## 2026-06-23 — v0.2 submit flow + moderation queue (Dev) — SUPERSEDED 2026-06-29
 
 Made "Add your site" real, with spam protection built around an approval queue.
 

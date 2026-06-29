@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Site } from "@/lib/types";
 import SiteCard from "./SiteCard";
 import SiteDetail from "./SiteDetail";
@@ -9,6 +9,8 @@ import SubmitModal from "./SubmitModal";
 type Facet = { value: string; n: number };
 type Facets = { roles: Facet[]; tags: Facet[]; features: Facet[] };
 type Sort = "featured" | "az" | "random";
+
+const SORT_LABEL: Record<Sort, string> = { featured: "Featured", az: "A–Z", random: "Shuffle" };
 
 export default function Directory({ sites, facets }: { sites: Site[]; facets: Facets }) {
   const [q, setQ] = useState("");
@@ -20,10 +22,35 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
   const [open, setOpen] = useState<Site | null>(null);
   const [showAllTags, setShowAllTags] = useState(false);
   const [submitOpen, setSubmitOpen] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const [sortOpen, setSortOpen] = useState(false);
+  const sortRef = useRef<HTMLDivElement>(null);
 
   const byId = useMemo(() => new Map(sites.map((s) => [s.id, s])), [sites]);
 
   const toggleTag = (t: string) => setTags((prev) => (prev.includes(t) ? prev.filter((x) => x !== t) : [...prev, t]));
+
+  const clearAll = () => {
+    setQ("");
+    setRole(null);
+    setFeature(null);
+    setTags([]);
+  };
+
+  // Close the sort dropdown on outside-click / Escape.
+  useEffect(() => {
+    if (!sortOpen) return;
+    const onDown = (e: MouseEvent) => {
+      if (sortRef.current && !sortRef.current.contains(e.target as Node)) setSortOpen(false);
+    };
+    const onKey = (e: KeyboardEvent) => e.key === "Escape" && setSortOpen(false);
+    document.addEventListener("mousedown", onDown);
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("mousedown", onDown);
+      document.removeEventListener("keydown", onKey);
+    };
+  }, [sortOpen]);
 
   const filtered = useMemo(() => {
     const needle = q.trim().toLowerCase();
@@ -42,128 +69,178 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
     return out;
   }, [sites, q, role, feature, tags, sort, seed]);
 
-  const activeFilters = (role ? 1 : 0) + (feature ? 1 : 0) + tags.length + (q ? 1 : 0);
-  const topTags = showAllTags ? facets.tags : facets.tags.slice(0, 14);
+  const activeFilters = (role ? 1 : 0) + (feature ? 1 : 0) + tags.length;
+  const topTags = showAllTags ? facets.tags : facets.tags.slice(0, 12);
+
+  const pickSort = (s: Sort) => {
+    setSort(s);
+    if (s === "random") setSeed((n) => n + 1);
+    setSortOpen(false);
+  };
 
   return (
     <div className="flex flex-col min-h-screen">
       {/* Header */}
-      <header className="px-5 md:px-8 pt-10 pb-6 max-w-[1400px] mx-auto w-full">
-        <div className="flex items-end justify-between gap-4 flex-wrap">
+      <header className="px-5 md:px-8 pt-9 pb-5 max-w-[1400px] mx-auto w-full">
+        <div className="flex items-start justify-between gap-4">
           <div>
-            <h1 className="text-[26px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
+            <h1 className="text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
               Homepages
             </h1>
-            <p className="text-[14px] mt-1" style={{ color: "var(--text-2)" }}>
+            <p className="text-[13.5px] md:text-[14px] mt-1" style={{ color: "var(--text-2)" }}>
               A directory of personal websites from the people building the internet.
             </p>
           </div>
           <button
             onClick={() => setSubmitOpen(true)}
-            className="rounded-lg px-4 py-2 text-[13.5px] font-medium"
+            className="shrink-0 rounded-lg px-3.5 py-2 text-[13px] font-medium"
             style={{ background: "var(--accent)", color: "var(--bg-card)" }}
           >
-            + Add your site
+            + Add site
           </button>
         </div>
       </header>
 
-      {/* Filter bar */}
+      {/* Control bar */}
       <div
         className="sticky top-0 z-30"
-        style={{ background: "color-mix(in srgb, var(--bg) 88%, transparent)", backdropFilter: "blur(8px)", borderBottom: "1px solid var(--border)" }}
+        style={{
+          background: "color-mix(in srgb, var(--bg) 88%, transparent)",
+          backdropFilter: "blur(8px)",
+          borderBottom: "1px solid var(--border)",
+        }}
       >
-        <div className="px-5 md:px-8 py-3 max-w-[1400px] mx-auto w-full flex flex-col gap-3">
-          <div className="flex items-center gap-2 flex-wrap">
+        <div className="px-5 md:px-8 py-3 max-w-[1400px] mx-auto w-full flex flex-col gap-2.5">
+          {/* one compact row: search · filters · sort */}
+          <div className="flex items-center gap-2">
             <input
               className="search"
-              style={{ maxWidth: 280 }}
+              style={{ flex: 1, minWidth: 0 }}
               placeholder="Search names, topics, sites…"
               value={q}
               onChange={(e) => setQ(e.target.value)}
             />
-            <div className="flex items-center gap-1.5 flex-wrap">
-              {facets.roles.slice(0, 7).map((r) => (
-                <button
-                  key={r.value}
-                  className="filter-pill"
-                  data-active={role === r.value}
-                  onClick={() => setRole(role === r.value ? null : r.value)}
-                >
-                  {r.value} <span style={{ opacity: 0.5 }}>{r.n}</span>
-                </button>
-              ))}
-            </div>
-            <div className="ml-auto flex items-center gap-1.5">
-              {(["featured", "az", "random"] as Sort[]).map((s) => (
-                <button
-                  key={s}
-                  className="filter-pill"
-                  data-active={sort === s}
-                  onClick={() => {
-                    setSort(s);
-                    if (s === "random") setSeed((n) => n + 1);
+            <button
+              className="filter-pill shrink-0"
+              data-active={filtersOpen || activeFilters > 0}
+              onClick={() => setFiltersOpen((v) => !v)}
+            >
+              Filters{activeFilters > 0 && <span style={{ opacity: 0.7 }}> · {activeFilters}</span>}
+            </button>
+            <div className="relative shrink-0" ref={sortRef}>
+              <button className="filter-pill" data-active={sortOpen} onClick={() => setSortOpen((v) => !v)}>
+                {SORT_LABEL[sort]} <span style={{ opacity: 0.5, fontSize: 10 }}>▾</span>
+              </button>
+              {sortOpen && (
+                <div
+                  className="absolute right-0 mt-1.5 p-1 z-40"
+                  style={{
+                    background: "var(--bg-card)",
+                    border: "1px solid var(--border-strong)",
+                    borderRadius: 10,
+                    boxShadow: "var(--shadow)",
+                    minWidth: 140,
                   }}
                 >
-                  {s === "featured" ? "Featured" : s === "az" ? "A–Z" : "Shuffle"}
-                </button>
-              ))}
+                  {(["featured", "az", "random"] as Sort[]).map((s) => (
+                    <button
+                      key={s}
+                      onClick={() => pickSort(s)}
+                      className="block w-full text-left rounded-md px-2.5 py-1.5 text-[13px]"
+                      style={{
+                        color: sort === s ? "var(--text-1)" : "var(--text-2)",
+                        background: sort === s ? "var(--chip)" : "transparent",
+                        fontWeight: sort === s ? 600 : 400,
+                      }}
+                    >
+                      {SORT_LABEL[s]}
+                    </button>
+                  ))}
+                </div>
+              )}
             </div>
           </div>
 
-          <div className="flex items-center gap-1.5 flex-wrap">
-            {facets.features.map((f) => (
-              <button
-                key={f.value}
-                className="filter-pill"
-                data-active={feature === f.value}
-                onClick={() => setFeature(feature === f.value ? null : f.value)}
-                style={{ fontSize: 12 }}
-              >
-                {f.value}
+          {/* active filters summary (when the panel is closed) */}
+          {activeFilters > 0 && !filtersOpen && (
+            <div className="flex items-center gap-1.5 flex-wrap">
+              {role && <RemovableChip label={role} onRemove={() => setRole(null)} />}
+              {feature && <RemovableChip label={feature} onRemove={() => setFeature(null)} />}
+              {tags.map((t) => (
+                <RemovableChip key={t} label={t} onRemove={() => toggleTag(t)} />
+              ))}
+              <button className="text-[12.5px] hover:underline ml-0.5" style={{ color: "var(--text-3)" }} onClick={clearAll}>
+                Clear
               </button>
-            ))}
-            <span className="mx-1" style={{ color: "var(--text-3)" }}>·</span>
-            {topTags.map((t) => (
-              <button
-                key={t.value}
-                className="filter-pill"
-                data-active={tags.includes(t.value)}
-                onClick={() => toggleTag(t.value)}
-                style={{ fontSize: 12 }}
-              >
-                {t.value}
-              </button>
-            ))}
-            {facets.tags.length > 14 && (
-              <button className="filter-pill" style={{ fontSize: 12 }} onClick={() => setShowAllTags((v) => !v)}>
-                {showAllTags ? "less" : `+${facets.tags.length - 14} more`}
-              </button>
-            )}
-          </div>
+            </div>
+          )}
+
+          {/* collapsible filter panel */}
+          {filtersOpen && (
+            <div className="flex flex-col gap-3 pt-1 pb-1.5">
+              <FilterGroup label="Role">
+                {facets.roles.slice(0, 7).map((r) => (
+                  <button
+                    key={r.value}
+                    className="filter-pill"
+                    data-active={role === r.value}
+                    onClick={() => setRole(role === r.value ? null : r.value)}
+                    style={{ fontSize: 12 }}
+                  >
+                    {r.value} <span style={{ opacity: 0.5 }}>{r.n}</span>
+                  </button>
+                ))}
+              </FilterGroup>
+
+              <FilterGroup label="Has">
+                {facets.features.map((f) => (
+                  <button
+                    key={f.value}
+                    className="filter-pill"
+                    data-active={feature === f.value}
+                    onClick={() => setFeature(feature === f.value ? null : f.value)}
+                    style={{ fontSize: 12 }}
+                  >
+                    {f.value}
+                  </button>
+                ))}
+              </FilterGroup>
+
+              <FilterGroup label="Topic">
+                {topTags.map((t) => (
+                  <button
+                    key={t.value}
+                    className="filter-pill"
+                    data-active={tags.includes(t.value)}
+                    onClick={() => toggleTag(t.value)}
+                    style={{ fontSize: 12 }}
+                  >
+                    {t.value}
+                  </button>
+                ))}
+                {facets.tags.length > 12 && (
+                  <button className="filter-pill" style={{ fontSize: 12 }} onClick={() => setShowAllTags((v) => !v)}>
+                    {showAllTags ? "less" : `+${facets.tags.length - 12} more`}
+                  </button>
+                )}
+              </FilterGroup>
+
+              {activeFilters > 0 && (
+                <button className="text-[12.5px] hover:underline self-start" style={{ color: "var(--text-3)" }} onClick={clearAll}>
+                  Clear all filters
+                </button>
+              )}
+            </div>
+          )}
         </div>
       </div>
 
       {/* Results */}
       <main className="px-5 md:px-8 py-6 max-w-[1400px] mx-auto w-full flex-1">
-        <div className="flex items-center justify-between mb-4">
+        <div className="mb-4">
           <span className="text-[13px] mono" style={{ color: "var(--text-3)" }}>
             {filtered.length} {filtered.length === 1 ? "site" : "sites"}
           </span>
-          {activeFilters > 0 && (
-            <button
-              className="text-[13px] hover:underline"
-              style={{ color: "var(--text-2)" }}
-              onClick={() => {
-                setQ("");
-                setRole(null);
-                setFeature(null);
-                setTags([]);
-              }}
-            >
-              Clear filters
-            </button>
-          )}
         </div>
 
         {filtered.length === 0 ? (
@@ -186,6 +263,33 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
       {open && <SiteDetail site={open} byId={byId} onClose={() => setOpen(null)} onOpen={setOpen} />}
       {submitOpen && <SubmitModal onClose={() => setSubmitOpen(false)} />}
     </div>
+  );
+}
+
+function FilterGroup({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div className="flex items-baseline gap-2 flex-wrap">
+      <span className="mono text-[10.5px] uppercase tracking-wide shrink-0 w-10" style={{ color: "var(--text-3)" }}>
+        {label}
+      </span>
+      <div className="flex items-center gap-1.5 flex-wrap">{children}</div>
+    </div>
+  );
+}
+
+function RemovableChip({ label, onRemove }: { label: string; onRemove: () => void }) {
+  return (
+    <button
+      className="filter-pill"
+      data-active="true"
+      onClick={onRemove}
+      style={{ fontSize: 12, display: "inline-flex", alignItems: "center", gap: 4 }}
+    >
+      {label}
+      <span aria-hidden style={{ opacity: 0.7 }}>
+        ✕
+      </span>
+    </button>
   );
 }
 

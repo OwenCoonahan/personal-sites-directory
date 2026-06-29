@@ -72,11 +72,19 @@ export default function SiteDetail({
             </div>
             <button
               onClick={onClose}
-              className="filter-pill shrink-0"
+              className="shrink-0 inline-flex items-center justify-center rounded-full"
               aria-label="Close"
-              style={{ padding: "0.25rem 0.55rem" }}
+              style={{
+                width: 32,
+                height: 32,
+                fontSize: 18,
+                lineHeight: 1,
+                color: "var(--text-2)",
+                border: "1px solid var(--border)",
+                background: "var(--bg-card)",
+              }}
             >
-              esc
+              ✕
             </button>
           </div>
 
