@@ -4,8 +4,21 @@ import type { Site } from "@/lib/types";
 
 export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Site) => void }) {
   const img = site.screenshot || site.ogImage;
+  const host = site.host.replace(/^www\./, "");
   return (
-    <button className="card text-left" onClick={() => onOpen(site)} aria-label={`Open ${site.name}`}>
+    <div
+      className="card text-left"
+      role="button"
+      tabIndex={0}
+      onClick={() => onOpen(site)}
+      onKeyDown={(e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          onOpen(site);
+        }
+      }}
+      aria-label={`Open ${site.name}`}
+    >
       <div className="shot">
         {img ? (
           // eslint-disable-next-line @next/next/no-img-element
@@ -42,10 +55,19 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
           ))}
         </div>
         <div className="flex items-center justify-between mt-2.5 text-[11px] mono" style={{ color: "var(--text-3)" }}>
-          <span className="truncate">{site.host.replace(/^www\./, "")}</span>
+          <a
+            href={site.finalUrl}
+            target="_blank"
+            rel="noreferrer"
+            className="host-link truncate"
+            onClick={(e) => e.stopPropagation()}
+            title={`Visit ${host}`}
+          >
+            {host} <span aria-hidden style={{ opacity: 0.6 }}>↗</span>
+          </a>
           {site.inDegree > 0 && <span className="shrink-0 ml-2">★ {site.inDegree}</span>}
         </div>
       </div>
-    </button>
+    </div>
   );
 }
