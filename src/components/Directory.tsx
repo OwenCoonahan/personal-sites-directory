@@ -8,16 +8,16 @@ import SubmitModal from "./SubmitModal";
 
 type Facet = { value: string; n: number };
 type Facets = { roles: Facet[]; tags: Facet[]; features: Facet[] };
-type Sort = "featured" | "az" | "random";
+type Sort = "az" | "random";
 
-const SORT_LABEL: Record<Sort, string> = { featured: "Featured", az: "A–Z", random: "Shuffle" };
+const SORT_LABEL: Record<Sort, string> = { az: "A–Z", random: "Shuffle" };
 
 export default function Directory({ sites, facets }: { sites: Site[]; facets: Facets }) {
   const [q, setQ] = useState("");
   const [role, setRole] = useState<string | null>(null);
   const [tags, setTags] = useState<string[]>([]);
   const [feature, setFeature] = useState<string | null>(null);
-  const [sort, setSort] = useState<Sort>("featured");
+  const [sort, setSort] = useState<Sort>("az");
   const [seed, setSeed] = useState(0);
   const [open, setOpen] = useState<Site | null>(null);
   const [showAllTags, setShowAllTags] = useState(false);
@@ -142,7 +142,7 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
                     minWidth: 140,
                   }}
                 >
-                  {(["featured", "az", "random"] as Sort[]).map((s) => (
+                  {(["az", "random"] as Sort[]).map((s) => (
                     <button
                       key={s}
                       onClick={() => pickSort(s)}
