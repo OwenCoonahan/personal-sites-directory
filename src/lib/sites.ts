@@ -1,6 +1,5 @@
 import seed from "../../data/sites.json";
 import type { Site } from "./types";
-import { listApproved } from "./store";
 
 const SEED = seed as Site[];
 
@@ -24,11 +23,8 @@ function computeGraph(sites: Site[]): Site[] {
   return enriched;
 }
 
-export async function getSites(): Promise<Site[]> {
-  const approved = await listApproved();
-  const seen = new Set(SEED.map((s) => s.id));
-  const merged = [...SEED, ...approved.filter((a) => !seen.has(a.id))];
-  return computeGraph(merged).sort((a, b) => b.inDegree - a.inDegree || a.name.localeCompare(b.name));
+export function getSites(): Site[] {
+  return computeGraph(SEED).sort((a, b) => b.inDegree - a.inDegree || a.name.localeCompare(b.name));
 }
 
 export function seedHosts(): Set<string> {

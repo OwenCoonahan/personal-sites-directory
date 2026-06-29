@@ -1,24 +1,20 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 
-const SITE_KEY = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
-
-declare global {
-  interface Window {
-    turnstile?: { render: (el: HTMLElement, opts: Record<string, unknown>) => void };
-  }
-}
+// Where suggestions go. Set NEXT_PUBLIC_FORMSPREE_ID to a Formspree form id
+// (the part after /f/ in https://formspree.io/f/XXXXXXXX). If it's unset, the
+// form gracefully falls back to opening a pre-filled email instead.
+const FORM_ID = process.env.NEXT_PUBLIC_FORMSPREE_ID;
+const FALLBACK_EMAIL = "3owen.c@gmail.com";
 
 export default function SubmitModal({ onClose }: { onClose: () => void }) {
   const [url, setUrl] = useState("");
   const [name, setName] = useState("");
   const [note, setNote] = useState("");
-  const [website, setWebsite] = useState(""); // honeypot
-  const [token, setToken] = useState("");
+  const [gotcha, setGotcha] = useState(""); // honeypot — bots fill it, humans don't
   const [state, setState] = useState<"idle" | "sending" | "done" | "error">("idle");
   const [msg, setMsg] = useState("");
-  const tsRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
@@ -26,40 +22,33 @@ export default function SubmitModal({ onClose }: { onClose: () => void }) {
     return () => document.removeEventListener("keydown", onKey);
   }, [onClose]);
 
-  // Load Cloudflare Turnstile only if a site key is configured.
-  useEffect(() => {
-    if (!SITE_KEY || !tsRef.current) return;
-    const render = () => {
-      if (window.turnstile && tsRef.current) {
-        window.turnstile.render(tsRef.current, { sitekey: SITE_KEY, callback: (t: string) => setToken(t) });
-      }
-    };
-    if (window.turnstile) render();
-    else {
-      const s = document.createElement("script");
-      s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js";
-      s.async = true;
-      s.onload = render;
-      document.head.appendChild(s);
-    }
-  }, []);
-
   async function submit() {
+    if (gotcha) return; // silently ignore bots
     setState("sending");
     setMsg("");
-    try {
-      const res = await fetch("/api/submit", {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({ url, name, note, website, turnstileToken: token }),
-      });
-      const data = await res.json();
-      if (!data.ok) {
-        setState("error");
-        setMsg(data.error || "Something went wrong.");
-        return;
-      }
+
+    // No Formspree configured → fall back to a pre-filled email.
+    if (!FORM_ID) {
+      const body = `Site: ${url}\nName: ${name}\nNote: ${note}`;
+      window.location.href = `mailto:${FALLBACK_EMAIL}?subject=${encodeURIComponent(
+        "New site for the directory"
+      )}&body=${encodeURIComponent(body)}`;
       setState("done");
+      return;
+    }
+
+    try {
+      const res = await fetch(`https://formspree.io/f/${FORM_ID}`, {
+        method: "POST",
+        headers: { "content-type": "application/json", accept: "application/json" },
+        body: JSON.stringify({ url, name, note, _subject: "New site for the directory" }),
+      });
+      if (res.ok) {
+        setState("done");
+      } else {
+        setState("error");
+        setMsg("Couldn't send that. Try again, or email me directly.");
+      }
     } catch {
       setState("error");
       setMsg("Network error. Try again.");
@@ -80,9 +69,9 @@ export default function SubmitModal({ onClose }: { onClose: () => void }) {
         {state === "done" ? (
           <div className="text-center py-6">
             <div className="text-[28px] mb-2">✓</div>
-            <h2 className="text-[18px] font-semibold">Submitted for review</h2>
+            <h2 className="text-[18px] font-semibold">Thanks for the suggestion</h2>
             <p className="text-[14px] mt-2" style={{ color: "var(--text-2)" }}>
-              Thanks. Once it's approved it'll show up in the directory.
+              I read every one and add the good ones to the directory.
             </p>
             <button className="filter-pill mt-5" onClick={onClose}>
               Close
@@ -90,9 +79,9 @@ export default function SubmitModal({ onClose }: { onClose: () => void }) {
           </div>
         ) : (
           <>
-            <h2 className="text-[18px] font-semibold">Add your site</h2>
+            <h2 className="text-[18px] font-semibold">Suggest a site</h2>
             <p className="text-[13px] mt-1 mb-4" style={{ color: "var(--text-2)" }}>
-              Personal websites only. It goes into a review queue before it's listed.
+              Personal websites only. Send it over and I'll add it if it's a fit.
             </p>
 
             <label className="block text-[12px] mono uppercase tracking-wide mb-1" style={{ color: "var(--text-3)" }}>
@@ -126,13 +115,11 @@ export default function SubmitModal({ onClose }: { onClose: () => void }) {
               type="text"
               tabIndex={-1}
               autoComplete="off"
-              value={website}
-              onChange={(e) => setWebsite(e.target.value)}
+              value={gotcha}
+              onChange={(e) => setGotcha(e.target.value)}
               style={{ position: "absolute", left: "-9999px", width: 1, height: 1, opacity: 0 }}
               aria-hidden="true"
             />
-
-            {SITE_KEY && <div ref={tsRef} className="mt-4" />}
 
             {msg && (
               <p className="text-[13px] mt-3" style={{ color: "#dc2626" }}>
@@ -147,7 +134,7 @@ export default function SubmitModal({ onClose }: { onClose: () => void }) {
                 disabled={!url || state === "sending"}
                 onClick={submit}
               >
-                {state === "sending" ? "Submitting…" : "Submit for review"}
+                {state === "sending" ? "Sending…" : "Send"}
               </button>
               <button className="filter-pill" onClick={onClose}>
                 Cancel
