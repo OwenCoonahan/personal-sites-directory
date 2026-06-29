@@ -70,20 +70,7 @@ export default function SiteDetail({
                 {site.host.replace(/^www\./, "")}
               </a>
             </div>
-            <button
-              onClick={onClose}
-              className="shrink-0 inline-flex items-center justify-center rounded-full"
-              aria-label="Close"
-              style={{
-                width: 32,
-                height: 32,
-                fontSize: 18,
-                lineHeight: 1,
-                color: "var(--text-2)",
-                border: "1px solid var(--border)",
-                background: "var(--bg-card)",
-              }}
-            >
+            <button onClick={onClose} className="close-btn shrink-0" aria-label="Close">
               ✕
             </button>
           </div>
