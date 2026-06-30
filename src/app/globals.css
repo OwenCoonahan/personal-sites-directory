@@ -133,6 +133,9 @@ body {
   overflow: hidden;
   transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
   cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 .card:hover {
   border-color: var(--border-strong);

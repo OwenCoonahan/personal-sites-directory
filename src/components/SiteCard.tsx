@@ -29,7 +29,7 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
           </div>
         )}
       </div>
-      <div className="p-3.5">
+      <div className="p-3.5 flex flex-col flex-1">
         <div className="flex items-center gap-2">
           {site.favicon && (
             // eslint-disable-next-line @next/next/no-img-element
@@ -54,7 +54,7 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
             </span>
           ))}
         </div>
-        <div className="flex items-center justify-between mt-2.5 text-[11px] mono" style={{ color: "var(--text-3)" }}>
+        <div className="flex items-center justify-between mt-auto pt-2.5 text-[11px] mono" style={{ color: "var(--text-3)" }}>
           <a
             href={site.finalUrl}
             target="_blank"
