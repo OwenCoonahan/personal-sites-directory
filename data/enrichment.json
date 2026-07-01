@@ -1902,5 +1902,24 @@
       "Newsletter",
       "Blog"
     ]
+  },
+  "ryancan-build": {
+    "name": "Ryan Mather",
+    "summary": "Maker who plays with technologies and turns them into products people love.",
+    "role": "Maker",
+    "tags": [
+      "Product",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eka-hn": {
+    "name": "Evan Shu Kahn",
+    "summary": "A minimal one-name corner of the personal web.",
+    "role": "",
+    "tags": [],
+    "features": []
   }
 }

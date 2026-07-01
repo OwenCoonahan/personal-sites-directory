@@ -4046,5 +4046,37 @@
     "textSnippet": "We, The Citizens Skip to content About Altering States Specials Wraps Announcements Archive Sign In Subscribe Hello there. I'm Kirsten Han , an independent journalist and activist. We, The Citizens is where I write about Singapore with a focus on politics, democracy, human rights and social justice. Subscribe for what? Not everyone has the time to obsess over what's going on in Singapore like I do. As my mother once described We, The Citizens : \"She reads the news so you don't have to.\" Weekly curated summaries Your support keeps me writing independently about Singapore, its politics and civil society. I also maintain the POFMA Tracker and a spreadsheet of GE Manifestos ! Support independent journalism Trying to make sense of Singapore? Or maybe you're hoping to find out more about civil liberties and activism? I give you my take on issues and events in my country. What&#x27;s the tea? Paid subscribers, known as Milo Peng Funders, get first dibs on secondhand books. Click here for the list of available books. Free books! Just sign up lah. Subscribe Email sent! Check your inbox to complete your signup. I promise I won't spam you. And you can unsubscribe any time. Previously on... WT",
     "status": "ok",
     "screenshot": "/shots/wethecitizens-net.jpg"
+  },
+  {
+    "id": "ryancan-build",
+    "host": "ryancan.build",
+    "url": "https://ryancan.build/",
+    "finalUrl": "https://ryancan.build/",
+    "title": "Ryan Mather | Ryan plays with technologies and turns them into products that people love.",
+    "description": "Ryan Mather's personal website.",
+    "ogImage": null,
+    "favicon": "https://ryancan.build/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Ryan Mather | Ryan plays with technologies and turns them into products that people love. R y a n &nbsp; M a t h e r Blog Info Ryan plays with technologies and turns them into products that people love. Thoughts My Values Have Changed Dec 20, 2025 How to Tell You&#039;re the Naked Emperor Dec 8, 2025 Bucket List Oct 3, 2025 General Advice May 16, 2025 © 2017–2026",
+    "status": "ok",
+    "screenshot": "/shots/ryancan-build.jpg"
+  },
+  {
+    "id": "eka-hn",
+    "host": "eka.hn",
+    "url": "https://eka.hn/",
+    "finalUrl": "https://eka.hn/",
+    "title": "Evan Shu Kahn",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://eka.hn/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Evan Shu Kahn",
+    "status": "ok",
+    "screenshot": "/shots/eka-hn.jpg"
   }
 ]

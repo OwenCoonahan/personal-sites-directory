@@ -2820,7 +2820,10 @@
       "popularmechanics.com",
       "2019.carolynzhang.com"
     ],
-    "links": [],
+    "links": [
+      "ryancan-build",
+      "eka-hn"
+    ],
     "inDegree": 0,
     "status": "ok"
   },
@@ -5828,6 +5831,55 @@
     ],
     "links": [],
     "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "ryancan-build",
+    "url": "https://ryancan.build/",
+    "host": "ryancan.build",
+    "finalUrl": "https://ryancan.build/",
+    "name": "Ryan Mather",
+    "title": "Ryan Mather | Ryan plays with technologies and turns them into products that people love.",
+    "summary": "Maker who plays with technologies and turns them into products people love.",
+    "description": "Ryan Mather's personal website.",
+    "screenshot": "/shots/ryancan-build.jpg",
+    "ogImage": null,
+    "favicon": "https://ryancan.build/favicon.ico",
+    "role": "Maker",
+    "tags": [
+      "Product",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "eka-hn",
+    "url": "https://eka.hn/",
+    "host": "eka.hn",
+    "finalUrl": "https://eka.hn/",
+    "name": "Evan Shu Kahn",
+    "title": "Evan Shu Kahn",
+    "summary": "A minimal one-name corner of the personal web.",
+    "description": "",
+    "screenshot": "/shots/eka-hn.jpg",
+    "ogImage": null,
+    "favicon": "https://eka.hn/favicon.ico",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
     "status": "ok"
   }
 ]

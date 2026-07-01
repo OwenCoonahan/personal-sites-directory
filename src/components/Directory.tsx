@@ -91,13 +91,22 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
       <header className="px-5 md:px-8 pt-9 pb-5 max-w-[1400px] mx-auto w-full">
         <div className="flex items-start justify-between gap-4">
           <div>
-            <h1 className="wordmark text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
-              {"Homepages".split("").map((ch, i) => (
-                <span key={i} style={{ animationDelay: `${i * 45}ms` }}>
-                  {ch}
-                </span>
-              ))}
-            </h1>
+            <div className="flex items-center gap-2.5">
+              <svg width="28" height="28" viewBox="0 0 32 32" className="shrink-0 mark-logo" aria-hidden>
+                <rect width="32" height="32" rx="7" fill="var(--accent)" />
+                <rect x="7" y="7" width="8" height="8" rx="2" fill="var(--bg-card)" />
+                <rect x="17" y="7" width="8" height="8" rx="2" fill="var(--bg-card)" />
+                <rect x="7" y="17" width="8" height="8" rx="2" fill="var(--bg-card)" />
+                <rect x="17" y="17" width="8" height="8" rx="2" fill="#46a758" />
+              </svg>
+              <h1 className="wordmark text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
+                {"Homepages".split("").map((ch, i) => (
+                  <span key={i} style={{ animationDelay: `${i * 45}ms` }}>
+                    {ch}
+                  </span>
+                ))}
+              </h1>
+            </div>
             <p className="text-[13.5px] md:text-[14px] mt-1" style={{ color: "var(--text-2)" }}>
               A directory of personal websites from the people building the internet.
             </p>
