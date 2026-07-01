@@ -1040,5 +1040,104 @@
     "features": [
       "Blog"
     ]
+  },
+  "alexanderobenauer-com": {
+    "name": "Alexander Obenauer",
+    "summary": "Independent researcher exploring new ideas for personal computing and the interfaces we think with.",
+    "role": "Researcher",
+    "tags": [
+      "Product",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dominiksobe-com": {
+    "name": "Dominik Sobe",
+    "summary": "Indie hacker running multiple profitable software products; designer and programmer.",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups",
+      "Design"
+    ],
+    "features": [
+      "Blog",
+      "Now"
+    ]
+  },
+  "balajmarius-com": {
+    "name": "Marius Bălaj",
+    "summary": "UI engineer turned founder; built, scaled, exited, now building Wunderlabs.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Projects"
+    ]
+  },
+  "gharbi-me": {
+    "name": "Wassim Gharbi",
+    "summary": "Team lead at Tesla building React UIs; previously Google and Lyft.",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Energy"
+    ],
+    "features": []
+  },
+  "raphaelsalaja-com": {
+    "name": "Raphael Salaja",
+    "summary": "Design engineer in Ireland obsessed with the details people feel but never notice.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "jakub-kr": {
+    "name": "Jakub Krehel",
+    "summary": "Founding design engineer at Interfere; cares deeply about craft and quality.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Startups"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "mackenziechild-me": {
+    "name": "Mackenzie Child",
+    "summary": "Designer, developer, and illustrator in Atlanta building internet things.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "tomosman-com": {
+    "name": "Tom Osman",
+    "summary": "Technologist and educator in Mallorca; daily livestreams on AI tools, no-code, and automation.",
+    "role": "Maker",
+    "tags": [
+      "AI",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
   }
 }

@@ -2268,5 +2268,227 @@
     "textSnippet": "alavi.me Skip to Main Content alavi.me About Contact Gallery Slashes Blog Knowledge Base [alireza ~]$ whoami Alireza Alavi [alireza ~]$ ls ~/my-interests art sports computers software FOSS [alireza ~]$ cat summary.txt Hi guys! I have always been a dreamer. I try to do what I enjoy and usually I enjoy helping others and making our lives a bit easier. I have figured that currently for me, The best way that I can achieve this is through computers and software; So I am making a living out of my hobby & passion. But I think life can take us places that we would never have thought about, so my interests and focus might change in the future. This is my personal website, Where you can get to know me better. I will be sharing my works, my thoughts, and basically anything I want to show you in here :) More About Me © alavi.me, 2026 Powered by Zola and Duckquill GitHub Codeberg email More Copy Code",
     "status": "ok",
     "screenshot": "/shots/alavi-me.jpg"
+  },
+  {
+    "id": "alexanderobenauer-com",
+    "host": "alexanderobenauer.com",
+    "url": "https://alexanderobenauer.com/",
+    "finalUrl": "https://alexanderobenauer.com/",
+    "title": "Alexander Obenauer",
+    "description": "Exploring new and renewed ideas for how personal computing and the interfaces we think with can better serve people’s lives – expanding opportunity, agency, curiosity, and creativity.",
+    "ogImage": null,
+    "favicon": "https://alexanderobenauer.com/assets/icons/apple-touch-icon.png",
+    "feeds": [
+      "https://alexanderobenauer.com/assets/feed/rss.xml"
+    ],
+    "tech": [
+      "Svelte",
+      "React"
+    ],
+    "outbound": [
+      "buddybindery.com",
+      "inkandswitch.com",
+      "wonderos.org",
+      "animist-os.org",
+      "songsimmadeof.com",
+      "web.archive.org",
+      "nylon.com",
+      "throttlehq.com",
+      "betaworks.com",
+      "stackoverflow.blog",
+      "cs.vt.edu"
+    ],
+    "textSnippet": "Alexander Obenauer Exploring new and renewed ideas for how personal computing and the interfaces with which we think can better serve people’s lives – expanding opportunity, agency, curiosity, and creativity. ALEXANDER OBENAUER Email Bluesky Mastodon Twitter Want to receive my work as I publish it? Don’t fill this out if you’re human: Subscribe Books Bootstrapping Computing How the layers of computing are built, from binary up to the web, and the models of thinking that got us there; a short, technical book for curious, non-technical people. Available in a handmade clothbound edition and a paperback edition. Augment A book featuring a collection of essays by various authors on the future of personal computing — specifically, on the kind we’d like to see more of in the future, and the ideas that might help us get there. With co-editor John Underkoffler &amp; contributing authors Essays &amp; Experiments The Interfaces With Which We Think An introduction to my research — why it is what it is, why it matters, and what it’ll take to get right. Presented in multiple parts, discussing today’s mainstream interfaces, malleable software, and more. OLLOS An itemized personal computing enviro",
+    "status": "ok",
+    "screenshot": "/shots/alexanderobenauer-com.jpg"
+  },
+  {
+    "id": "dominiksobe-com",
+    "host": "dominiksobe.com",
+    "url": "https://dominiksobe.com/",
+    "finalUrl": "https://dominiksobe.com/",
+    "title": "Dominik Sobe ツ – Founder · Designer · Programmer",
+    "description": "I am an Indiehacker, running multiple profitable software products while sharing my thoughts here on my personal space on the interweb.",
+    "ogImage": "https://firebasestorage.googleapis.com/v0/b/seven-deg-labs.appspot.com/o/dom_meta.png?alt=media&token=864ccf93-7dc0-46cc-a4bb-368a585bc953",
+    "favicon": "https://dominiksobe.com/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Nuxt"
+    ],
+    "outbound": [
+      "helpkit.so",
+      "redreach.ai",
+      "getjuicy.app",
+      "filmtypes.com",
+      "visitvillach.at",
+      "snowboardermbm.de",
+      "vimeo.com",
+      "wikiart.org",
+      "edwardhopper.net",
+      "storepreviewer.com",
+      "productflair.io",
+      "casetools.app",
+      "nichepursuits.com",
+      "pca.st",
+      "indiebites.com",
+      "happy-bootstrapping.podigee.io",
+      "listennotes.com",
+      "makerpad.zapier.com",
+      "starterstory.com",
+      "indiehackers.com",
+      "growthlessons.co",
+      "asiatechdaily.com"
+    ],
+    "textSnippet": "Dominik Sobe ツ – Founder · Designer · Programmer ドミニク Dominik Sobe ツ について About · 考え Thoughts · 設計相談 Consulting · 今 Now · ? ? · Hi there, I'm Dominik . Welcome to my personal space. On the interweb. ツ ✺ I like creating things. Mostly on the internet. I'm not sure how to intro I'm not sure how to introduce myself . I do many things . I do many things. I love building beautiful and easy to use software. I care a lot about design. I have never studied design or software engineering or software engineering. I actually did study business & economics but tbh 99% of my skills I learned by building my own products. . As a self-taught developer and designer, I've been building profitable products for over six years for over six years with no external investments. Some might call me an Indiehacker , some serial entrepreneur, my mum calls me Dom. . I'm mostly known for HelpKit , a Notion-powered tool , a Notion-powered help center tool that's serves everyone from startups you might know to elite universities and Fortune 500s. I also built Redreach , a Reddit marketing tool , a Reddit marketing tool used by really cool companies around the world. One product I built also got acquired , it wasn",
+    "status": "ok",
+    "screenshot": "/shots/dominiksobe-com.jpg"
+  },
+  {
+    "id": "balajmarius-com",
+    "host": "balajmarius.com",
+    "url": "https://balajmarius.com/",
+    "finalUrl": "https://balajmarius.com/",
+    "title": "Marius Bălaj",
+    "description": "UI engineer turned founder. Built. Scaled. Exited. Now building Wunderlabs.",
+    "ogImage": "https://balajmarius.com/og-image.png",
+    "favicon": "https://balajmarius.com/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React"
+    ],
+    "outbound": [
+      "qed.builders",
+      "zf.ro",
+      "goodreads.com",
+      "wunderlabs.dev",
+      "hevy.com"
+    ],
+    "textSnippet": "Marius Bălaj Menu UI engineer turned founder . I build digital products and teams . Over the past decade, I’ve worked across early-stage startups and scaled teams, focusing on turning ideas into well-crafted, usable systems. In 2021, I co-founded QED and grew it from zero to acquisition by Sandbox . Outside of work, I box. I’m the president of Viitorul Boxing Club , where I train and help others do the same. I also read a lot, it keeps me sharp. Now, I’m building Wunderlabs . Experience Wunderlabs Co-Founder 2026 ~ Present The Sandbox Managing Director (Romania) 2025 ~ 2026 QED (acquired by The Sandbox) Co-Founder 2022 ~ 2025 stake.fish / f2pool.io Senior Software Engineer 2019 ~ 2022 Alacritylaw Lead Software Engineer 2017 ~ 2019 View on GitHub Writings 2026 Making Claude Code sessions shareable 16/02 Dev Claude Code bash mode 20/01 TIL 2025 Vibe coding a bookshelf with Claude Code 27/12 Dev LLMs and creation outside of time 18/11 LLMs On Bullshit Harry G. Frankfurt 23/04 Book 2024 Technopoly Neil Postman 11/11 Book More writings Bookshelf The Construction of Social Reality John R. Searle The Design of Everyday Things Don Norman Boxing: A Cultural History Kasia Boddy More books La",
+    "status": "ok",
+    "screenshot": "/shots/balajmarius-com.jpg"
+  },
+  {
+    "id": "gharbi-me",
+    "host": "gharbi.me",
+    "url": "https://gharbi.me/",
+    "finalUrl": "https://gharbi.me/",
+    "title": "Wassim Gharbi",
+    "description": "Team Lead at Tesla building React/React Native UIs. Previously at Google, Lyft. Lafayette College grad.",
+    "ogImage": null,
+    "favicon": "https://gharbi.me/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React"
+    ],
+    "outbound": [
+      "tdcommons.org",
+      "coreviz.io",
+      "heynubio.com",
+      "rekonai.com",
+      "joinclubpass.com",
+      "gymlink.live",
+      "coursechief.com"
+    ],
+    "textSnippet": "Wassim Gharbi W a s s i m G h a r b i GitHub / LinkedIn / Twitter Experiences Tesla Team Lead, Energy Products · React, TypeScript 2023 - Present Lyft Team Lead, Visualization · Level5 Self Driving 2021 - 2023 Google Software Engineer · AMP, Stories &amp; Area120 2019 - 2021 AMP Project Software Engineer · Open Source Maintainer 2018 - 2019 Research Finding your Lookalike: Measuring Face Similarity Rather than Face Identity CVPRW 2018 Paper Automatic Camera Switching For Multi-camera Video Conferencing Setups TDCommons 2020 Paper CoreSole: Fine-tuning a CLIP-ViT model for shoeprint similarity search 2025 Link THINGS I MADE Dec 13, 2025 One more beautiful interaction made entirely in @reactnative / @expo Part of my... Nov 30, 2025 1,000+ downloads on the first day of release! We put Nano Banana 🍌 and CLIP em... Nov 19, 2025 🚀 Launched Today – CoreViz: Cursor for Media Management A Google Photos / Drop... Oct 23, 2025 A simple plug and play dashboard for all your cloud/AI/ads spend. Built on @nex... Nov 9, 2024 Accidentally wrote a whole operating system for a handheld console that four peo... Dec 6, 2025 Probably one of the most fun things I&#x27;ve done in a while: I rebuilt the ",
+    "status": "ok",
+    "screenshot": "/shots/gharbi-me.jpg"
+  },
+  {
+    "id": "raphaelsalaja-com",
+    "host": "www.raphaelsalaja.com",
+    "url": "https://www.raphaelsalaja.com/",
+    "finalUrl": "https://www.raphaelsalaja.com/",
+    "title": "Raphael Salaja",
+    "description": "Design Engineer",
+    "ogImage": "https://www.raphaelsalaja.com/api/og?title=Raphael%20Salaja",
+    "favicon": "https://www.raphaelsalaja.com/icon?5458c24e8064194c",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "opensea.io",
+      "daybreak.studio",
+      "cambio.raphaelsalaja.com"
+    ],
+    "textSnippet": "Raphael Salaja Raphael Salaja I&#x27;m a design engineer based in Ireland. I enjoy pushing boundaries and exploring new ways to express myself without limitations. I&#x27;m drawn to the details that most people never notice but always feel. I&#x27;ve been fortunate to work with teams at Avara , Opensea , and Daybreak , and others. You can reach out to me on Twitter or see more of my work on GitHub . Work 19 + Library Simply Effective Draft Craft 00/00 Why is the Web Afraid of Sound? Draft Craft 00/00 Understanding Springs Draft Animation 00/00 12 Principles of Animation Animation 04/08 Chasing Approval Thoughts 28/07 White Tees Fashion 27/07 Building vs. Banking Thoughts 21/06 The Concept of Taste Thoughts 11/03",
+    "status": "ok",
+    "screenshot": "/shots/raphaelsalaja-com.jpg"
+  },
+  {
+    "id": "jakub-kr",
+    "host": "jakub.kr",
+    "url": "https://jakub.kr/",
+    "finalUrl": "https://jakub.kr/",
+    "title": "Jakub Krehel",
+    "description": "Founding Design Engineer at Interfere",
+    "ogImage": "https://oiszjiwtfc65cwa2.public.blob.vercel-storage.com/og-images/jakub-krehel.png?v=2",
+    "favicon": "https://jakub.kr/favicon.ico?favicon.3zxn1982k0-cp.ico",
+    "feeds": [
+      "https://jakub.kr/api/rss"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "interfere.com",
+      "interfaces.dev",
+      "oklch.fyi"
+    ],
+    "textSnippet": "Jakub Krehel Jakub Jakub Krehel Design Engineer at Interfere I&#x27;m a founding design engineer at Interfere , where we&#x27;re building the self-healing layer of the internet. I care deeply about craft and quality and I like to make people feel something through my work. Previously, I worked at OpenSea and a few other companies. You can reach me at @jakubkrehel and via email or see my code on GitHub . Projects Logo Interfaces The design engineering magazine. oklch.fyi A guide to OKLCH colors. Skills /make-interfaces-feel-better User Interface /oklch-skill Colors Writing Less Is More, More or Less Jun 23, 2026 Details That Make Interfaces Feel Better Mar 10, 2026 Using Gestures in Motion Feb 11, 2026 Drag Gestures on the Web Jan 27, 2026 Using AI as a Design Engineer Jan 14, 2026 Will Change in CSS Dec 15, 2025 How I Use Shared Layout Animations Nov 24, 2025 Understanding Gradients Oct 16, 2025 What Are OKLCH Colors? Aug 21, 2025 Newsletter I share what I&#x27;m working on, new posts and interesting resources. Email address Subscribe v 2.0.0",
+    "status": "ok",
+    "screenshot": "/shots/jakub-kr.jpg"
+  },
+  {
+    "id": "mackenziechild-me",
+    "host": "www.mackenziechild.me",
+    "url": "https://www.mackenziechild.me/",
+    "finalUrl": "https://www.mackenziechild.me/",
+    "title": "Mackenzie Child",
+    "description": "Mackenzie Child - Designer, developer, and illustrator based in Atlanta, USA.",
+    "ogImage": "https://mackenziechild.com/images/mc_og.png",
+    "favicon": "https://www.mackenziechild.me/favicon.ico?favicon.ab7bfe23.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "colorabl.es",
+      "flowmingo.co",
+      "happyhues.co",
+      "hatch-framework.webflow.io",
+      "supermegapack.co"
+    ],
+    "textSnippet": "Mackenzie Child Mackenzie Child About me Hey, I&#x27;m Mackenzie. I design and build internet things. Sometimes for the teams &amp; companies I work with, sometimes for myself. I&#x27;m based in Atlanta with my wife and our 2-year-old son, figuring out the balance between shipping projects and raising a tiny human, learning a lot from both. Copy email Role Design Engineer. I own everything from design to implementation. Focus My main focus is product design &amp; front-end dev, but I also dabble in brand &amp; illustration. Stack Cursor, Claude Code, React, Tailwind, Figma, and more. Experience 15+ years building &amp; shipping digital products for companies and my own ideas. Teaching Taught hundreds design and code topics through YouTube + courses, and contributed to thousands more through my work at various companies. Superpower I can zoom out for the vision and zoom in to ship the details. Location Atlanta, GA (North side). Age 0.0000000000 years old Career Journey 2027 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 Freelance &amp; Side Projects Design Engineer Anthropic Sep 25 — Feb 26 Product Designer Laracasts May 25 — Jan 26 Se",
+    "status": "ok",
+    "screenshot": "/shots/mackenziechild-me.jpg"
+  },
+  {
+    "id": "tomosman-com",
+    "host": "www.tomosman.com",
+    "url": "https://www.tomosman.com/",
+    "finalUrl": "https://www.tomosman.com/",
+    "title": "Tom Osman — Explores the frontier of digital technologies",
+    "description": "Technologist and educator in Mallorca. Daily livestreams exploring AI tools, no-code development, and automation. Founder of Shiny Technologies.",
+    "ogImage": "https://tomosman.com/og/home",
+    "favicon": "https://www.tomosman.com/tom.png",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Tom Osman — Explores the frontier of digital technologies Tom Osman [ Writing ] [ Livestreams ] [ Tools ] [ Portfolio ] [ Library ] [ Timeline ] [ About ] [ Work ] Technology Dealer Discovering what&#x27;s possible with technology. Building systems that amplify human capability. View Tools // 01 Newsletter // 02 Selected Software // DISPLAYING 6 ITEMS [ ACCESS ] // AI Retell AI Voice agent platform for building, testing, deploying, and monitoring AI phone-call agents that handle live conversations. [ ACCESS ] // DEVTOOLS Replit Cloud IDE for rapidly spinning up experiments, running agents, and sharing prototypes with collaborators. [ ACCESS ] // AI Google AI Studio My go-to playground for testing Gemini prompts and evaluating ideas quickly. [ ACCESS ] // AI Anything AI app builder that turns natural language specs into web/mobile apps with built-in databases, payments, auth, AI models, and integrations. [ ACCESS ] // AI Lindy.AI Agent platform for drafting personalized outreach, research summaries, and workflows. [ ACCESS ] // DEVTOOLS Warp The agentic terminal that treats your CLI as a collaborative, AI-native development environment with modern blocks and workflows. // Philosophy",
+    "status": "ok",
+    "screenshot": "/shots/tomosman-com.jpg"
   }
 ]

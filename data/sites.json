@@ -2280,8 +2280,15 @@
       "help.raindrop.io"
     ],
     "links": [
+      "dominiksobe-com",
+      "balajmarius-com",
       "mohddanish-com",
+      "gharbi-me",
       "alavi-me",
+      "raphaelsalaja-com",
+      "jakub-kr",
+      "mackenziechild-me",
+      "tomosman-com",
       "marijanapav-com"
     ],
     "inDegree": 0,
@@ -3236,6 +3243,319 @@
     "feeds": [
       "https://alavi.me/atom.xml"
     ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "alexanderobenauer-com",
+    "url": "https://alexanderobenauer.com/",
+    "host": "alexanderobenauer.com",
+    "finalUrl": "https://alexanderobenauer.com/",
+    "name": "Alexander Obenauer",
+    "title": "Alexander Obenauer",
+    "summary": "Independent researcher exploring new ideas for personal computing and the interfaces we think with.",
+    "description": "Exploring new and renewed ideas for how personal computing and the interfaces we think with can better serve people’s lives – expanding opportunity, agency, curiosity, and creativity.",
+    "screenshot": "/shots/alexanderobenauer-com.jpg",
+    "ogImage": null,
+    "favicon": "https://alexanderobenauer.com/assets/icons/apple-touch-icon.png",
+    "role": "Researcher",
+    "tags": [
+      "Product",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Svelte",
+      "React"
+    ],
+    "feeds": [
+      "https://alexanderobenauer.com/assets/feed/rss.xml"
+    ],
+    "outbound": [
+      "buddybindery.com",
+      "inkandswitch.com",
+      "wonderos.org",
+      "animist-os.org",
+      "songsimmadeof.com",
+      "web.archive.org",
+      "nylon.com",
+      "throttlehq.com",
+      "betaworks.com",
+      "stackoverflow.blog",
+      "cs.vt.edu"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "dominiksobe-com",
+    "url": "https://dominiksobe.com/",
+    "host": "dominiksobe.com",
+    "finalUrl": "https://dominiksobe.com/",
+    "name": "Dominik Sobe",
+    "title": "Dominik Sobe ツ – Founder · Designer · Programmer",
+    "summary": "Indie hacker running multiple profitable software products; designer and programmer.",
+    "description": "I am an Indiehacker, running multiple profitable software products while sharing my thoughts here on my personal space on the interweb.",
+    "screenshot": "/shots/dominiksobe-com.jpg",
+    "ogImage": "https://firebasestorage.googleapis.com/v0/b/seven-deg-labs.appspot.com/o/dom_meta.png?alt=media&token=864ccf93-7dc0-46cc-a4bb-368a585bc953",
+    "favicon": "https://dominiksobe.com/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups",
+      "Design"
+    ],
+    "features": [
+      "Blog",
+      "Now"
+    ],
+    "tech": [
+      "Nuxt"
+    ],
+    "feeds": [],
+    "outbound": [
+      "helpkit.so",
+      "redreach.ai",
+      "getjuicy.app",
+      "filmtypes.com",
+      "visitvillach.at",
+      "snowboardermbm.de",
+      "vimeo.com",
+      "wikiart.org",
+      "edwardhopper.net",
+      "storepreviewer.com",
+      "productflair.io",
+      "casetools.app",
+      "nichepursuits.com",
+      "pca.st",
+      "indiebites.com",
+      "happy-bootstrapping.podigee.io",
+      "listennotes.com",
+      "makerpad.zapier.com",
+      "starterstory.com",
+      "indiehackers.com",
+      "growthlessons.co",
+      "asiatechdaily.com"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "balajmarius-com",
+    "url": "https://balajmarius.com/",
+    "host": "balajmarius.com",
+    "finalUrl": "https://balajmarius.com/",
+    "name": "Marius Bălaj",
+    "title": "Marius Bălaj",
+    "summary": "UI engineer turned founder; built, scaled, exited, now building Wunderlabs.",
+    "description": "UI engineer turned founder. Built. Scaled. Exited. Now building Wunderlabs.",
+    "screenshot": "/shots/balajmarius-com.jpg",
+    "ogImage": "https://balajmarius.com/og-image.png",
+    "favicon": "https://balajmarius.com/favicon.svg",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Projects"
+    ],
+    "tech": [
+      "Next.js",
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "qed.builders",
+      "zf.ro",
+      "goodreads.com",
+      "wunderlabs.dev",
+      "hevy.com"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "gharbi-me",
+    "url": "https://gharbi.me/",
+    "host": "gharbi.me",
+    "finalUrl": "https://gharbi.me/",
+    "name": "Wassim Gharbi",
+    "title": "Wassim Gharbi",
+    "summary": "Team lead at Tesla building React UIs; previously Google and Lyft.",
+    "description": "Team Lead at Tesla building React/React Native UIs. Previously at Google, Lyft. Lafayette College grad.",
+    "screenshot": "/shots/gharbi-me.jpg",
+    "ogImage": null,
+    "favicon": "https://gharbi.me/favicon.ico",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Energy"
+    ],
+    "features": [],
+    "tech": [
+      "Next.js",
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "tdcommons.org",
+      "coreviz.io",
+      "heynubio.com",
+      "rekonai.com",
+      "joinclubpass.com",
+      "gymlink.live",
+      "coursechief.com"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "raphaelsalaja-com",
+    "url": "https://www.raphaelsalaja.com/",
+    "host": "www.raphaelsalaja.com",
+    "finalUrl": "https://www.raphaelsalaja.com/",
+    "name": "Raphael Salaja",
+    "title": "Raphael Salaja",
+    "summary": "Design engineer in Ireland obsessed with the details people feel but never notice.",
+    "description": "Design Engineer",
+    "screenshot": "/shots/raphaelsalaja-com.jpg",
+    "ogImage": "https://www.raphaelsalaja.com/api/og?title=Raphael%20Salaja",
+    "favicon": "https://www.raphaelsalaja.com/icon?5458c24e8064194c",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "opensea.io",
+      "daybreak.studio",
+      "cambio.raphaelsalaja.com"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "jakub-kr",
+    "url": "https://jakub.kr/",
+    "host": "jakub.kr",
+    "finalUrl": "https://jakub.kr/",
+    "name": "Jakub Krehel",
+    "title": "Jakub Krehel",
+    "summary": "Founding design engineer at Interfere; cares deeply about craft and quality.",
+    "description": "Founding Design Engineer at Interfere",
+    "screenshot": "/shots/jakub-kr.jpg",
+    "ogImage": "https://oiszjiwtfc65cwa2.public.blob.vercel-storage.com/og-images/jakub-krehel.png?v=2",
+    "favicon": "https://jakub.kr/favicon.ico?favicon.3zxn1982k0-cp.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Startups"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [
+      "https://jakub.kr/api/rss"
+    ],
+    "outbound": [
+      "interfere.com",
+      "interfaces.dev",
+      "oklch.fyi"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "mackenziechild-me",
+    "url": "https://www.mackenziechild.me/",
+    "host": "www.mackenziechild.me",
+    "finalUrl": "https://www.mackenziechild.me/",
+    "name": "Mackenzie Child",
+    "title": "Mackenzie Child",
+    "summary": "Designer, developer, and illustrator in Atlanta building internet things.",
+    "description": "Mackenzie Child - Designer, developer, and illustrator based in Atlanta, USA.",
+    "screenshot": "/shots/mackenziechild-me.jpg",
+    "ogImage": "https://mackenziechild.com/images/mc_og.png",
+    "favicon": "https://www.mackenziechild.me/favicon.ico?favicon.ab7bfe23.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "colorabl.es",
+      "flowmingo.co",
+      "happyhues.co",
+      "hatch-framework.webflow.io",
+      "supermegapack.co"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "tomosman-com",
+    "url": "https://www.tomosman.com/",
+    "host": "www.tomosman.com",
+    "finalUrl": "https://www.tomosman.com/",
+    "name": "Tom Osman",
+    "title": "Tom Osman — Explores the frontier of digital technologies",
+    "summary": "Technologist and educator in Mallorca; daily livestreams on AI tools, no-code, and automation.",
+    "description": "Technologist and educator in Mallorca. Daily livestreams exploring AI tools, no-code development, and automation. Founder of Shiny Technologies.",
+    "screenshot": "/shots/tomosman-com.jpg",
+    "ogImage": "https://tomosman.com/og/home",
+    "favicon": "https://www.tomosman.com/tom.png",
+    "role": "Maker",
+    "tags": [
+      "AI",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
     "outbound": [],
     "links": [],
     "inDegree": 1,
