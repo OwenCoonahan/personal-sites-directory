@@ -162,7 +162,7 @@
       "roulette.walzr.com"
     ],
     "links": [],
-    "inDegree": 0,
+    "inDegree": 1,
     "status": "ok"
   },
   {
@@ -3165,6 +3165,48 @@
       "thelumoshouse.com"
     ],
     "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "owencoonahan-xyz",
+    "url": "https://owencoonahan.xyz/",
+    "host": "owencoonahan.xyz",
+    "finalUrl": "https://owencoonahan.xyz/",
+    "name": "Owen Coonahan",
+    "title": "Owen Coonahan - Personal Site (i guess)",
+    "summary": "Founder of Prospector Labs; energy-data tools, projects, and side quests.",
+    "description": "Welcome! I keep this personal site updated with my current whereabouts, projects, side quests, etc. Whoever you are who is reading this... I hope life is good and cheers to more memories and impact moving forward! \n- Owen Coonahan",
+    "screenshot": "/shots/owencoonahan-xyz.jpg",
+    "ogImage": "https://framerusercontent.com/images/Bz6kQzQVzTk3wpZf1JdCsUQO6B4.png",
+    "favicon": "https://framerusercontent.com/images/DckvkXCX1TPFIVyw9XLWLOJVh4.png",
+    "role": "Founder",
+    "tags": [
+      "Energy",
+      "Startups"
+    ],
+    "features": [
+      "Now",
+      "Projects"
+    ],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "feeds": [],
+    "outbound": [
+      "framer.com",
+      "cal.com",
+      "primamateria.com",
+      "nekohealth.com",
+      "walzr.com",
+      "nytimes.com",
+      "prospectorlabs.io",
+      "joincaravan.world"
+    ],
+    "links": [
+      "walzr-com"
+    ],
     "inDegree": 0,
     "status": "ok"
   }

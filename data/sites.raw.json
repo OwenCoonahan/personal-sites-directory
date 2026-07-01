@@ -2222,5 +2222,33 @@
     "textSnippet": "Andrew Yeung Hey! 👋 My name is Andrew Yeung. I’m an entrepreneur, investor, startup advisor, and events host. My life&#39;s mission is to create more spaces for curious and ambitious people to meet. Instagram X LinkedIn Newsletter Events MY STORY After living in China for 20 years, I moved to America to work for Facebook. Shortly after, I went to Google to build products, and within a year, I left to throw &quot;tech&quot; parties. Along the way I invested in over 20 startups. I never imagined this could be a real job. Over 50,000 CEOs, investors, and tech professionals across eight cities have attended my events, and we’ve been sponsored by institutions like Fidelity, J.P. Morgan, Perplexity, American Express, Notion, Rippling, Hubspot, and 100+ others. Business Insider dubbed me the &quot;Gatsby of Silicon Alley&quot; (I&#39;ve never read the book), and I&#39;ve been featured on Fast Company, Bloomberg, Fortune Magazine, Morning Brew, Forbes, Axios, Reuters, and AdAge. I&#39;m also a partner at Next Wave NYC, a venture capital fund. I like to invest in software companies that improve the way we live, work, and connect with other humans. Beyond, I write a personal blog , and for ",
     "status": "ok",
     "screenshot": "/shots/andrewyeung-co.jpg"
+  },
+  {
+    "id": "owencoonahan-xyz",
+    "host": "owencoonahan.xyz",
+    "url": "https://owencoonahan.xyz/",
+    "finalUrl": "https://owencoonahan.xyz/",
+    "title": "Owen Coonahan - Personal Site (i guess)",
+    "description": "Welcome! I keep this personal site updated with my current whereabouts, projects, side quests, etc. Whoever you are who is reading this... I hope life is good and cheers to more memories and impact moving forward! \n- Owen Coonahan",
+    "ogImage": "https://framerusercontent.com/images/Bz6kQzQVzTk3wpZf1JdCsUQO6B4.png",
+    "favicon": "https://framerusercontent.com/images/DckvkXCX1TPFIVyw9XLWLOJVh4.png",
+    "feeds": [],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "outbound": [
+      "framer.com",
+      "cal.com",
+      "primamateria.com",
+      "nekohealth.com",
+      "walzr.com",
+      "nytimes.com",
+      "prospectorlabs.io",
+      "joincaravan.world"
+    ],
+    "textSnippet": "Owen Coonahan - Personal Site (i guess) Owen Coonahan Currently Scheming New York City 7:39 PM Email Let's Connect! Owen Coonahan Currently Scheming New York City 7:39 PM Email Let's Connect! Owen Coonahan Currently Scheming New York City 7:39 PM Email Let's Connect! About 23-year-old striving to lead a life of curiosity, action, and good company. I mostly spend my days building products to solve people's problems and partaking in random side quests around the world. My North Star in life is to have a net positive impact on the world, and everything I do feeds into this. I plan to form a think tank or organization that takes a first principles and realistic approach to bringing change to the problems we are most passionate about. Imagine yourself and other of the world's brightest and most passionate people coming together with shared visions of a better future and the resources, team, and introductions to make that happen. One team may be working on infrastructure and training to get a stable food source to those in the US or abroad. Another team might be trying to make an impact on the diabetes and obesity crisis. And the list goes on… If this resonates with you let's get in touc",
+    "status": "ok",
+    "screenshot": "/shots/owencoonahan-xyz.jpg"
   }
 ]
