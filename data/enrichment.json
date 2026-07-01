@@ -1921,5 +1921,32 @@
     "role": "",
     "tags": [],
     "features": []
+  },
+  "rsms-me": {
+    "name": "Rasmus Andersson",
+    "summary": "Designer and engineer; creator of the Inter typeface, ex-Figma and Spotify.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Open Source",
+      "Web Dev"
+    ],
+    "features": [
+      "Projects",
+      "Shop"
+    ]
+  },
+  "ibuildmyideas-com": {
+    "name": "Jordan Singer",
+    "summary": "Designer and maker shipping a stream of playful product ideas.",
+    "role": "Maker",
+    "tags": [
+      "Design",
+      "AI",
+      "Product"
+    ],
+    "features": [
+      "Projects"
+    ]
   }
 }

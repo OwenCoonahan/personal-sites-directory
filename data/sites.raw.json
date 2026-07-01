@@ -4078,5 +4078,47 @@
     "textSnippet": "Evan Shu Kahn",
     "status": "ok",
     "screenshot": "/shots/eka-hn.jpg"
+  },
+  {
+    "id": "rsms-me",
+    "host": "rsms.me",
+    "url": "https://rsms.me/",
+    "finalUrl": "https://rsms.me/",
+    "title": "rsms",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://rsms.me/favicon.ico?v=20260427014248",
+    "feeds": [
+      "https://rsms.me/atom.xml"
+    ],
+    "tech": [
+      "WebGL/Three.js"
+    ],
+    "outbound": [
+      "shop.rsms.me",
+      "d.rsms.me",
+      "1998.rsms.me"
+    ],
+    "textSnippet": "rsms Hello, I'm Rasmus &#x25CF; About Projects Work Photography Shop Projects hophop Simple programming language stuff Random media I’ve collected since the early 2000s, restored from an old hard drive. I’ve added some new stuff, too. llvmbox Portable, self contained llvm tools &amp; libs with cross-compilation capability rsm Virtual computer WebGL compressed texture loading demo Demonstrates loading high-resolution photos into WebGL with compressed textures vs “naïve” uncompressed textures from JPEG images Quality in Software Keynote talk at Handmade Seattle 2021 xsys browser demo Proof of concept to implement a virtual OS interface as a syscall that works on many platforms LLVM 13 coroutine example Minimal C &amp; LLVM IR program compiled to WASM, demonstrating the new coroutine intrinsics in LLVM 13 1998.rsms.me Homepage for old software (no SSL) Browser pixel-rounding playground Tests how different web browsers round geometry to pixels, dp, etc. Estrella Light-weight runner for the esbuild compiler Pointer latency playground Explore web browser input pointer latency and try predictive tracking Bézier tangent Toy that derives the tangent and normal from an arbitrary point of a B",
+    "status": "ok",
+    "screenshot": "/shots/rsms-me.jpg"
+  },
+  {
+    "id": "ibuildmyideas-com",
+    "host": "ibuildmyideas.com",
+    "url": "https://ibuildmyideas.com/",
+    "finalUrl": "https://ibuildmyideas.com/",
+    "title": "Jordan Singer",
+    "description": "I build my ideas",
+    "ogImage": "https://ibuildmyideas.com/images/og.png",
+    "favicon": "https://ibuildmyideas.com/images/favicon.png",
+    "feeds": [],
+    "tech": [
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Jordan Singer",
+    "status": "ok",
+    "screenshot": "/shots/ibuildmyideas-com.jpg"
   }
 ]

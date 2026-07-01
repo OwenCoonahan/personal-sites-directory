@@ -5881,5 +5881,72 @@
     "links": [],
     "inDegree": 1,
     "status": "ok"
+  },
+  {
+    "id": "rsms-me",
+    "url": "https://rsms.me/",
+    "host": "rsms.me",
+    "finalUrl": "https://rsms.me/",
+    "name": "Rasmus Andersson",
+    "title": "rsms",
+    "summary": "Designer and engineer; creator of the Inter typeface, ex-Figma and Spotify.",
+    "description": "",
+    "screenshot": "/shots/rsms-me.jpg",
+    "ogImage": null,
+    "favicon": "https://rsms.me/favicon.ico?v=20260427014248",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Open Source",
+      "Web Dev"
+    ],
+    "features": [
+      "Projects",
+      "Shop"
+    ],
+    "tech": [
+      "WebGL/Three.js"
+    ],
+    "feeds": [
+      "https://rsms.me/atom.xml"
+    ],
+    "outbound": [
+      "shop.rsms.me",
+      "d.rsms.me",
+      "1998.rsms.me"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "ibuildmyideas-com",
+    "url": "https://ibuildmyideas.com/",
+    "host": "ibuildmyideas.com",
+    "finalUrl": "https://ibuildmyideas.com/",
+    "name": "Jordan Singer",
+    "title": "Jordan Singer",
+    "summary": "Designer and maker shipping a stream of playful product ideas.",
+    "description": "I build my ideas",
+    "screenshot": "/shots/ibuildmyideas-com.jpg",
+    "ogImage": "https://ibuildmyideas.com/images/og.png",
+    "favicon": "https://ibuildmyideas.com/images/favicon.png",
+    "role": "Maker",
+    "tags": [
+      "Design",
+      "AI",
+      "Product"
+    ],
+    "features": [
+      "Projects"
+    ],
+    "tech": [
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
   }
 ]
