@@ -88,7 +88,9 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
   return (
     <div className="flex flex-col min-h-screen">
       {/* Header */}
-      <header className="px-5 md:px-8 pt-9 pb-5 max-w-[1400px] mx-auto w-full">
+      <header className="px-5 md:px-8 pt-8 pb-5 max-w-[1400px] mx-auto w-full">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/mac-hello.png" alt="A classic Macintosh saying hello" className="h-24 md:h-28 w-auto mb-4 select-none" draggable={false} />
         <div className="flex items-start justify-between gap-4">
           <div>
             <div className="flex items-center gap-2.5">
