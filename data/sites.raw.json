@@ -2250,5 +2250,23 @@
     "textSnippet": "Owen Coonahan - Personal Site (i guess) Owen Coonahan Currently Scheming New York City 7:39 PM Email Let's Connect! Owen Coonahan Currently Scheming New York City 7:39 PM Email Let's Connect! Owen Coonahan Currently Scheming New York City 7:39 PM Email Let's Connect! About 23-year-old striving to lead a life of curiosity, action, and good company. I mostly spend my days building products to solve people's problems and partaking in random side quests around the world. My North Star in life is to have a net positive impact on the world, and everything I do feeds into this. I plan to form a think tank or organization that takes a first principles and realistic approach to bringing change to the problems we are most passionate about. Imagine yourself and other of the world's brightest and most passionate people coming together with shared visions of a better future and the resources, team, and introductions to make that happen. One team may be working on infrastructure and training to get a stable food source to those in the US or abroad. Another team might be trying to make an impact on the diabetes and obesity crisis. And the list goes on… If this resonates with you let's get in touc",
     "status": "ok",
     "screenshot": "/shots/owencoonahan-xyz.jpg"
+  },
+  {
+    "id": "alavi-me",
+    "host": "alavi.me",
+    "url": "https://alavi.me/",
+    "finalUrl": "https://alavi.me/",
+    "title": "alavi.me",
+    "description": "My mind on the web",
+    "ogImage": "https://alavi.me/card.png",
+    "favicon": "https://alavi.me/favicon.png",
+    "feeds": [
+      "https://alavi.me/atom.xml"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "alavi.me Skip to Main Content alavi.me About Contact Gallery Slashes Blog Knowledge Base [alireza ~]$ whoami Alireza Alavi [alireza ~]$ ls ~/my-interests art sports computers software FOSS [alireza ~]$ cat summary.txt Hi guys! I have always been a dreamer. I try to do what I enjoy and usually I enjoy helping others and making our lives a bit easier. I have figured that currently for me, The best way that I can achieve this is through computers and software; So I am making a living out of my hobby & passion. But I think life can take us places that we would never have thought about, so my interests and focus might change in the future. This is my personal website, Where you can get to know me better. I will be sharing my works, my thoughts, and basically anything I want to show you in here :) More About Me © alavi.me, 2026 Powered by Zola and Duckquill GitHub Codeberg email More Copy Code",
+    "status": "ok",
+    "screenshot": "/shots/alavi-me.jpg"
   }
 ]

@@ -1027,5 +1027,18 @@
       "Now",
       "Projects"
     ]
+  },
+  "alavi-me": {
+    "name": "Alireza Alavi",
+    "summary": "Terminal-style personal site of a developer into software, FOSS, and art.",
+    "role": "Developer",
+    "tags": [
+      "Open Source",
+      "Web Dev",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ]
   }
 }

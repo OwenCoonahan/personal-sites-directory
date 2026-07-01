@@ -2281,6 +2281,7 @@
     ],
     "links": [
       "mohddanish-com",
+      "alavi-me",
       "marijanapav-com"
     ],
     "inDegree": 0,
@@ -3208,6 +3209,36 @@
       "walzr-com"
     ],
     "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "alavi-me",
+    "url": "https://alavi.me/",
+    "host": "alavi.me",
+    "finalUrl": "https://alavi.me/",
+    "name": "Alireza Alavi",
+    "title": "alavi.me",
+    "summary": "Terminal-style personal site of a developer into software, FOSS, and art.",
+    "description": "My mind on the web",
+    "screenshot": "/shots/alavi-me.jpg",
+    "ogImage": "https://alavi.me/card.png",
+    "favicon": "https://alavi.me/favicon.png",
+    "role": "Developer",
+    "tags": [
+      "Open Source",
+      "Web Dev",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://alavi.me/atom.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
     "status": "ok"
   }
 ]
