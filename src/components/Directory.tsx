@@ -90,25 +90,16 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
       {/* Header */}
       <header className="px-5 md:px-8 pt-8 pb-5 max-w-[1400px] mx-auto w-full">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/mac-hello.png" alt="A classic Macintosh saying hello" className="h-24 md:h-28 w-auto mb-4 select-none" draggable={false} />
+        <img src="/mac-hello.png" alt="A classic Macintosh saying hello" className="h-16 sm:h-20 md:h-28 w-auto mb-3 md:mb-4 select-none" draggable={false} />
         <div className="flex items-start justify-between gap-4">
           <div>
-            <div className="flex items-center gap-2.5">
-              <svg width="28" height="28" viewBox="0 0 32 32" className="shrink-0 mark-logo" aria-hidden>
-                <rect width="32" height="32" rx="7" fill="var(--accent)" />
-                <rect x="7" y="7" width="8" height="8" rx="2" fill="var(--bg-card)" />
-                <rect x="17" y="7" width="8" height="8" rx="2" fill="var(--bg-card)" />
-                <rect x="7" y="17" width="8" height="8" rx="2" fill="var(--bg-card)" />
-                <rect x="17" y="17" width="8" height="8" rx="2" fill="#46a758" />
-              </svg>
-              <h1 className="wordmark text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
-                {"Homepages".split("").map((ch, i) => (
-                  <span key={i} style={{ animationDelay: `${i * 45}ms` }}>
-                    {ch}
-                  </span>
-                ))}
-              </h1>
-            </div>
+            <h1 className="wordmark text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
+              {"Homepages".split("").map((ch, i) => (
+                <span key={i} style={{ animationDelay: `${i * 45}ms` }}>
+                  {ch}
+                </span>
+              ))}
+            </h1>
             <p className="text-[13.5px] md:text-[14px] mt-1" style={{ color: "var(--text-2)" }}>
               A directory of personal websites from the people building the internet.
             </p>
