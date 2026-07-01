@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { type CSSProperties, useEffect, useMemo, useRef, useState } from "react";
 import type { Site } from "@/lib/types";
 import SiteCard from "./SiteCard";
 import SiteDetail from "./SiteDetail";
@@ -11,6 +11,9 @@ type Facets = { roles: Facet[]; tags: Facet[]; features: Facet[] };
 type Sort = "az" | "random";
 
 const SORT_LABEL: Record<Sort, string> = { az: "A–Z", random: "Shuffle" };
+
+// Playful indie-web palette for the wordmark hover (one color per letter).
+const TITLE_COLORS = ["#e5484d", "#f76b15", "#ffb224", "#46a758", "#12a594", "#0091ff", "#3e63dd", "#8e4ec6", "#e93d82"];
 
 export default function Directory({ sites, facets }: { sites: Site[]; facets: Facets }) {
   const [q, setQ] = useState("");
@@ -84,8 +87,15 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
       <header className="px-5 md:px-8 pt-9 pb-5 max-w-[1400px] mx-auto w-full">
         <div className="flex items-start justify-between gap-4">
           <div>
-            <h1 className="text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
-              Homepages
+            <h1 className="wordmark text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
+              {"Homepages".split("").map((ch, i) => (
+                <span
+                  key={i}
+                  style={{ "--c": TITLE_COLORS[i % TITLE_COLORS.length], transitionDelay: `${i * 25}ms` } as CSSProperties}
+                >
+                  {ch}
+                </span>
+              ))}
             </h1>
             <p className="text-[13.5px] md:text-[14px] mt-1" style={{ color: "var(--text-2)" }}>
               A directory of personal websites from the people building the internet.
@@ -257,7 +267,10 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
       </main>
 
       <footer className="px-5 md:px-8 py-8 max-w-[1400px] mx-auto w-full text-[12.5px]" style={{ color: "var(--text-3)" }}>
-        Homepages · {sites.length} personal sites and growing · built by hand, one screenshot at a time.
+        Homepages · {sites.length} personal sites and growing · made by{" "}
+        <a href="https://owencoonahan.xyz" target="_blank" rel="noreferrer" className="host-link">
+          Owen Coonahan <span aria-hidden style={{ opacity: 0.6 }}>↗</span>
+        </a>
       </footer>
 
       {open && <SiteDetail site={open} byId={byId} onClose={() => setOpen(null)} onOpen={setOpen} />}

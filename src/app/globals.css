@@ -91,6 +91,18 @@ body {
   border-color: var(--accent);
 }
 
+.wordmark {
+  cursor: default;
+}
+.wordmark span {
+  display: inline-block;
+  transition: transform 0.28s cubic-bezier(0.34, 1.6, 0.5, 1), color 0.28s ease;
+}
+.wordmark:hover span {
+  transform: translateY(-0.16em);
+  color: var(--c);
+}
+
 .host-link {
   color: var(--text-3);
   transition: color 0.12s ease;
