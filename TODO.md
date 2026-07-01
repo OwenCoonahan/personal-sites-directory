@@ -1,13 +1,13 @@
 # TODO — Homepages
 
-Live: https://homepages-iota.vercel.app · repo: OwenCoonahan/personal-sites-directory (pushes to `main` auto-deploy).
+Live: https://homepages.owencoonahan.xyz (Porkbun CNAME `homepages` → vercel-dns; also homepages-iota.vercel.app) · repo: OwenCoonahan/personal-sites-directory (pushes to `main` auto-deploy).
 
 ## Now
 - [x] Deploy to Vercel + own GitHub repo
 - [x] Simplify submit → Formspree inline form (no backend/queue/admin)
 - [x] Collapse the filter wall into a Filters dropdown (mobile fix) + Sort dropdown + ✕ close button
 - [ ] Create a Formspree form and set `NEXT_PUBLIC_FORMSPREE_ID` on Vercel (until then the form opens a pre-filled email)
-- [ ] Custom domain (decide one, point DNS at Vercel)
+- [x] Custom domain → homepages.owencoonahan.xyz (Porkbun CNAME → Vercel, SSL live)
 - [ ] Interstitial fix: detect "Checking your browser" / Vercel checkpoint shots → fall back to og:image
 - [ ] Dedupe same-person entries (jessyin.world + music.jessyin.world; arambartholl)
 
