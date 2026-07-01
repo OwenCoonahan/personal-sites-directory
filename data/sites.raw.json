@@ -2806,5 +2806,1245 @@
     "textSnippet": "Jakub Zeg, Designer Jakub Zeg Work Play Info Résumé Jakub Zeg Work Play Info Résumé Contact 2077 Contact 2077",
     "status": "ok",
     "screenshot": "/shots/zegzulka-com.jpg"
+  },
+  {
+    "id": "anthonyhobday-com",
+    "host": "anthonyhobday.com",
+    "url": "https://anthonyhobday.com/",
+    "finalUrl": "https://anthonyhobday.com/",
+    "title": "Anthony Hobday—Product designer",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://anthonyhobday.com/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "React"
+    ],
+    "outbound": [
+      "hyperisland.com",
+      "learnui.design",
+      "heydesigner.com",
+      "designdisciplin.com",
+      "rss.com",
+      "beforeiplay.com"
+    ],
+    "textSnippet": "Anthony Hobday—Product designer Anthony Hobday Software interface designer. Email , X , LinkedIn Paid service 1 Design feedback 66 clients Blog posts 20 Notes on visual design 2,346 words Notes on software quality 5,864 words Career advice for designers 2,954 words [Show 17 more] Lists of design books 970 words Various interface design classifications 3,032 words Values to stress-test interfaces 111 words Design folk wisdom 112 words Universal creative techniques 147 words A designer group interview 1,566 words When it’s safe to copy something 247 words How I think about novelty 266 words Uncommon but useful design terms 1,332 words How I define “interface design” 205 words How interfaces change with frequency of use 316 words Why designers don’t talk about interface design 383 words Others’ classification of software design 1,459 words Ways that software design is different 263 words My definitions of “beauty” and “taste” 449 words The ways software competes 116 words The best WWDC videos about interface design 844 words Side projects 12 Visual design rules you can safely follow 28 rules Complementary, an interface design podcast 80+ epsiodes Quick start guides to interface design",
+    "status": "ok",
+    "screenshot": "/shots/anthonyhobday-com.jpg"
+  },
+  {
+    "id": "arcana-computer",
+    "host": "arcana.computer",
+    "url": "https://arcana.computer/",
+    "finalUrl": "https://www.jmduke.com/",
+    "title": "Applied Cartography | Justin Duke",
+    "description": "Essays and media reviews by Justin Duke, CEO of Buttondown and partner at Third South Capital.",
+    "ogImage": null,
+    "favicon": "https://www.jmduke.com/favicon.svg",
+    "feeds": [
+      "https://www.jmduke.com/feed.xml",
+      "https://www.jmduke.com/essays.xml"
+    ],
+    "tech": [
+      "Vercel"
+    ],
+    "outbound": [
+      "buttondown.com",
+      "thirdsouth.capital",
+      "newsletter.lowfalutin.co.uk"
+    ],
+    "textSnippet": "Applied Cartography | Justin Duke Skip to content Compass Navigation Streamline Icon: https://streamlinehq.com applied cartography I'm Justin Duke — an engineer, writer, and founder. I currently work as the CEO of Buttondown , the best way to start and grow your newsletter, and as a partner at Third South Capital . Keep in touch Subscribe here , or follow me on Twitter / Bluesky . Writing Denormalization 101 2026/06/23 Indeterminate / Squash 2026/06/15 Victory is a lossy compressor 2026/06/09 Back to Overcast 2026/06/04 May, 2026 2026/06/01 318 more essays Self-hosting our CI, three months later 2026/06/01 ccusage 2026/05/27 What matters 2026/05/20 Be careful what you make easier 2026/05/19 Screen record more 2026/05/17 Buttondown no longer runs Redis 2026/05/15 Just aim the cannon correctly 2026/05/14 LLMs and Buttondown 2026/05/12 On self-updating screenshots 2026/05/08 April, 2026 2026/05/01 Four years in the maelstrom 2026/04/19 Write as you want to be heard 2026/04/10 Software never had a soul 2026/04/02 March, 2026 2026/04/01 A month of OpEx quick wins 2026/03/29 Why I'm a film blogger now 2026/03/27 What I would be doing 2026/03/16 Archiving the roadmap 2026/03/13 buttondown",
+    "status": "ok",
+    "screenshot": "/shots/arcana-computer.jpg"
+  },
+  {
+    "id": "billyoppenheimer-com",
+    "host": "billyoppenheimer.com",
+    "url": "https://billyoppenheimer.com/",
+    "finalUrl": "https://billyoppenheimer.com/",
+    "title": "Newsletter - Billy Oppenheimer",
+    "description": "\"Unfailingly interesting, delightful, and well-written.\" Every Sunday, around 6 PM (CT), I send out the SIX at 6 newsletter. You can subscribe here: Subscribe Or email me, and I'll add you. Read previous issues of the SIX at 6 newsletter: 2026 Jun 21 | SIX at 6: Things Going Well, Castles In The Air, The",
+    "ogImage": "https://billyoppenheimer.com/wp-content/uploads/2021/05/Six-at-6-1-edited.png",
+    "favicon": "https://i0.wp.com/billyoppenheimer.com/wp-content/uploads/2023/03/cropped-WDVG5VPj_400x400.png?fit=32%2C32&#038;ssl=1",
+    "feeds": [
+      "https://billyoppenheimer.com/feed/",
+      "https://billyoppenheimer.com/comments/feed/"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "wp.me",
+      "i0.wp.com"
+    ],
+    "textSnippet": "Newsletter - Billy Oppenheimer Skip to primary navigation Skip to main content Skip to primary sidebar Skip to secondary sidebar Billy Oppenheimer Newsletter About Blog Newsletter &#8220;Unfailingly interesting, delightful, and well-written.&#8221; Every Sunday, around 6 PM (CT), I send out the SIX at 6 newsletter. You can subscribe here: Subscribe Or email me , and I&#8217;ll add you. Read previous issues of the SIX at 6 newsletter: 2026 Jun 21 | SIX at 6: Things Going Well, Castles In The Air, The Broken Shark, The Way Things Look, A Farmer’s Luck, and Getting Unlucky With The Weather Jun 14 | SIX at 6: Putting Ourselves Together, Not Knowing Who You Are, Mistaking Self-Exploration As Self-Expression, A Certain Kind of Personality, The Rock Tumbler Metaphor, and Harvesting Your Identity Jun 7 | SIX at 6: Mental Moves, Funny-Stupid Goals, Getting Unblocked, Forgetting To Panic, Hacking Your Brain, and What Governs Every Human Response May 31 | SIX at 6: Roman’s Eye, Looking At Fish, Spotting Exceptional Information, Things Waiting To Be Discovered, A Gentleman In A Hotel Lobby, and Putting On Art Eyes May 24 | SIX at 6: A Fact of Life, A Basic Law, An Impossibility, An Inescapable",
+    "status": "ok",
+    "screenshot": "/shots/billyoppenheimer-com.jpg"
+  },
+  {
+    "id": "birchtree-me",
+    "host": "birchtree.me",
+    "url": "https://birchtree.me/",
+    "finalUrl": "https://birchtree.me/",
+    "title": "Birchtree",
+    "description": "Tech, Apple, and the vast grey area that is AI",
+    "ogImage": null,
+    "favicon": "https://storage.ghost.io/c/25/31/25312b2a-2d5b-4d01-ba92-e6755efc202c/content/images/size/w256h256/2025/03/birchtreefavi.png",
+    "feeds": [
+      "https://birchtree.me/rss/"
+    ],
+    "tech": [
+      "Ghost"
+    ],
+    "outbound": [
+      "storage.ghost.io",
+      "macstories.net",
+      "quickstuff.app",
+      "mattbirchler.omg.lol",
+      "ghost.org"
+    ],
+    "textSnippet": "Birchtree Mastodon --> Birchtree Designer and creator. Birchtree proudly stands with our LGBTQ+ friends. ⌘K Home All Posts Member Posts Member Perks RSS Feed # Projects A Better Computer Comfort Zone Quick Subtitles Best-o-Masto Quick Reviews Quick Notes Quick Stuff # Contact Mastodon Bluesky Threads Get in Touch Subscribe Sign in Birchtree Welcome to Birchtree I'm Matt Birchler, a designer, product manager, YouTuber, and developer who's been writing about tech since 2010. Subscribe to my monthly newsletter Subscribe Email sent. Check your inbox! Blog View all Links An update from the study that said devs were actually slower with coding agents METR: We are Changing our Developer Productivity Experiment Design Based on conversations with study participants, we believe it is likely 29 Jun Members + Why changing your productivity system is good, actually 28 Jun Links May 2026 was the worst sales month for Xbox consoles *ever* Mat Piscatella: Hardware - PlayStation hardware unit sales fell to… PlayStation hardware unit sales fell to their lowest May total since 26 Jun Links Xbox prices jump again, and Microsoft warns they my again next year Joe Skrebels on XBOX Wire, Micirosft&#39;s o",
+    "status": "ok",
+    "screenshot": "/shots/birchtree-me.jpg"
+  },
+  {
+    "id": "capwatkins-com",
+    "host": "capwatkins.com",
+    "url": "https://capwatkins.com/",
+    "finalUrl": "https://capwatkins.com/",
+    "title": "Cap Watkins",
+    "description": "",
+    "ogImage": "https://capwatkins.com/assets/images/social-image-capwatkins.jpg",
+    "favicon": "https://capwatkins.com/favicon.png",
+    "feeds": [
+      "https://capwatkins.com/blog/rss"
+    ],
+    "tech": [],
+    "outbound": [
+      "quickbooks.com",
+      "lattice.com",
+      "primary.com"
+    ],
+    "textSnippet": "Cap Watkins Home Blog Speaking EMAIL Hi there! My name is Cap Watkins and I'm the Platform Design Director for QuickBooks . Prior to that, I was the Head of Product Design at Lattice where I led a full UI and navigation refresh, as well as our forays into integrating AI with our product lines. Previously, I was CXO at Primary , where I was responsible for Engineering, Design, Product and People (oh my!). While there, I directed a full brand refresh as well as a migration of the ecommerce platform from self-owned to Shopify. I was also the VP of Design at BuzzFeed, where I managed Product Design, and did various stints managing Brand Design, our IT Department and Branded Content Operations. I started and ran programs like Hack Week, Manager Dens (support groups for managers) and even the annual and midyear review processes for our Technology team. Before BuzzFeed, I worked with design teams at Etsy and Amazon, and was the first designer at a handful of startups that didn’t quite make it. This site doesn't track you. And everything was written by a human.",
+    "status": "ok",
+    "screenshot": "/shots/capwatkins-com.jpg"
+  },
+  {
+    "id": "cedricdelpoux-fr",
+    "host": "cedricdelpoux.fr",
+    "url": "https://cedricdelpoux.fr/",
+    "finalUrl": "https://cedricdelpoux.fr/",
+    "title": "Cédric Delpoux",
+    "description": "Bienvenue cher visiteur. Je partage ici les passions qui m’animent et dans lesquelles je m’épanouis au quotidien.",
+    "ogImage": "https://cedricdelpoux.fr/meta-image.png",
+    "favicon": "https://cedricdelpoux.fr/favicon.svg",
+    "feeds": [
+      "https://cedricdelpoux.fr/rss.xml"
+    ],
+    "tech": [
+      "Gatsby",
+      "React",
+      "WebGL/Three.js"
+    ],
+    "outbound": [
+      "strava.com"
+    ],
+    "textSnippet": "Cédric Delpoux Cédric Delpoux Code Open-source Parcours professionnel Articles Sport Articles Activités Cols Médias Carte Voyage Pays Récits interractifs Vidéos Cédric Delpoux English À propos Bienvenue cher visiteur. Je partage ici les passions qui m’animent et dans lesquelles je m’épanouis au quotidien. Développeur créatif En tant que Développeur Web, donner vie aux idées est ce qui m’excite le plus. Réfléchir aux algorithmes et résoudre des problèmes sont les principales facettes qui m’ont fait choisir ce métier. Le code est beau. Les possibilités sont infinies. De la toile blanche à l&#x27;œuvre finale, je me sens comme un artiste. J’aime pouvoir exprimer ma créativité chaque jour. Open-source Parcours professionnel Sportif passionné J’adore être dehors, partir en vadrouille à pieds ou sur mon vélo pour explorer les environs. Au sein même d’une forêt, les paysages sont toujours différents et m’en mettent plein les yeux. Vivre près de la nature m’aide à trouver l’inspiration et entretenir mon imagination. Articles Médias Carte Voir plus Dernières aventures Race Across France - 300 km 310 km 6361 d+ 30 Jun 23 Saint-Sulpice -&gt; Montpellier 269 km 2869 d+ 26 Sep 23 Petit tour dan",
+    "status": "ok",
+    "screenshot": "/shots/cedricdelpoux-fr.jpg"
+  },
+  {
+    "id": "chad-is",
+    "host": "chad.is",
+    "url": "https://chad.is/",
+    "finalUrl": "https://www.chad.is/",
+    "title": "Chad Mazzola",
+    "description": "Personal website of Chad Mazzola",
+    "ogImage": null,
+    "favicon": "https://www.chad.is/icon.png?icon.0fvrsbw3~1e37.png?dpl=dpl_8tX2APGJjyxMzFtpEBwDsR3BrWod",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "chadwin.co",
+      "feedforward.chad.is",
+      "transcendence.chad.is",
+      "tecmogeek.com",
+      "beautifulwebtype.com",
+      "are.na"
+    ],
+    "textSnippet": "Chad Mazzola Chad Mazzola Home Writing Reading List Email About Me I&#x27;m building Chadwin , stock market data for agents. I grew up in a small town in Massachusetts where I fell in love with building software. I&#x27;m an avid reader , with wide-ranging interests in technology, finance, philosophy, history, and science. Over my career, I&#x27;ve worked as a designer, developer, product manager, executive and founder. I live in Stockholm, Sweden. Selected Side Projects Are.na Agent Agent for creating and editing content on Are.na. ( Mar 2026 ) Feedforward Aggregator for AI-focused blogs. ( Jul 2025 ) Varieties of (Self) Transcendence An exploration of self-transcendence through fragments. ( Sep 2018 ) Tecmo Geek Comprehensive guide to player attributes in the original Tecmo Super Bowl game for NES. ( Mar 2013 ) Beautiful Web Type Curated list of high-quality open-source typefaces. ( Jan 2012 ) Home Writing Reading List Email X Are.na GitHub LinkedIn",
+    "status": "ok",
+    "screenshot": "/shots/chad-is.jpg"
+  },
+  {
+    "id": "ciechanow-ski",
+    "host": "ciechanow.ski",
+    "url": "https://ciechanow.ski/",
+    "finalUrl": "https://ciechanow.ski/",
+    "title": "Bartosz Ciechanowski",
+    "description": "Interactive articles about science and engineering.",
+    "ogImage": null,
+    "favicon": "https://ciechanow.ski/favicon.ico",
+    "feeds": [
+      "https://ciechanow.ski/atom.xml"
+    ],
+    "tech": [
+      "React"
+    ],
+    "outbound": [
+      "en.wikipedia.org",
+      "adsabs.harvard.edu",
+      "iopscience.iop.org",
+      "nature.com",
+      "iau.org",
+      "ssd.jpl.nasa.gov",
+      "astrophoto.fr",
+      "researchgate.net",
+      "lpi.usra.edu",
+      "link.springer.com"
+    ],
+    "textSnippet": "Bartosz Ciechanowski Bartosz Ciechanowski Blog Archives Patreon X / Twitter Instagram e-mail RSS December 17, 2024 Moon In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we&rsquo;ll learn about the Moon and its path around our planet, but to experience that journey first-hand, we have to enter the cosmos itself. Let&rsquo;s take a look at the Moon as seen from space in all its sunlit glory. You can drag it around to change your point of view, and you can also use the slider to control the date and time : In this convenient view, we can freely pan the camera around to see the Moon and its marvelous craters and mountains from various angles. Unfortunately, we don&rsquo;t have that freedom of motion in our daily experience – the Moon wanders on its own path across the daily and nightly skies. We can simulate these travels below, where you can see the current position of the Moon in the sky. You can drag that panorama around to adjust your viewing direction – this lets you see the breadth of the sky b",
+    "status": "ok",
+    "screenshot": "/shots/ciechanow-ski.jpg"
+  },
+  {
+    "id": "emilkowal-ski",
+    "host": "emilkowal.ski",
+    "url": "https://emilkowal.ski/",
+    "finalUrl": "https://emilkowal.ski/",
+    "title": "Emil Kowalski",
+    "description": "Design engineer working at Linear.",
+    "ogImage": "https://emilkowal.ski/opengraph-image.png?892f3fd8543bf349",
+    "favicon": "https://emilkowal.ski/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "animations.dev",
+      "sonner.emilkowal.ski",
+      "vaul.emilkowal.ski"
+    ],
+    "textSnippet": "Emil Kowalski Enrollment for my animation course is open! Enrollment has closed. Emil Kowalski Design Engineer Today I work on the Web team at Linear. I like to build things for designers and developers, think deeply about the user interface, how it looks, feels, behaves. Previously, I worked on the design team at Vercel. Projects animations.dev A course on web animations. Sonner An opinionated toast component for React. index.how A new kind of design education. Vaul A drawer component for React. Writing You Don’t Need Animations Why you are animating more often than you should. Agents with Taste How to transfer taste into an AI. Building a Toast Component My experience building Sonner, a toast library. Developing Taste Why taste matters and how to develop it. The Magic of Clip Path One of the most underrated CSS properties. 7 Practical Animation Tips Simple ideas you can use to improve your animations. Train Your Judgement Settling for good enough is not good enough. Building an animation course Behind the scenes of my animation course. Building a Drawer Component My experience building a drawer component for React. Newsletter Exclusive, newsletter-only content once a month. No sp",
+    "status": "ok",
+    "screenshot": "/shots/emilkowal-ski.jpg"
+  },
+  {
+    "id": "flocrivello-com",
+    "host": "flocrivello.com",
+    "url": "https://flocrivello.com/",
+    "finalUrl": "https://flocrivello.com/",
+    "title": "Flo Crivello",
+    "description": "I'm Flo, founder & CEO of Lindy. This is my personal blog, where I muse on philosophy, business strategy, technology, and really anything that catches my fancy.",
+    "ogImage": null,
+    "favicon": "https://storage.ghost.io/c/a2/a9/a2a906be-e7be-491d-9095-826b0059183f/content/images/size/w256h256/2022/11/profile-pic--1-.png",
+    "feeds": [
+      "https://flocrivello.com/rss/"
+    ],
+    "tech": [
+      "Ghost"
+    ],
+    "outbound": [
+      "storage.ghost.io",
+      "ghost.org",
+      "aspirethemes.com"
+    ],
+    "textSnippet": "Flo Crivello Skip to content Flo Crivello @Altimor About Favorite Books Links Favorite Quotes Log in Membership Search Recent Posts AI-Induced Psychosis as Existential Risk Lower Bound A prominent VC recently posted a long thread on Twitter about his conversations with ChatGPT, which had convinced him he was experiencing an attack from a &quot;non-governmental entity&quot; to disrupt his &quot;recursion&quot;. He wasn&#39;t being ironic. Mental health issues are hardly new, but The Red Line and The Yellow Line It feels like there&#39;s a new tech scandal every week these days — companies spying on their competitors, startups lying on their metrics during fundraising, etc. Interestingly, I think the fact that we are now routinely seeing startups (mostly in AI) go from $0 to $100M+ in ARR in The Lindy PM Standard of Performance We recently onboarded a new PM at Lindy — spent a full night working on her onboarding guide, which turned into a &quot;PM Standard of Performance,&quot; which turned into the tactical guide I wish I had when I got started. Decided to release it publicly now that it&#39; The Desire to Be Liked is Rotting Your Brain One of the main things standing in the way of",
+    "status": "ok",
+    "screenshot": "/shots/flocrivello-com.jpg"
+  },
+  {
+    "id": "frankchimero-com",
+    "host": "frankchimero.com",
+    "url": "https://frankchimero.com/",
+    "finalUrl": "https://frankchimero.com/",
+    "title": "Frank Chimero · Frank Chimero",
+    "description": "Personal site of designer Frank Chimero",
+    "ogImage": null,
+    "favicon": "https://frankchimero.com/favicon.ico",
+    "feeds": [
+      "https://frankchimero.com/feed.xml"
+    ],
+    "tech": [],
+    "outbound": [
+      "studiofrank.co",
+      "shapeofdesignbook.com",
+      "frankchimero.eo.page"
+    ],
+    "textSnippet": "Frank Chimero · Frank Chimero Frank Chimero is a designer and creative director based in New York Information Profile More info Studio Frank &UpperRightArrow; My brand design practice Contact Email and elsewhere Newsletter Very occassional original writing Projects The Shape of Design &UpperRightArrow; Book 2012 · 144pp. Dust Collages 2017–2020 Writing Beyond the Machine AI as instrument 2025 Everything Easy is Hard Again Learning and re-learning in tech 2018 The Web's Grain Design by thinking inside the box model 2015 Only Openings Tending to problems instead of solving them 2014 Designing in the Borderlands Design at the edges of exchange 2014 What Screens Want Choreography over composition 2013 Archive Beyond the Machine Extras 2025.10.24 Beyond the Machine 2025.10.20 Selling Lemons 2025.09.30 Eel-evation 2025.09.29 Time is On My Side 2025.08.19 The Green Ray 2021.08.31 Hands TV 2020.08.03 Who cares? 2020.02.04 View all Monkey Trap 2019.09.19 When the Work Looks Back At You 2018.06.06 The Good Room 2018.02.15 Everything Easy is Hard Again 2018.02.09 New Visual Essay: Back to the Cave 2017.04.15 SuperHi Foreword 2017.04.11 Plainness and Sweetness 2017.03.27 Tarkovsky’s Flame 2017",
+    "status": "ok",
+    "screenshot": "/shots/frankchimero-com.jpg"
+  },
+  {
+    "id": "irimi-one",
+    "host": "irimi.one",
+    "url": "https://irimi.one/",
+    "finalUrl": "https://irimi.one/",
+    "title": "irimi.one",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://irimi.one/favicon.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "alwinweber.de",
+      "circuit-control.de",
+      "dirtyelectronics.org",
+      "tilde.green",
+      "flipfloater.net",
+      "noisio.de",
+      "poetaster.org",
+      "merveilles.town",
+      "irimi1.bandcamp.com",
+      "makertube.net"
+    ],
+    "textSnippet": "irimi.one trying to music, but noising instead instruments (wip) music friendship is magic alwin circuit control cylixe dirty electronics edoed flipfloater noisio poetaster fediverse - bandcamp - makertube - contact:",
+    "status": "ok",
+    "screenshot": "/shots/irimi-one.jpg"
+  },
+  {
+    "id": "kk-org",
+    "host": "kk.org",
+    "url": "https://kk.org/",
+    "finalUrl": "https://kk.org/",
+    "title": "Kevin Kelly – Over the long term, the future is decided by optimists",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://kk.org/wp-content/uploads/2022/02/favicon.png",
+    "feeds": [],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "amzn.to",
+      "ted.com",
+      "warpnews.org",
+      "wired.com",
+      "recomendo.com",
+      "go.skimresources.com",
+      "kevinkelly.gumroad.com",
+      "getrevue.co",
+      "asiagrace.com",
+      "truefilms.com",
+      "winkbooks.net",
+      "silver-cord.net",
+      "feedpress.me",
+      "creativecommons.org"
+    ],
+    "textSnippet": "Kevin Kelly &#8211; Over the long term, the future is decided by optimists Over the long term, the future is decided by optimists Kevin Kelly About Futurism Cool Tools Art Archives Moving hay on a lake high in a snow-covered Himalayan valley of Kashmir, from Vanishing Asia About YEAR 2026 — I am working on a set of scenarios that I call the Desirable 100-year Future that is full of AI, genetic engineering, constant monitoring, and all the rest – and is a world that I want to live in. I don’t think it is a book; maybe a database, or virtual world, or video. It will probably start as a talk. I’ve started a Substack where I try to post something once a week. Sometimes I repost an older essay from my Technium blog. My newest book is Colors of Asia , a self-published volume of photos from Asia arranged by color. It was a limited edition and nearly sold out. Recently I wrote down 450 bits of of advice I wished I had known earlier to share with my children. Each one is like a tweet — a wisdom tweet. Two years ago I put them into a pocket-sized book, called Excellent Advice for Living . I am extremely optimistic about the future – despite reading the news. I give my reasons why we should b",
+    "status": "ok",
+    "screenshot": "/shots/kk-org.jpg"
+  },
+  {
+    "id": "kor-nz",
+    "host": "kor.nz",
+    "url": "https://kor.nz/",
+    "finalUrl": "https://kor.nz/",
+    "title": "Hamish MacDonald",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://kor.nz/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Astro",
+      "WebGL/Three.js"
+    ],
+    "outbound": [
+      "mapmage.gg"
+    ],
+    "textSnippet": "Hamish MacDonald portfolio loading Senior design engineer shipping games, websites, prototypes, tools, and products that bring joy ^-^ Hamish MacDonald Featured Projects Mapmage Mapmaking Sandbox for Game Masters I am a Co-Founder and the Senior Design Engineer. I designed and co-developed the mapmaker from prototype to release tooling. My responsibilities include design and development spanning; UX/UI, app building, backend systems, automation, QA, integrations, and release tooling. Tools Unity Engine, C#, Codex, Figma, Git Tech WebGPU, sharable map URLs, virtual table-top software integration, custom file type design, Astro, NextJS Visit Mapmage.gg The Readyverse Open Metaverse Social Game Platform My role was the Senior Game Designer. I lead game design across gameplay design and implementation, social space design of &quot;Surreal Estate&quot;, &quot;Showrooms&quot; and &quot;Strongholds&quot;, puzzle design, Unreal Engine prototyping, playtesting, through release, and iteration; in a tiny fast-paced infrastructure focused team. We designed and released &quot;Promptopia&quot; which combined state-of-the-art player-prompted AI-generated content with stats, abilities and gamefeel",
+    "status": "ok",
+    "screenshot": "/shots/kor-nz.jpg"
+  },
+  {
+    "id": "linedandunlined-com",
+    "host": "linedandunlined.com",
+    "url": "https://linedandunlined.com/",
+    "finalUrl": "https://linedandunlined.com/",
+    "title": "Lined & Unlined · Home",
+    "description": "A filing cabinet on the internet by Rob Giampietro",
+    "ogImage": "/icons/icon-1200x628.png",
+    "favicon": "https://linedandunlined.com/favicon.ico",
+    "feeds": [
+      "https://linedandunlined.com/feed"
+    ],
+    "tech": [],
+    "outbound": [
+      "landing.mailerlite.com"
+    ],
+    "textSnippet": "Lined & Unlined · Home search Lined & Unlined A filing cabinet on the internet by Rob&nbsp;Giampietro About Year Title Format For 2023 Twenty years in design Talk Festival INDIGO 2023 Interview with Ivan Zhao, CEO of Notion Interview Notion 2023 01-11-2023, 5:50AM, Mountain View Writing 2020 Designing a new MoMA Talk AIGA NY 2019 Structure Workshop RISD 2019 Obvious Code (On Abitacolo) Writing The Serving Library 2019 Design Notes: Rob Giampietro (podcast) Interview Design Notes 2019 Fonts of the Resistance: Designing Redaction Interview MoMA.org 2019 In conversation with Mario Ballesteros Interview Zonamaco 2019 2017 California: Designing Freedom Interview Google Design 2017 Sentiment Analysis Workshop RISD 2017 Over the Bridge Essay ECAL 2017 Making Things and Making Sense of Things (Insights 2017) Talk Walker Art Center 2016 Volume Two (with Amber Bravo) Writing Google Design 2016 Design at Google (with Bethany Fong) Talk SVA Interaction Design 2016 Scratching the Surface (with Jarrett Fuller) Interview Scratching the Surface 2016 And Also: Artists & Designers Writing Talk RISD 2016 Cultural Responsibilities Interview Use All Five 2016 Introduction to Computation: Rob Giampietro",
+    "status": "ok",
+    "screenshot": "/shots/linedandunlined-com.jpg"
+  },
+  {
+    "id": "magoz-studio",
+    "host": "magoz.studio",
+    "url": "https://magoz.studio/",
+    "finalUrl": "https://magoz.com/",
+    "title": "Magoz",
+    "description": "Magoz is an artist based in Malmö, Sweden. He creates illustrations and animations focusing on visual communication, problem solving, and minimalism.",
+    "ogImage": "https://magoz.com/i/magoz-og-image.jpg",
+    "favicon": "https://magoz.com/icon.svg?b1cd120bd8fd4674",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Magoz Work Shop Shop Info About Newsletter Shop Info Quest Ski Questions? Ask! Learning From Failure Struggle Distortion Childhood Reading Enlightenment Hooray! Low Battery Childhood Unexpected Future of Museums Reading Tote Bag Navigating Winter Overcoming Addiction Identity Our Story Always Traveling Finding Your Path Second Thought Sant Jordi Alice In Wonderland Online Army Farewell Money Learning From Others Helping Others Without Bars Fishing Struggle Print Privacy? What Privacy? Co-Creating Education Cheers! Follow Your Dreams United Happy Holidays Anxiety Future Love Animator Biombo Corruption Stop Violence Fit Penis Teamwork Subscribe Join +10k readers. No spam ever. About Contact © 2009- 2026 Magoz. All rights reserved. Blog Shop Shop Info Instagram Twitter",
+    "status": "ok",
+    "screenshot": "/shots/magoz-studio.jpg"
+  },
+  {
+    "id": "marcbouchenoire-com",
+    "host": "marcbouchenoire.com",
+    "url": "https://marcbouchenoire.com/",
+    "finalUrl": "https://marcbouchenoire.com/",
+    "title": "Marc Bouchenoire",
+    "description": "A detail-obsessed Design Engineer, designing and building delightful products.",
+    "ogImage": "https://marcbouchenoire.com/meta.png",
+    "favicon": "https://marcbouchenoire.com/favicon.png",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "liveblocks.io",
+      "framer.com",
+      "sanity.io",
+      "sketch.com",
+      "frimousse.liveblocks.io",
+      "typometer.marcbouchenoire.com",
+      "symbolist.marcbouchenoire.com",
+      "dimmmensions.marcbouchenoire.com",
+      "awkward.co",
+      "en.lecolededesign.com",
+      "last.fm",
+      "lastfm.freetls.fastly.net"
+    ],
+    "textSnippet": "Marc Bouchenoire Marc Bouchenoire Marc Bouchenoire Detail-obsessed Design * Design Product Interaction System API Engineer * Engineer Designer Designing and building delightful d e l i g h t f u l products, interactions, and APIs. I’m currently living in Nantes, France and working on collaborative components—amongst other things—at Marc Liveblocks . Liveblocks I started getting involved on the product engineering side with our DevTools extension , and it then became my primary side with Comments . I’m now focusing on the React layer of our opinionated products, from component APIs to hooks , default styles , unstyled primitives , rich text editors , internationalization , codemods , and more. Primitives.tsx import { Composer , Comment , } from \" @liveblocks/react-comments/primitives \" function CustomComposer ( props ) { return ( &#x3C; Composer.Form { ... props}> &#x3C; Composer.Editor components = { { Mention , MentionSuggestions , Link , } } /> &#x3C; Composer.Submit >Create thread&#x3C;/ Composer.Submit > &#x3C;/ Composer.Form > ); } DevTools Liveblocks.io Before focusing on the product engineering side of Liveblocks , I was involved in many areas of liveblocks.io . From refacto",
+    "status": "ok",
+    "screenshot": "/shots/marcbouchenoire-com.jpg"
+  },
+  {
+    "id": "marcel-fyi",
+    "host": "marcel.fyi",
+    "url": "https://marcel.fyi/",
+    "finalUrl": "https://marcel.fyi/",
+    "title": "Marcel Wichmann - Product Design, UI Design, UX Design",
+    "description": "Hey, I'm Marcel, a designer and developer for digital products.",
+    "ogImage": "/og_image.png",
+    "favicon": "https://marcel.fyi/favicon-32x32.png",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Marcel Wichmann - Product Design, UI Design, UX Design Hello there! I&#x27;m Marcel , a designer and wannabe developer for digital products with more than 15 years of experience and no signs of losing interest. Email LinkedIn Mastodon Selected Projects I&#x27;ve worked for a plethora of clients and companies on projects of all sizes. This is only a selection of some of the most recent ones. Goblin Mode A small social network for friends to keep tabs on each other. Roger Modern dental practice management and patient communication. Stoins The first step counter that actually keeps your motivation up. Moodpath &amp; MindDoc The leading mental health companion and online therapy platform with over 4 million users. Timeline In case you wondered where I&#x27;ve been and what I&#x27;ve been doing for the last 16 years. Roger Principal Product Designer 2021 → Present I&#x27;m responsible for all aspects of Roger&#x27;s design. Working closely with the founders and the development team, my main goal is to create a product that is easy to use and makes the very hectic lives of dental practice employees easier. MindDoc Design Lead 2019 → 2021 MindDoc aquired Moodpath. I lead the redesign of t",
+    "status": "ok",
+    "screenshot": "/shots/marcel-fyi.jpg"
+  },
+  {
+    "id": "mattrothenberg-com",
+    "host": "mattrothenberg.com",
+    "url": "https://mattrothenberg.com/",
+    "finalUrl": "https://mattrothenberg.com/",
+    "title": "Matt Rothenberg",
+    "description": "Matt Rothenberg is a Designer and Front-End Developer based in New York",
+    "ogImage": "https://mattrothenberg.com/_astro/og.CZUOcJjo.png",
+    "favicon": "https://mattrothenberg.com/favicon-96x96.png",
+    "feeds": [],
+    "tech": [
+      "Astro",
+      "React"
+    ],
+    "outbound": [
+      "kumo-ui.com",
+      "heroku.com",
+      "undp.org",
+      "digitaldevelopmentcompass.undp.org",
+      "getrepeat.io",
+      "arrows.to",
+      "berryfertility.com",
+      "mcdbooks.com",
+      "documate.org",
+      "passivehouseaccelerator.com",
+      "stufstorage.com",
+      "early.works",
+      "untitled.stream",
+      "tellurideprivateresidences.com",
+      "brightband.com",
+      "skyways.com",
+      "fortpartners.com",
+      "conductor.build",
+      "dev.to",
+      "soundcloud.com",
+      "hackernoon.com",
+      "codepen.io"
+    ],
+    "textSnippet": "Matt Rothenberg M Home / Experiments / Notes home home experiments notes I'm Matt Rothenberg, a New York City-based designer , developer , and serial tinkerer . I'm very employable 01 I work at Cloudflare as a Principal Engineer building our AI platform and design system . I used to work at GitHub Next where I explored the future of software development. I shipped some big hits like Copilot . I also worked at Clearbit where I built their core design system. Before that, I was at Heroku working on web and CLI interfaces for data products. A recent highlight of my career was helping the UNDP build their Digital Development Compass , a quick way to get detailed information on digital readiness in any country. I code for fun 02 I've contributed to (and also maintain) some cool open source projects. tailwindlabs / tailwindcss 96K paper-design / shaders 2.2K ariakit / ariakit 8.6K cloudflare / kumo 2.4K mui / base-ui 10K remix-run / react-router 56K mattrothenberg / vue-overdrive 675 mattrothenberg / vue-flip-toolkit 311 mattrothenberg / use-gauge 91 mattrothenberg / tailwind-fancy-tab 60 mattrothenberg / react-comparison-slider 44 mattrothenberg / react-overflow-list 39 mattrothenberg /",
+    "status": "ok",
+    "screenshot": "/shots/mattrothenberg-com.jpg"
+  },
+  {
+    "id": "nchrs-xyz",
+    "host": "nchrs.xyz",
+    "url": "https://nchrs.xyz/",
+    "finalUrl": "https://nchrs.xyz/",
+    "title": "NCHRS: Index",
+    "description": "Home portal.",
+    "ogImage": "https://nchrs.xyz/media/headers/index-240.png",
+    "favicon": "https://nchrs.xyz/assets/icon/favicon/favicon-96x96.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "creativecommons.org",
+      "merveilles.town",
+      "lieu.cblgh.org"
+    ],
+    "textSnippet": "NCHRS: Index Knowledge Projects Directory About Journal Home portal. Knowledge A personal knowledge database. Projects Archive of selected works and ongoing projects. Directory Lists of things. About About this website Journal The journal tracks updates and progress on various projects and day to day events. Back to top CC-BY-NC-SA 4.0",
+    "status": "ok",
+    "screenshot": "/shots/nchrs-xyz.jpg"
+  },
+  {
+    "id": "nelson-co",
+    "host": "nelson.co",
+    "url": "https://nelson.co/",
+    "finalUrl": "https://nelson.co/",
+    "title": "Gavin Nelson, Designer",
+    "description": "The website and design portfolio of Gavin Nelson.",
+    "ogImage": "https://nelson.co/og.png",
+    "favicon": "https://nelson.co/favicons/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "outbound": [
+      "openai.com"
+    ],
+    "textSnippet": "Gavin Nelson, Designer Gavin Nelson Designer at OpenAI About Connect Features Interaction prototypes 2024–present · Interaction design App icon design 2020–present · iOS and macOS app icons Explorations 2020–present · Misc. creative exercises ChatGPT in CarPlay 2026 · Product design Linear Navigation 2025 · Product and interaction design Linear Search 2025 · Product and interaction design Linear Documents 2024 · Product and interaction design Linear Mobile v1.0 2024 · Product design Linear homepage renders 2024 · 3D rendering GitHub Copilot 2024 · Product and interaction design GitHub Achievements 2023 · Interaction design GitHub Navigation Shortcuts 2022 · Product design",
+    "status": "ok",
+    "screenshot": "/shots/nelson-co.jpg"
+  },
+  {
+    "id": "notebook-lachlanjc-com",
+    "host": "notebook.lachlanjc.com",
+    "url": "https://notebook.lachlanjc.com/",
+    "finalUrl": "https://notebook.lachlanjc.com/",
+    "title": "@lachlanjc/notebook",
+    "description": "Lachlan Campbell’s personal blog, Notebook, with posts about whatever they want.",
+    "ogImage": "https://notebook.lachlanjc.com/api/card?title=Notebook&fontSize=400px",
+    "favicon": "https://notebook.lachlanjc.com/favicon.ico",
+    "feeds": [
+      "https://notebook.lachlanjc.com/feed.xml"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "lachlanjc.com"
+    ],
+    "textSnippet": "@lachlanjc/notebook @lachlanjc Notebook (where @lachlanjc publishes whatever they want) Shortcuts Favorite Albums iPad Apps Material Goods Hardware Concerts The Future Is No Longer Apps 2025-09-08 Before I Land in San Francisco 2025-07-17 Photo Walk at Centre County Kepone 2025-07-06 Apple Vision Glasses Will Be Irresistible 2025-02-19 Promote National Progress like iPhones 2024-10-10 visionOS 2 Invests in Core Technologies 2024-09-19 Daylight Feedback Summer 2024 2024-08-20 10 Features Next.js 15 Could Launch 2024-04-17 Your Tools Shape Your Focus 2024-04-11 Open Source Your Schoolwork Too 2024-03-08 Long on Spatial Computing 2024-03-06 Good Products Stand Alone 2023-09-28 Notes on Data Center Water Usage 2023-02-27 I’m Not an Environmentalist 2023-01-30 2023 CSS Wishlist 2023-01-25 Generate Next.js Image Blur Placeholders 2023-01-23 Use MDX as Next.js 13 Server Component 2023-01-19 Animating an Icon with Tailwind CSS 2022-11-30 Link Your Domain to Mastodon with Next.js 2022-11-18 Say Something Real 2022-10-17 Set up RSS with Contentlayer &amp; MDX 2022-08-18 3 Tips from Resizing Images with macOS Shortcuts 2022-02-05 Evolve Your MDX Workflow with a Headless CMS 2022-02-01 Music R",
+    "status": "ok",
+    "screenshot": "/shots/notebook-lachlanjc-com.jpg"
+  },
+  {
+    "id": "notebook-wesleyac-com",
+    "host": "notebook.wesleyac.com",
+    "url": "https://notebook.wesleyac.com/",
+    "finalUrl": "https://notebook.wesleyac.com/",
+    "title": "Wesley’s Notebook",
+    "description": "Wesley's notebook",
+    "ogImage": "https://notebook.wesleyac.com/fleuron.png",
+    "favicon": "https://notebook.wesleyac.com/android-chrome-192x192.png",
+    "feeds": [
+      "https://notebook.wesleyac.com/atom.xml"
+    ],
+    "tech": [
+      "React"
+    ],
+    "outbound": [
+      "webmention.wesleyac.com",
+      "webmention.io",
+      "webring.recurse.com"
+    ],
+    "textSnippet": "Wesley’s Notebook Wesley’s Notebook a place for thoughts to grow The “Resonant Computing Manifesto” is not very good A Year Later: Getting Kicked out of the Recurse Center Replacing the Anubis CGM Battery Recently 2023 in Books A little bit of magic for the nonbelievers Scattered ChatGPT thoughts 2022 in Books Remembering Steve Inness Starwatching Recently In Control A few things that could be poetry Petit Bourgeois &amp; Amazon Reselling Words, Definitions, and Prescriptivism Annotations A IndieWeb Request Interconnections Recently Tech, Industry How Websites Die Neurodiversity On Cryptocurrency Recently On Feeds Servers and Desire Recently “ The” Self Recently Reactionary Bike Trip History and Globalization Recently Identity and Decentralization Friendships, Online and In Person Respecting Complexity Art and Engineering Everyone loves collecting data, nobody loves analyzing it later Recently Reading Aloud Learning How to Ride a Bike IndieWeb Thoughts: POSSE Treating Depression Tragedy of the Commons The Lobster (2015) Bitcoin and Gold A Few NYC Places How to Pirate Ebooks Piracy &amp; Legal Monoculture Recent Books The Perfect Decisionmaking Structure Consciousness and Emulation ",
+    "status": "ok",
+    "screenshot": "/shots/notebook-wesleyac-com.jpg"
+  },
+  {
+    "id": "onlydeadfish-co-uk",
+    "host": "onlydeadfish.co.uk",
+    "url": "https://onlydeadfish.co.uk/",
+    "finalUrl": "https://onlydeadfish.co.uk/",
+    "title": "Only Dead Fish | AI Strategy, Transformation and Leadership Consultancy - Only Dead Fish",
+    "description": "Only Dead Fish is an AI strategy and transformation consultancy run by Neil Perkin, best-selling author, keynote speaker, and workshop facilitator. Helping organisations navigate AI, leadership and change.",
+    "ogImage": "https://onlydeadfish.co.uk/wp-content/uploads/2023/04/neil-perkin-923x1024.jpg",
+    "favicon": "https://i0.wp.com/onlydeadfish.co.uk/wp-content/uploads/2023/03/cropped-odf_logo.jpg?fit=32%2C32&#038;ssl=1",
+    "feeds": [
+      "https://onlydeadfish.co.uk/feed/",
+      "https://onlydeadfish.co.uk/comments/feed/"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "wp.me",
+      "i0.wp.com",
+      "neilperkin.co.uk",
+      "koganpage.com",
+      "ipa.co.uk"
+    ],
+    "textSnippet": "Only Dead Fish | AI Strategy, Transformation and Leadership Consultancy - Only Dead Fish Skip to content Twitter LinkedIn Instagram About What I do My books Speaking Google Firestarters Contact Archives Twitter LinkedIn Instagram &#8216;Change is the process by which the future invades our lives&#8217; Alvin Toffler Only Dead Fish is a consultancy focused on AI strategy, transformation and leadership, run by Neil Perkin . Neil is the author of three best-selling books on the intersection of business transformation, organisational agility and leadership: Building the Agile Business , Agile Transformation , and Agile Marketing (all through Kogan Page). He curates the Google Firestarters thought leadership series and designs and delivers AI programmes for the IPA . Neil works with organisations navigating the strategic, cultural and leadership challenges of AI adoption, through keynotes , workshops, training programmes and strategic consultancy . Clients include Google, AstraZeneca, Lloyds Banking Group, Diageo, BBC, the NHS, Imperial College London, and agencies including Saatchi &amp; Saatchi and Omnicom. Contact me Latest Posts Technology, inflection points and cascading impacts Po",
+    "status": "ok",
+    "screenshot": "/shots/onlydeadfish-co-uk.jpg"
+  },
+  {
+    "id": "ped-ro",
+    "host": "ped.ro",
+    "url": "https://ped.ro/",
+    "finalUrl": "https://ped.ro/",
+    "title": "Pedro Duarte's Personal Website",
+    "description": "Code, content, and other things.",
+    "ogImage": "https://ped.ro/opengraph-image.jpg?415d826f5aed124b",
+    "favicon": "https://ped.ro/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Pedro Duarte&#x27;s Personal Website Home Writing Speaking Shooting R 0 / 0 Yo! I&#x27;m Pedro Duarte. I&#x27;m not sure how to intro myself anymore . My background is in UI development, but I love everything related to product . In the last five years I discovered my niche: helping early-stage tech startups flourish. I work at Raycast . It&#x27;s an app that you didn&#x27;t think you needed , but once you try it, you can&#x27;t live without it. I wear many different hats . But my main focus is hyping the product through content creation , brand awareness, community building and partnerships. Before that, I did basically the same thing for Rainbow , specifically for RainbowKit , a fun way to connect a web3 wallet, and Modulz . Modulz is where it all started. There I co-created Radix , a set of building blocks for your design system, with over 20M monthly downloads, and Stitches , a CSS-in-JS library with an API that has inspired many others. I live in Barcelona with my family, but I was born in São Paulo . I moved to Norwich (a fine city) when I was thirteen and then spent most of my life in London. You can find me on 𝕏 my username is @peduarte . I&#x27;m also on Instagram , GitHu",
+    "status": "ok",
+    "screenshot": "/shots/ped-ro.jpg"
+  },
+  {
+    "id": "philipcdavis-com",
+    "host": "philipcdavis.com",
+    "url": "https://philipcdavis.com/",
+    "finalUrl": "https://philipcdavis.com/",
+    "title": "Philip Davis",
+    "description": "The personal site of Philip Davis",
+    "ogImage": "https://res.cloudinary.com/dpgzvne4j/image/upload/v1604077998/default_ky8gci.png",
+    "favicon": "https://philipcdavis.com/favicons/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "swiftui.design",
+      "react.design"
+    ],
+    "textSnippet": "Philip Davis ⌘ Work Experiments Philip Davis I’m an interface designer and software creator at Apple. I enjoy making apps, prototypes, and design experiments. Your browser does not support the video tag. WWDC Talks Your browser does not support the video tag. Design with SwiftUI ↗ Your browser does not support the video tag. Create visual effects with SwiftUI ↗ Work Maps 2022—Present Facebook 2019—2022 Apple 2015—2018 Side Projects Quick Capture 2022 SwiftUI for Designers 2021 React for Design 2018 Featured Writing Designing in SwiftUI ↗ A Designer&#x27;s Guide to JavaScript ↗ A Designer&#x27;s Guide to the Terminal ↗ @philipcdavis",
+    "status": "ok",
+    "screenshot": "/shots/philipcdavis-com.jpg"
+  },
+  {
+    "id": "rachsmith-com",
+    "host": "rachsmith.com",
+    "url": "https://rachsmith.com/",
+    "finalUrl": "https://rachsmith.com/",
+    "title": "Home | Rach Smith's digital garden",
+    "description": "Hi 👋🏼 I'm Rach. A developer building software for CodePen, wife, mother of two,\n  productivity nerd and recovering screen addict. This is my digital garden.",
+    "ogImage": null,
+    "favicon": "https://rachsmith.com/apple-touch-icon.png",
+    "feeds": [
+      "https://rachsmith.com/rss/"
+    ],
+    "tech": [
+      "Astro"
+    ],
+    "outbound": [
+      "webmention.io",
+      "gubbigubbidyungungoo.com",
+      "codepen.io"
+    ],
+    "textSnippet": "Home | Rach Smith&#39;s digital garden Rach Smith's digital garden Notes Tags About Subscribe Subscribe image/svg+xml rainbows cursor trails dark mode November 2025 22 22 November 2025, 2:29 pm October 27 27 October 2025, 12:33 pm 10 Who needs a flying car when you have display: grid 05 A letter to myself: Strategies 03 3 October 2025, 11:56 am September 25 25 September 2025, 10:08 am 01 Month notes &amp; numbers No. 16 August 26 26 August 2025, 5:30 am 23 23 August 2025, 8:38 am 10 Month notes &amp; numbers No. 15 10 10 August 2025, 1:23 pm June 01 A stack of browsers 01 Pages CMS May 22 22 May 2025, 10:06 am 16 16 May 2025, 6:34 am 11 Month notes &amp; numbers No. 14 April 18 18 April 2025, 5:58 am 17 The difference between programs and products 15 A lack of frequency increases the pressure to deliver quality 15 15 April 2025, 5:36 pm March 30 Month notes &amp; numbers No. 13 19 19 March 2025, 5:29 pm 13 13 March 2025, 10:03 am 11 In the way 11 11 March 2025, 2:52 pm 09 Month notes &amp; numbers No. 12 February 01 Month notes &amp; numbers No. 11 January 01 2024 December 2024 31 Planner plans for 2025 31 Month notes &amp; numbers No. 10 November 04 Social skills 02 Big black tras",
+    "status": "ok",
+    "screenshot": "/shots/rachsmith-com.jpg"
+  },
+  {
+    "id": "randsinrepose-com",
+    "host": "randsinrepose.com",
+    "url": "https://randsinrepose.com/",
+    "finalUrl": "https://randsinrepose.com/",
+    "title": "Rands in Repose – Stories about the humans who build software",
+    "description": "Stories about the humans who build software",
+    "ogImage": null,
+    "favicon": "https://randsinrepose.com/nitropack_static/pYcrXSmzMTYaBCajyDlByLkiWOiRWpVF/assets/images/optimized/rev-2c8a43d/randsinrepose.com/wp-content/uploads/2025/08/cropped-rands-favicon-1-32x32.png",
+    "feeds": [],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "outbound": [
+      "cloud.typography.com",
+      "gmpg.org",
+      "amzn.to",
+      "jamesclear.com",
+      "en.wikipedia.org",
+      "daringfireball.net",
+      "esquire.com",
+      "cottonbureau.com",
+      "creativecommons.org"
+    ],
+    "textSnippet": "Rands in Repose &#8211; Stories about the humans who build software Skip to content Archives About Books Slack Speaking Podcast Guides Feed Rands When you want to know What Song is on Repeat in Your Head? What’s it like to be you? Where did you get your name? What’s your story? What do you want to be when you grow up? What haven’t you done? What do you want to change? What are you most proud of? What achievement are you most proud of? Are you happy? What makes you happy? Are you having fun? What do you do for play? What is missing? What happened? Why are you lucky? What person/event changed you the most? Who taught you the most? Who do you trust and why? What song is on repeat in your head? I was sitting at dinner with dear friends, and we made a list of questions we love to ask. # June 30, 2026 Management This is where I will learn So You Want to Fix Your All Hands I will now explain why at least 50% of your team finds your current All Hands to be a waste of their time. They believe: This is information they can easily find elsewhere. This is about you, not them. This is boring. Now, I will describe how to build an All Hands that will exceed their expectations. Let&#8217;s define ",
+    "status": "ok",
+    "screenshot": "/shots/randsinrepose-com.jpg"
+  },
+  {
+    "id": "raul-gil-com",
+    "host": "raul-gil.com",
+    "url": "https://raul-gil.com/",
+    "finalUrl": "https://raul-gil.com/",
+    "title": "Raúl Gil - Illustrator",
+    "description": "I am Raúl, an illustrator and designer from Barcelona, Spain. I give life and character to products and publications, and help companies dynamically express ideas.",
+    "ogImage": "https://raul-gil.com/wp-content/uploads/2024/12/raul-gil-work.jpg",
+    "favicon": "https://raul-gil.com/wp-content/uploads/2017/12/favicon_transparent.png",
+    "feeds": [],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [],
+    "textSnippet": "Raúl Gil - Illustrator Work Playground About &#038; Contact Newsletter Work Playground About &#038; Contact Welcome! I am Raúl Gil,&nbsp; an illustrator giving life and character to products and publications. Welcome! I am Raúl Gil,&nbsp; an illustrator giving life and character to products and publications. Welcome! I am Raúl Gil,&nbsp; an illustrator giving life and character to products and publications. Welcome! I am Raúl Gil,&nbsp; an illustrator giving life and character to products and publications. Welcome! I am Raúl Gil,&nbsp; an illustrator giving character to products and publications. Let's work together → 1 Book covers Ongoing (2020 →) A selection of covers designed and illustrated in recent years for different purposes, including branding, editorial resources, and self-published works. Keywords: Illustration, Graphic design. See more covers (soon) 2 Reedsy's Character Name Generator 2024 → 2025 Character design and illustrations (30+) for the best name generator on the internet. Gods, inhabitants of ancient civilizations, fantasy creatures... and much more.&nbsp; Keywords: Visual design, Character design, Product. Read the full project 3 Reedsy,&nbsp;where beautiful b",
+    "status": "ok",
+    "screenshot": "/shots/raul-gil-com.jpg"
+  },
+  {
+    "id": "rauno-me",
+    "host": "rauno.me",
+    "url": "https://rauno.me/",
+    "finalUrl": "https://rauno.me/",
+    "title": "Rauno Freiberg",
+    "description": "Rauno Freiberg is an Estonian interaction designer working with Vercel and Devouring Details.",
+    "ogImage": "https://rauno.me/og4.png",
+    "favicon": "https://rauno.me/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "outbound": [
+      "devouringdetails.com",
+      "historyofsoftware.org",
+      "2023.rauno.me",
+      "2022.rauno.me"
+    ],
+    "textSnippet": "Rauno Freiberg Rauno Freiberg is an Estonian interaction designer working with Vercel and Devouring Details Devouring Details DD Craft Craft History of Software Design Projects Projects Field Notes Twitter 2023 2022 GitHub Email Copied Make it fast. Make it beautiful. Make it consistent. Make it carefully. Make it timeless. Make it soulful. Make it.",
+    "status": "ok",
+    "screenshot": "/shots/rauno-me.jpg"
+  },
+  {
+    "id": "rishimohan-me",
+    "host": "rishimohan.me",
+    "url": "https://rishimohan.me/",
+    "finalUrl": "https://rishimohan.me/",
+    "title": "Hi, I'm Rishi Mohan!",
+    "description": "I'm a designer and front-end engineer by profession. I build SaaS apps, like to travel, take photos and binge try Cafes and Restaurants.",
+    "ogImage": "https://rishimohan.me/images/site/meta.jpg",
+    "favicon": "https://rishimohan.me/touch-icons/main-icon.png",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "daskrad.com",
+      "pika.style",
+      "graph.one",
+      "bigbinary.com",
+      "instahyre.com",
+      "instantpolaroid.com",
+      "qurb.rishimohan.me",
+      "lil.rishimohan.me",
+      "starterstory.com",
+      "en.trafficcardinal.com",
+      "boringcashcow.com",
+      "founderbeats.com",
+      "fueler.io"
+    ],
+    "textSnippet": "Hi, I&#x27;m Rishi Mohan! Home Blog Projects Travel Map Home Menu Hi 👋, I&#x27;m Rishi Mohan! Founder at DaSkrad From India, based in Berlin Indie-hacking, Design &amp; Engineering Building Pika and Orshot Previously at Borg , BigBinary and Instahyre Thoughts on Twitter Adventures on Instagram Side-projects Instant Polaroid Turns your photos into beautiful polaroid prints Orshot Automation for Creative Marketing Pika Beautiful Screenshots and Mockups Maazi Journaling app for iOS and Web Q Qurb Free tool to design device mockups lil UI UI Components library Blog View all blog posts → Aise na humko dekhiye Jun 1, 2026 Turning 32 May 9, 2026 Spirituality, without achieving it Apr 3, 2026 1 Year of DaSkrad 🔱 Mar 25, 2026 Now a Permanent Resident of Deutschland 🇩🇪 Mar 25, 2026 In their own world, in their own being Feb 7, 2026 Kagazi Ishq Jan 13, 2026 2025 Recap Dec 26, 2025 Usey Kehna... Nov 18, 2025 Halo! Ich bin Rishi 👋 Nov 1, 2025 Making Eternity Oct 18, 2025 I know you think of me Oct 9, 2025 Appearances He Built Profitable SaaS Solo While Travelling the World Podcast with Manu / Podcast I Built A Screenshots App On The Side And Grew It To $3.8K/Month StarterStory / Interview ",
+    "status": "ok",
+    "screenshot": "/shots/rishimohan-me.jpg"
+  },
+  {
+    "id": "simone-computer",
+    "host": "simone.computer",
+    "url": "https://simone.computer/",
+    "finalUrl": "https://simone.computer/",
+    "title": "Simone's Computer",
+    "description": "Simone Marzulli's personal website, feel free to click your favourite buttons!",
+    "ogImage": "https://repository-images.githubusercontent.com/13191631/03057880-b9ff-11e9-9c2f-d158cf8d03b8",
+    "favicon": "https://simone.computer/apple-touch-icon.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "blog.simone.computer"
+    ],
+    "textSnippet": "Simone's Computer &nbsp;Computer.html (fallback mode) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9650; &#9688; &otimes; Hello there, I'm Simone Marzulli and I'm a full-stack software engineer, open source enthusiast and piadina lover! Blog Email GitHub Bluesky You're currently viewing the No-JavaScript version of the site, what a boring life you must live! &copy; Simone Marzulli 2026",
+    "status": "ok",
+    "screenshot": "/shots/simone-computer.jpg"
+  },
+  {
+    "id": "stefanzweifel-io",
+    "host": "stefanzweifel.io",
+    "url": "https://stefanzweifel.io/",
+    "finalUrl": "https://stefanzweifel.dev/",
+    "title": "Stefan Zweifel • Full Stack Developer | stefanzweifel.dev",
+    "description": "Hi 👋. I'm a full stack developer creating things on the internet. Welcome to my personal website.",
+    "ogImage": "https://stefanzweifel.dev/assets/stefan-zweifel-942ce7de-150e-40e8-985d-fc086a24a934.png",
+    "favicon": "https://stefanzweifel.dev/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "trenda.ch",
+      "phpc.social",
+      "3.screeenly.com"
+    ],
+    "textSnippet": "Stefan Zweifel • Full Stack Developer | stefanzweifel.dev Skip to content &darr; Stefan Zweifel About Articles Projects Uses Reading Stefan Zweifel Fullstack Developer I'm working at Trenda as a senior fullstack developer, bringing over 15 years of experience building applications with PHP, Laravel, Livewire, Tailwind CSS and Vue.js to help drive their product forward. I regularly contribute to the open source community by writing guides on how to automate tasks or by releasing PHP packages to solve a particular problem. On this personal website I write about how I solve problems in my personal or professional projects, how I set up my favourite apps or on how to apply minimalism to the digital world. On the web Mastodon Bluesky GitHub Email Selected Writing 08/2024 Deployer: Build and Cache Frontend Assets once using GitHub Actions 03/2024 Meal Planning in Things 3 09/2023 An Opinionated Personal Folder Structure 12/2022 My updated Things 3 Setup 05/2021 Deployer on GitHub Actions 04/2021 Auto Merge Dependabot Pull Requests with GitHub Actions 02/2021 My Alfred Setup 12/2020 Getting Started with Bash Testing with Bats 08/2020 Synology NAS Setup (2020) 12/2019 Things 3 Setup 06/201",
+    "status": "ok",
+    "screenshot": "/shots/stefanzweifel-io.jpg"
+  },
+  {
+    "id": "tendigits-space",
+    "host": "tendigits.space",
+    "url": "https://tendigits.space/",
+    "finalUrl": "https://tendigits.space/",
+    "title": "Ten Digits",
+    "description": "Notes kept along the way",
+    "ogImage": null,
+    "favicon": "https://tendigits.space/favicon.ico",
+    "feeds": [
+      "https://tendigits.space/feed.xml"
+    ],
+    "tech": [],
+    "outbound": [
+      "merveilles.town",
+      "creativecommons.org"
+    ],
+    "textSnippet": "Ten Digits Ten Digits Topics Ten Digits atlanta bagels banh_mi basic_french_bread bird_posters birdhouse_cam blender boiled_peanuts butterbean_dip citrus_beet_slaw coleslaw colophon concrete december_adventure_2023 december_adventure_2024 desoldering diy_springrolls drawtober ereader_jailbreak eurorack_cases firefox_user_css golden_beets grain_free_granola hand-modeling house imac_linux imageswap keyboard_housing linux lucid_dreaming macbookpro_broken_linux macbookpro_linux mechanical_keyboard media_player_card negative_scanning norns_shield_case now orca_box other-sites pepita-slaw persimmon_chocolate_pudding photography photography_gear pinebook_pro postreceivehook reading_rss roasted_peanuts sample_magnus_organ server sixteen_nx ssl steel steel_plate_computer_housing testing using uxn veggie-soup website wood-treatment writing_rss Topics | Logs | Webring | Mastodon | CC BY-NC 4.0",
+    "status": "ok",
+    "screenshot": "/shots/tendigits-space.jpg"
+  },
+  {
+    "id": "tilde-town",
+    "host": "tilde.town",
+    "url": "https://tilde.town/",
+    "finalUrl": "https://tilde.town/",
+    "title": "tilde.town",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://tilde.town/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "migadu.com",
+      "tiny.tilde.website"
+    ],
+    "textSnippet": "tilde.town _ o | | | _|_ | | __| _ _|_ __ _ _ | | |/ / | |/ | / \\_| | |_/ |/ | |_/|_/|__/\\_/|_/|__/o|_/\\__/ \\/ \\/ | |_/ is a computer meant for sharing helpdesk --> wiki blog cgit gitea testimonials 🍁 SERVER MIGRATION! 🍁 we got bored of living by the shore of the (digital) ocean and opted to move to the canadian wilderness. this means we'll be DOWN on May 24th and May 25th ! more details on our blog --> we are a community of around 3000 users making art, socializing, and learning on a linux server. founded in 2014 by ~vilmibm . a random selection of featured projects: cadastre html graffiti five star hotel our bandcamp poetry if you think you might enjoy being a part of this community you can learn more here . every dot in the background represents one townie. the more recently were they active, the brighter the dot. if you hide all this text you'll be able to inspect them. ecdsa host key: SHA256:RNFVaXxh2wnrolcByZQBRxRZDFBb2HRCnNq/g9ZGRp0 _____________________________________________ | __ : | | / /\\ __ ___!__ _,__ ___,_ | |/ / o\\/ \\ / /\\ /__/ \\ /__\\__\\ . . | | / \\\\ \\/_____ /_*\\ | |[^][^| | |[^]())| |/ /\\ | | |_|__| .: |__|__| ()(/| | || | {^} | | ( ~)(| | [] [] | | | |. . A ._ .",
+    "status": "ok",
+    "screenshot": "/shots/tilde-town.jpg"
+  },
+  {
+    "id": "tonsky-me",
+    "host": "tonsky.me",
+    "url": "https://tonsky.me/",
+    "finalUrl": "https://tonsky.me/",
+    "title": "Blog @ tonsky.me",
+    "description": "",
+    "ogImage": "https://dynogee.com/gen?id=24m2qx9uethuw6p&title=That+yellow+website",
+    "favicon": "https://tonsky.me/i/favicon.png?t=1782676429",
+    "feeds": [
+      "https://tonsky.me/atom.xml"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Blog @ tonsky.me Blog Work Talks Logos About Sign In Personal Information User Agreement Hi! I’m Niki. Here I write about programming and UI design Subscribe I consult on all things Clojure: web, backend, Datomic, DataScript, performance, etc. Check out my Github and get in touch niki@tonsky.me 2026 Every Frame Perfect 6/13 Claude is an Electron App because we’ve lost native 3/3 It’s hard to justify Tahoe icons 1/5 2025 Statistics made simple 12/15 How to get hired in 2025 11/26 Needy programs 11/13 I am sorry, but everyone is getting syntax highlighting wrong 10/15 We shouldn’t have needed lockfiles 8/6 Gaslight-driven development 7/16 When You Get to Be Smart Writing a Macro 5/1 2024 Where Should Visual Programming Go? 7/18 Clojure macros continue to surprise me 7/15 Local, first, forever 6/24 Going to the cinema is a data visualization problem 5/14 Humble Chronicles: Shape of the Component 4/30 Humble Chronicles: The Inescapable Objects 4/30 Hardest Problem in Computer Science: Centering Things 4/16 Daylight Saving Time is a perfect test for UI designer 3/31 JavaScript Bloat in 2024 2/22 New Library: clj-reload 2/17 In Loving Memory of Square Checkbox 1/28 2023 Humble Chronicles",
+    "status": "ok",
+    "screenshot": "/shots/tonsky-me.jpg"
+  },
+  {
+    "id": "adamcollier-co-uk",
+    "host": "www.adamcollier.co.uk",
+    "url": "https://www.adamcollier.co.uk/",
+    "finalUrl": "https://www.adamcollier.co.uk/",
+    "title": "",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://www.adamcollier.co.uk/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "no available server",
+    "status": "ok",
+    "screenshot": "/shots/adamcollier-co-uk.jpg"
+  },
+  {
+    "id": "coryetzkorn-com",
+    "host": "www.coryetzkorn.com",
+    "url": "https://www.coryetzkorn.com/",
+    "finalUrl": "https://www.coryetzkorn.com/",
+    "title": "Cory Etzkorn",
+    "description": "Cory Etzkorn is the founder of Soulmate, a dating app with no swiping, no profiles, just a conversation that learns who you are and finds your match.",
+    "ogImage": "/assets/images/about/cory-etzkorn-square-2024.jpg",
+    "favicon": "https://www.coryetzkorn.com/icons/apple-touch-icon.png",
+    "feeds": [
+      "https://www.coryetzkorn.com/feed.xml"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "soulmate.to",
+      "savetostow.com",
+      "wsj.com",
+      "fuzzco.com",
+      "playlist.social",
+      "philips-hue.com",
+      "jal.co.jp",
+      "aesop.com"
+    ],
+    "textSnippet": "Cory Etzkorn Cory Etzkorn → About Writing Hi, I’m Cory. I’m the founder of Soulmate , the dating app that listens. No swiping, no profiles, just a conversation that learns who you are and finds your match. I was one of Notion ’s first 20 employees, working on design and engineering during the company’s early years. I’m proud of helping craft a brand &amp; product that is loved by many. Previously, I co-founded and built Stow , a social shopping app. Prior to that, I worked on design systems at The Wall Street Journal . In the early days, I led front-end engineering at Fuzzco After hours, I teach power vinyasa yoga and take long baths. Once upon a time, I was a Hawaiian coffee farmer. I believe the best teams and products are built where design and engineering intersect. Work Soulmate Founder – 2025 Stow Co-founder – 2024 Notion Design – 2019 The Wall Street Journal Design – 2015 PlayList Founder – 2015 Fuzzco Design – 2013 What I Do Product design Brand design Engineering Design systems Marketing Copywriting Tech Stack HTML CSS / Tailwind TypeScript React React Native Next.js Postgres / SQL Supabase Vercel Speaking &amp; Interviews Next.js Conf 2021 Scaling Marketing at Notion 2021",
+    "status": "ok",
+    "screenshot": "/shots/coryetzkorn-com.jpg"
+  },
+  {
+    "id": "eikedrescher-com",
+    "host": "www.eikedrescher.com",
+    "url": "https://www.eikedrescher.com/",
+    "finalUrl": "https://www.eikedrescher.com/",
+    "title": "Eike Drescher - Product Designer",
+    "description": "Always trying to marry the artistic with the useful.",
+    "ogImage": "https://cdn.prod.website-files.com/5ea094d69feadb4133a3d1dd/62c882c91bd87be8b91b4553_OpenGraphHomeNew.png",
+    "favicon": "https://cdn.prod.website-files.com/5ea094d69feadb4133a3d1dd/601f05efe1fe7a4c09f8a5c6_favicon.png",
+    "feeds": [],
+    "tech": [
+      "React"
+    ],
+    "outbound": [
+      "bento.me",
+      "spaces.is",
+      "dennisgec.com",
+      "linktr.ee",
+      "yvesjakob.com",
+      "jenvalentine.com",
+      "9to5mac.com",
+      "iphoneblog.de",
+      "imore.com",
+      "zilmer.com",
+      "jengoertzen.com",
+      "louiscurrie.com"
+    ],
+    "textSnippet": "Eike Drescher - Product Designer About Work Berlin, Germany － Everything around you was made up by people. Intro Queue Canopi Bento Trade Republic 2016 – 2019 Splash Hey, I&#x27;m Eike. I care about software that stands for something, that has an opinion, that chooses a side. Software that makes you feel something - feel part of something. Software that tells you something about the people who created it. Designed Bento &amp; Trade Republic. Copy my Email COPIED My Bento Thoughts &amp; Ideas Exploring UI Patterns for visionOS Ideas for how the gaze-based input method of visionOS could communicate fundamental interactions like dragging or entering text. Getting rid of the browser A calendar for makers Appearances Interview at LoversMagazine Queue Side Project 2024 – Now Now Silvan Dähn Dennis Gecaj Mugeeb Hassan When I first started playing with SwiftUI and ChatGPT code generation in late 2023, the first thing I tried was to fetch the title and cover artwork from a podcast rss feed. Since I&#x27;m a huge podcast listener, I kept going, and soon after, with help from Silvan, I had a simple little podcast app running. After working on it for a while, then pausing it to work on Canopi,",
+    "status": "ok",
+    "screenshot": "/shots/eikedrescher-com.jpg"
+  },
+  {
+    "id": "fromjason-xyz",
+    "host": "www.fromjason.xyz",
+    "url": "https://www.fromjason.xyz/",
+    "finalUrl": "https://www.fromjason.xyz/",
+    "title": "",
+    "description": "Odes & Satires, and other matters of stuff & things.",
+    "ogImage": "https://fromjason.xyz/img/opengraph-fromjason.png",
+    "favicon": "https://www.fromjason.xyz/img/favicon.png",
+    "feeds": [
+      "https://www.fromjason.xyz/feed/feed.xml"
+    ],
+    "tech": [],
+    "outbound": [
+      "aperture.p3k.io",
+      "indieauth.com",
+      "tokens.indieauth.com",
+      "webmention.io"
+    ],
+    "textSnippet": "notebook schemes plots from jason Schemes &amp; plots And other matters That won't be forgot written by: jason velazquez ⭑⭑⭑⭑⭑ &quot;Another web nerd telling us we&#x27;re doing the internet wrong” — hacker news commenter &quot;Web nerds tell ‘ normal people&#x27; they&#x27;re doing the internet wrong... again.” —slashdot user hat's up, weirdos. I'm Jason . Welcome to my digital garden. I'm happy you're here. Please make yourself comfortable. By day, I'm a digital freelancer, copywriter, uncle, and cheese danish sommelier. By night, I drink the blood of my enemies in an old Mountain Dew bottle I found in a Buc-ee's bathroom. Kidding. I'm just a guy who likes to blog about technology , design , the web , and anything I'm hyper fixated on at the time. Welcome. Feel free to poke around , follow one of my feeds ( here's my notebook ), or contact me directly. I'm glad you're here. Popular posts Where have all the websites gone? We used to visit cool independent websites and share them with our friends. Where did they all go? Any technology indistinguishable from magic is hiding something In part 2 of Where did all the websites go? we discover that \"the cloud” is just the internet, and t",
+    "status": "ok",
+    "screenshot": "/shots/fromjason-xyz.jpg"
+  },
+  {
+    "id": "jeremiak-com",
+    "host": "www.jeremiak.com",
+    "url": "https://www.jeremiak.com/",
+    "finalUrl": "https://www.jeremiak.com/",
+    "title": "👋🏻 - Jeremia on the internet",
+    "description": "Jeremia Kimelman's personal website with blog posts and a work portfolio",
+    "ogImage": null,
+    "favicon": "https://www.jeremiak.com/img/favicon.ico",
+    "feeds": [
+      "https://www.jeremiak.com/blog/rss.xml"
+    ],
+    "tech": [],
+    "outbound": [
+      "calmatters.org",
+      "journa.host"
+    ],
+    "textSnippet": "👋🏻 - Jeremia on the internet Home Blog Work Hey, my name is Jeremia. I'm a data journalist and recovering web developer living in Sacramento, CA. I really like making complicated ideas easier to understand with code and data, usually by building interactive visualizations and web scrapers. Sometimes I write in English , but more frequently with Javascript . Here are some projects and bylines that I am proud of. You can almost always infrequently find me running my mouth on the Twitter machine . More often Mastodon these days. Feel free to get in touch, I'd love to hear from you .",
+    "status": "ok",
+    "screenshot": "/shots/jeremiak-com.jpg"
+  },
+  {
+    "id": "jordienric-com",
+    "host": "www.jordienric.com",
+    "url": "https://www.jordienric.com/",
+    "finalUrl": "https://www.jordienric.com/",
+    "title": "Jordi Enric",
+    "description": "Writing, notes, and bookmarks from Jordi Enric, a software engineer at Supabase.",
+    "ogImage": null,
+    "favicon": "https://www.jordienric.com/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "plausible.io",
+      "supabase.com"
+    ],
+    "textSnippet": "Jordi Enric Jordi Enric Frontend Software Engineer at Supabase based in Mallorca. You can find me on Twitter and GitHub . Thoughts Notes Bookmarks iOS / React Native Tools Open PR Agent Skill Resources for Scaling your Supabase project code-review skill Ship Postgres Migrations to Supabase Prod Without Pain Schema changes break things. The goal is to make them boring. Supabasito.png Vercel Build Error: ERR_PNPM_UNSUPPORTED_ENGINE Unsupported environment (bad pnpm and/or Node.js version) Personal Philosophy what to post on twitter 2 years at Supabase Delete local branches older than 1 week ESP32 Captive Portal Wi-Fi Provisioning life changing sleeping advice Built a tool: PixelToSVG Easy and quick pixel to SVG tool to create icons. Academic, Professional and Entrepreneurial success On using AI to code Supabase things you should know Podcasts it’s better to do things without optimizing for anything than optimize for everything and do nothing testing video embeds and uploads! just testing a new feature for zenblog.",
+    "status": "ok",
+    "screenshot": "/shots/jordienric-com.jpg"
+  },
+  {
+    "id": "madewithtea-com",
+    "host": "www.madewithtea.com",
+    "url": "https://www.madewithtea.com/",
+    "finalUrl": "https://www.madewithtea.com/",
+    "title": "Made with Tea: Jendrik Poloczek",
+    "description": "Currently, I'm working at Aikido Security as Blockchain Security Engineer. I started out as a PhD candidate researcher in the machine learning field, became a senior software engineer and worked in small and large scale tech companies such as Coinbase. My most recent employment was leading the infrastructure investments team as Principal Research Engineer at the European crypto investment firm Greenfield Capital.",
+    "ogImage": "https://www.madewithtea.com/images/og-default.png",
+    "favicon": "https://www.madewithtea.com/favicon.ico",
+    "feeds": [
+      "https://www.madewithtea.com/rss.xml"
+    ],
+    "tech": [
+      "Vercel"
+    ],
+    "outbound": [
+      "eepurl.com",
+      "aikido.dev",
+      "coinbase.com",
+      "webofdevs.com",
+      "plausible.io"
+    ],
+    "textSnippet": "Made with Tea: Jendrik Poloczek hello work contact rss newsletter Made with Tea - Jendrik Poloczek Hello I'm Jendrik Poloczek Currently, I'm working at Aikido Security as Blockchain Security Engineer. I started out as a PhD candidate researcher in the machine learning field, became a senior software engineer and worked in small and large scale tech companies such as Coinbase . My most recent employment was leading the infrastructure investments team as Principal Research Engineer at the European crypto investment firm Greenfield Capital Writings 04&#x2F;03&#x2F;2025 End of Alcohol End of Alcohol 11&#x2F;02&#x2F;2025 Investing into Drosera&#x27;s Seed Round Investing into Drosera&#x27;s Seed Round 09&#x2F;05&#x2F;2024 Leading Arcium&#x27;s Strategic Round Leading Arcium&#x27;s Strategic Round 07&#x2F;03&#x2F;2024 Cold Shower Therapy and Ritual Cold Shower Therapy and Ritual 22&#x2F;12&#x2F;2023 Obsidian and (Local) LLMs Obsidian and (Local) LLMs 21&#x2F;09&#x2F;2023 Starting to Sail Starting to Sail 30&#x2F;06&#x2F;2023 Enablers and Catalysts in Lightning Network Enablers and Catalysts in Lightning Network 31&#x2F;05&#x2F;2023 From Scratch in Zola From Scratch in Zola 30&#x2F;06&#x2",
+    "status": "ok",
+    "screenshot": "/shots/madewithtea-com.jpg"
+  },
+  {
+    "id": "marc-julian-de",
+    "host": "www.marc-julian.de",
+    "url": "https://www.marc-julian.de/",
+    "finalUrl": "https://marc-julian.com/",
+    "title": "Marc Julian Schwarz — MJ's Blog",
+    "description": "MJ's Blog",
+    "ogImage": null,
+    "favicon": "https://marc-julian.com/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Astro"
+    ],
+    "outbound": [
+      "govradar.de",
+      "sammlung.app",
+      "cal.com",
+      "qira.net",
+      "wizard.marc-julian.com",
+      "the-brew-code.de",
+      "notes.marc-julian.com",
+      "shots.marc-julian.com",
+      "mdsnip.com",
+      "zed.dev",
+      "ghostty.org",
+      "obsidian.md",
+      "docker.com",
+      "netnewswire.com",
+      "tools.marc-julian.com"
+    ],
+    "textSnippet": "Marc Julian Schwarz — MJ&#39;s Blog Marc Julian Schwarz AI Engineer at GovRadar . I also build sammlung.app and Obsidian for Raycast , the missing tools for knowledge workers. Send Email · Setup a Call 2026–Today GovRadar Munich, Germany (Remote) AI Engineer building AI-powered solutions that help public administrations prepare procurement processes faster and more efficiently. 2024–2026 AHEAD Automotive Hamburg, Germany Data Scientist &amp; Software Engineer working on Qira , an intelligent assistant that supports car mechanics in their daily work. 2022–2024 AI Office at DATEV Nuremberg, Germany Data Scientist / Working Student. Worked on semantic-preserving PII anonymization, mixed integer program optimization, retrieval augmented generation, fine-tuning of large language models. 2021–2022 Fraunhofer IIS Nuremberg, Germany Research Assistant / Working Student in the \"Machine Learning and Validation\" research group. Supported the team in analyzing motion capture data, built a Python Flask API and web application dashboard. Want to work with me? View full CV Recent Blog Posts AirPlay Receiver Runs on Port 5000 Jun 8, 2026 AltTab does not work anymore Jun 8, 2026 Neapolitan Pizza Do",
+    "status": "ok",
+    "screenshot": "/shots/marc-julian-de.jpg"
+  },
+  {
+    "id": "marco-fyi",
+    "host": "www.marco.fyi",
+    "url": "https://www.marco.fyi/",
+    "finalUrl": "https://www.marco.fyi/",
+    "title": "Marco Cornacchia—Product Designer in SF",
+    "description": "i design things.",
+    "ogImage": "https://cdn.prod.website-files.com/62c89bdb7c26b515f632de67/6317913448d0943c95005700_twitter-og-img.png",
+    "favicon": "https://cdn.prod.website-files.com/62c89bdb7c26b515f632de67/62ff47bdf42b3405c93ecb69_card-favicon.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "marcocornacchia.read.cv",
+      "turfsports.com",
+      "icloud.com"
+    ],
+    "textSnippet": "Marco Cornacchia—Product Designer in SF Home About Work Contact Marco Cornacchia Text Me Email Me CV @marcofyi Look around… Marco is building Turf . i design things. i think design can change things. i think the things we design are just as important as the things we choose not to. i think we should design things that do the things we don&#x27;t enjoy, and make the things we do enjoy, even better. i think there are too many things. i think there should be fewer, but better things * . the best things. an optimal amount. * Less, but better. Arc Marco Cornacchia https://marcooo.xyz/ Marco Cornacchia https://marcooo.xyz/ marco ✦ (@marcofyi) https://twitter.com/marcofyi marco ✦ (@marcofyi) https://twitter.com/marcofyi Are.na — Marco Cornacchia https://www.are.na/marco-cornacchia Are.na — Marco Cornacchia https://www.are.na/marco-cornacchia Sidebar https://sidebar.io/ Sidebar https://sidebar.io/ Good News https://news.hifolks.com/ Good News https://news.hifolks.com/ Notion DotOS Notes Marco&#x27;s Workspace DotOS Notes Marco&#x27;s Workspace 1-on-1 Meeting Notes Marco&#x27;s Workspace 1-on-1 Meeting Notes Marco&#x27;s Workspace Project Timeline Marco&#x27;s Workspace Project Timeline Mar",
+    "status": "ok",
+    "screenshot": "/shots/marco-fyi.jpg"
+  },
+  {
+    "id": "oliverburkeman-com",
+    "host": "www.oliverburkeman.com",
+    "url": "https://www.oliverburkeman.com/",
+    "finalUrl": "https://www.oliverburkeman.com/",
+    "title": "Home | Oliver Burkeman",
+    "description": "",
+    "ogImage": "https://static.wixstatic.com/media/053ea9_423193248b6742e282afcb4ca15c2aab~mv2.jpg/v1/fill/w_531,h_885,al_c/053ea9_423193248b6742e282afcb4ca15c2aab~mv2.jpg",
+    "favicon": "https://static.wixstatic.com/media/053ea9_904d6f423dcd49119dc3ae38bee7ed80%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/053ea9_904d6f423dcd49119dc3ae38bee7ed80%7Emv2.png",
+    "feeds": [],
+    "tech": [
+      "React",
+      "WebGL/Three.js"
+    ],
+    "outbound": [
+      "static.parastorage.com",
+      "siteassets.parastorage.com"
+    ],
+    "textSnippet": "--> Home | Oliver Burkeman top of page Oliver Burkeman Books Meditations for Mortals Four Thousand Weeks The Antidote &amp; Help! Posts The Imperfectionist Events About More Use tab to navigate through the menu items. A four-week adventure in facing reality, embracing imperfection, and finally getting around to what counts. &lsquo;Oliver Burkeman has a way of giving you the most unexpected productivity advice exactly when you need it&rsquo; &ndash; Mark Manson ​ &lsquo;We should all read this&hellip; for the sake of our aching world as well as the state of our souls&rsquo; &ndash; Krista Tippett Out now in the US, UK, Canada, Australia and New Zealand&nbsp; LEARN MORE + ORDER Twice monthly I publish&nbsp; The Imperfectionist, &nbsp;an email on productivity, mortality, the power of limits, and building a meaningful life in an age of bewilderment. Sign up to receive it plus other occasional updates Selected posts ​ The three-or-four hours rule for getting creative work done ​ What if you never sort your life out? ​ How to make writing less hard ​ ​ Treat your to-read pile like a river, not a bucket ​ More posts &gt;&gt; ​ ​ Home Books Posts The Imperfectionist About ​ Email me at oli",
+    "status": "ok",
+    "screenshot": "/shots/oliverburkeman-com.jpg"
+  },
+  {
+    "id": "seanrk-com",
+    "host": "www.seanrk.com",
+    "url": "https://www.seanrk.com/",
+    "finalUrl": "https://www.seanrk.com/",
+    "title": "Sean Kennedy - Design Portfolio",
+    "description": "Here you will find some work I've done.",
+    "ogImage": "https://www.seanrk.com/_assets/v11/163fe1111df39d08920089e8c069ce618025d622.png",
+    "favicon": "https://www.seanrk.com/_assets/v11/0fe0240019288d0fc9a4d84f9fcd4315e8e13618.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Sean Kennedy - Design Portfolio Sean Robert Kennedy LinkedIn TikTok Contact Open to → Freelance design Hourly → Fractional leadership Monthly → Full time Let’s talk Since 2008 Award Emmy Some Big Brands Apple Johnson + Johnson Trane Some Industries apartment Real Estate apparel Fashion factory Manufacturing Passions mindfulness Mental Health neurology Systems Thinking healing Non-profits Need proof? Here’s pudding. Designs from the past few years. I led design direction and built teams at the worlds largest heating and cooling manufacturer. 2022-2025 Before Reference In 2022, Trane Residential’s website didn’t align with it’s market-leader premium brand aesthetic established in it’s ad campaigns. We fixed that. After “” Sean’s design direction and stakeholder mgmt. made exploration, execution, and delivery simple. Alex Shimotake Senior Product Designer The overhaul kicked off with the home page and global navigation with an iterative rollout plan spanning 6-12 mo. In 2024, our work on the Residential website inspired Trane’s CDO to have us lead the standardization of design company-wide. Out with the old. Before In with the new. We brought dozens of teams together to kick off in Ja",
+    "status": "ok",
+    "screenshot": "/shots/seanrk-com.jpg"
+  },
+  {
+    "id": "sj-land",
+    "host": "www.sj.land",
+    "url": "https://www.sj.land/",
+    "finalUrl": "https://www.sj.land/",
+    "title": "SJ · Home",
+    "description": "I’m a designer and developer by training and trade. I spend most of my spare time reading about business, finance and crypto. If this combination interests you, welcome to my corner of the internet. This is where I share my reading list, investment updates, and software adventures.",
+    "ogImage": "https://www.sj.land/og/index.png",
+    "favicon": "https://www.sj.land/favicon.gif",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "outbound": [
+      "coinbase.com",
+      "compoundplanning.com",
+      "loversmagazine.com",
+      "ui.land",
+      "thediff.co",
+      "hakaimagazine.com",
+      "worrydream.com",
+      "scholars-stage.org",
+      "pudding.cool"
+    ],
+    "textSnippet": "SJ · Home Home 1 About 2 Projects 3 Writing 4 Investments 5 Boutique 6 Resources Reading List 7 Aesthetic Goods 8 Talent 9 Newsletters 0 Podcasts - Stay in touch Contact / Twitter ↗ Light Dark Auto Hello My name is SJ — Welcome to sj.land. Need a refresher? Reset onboarding. Updates View All Joined Coinbase Institutional ↗ Leading design on Financing products - helping hedge funds leverage and short. May 2024 Merger: Compound → Compound Planning ↗ Compound merged with Alternativ to form a new $1B+ RIA Sep 2023 Interview on LoversMagazine ↗ Some workspace updates. Full feature at https://loversmagazine.com/interviews/sj-zhang Sep 2023 Interview on ui.land ↗ Talked about how I got into design and touched on a little bit of my Fashion background with Emil Apr 2023 Aesthetic Goods View All Head of Fashion T-Shirt Sunnei Grenelle Acetate Sunglasses Ahlem CONEDAMA Joshua Studio X2 Wireless Gaming Mouse Pulsar Ember Contrast Circular Chopping Board Soho House Reading List View All A Short 100-Question Diligence Checklist Business &amp; Finance ↗ From Overwhelming to Intuitive: Effective Data Table Design Design ↗ The Collateral Damage of Yankee Whaling General ↗ A Brief Rant on the Future",
+    "status": "ok",
+    "screenshot": "/shots/sj-land.jpg"
+  },
+  {
+    "id": "stephenwolfram-com",
+    "host": "www.stephenwolfram.com",
+    "url": "https://www.stephenwolfram.com/",
+    "finalUrl": "https://www.stephenwolfram.com/",
+    "title": "Stephen Wolfram: Official Website",
+    "description": "Official website of Stephen Wolfram: Founder & CEO of Wolfram Research; creator of Mathematica, Wolfram|Alpha & the Wolfram Language; author of A New Kind of Science",
+    "ogImage": "https://www.stephenwolfram.com/share.png",
+    "favicon": "https://www.stephenwolfram.com/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "livestreams.stephenwolfram.com",
+      "writings.stephenwolfram.com",
+      "wolframscience.com",
+      "wolfram-media.com",
+      "wolfram.com",
+      "wolframphysics.org"
+    ],
+    "textSnippet": "Stephen Wolfram: Official Website --> Stephen Wolfram Latest Writings Publications &amp; Speeches Interviews &amp; Media The Life and Times of Stephen Wolfram: A Scrapbook Livestreams Podcasts Posts About Stephen Wolfram Q&amp;A Contact Stephen Wolfram Founder &amp; CEO of Wolfram Research Creator of Mathematica , Wolfram|Alpha &amp; Wolfram&nbsp;Language Author of A New Kind of Science and other books Originator of Wolfram Physics Project Latest Writings All Writings Books Books All Books &amp; Publications Related Resources Wolfram Research Wolfram Language Wolfram Physics Project Wolfram|Alpha Wolfram Foundation Wolfram Summer Programs CONTACT © Stephen Wolfram, LLC",
+    "status": "ok",
+    "screenshot": "/shots/stephenwolfram-com.jpg"
+  },
+  {
+    "id": "taniarascia-com",
+    "host": "www.taniarascia.com",
+    "url": "https://www.taniarascia.com/",
+    "finalUrl": "https://www.taniarascia.com/",
+    "title": "Tania Rascia's Website",
+    "description": "Software engineer and open source creator. This is my digital garden.",
+    "ogImage": "https://taniarascia.com/logo.png",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAbNJREFUWEdjZCARSEnJ/ydRC4ryZ88eMpKinyTFIIMH3IH8QmZYQ4ib4yXY45MmLSAlADDU5uUlgMW+/hAH0x/fncIbSBiSg9aBMIe1de5C8fWWnX/B/IvHjMD0hg17yArBR4+egPXBQlDf6hyYf2yfJ96QhIfgkHPgtZvsYJ/de/ANbwhKSUHS0rNnkDQKA2ZmqijJZ82a/eC0jR6CMPW4QhJnCA5bB8LSWkiII94QDIy6gRJDuEKS6iE4aByIK+2R6kBYyMHSOnpaJDsEB70DcRWGgyYEB70DYSFFarUCKwdhuZhmaXDQOBDdh7A6mdSQg6lHDzmKQ3DIOJDcECNWH9nlILEWUKqOYgcumWdPqRtQ9Fs5bQfzlRS4UOpkkmsSmKmD1oEwh509tZYqIXjt2h2wObEJ5WA6JukgZSE4aB0I64vA0gQsBJWVZcgKybt3IX0SqoXgqAMpTYOjITgagiTm5ZGTi3GV7Og1CbHlIXrIwQIeVpPA6mSi+8WD3oG4fLR4QSeJqQ6/crJDcNA6EOZfXAOYVA0+PIahj7gSPcI6aBxIL4cQaw/Jo/zEGkwtdQBrbfJHElv02wAAAABJRU5ErkJggg==",
+    "feeds": [
+      "https://www.taniarascia.com/rss.xml"
+    ],
+    "tech": [
+      "Gatsby",
+      "React",
+      "WebGL/Three.js"
+    ],
+    "outbound": [
+      "keyboardaccordion.com",
+      "takenote.dev",
+      "ko-fi.com",
+      "gatsbyjs.org"
+    ],
+    "textSnippet": "Tania Rascia&#x27;s Website Tania Rascia Go Blog Notes Projects About Me Color Tania Rascia Color Theme About Me I&#x27;m Tania , software engineer and open-source creator. This is my digital garden. 🌱 Blog Notes Projects About Me Stay Connected Email signup Bluesky RSS feed Hey, I&#x27;m Tania! I&#x27;m a software engineer, open-source creator, and former professional chef. I&#x27;ve been making websites since 1998 and writing on this blog for over ten years! Everything on this site is written by me, not AI. About Me Email Newsletter Blog Guides, references, and tutorials. March 31 Enabling Apache ECharts in React for Data Visualization October 19 Creating a Keyboard Shortcut Hook in React (Deep Dive) October 9 HTML Tables with Horizontal Scroll and Sticky Headers February 15 How to Use WebSockets in a Redux Application January 27 Understanding the GraphQL Type System Notes Life, music, projects, and everything else. March 27 Year in Review: 2024 into 2025 December 1 Redesign: Version 7.0: Sidebars, light-dark, and Bluesky January 20 Year in Review: 2023 into 2024 January 2 Year in Review: 2022 into 2023 December 29 The Lore of Animorphs (an Ode) Deep Dives Long-form tutorials on",
+    "status": "ok",
+    "screenshot": "/shots/taniarascia-com.jpg"
+  },
+  {
+    "id": "wethecitizens-net",
+    "host": "www.wethecitizens.net",
+    "url": "https://www.wethecitizens.net/",
+    "finalUrl": "https://www.wethecitizens.net/",
+    "title": "We, The Citizens",
+    "description": "Stories, analysis and weekly wraps from Singapore.",
+    "ogImage": "https://storage.ghost.io/c/65/7c/657c643d-32a8-478f-b377-dfe31a248c90/content/images/2021/03/Logo-2.png",
+    "favicon": "https://storage.ghost.io/c/65/7c/657c643d-32a8-478f-b377-dfe31a248c90/content/images/size/w256h256/2021/03/Logo.png",
+    "feeds": [
+      "https://www.wethecitizens.net/archive/rss/"
+    ],
+    "tech": [
+      "Ghost"
+    ],
+    "outbound": [
+      "storage.ghost.io",
+      "ghost.org",
+      "aspirethemes.com"
+    ],
+    "textSnippet": "We, The Citizens Skip to content About Altering States Specials Wraps Announcements Archive Sign In Subscribe Hello there. I'm Kirsten Han , an independent journalist and activist. We, The Citizens is where I write about Singapore with a focus on politics, democracy, human rights and social justice. Subscribe for what? Not everyone has the time to obsess over what's going on in Singapore like I do. As my mother once described We, The Citizens : \"She reads the news so you don't have to.\" Weekly curated summaries Your support keeps me writing independently about Singapore, its politics and civil society. I also maintain the POFMA Tracker and a spreadsheet of GE Manifestos ! Support independent journalism Trying to make sense of Singapore? Or maybe you're hoping to find out more about civil liberties and activism? I give you my take on issues and events in my country. What&#x27;s the tea? Paid subscribers, known as Milo Peng Funders, get first dibs on secondhand books. Click here for the list of available books. Free books! Just sign up lah. Subscribe Email sent! Check your inbox to complete your signup. I promise I won't spam you. And you can unsubscribe any time. Previously on... WT",
+    "status": "ok",
+    "screenshot": "/shots/wethecitizens-net.jpg"
   }
 ]

@@ -1312,5 +1312,595 @@
     "features": [
       "Portfolio"
     ]
+  },
+  "anthonyhobday-com": {
+    "name": "Anthony Hobday",
+    "summary": "Product designer sharing clear guidelines and tools for visual design.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "arcana-computer": {
+    "name": "Justin Duke",
+    "summary": "CEO of Buttondown; essays and media reviews at Applied Cartography.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "billyoppenheimer-com": {
+    "name": "Billy Oppenheimer",
+    "summary": "Writer and research assistant; sends the weekly SIX at 6 newsletter.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Newsletter",
+      "Blog"
+    ]
+  },
+  "birchtree-me": {
+    "name": "Matt Birchler",
+    "summary": "Writing about tech, Apple, and the vast grey area that is AI.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "AI"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "capwatkins-com": {
+    "name": "Cap Watkins",
+    "summary": "Design leader and executive writing on design and management.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cedricdelpoux-fr": {
+    "name": "Cédric Delpoux",
+    "summary": "French maker sharing the passions he lives by, day to day.",
+    "role": "Maker",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "chad-is": {
+    "name": "Chad Mazzola",
+    "summary": "Design and product leader; personal site and writing.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ciechanow-ski": {
+    "name": "Bartosz Ciechanowski",
+    "summary": "Mind-bending interactive articles explaining science and engineering.",
+    "role": "Engineer",
+    "tags": [
+      "Education",
+      "3D/WebGL",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "emilkowal-ski": {
+    "name": "Emil Kowalski",
+    "summary": "Design engineer at Linear; writes about animation and craft.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "flocrivello-com": {
+    "name": "Flo Crivello",
+    "summary": "Founder and CEO of Lindy; musings on philosophy, business, and tech.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "frankchimero-com": {
+    "name": "Frank Chimero",
+    "summary": "Designer and writer; personal site and essays.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "irimi-one": {
+    "name": "irimi.one",
+    "summary": "A quiet, minimal corner of the personal web.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "kk-org": {
+    "name": "Kevin Kelly",
+    "summary": "Founding editor of Wired; author and futurist thinking in the long term.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "kor-nz": {
+    "name": "Hamish MacDonald",
+    "summary": "Personal site of Hamish MacDonald.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "linedandunlined-com": {
+    "name": "Rob Giampietro",
+    "summary": "A filing cabinet on the internet by designer and writer Rob Giampietro.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "magoz-studio": {
+    "name": "Magoz",
+    "summary": "Artist in Malmö making bold illustrations and animations.",
+    "role": "Artist",
+    "tags": [
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "marcbouchenoire-com": {
+    "name": "Marc Bouchenoire",
+    "summary": "Detail-obsessed design engineer building delightful products.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "marcel-fyi": {
+    "name": "Marcel Wichmann",
+    "summary": "Designer and developer for digital products.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "mattrothenberg-com": {
+    "name": "Matt Rothenberg",
+    "summary": "Designer and front-end developer based in New York.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio",
+      "Blog"
+    ]
+  },
+  "nchrs-xyz": {
+    "name": "NCHRS",
+    "summary": "A minimal personal index and home portal.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "nelson-co": {
+    "name": "Gavin Nelson",
+    "summary": "Designer; portfolio and personal site.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "notebook-lachlanjc-com": {
+    "name": "Lachlan Campbell",
+    "summary": "Hack Club developer; a notebook of posts about whatever they want.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "notebook-wesleyac-com": {
+    "name": "Wesley Aptekar-Cassels",
+    "summary": "A developer's public notebook and working notes.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "onlydeadfish-co-uk": {
+    "name": "Neil Perkin",
+    "summary": "AI strategy and transformation; author and keynote speaker Neil Perkin.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "ped-ro": {
+    "name": "Pedro Duarte",
+    "summary": "Developer; code, content, and other things.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "philipcdavis-com": {
+    "name": "Philip Davis",
+    "summary": "The personal site of Philip Davis.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "rachsmith-com": {
+    "name": "Rach Smith",
+    "summary": "Developer at CodePen; a digital garden on dev and productivity.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "randsinrepose-com": {
+    "name": "Michael Lopp (Rands)",
+    "summary": "Stories about the humans who build software; engineering leadership.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Startups"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "raul-gil-com": {
+    "name": "Raúl Gil",
+    "summary": "Illustrator and designer from Barcelona giving character to products.",
+    "role": "Artist",
+    "tags": [
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "rauno-me": {
+    "name": "Rauno Freiberg",
+    "summary": "Estonian interaction designer working with Vercel; Devouring Details.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "3D/WebGL"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "rishimohan-me": {
+    "name": "Rishi Mohan",
+    "summary": "Designer and front-end engineer; also photos, travel, and cafes.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Photography"
+    ],
+    "features": [
+      "Blog",
+      "Portfolio"
+    ]
+  },
+  "simone-computer": {
+    "name": "Simone Marzulli",
+    "summary": "A playful personal computer of a site; click your favourite buttons.",
+    "role": "Maker",
+    "tags": [
+      "Web Dev",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stefanzweifel-io": {
+    "name": "Stefan Zweifel",
+    "summary": "Full-stack developer creating things on the internet.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tendigits-space": {
+    "name": "Ten Digits",
+    "summary": "Notes kept along the way.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tilde-town": {
+    "name": "tilde.town",
+    "summary": "A friendly community on a shared unix server; the communal indie web.",
+    "role": "Collection",
+    "tags": [
+      "Indie Hacking",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "tonsky-me": {
+    "name": "Nikita Prokopov",
+    "summary": "Developer and designer ranting about software quality; Clojure and fonts.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "adamcollier-co-uk": {
+    "name": "Adam Collier",
+    "summary": "Personal site of Adam Collier.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "coryetzkorn-com": {
+    "name": "Cory Etzkorn",
+    "summary": "Founder of Soulmate, a dating app that is just a conversation.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eikedrescher-com": {
+    "name": "Eike Drescher",
+    "summary": "Product designer marrying the artistic with the useful.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "fromjason-xyz": {
+    "name": "Jason",
+    "summary": "Odes, satires, and other matters of stuff and things.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jeremiak-com": {
+    "name": "Jeremia Kimelman",
+    "summary": "Developer and data journalist; blog and work portfolio.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Portfolio"
+    ]
+  },
+  "jordienric-com": {
+    "name": "Jordi Enric",
+    "summary": "Software engineer at Supabase; writing, notes, and bookmarks.",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "madewithtea-com": {
+    "name": "Jendrik Poloczek",
+    "summary": "Blockchain security engineer at Aikido; former ML researcher.",
+    "role": "Engineer",
+    "tags": [
+      "Security",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "marc-julian-de": {
+    "name": "Marc Julian Schwarz",
+    "summary": "A developer's personal blog.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "marco-fyi": {
+    "name": "Marco Cornacchia",
+    "summary": "Product designer in San Francisco.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "oliverburkeman-com": {
+    "name": "Oliver Burkeman",
+    "summary": "Writer; author of Four Thousand Weeks and the Imperfectionist.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "seanrk-com": {
+    "name": "Sean Kennedy",
+    "summary": "Designer; a portfolio of selected work.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "sj-land": {
+    "name": "SJ",
+    "summary": "Designer and developer reading about business, finance, and crypto.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Finance"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stephenwolfram-com": {
+    "name": "Stephen Wolfram",
+    "summary": "Founder and CEO of Wolfram Research; creator of Mathematica and Wolfram|Alpha.",
+    "role": "Founder",
+    "tags": [
+      "Math",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "taniarascia-com": {
+    "name": "Tania Rascia",
+    "summary": "Software engineer and open-source creator; a digital garden.",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "wethecitizens-net": {
+    "name": "We, The Citizens",
+    "summary": "Stories, analysis, and weekly wraps on Singapore politics.",
+    "role": "Writer",
+    "tags": [
+      "Politics",
+      "Writing"
+    ],
+    "features": [
+      "Newsletter",
+      "Blog"
+    ]
   }
 }

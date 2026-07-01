@@ -1106,7 +1106,7 @@
       "help.linktr.ee"
     ],
     "links": [],
-    "inDegree": 1,
+    "inDegree": 2,
     "status": "ok"
   },
   {
@@ -4047,6 +4047,1787 @@
     ],
     "links": [],
     "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "anthonyhobday-com",
+    "url": "https://anthonyhobday.com/",
+    "host": "anthonyhobday.com",
+    "finalUrl": "https://anthonyhobday.com/",
+    "name": "Anthony Hobday",
+    "title": "Anthony Hobday—Product designer",
+    "summary": "Product designer sharing clear guidelines and tools for visual design.",
+    "description": "",
+    "screenshot": "/shots/anthonyhobday-com.jpg",
+    "ogImage": null,
+    "favicon": "https://anthonyhobday.com/favicon.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "hyperisland.com",
+      "learnui.design",
+      "heydesigner.com",
+      "designdisciplin.com",
+      "rss.com",
+      "beforeiplay.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "arcana-computer",
+    "url": "https://arcana.computer/",
+    "host": "arcana.computer",
+    "finalUrl": "https://www.jmduke.com/",
+    "name": "Justin Duke",
+    "title": "Applied Cartography | Justin Duke",
+    "summary": "CEO of Buttondown; essays and media reviews at Applied Cartography.",
+    "description": "Essays and media reviews by Justin Duke, CEO of Buttondown and partner at Third South Capital.",
+    "screenshot": "/shots/arcana-computer.jpg",
+    "ogImage": null,
+    "favicon": "https://www.jmduke.com/favicon.svg",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Vercel"
+    ],
+    "feeds": [
+      "https://www.jmduke.com/feed.xml",
+      "https://www.jmduke.com/essays.xml"
+    ],
+    "outbound": [
+      "buttondown.com",
+      "thirdsouth.capital",
+      "newsletter.lowfalutin.co.uk"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "billyoppenheimer-com",
+    "url": "https://billyoppenheimer.com/",
+    "host": "billyoppenheimer.com",
+    "finalUrl": "https://billyoppenheimer.com/",
+    "name": "Billy Oppenheimer",
+    "title": "Newsletter - Billy Oppenheimer",
+    "summary": "Writer and research assistant; sends the weekly SIX at 6 newsletter.",
+    "description": "\"Unfailingly interesting, delightful, and well-written.\" Every Sunday, around 6 PM (CT), I send out the SIX at 6 newsletter. You can subscribe here: Subscribe Or email me, and I'll add you. Read previous issues of the SIX at 6 newsletter: 2026 Jun 21 | SIX at 6: Things Going Well, Castles In The Air, The",
+    "screenshot": "/shots/billyoppenheimer-com.jpg",
+    "ogImage": "https://billyoppenheimer.com/wp-content/uploads/2021/05/Six-at-6-1-edited.png",
+    "favicon": "https://i0.wp.com/billyoppenheimer.com/wp-content/uploads/2023/03/cropped-WDVG5VPj_400x400.png?fit=32%2C32&#038;ssl=1",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Newsletter",
+      "Blog"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [
+      "https://billyoppenheimer.com/feed/",
+      "https://billyoppenheimer.com/comments/feed/"
+    ],
+    "outbound": [
+      "wp.me",
+      "i0.wp.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "birchtree-me",
+    "url": "https://birchtree.me/",
+    "host": "birchtree.me",
+    "finalUrl": "https://birchtree.me/",
+    "name": "Matt Birchler",
+    "title": "Birchtree",
+    "summary": "Writing about tech, Apple, and the vast grey area that is AI.",
+    "description": "Tech, Apple, and the vast grey area that is AI",
+    "screenshot": "/shots/birchtree-me.jpg",
+    "ogImage": null,
+    "favicon": "https://storage.ghost.io/c/25/31/25312b2a-2d5b-4d01-ba92-e6755efc202c/content/images/size/w256h256/2025/03/birchtreefavi.png",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "AI"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "Ghost"
+    ],
+    "feeds": [
+      "https://birchtree.me/rss/"
+    ],
+    "outbound": [
+      "storage.ghost.io",
+      "macstories.net",
+      "quickstuff.app",
+      "mattbirchler.omg.lol",
+      "ghost.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "capwatkins-com",
+    "url": "https://capwatkins.com/",
+    "host": "capwatkins.com",
+    "finalUrl": "https://capwatkins.com/",
+    "name": "Cap Watkins",
+    "title": "Cap Watkins",
+    "summary": "Design leader and executive writing on design and management.",
+    "description": "",
+    "screenshot": "/shots/capwatkins-com.jpg",
+    "ogImage": "https://capwatkins.com/assets/images/social-image-capwatkins.jpg",
+    "favicon": "https://capwatkins.com/favicon.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://capwatkins.com/blog/rss"
+    ],
+    "outbound": [
+      "quickbooks.com",
+      "lattice.com",
+      "primary.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "cedricdelpoux-fr",
+    "url": "https://cedricdelpoux.fr/",
+    "host": "cedricdelpoux.fr",
+    "finalUrl": "https://cedricdelpoux.fr/",
+    "name": "Cédric Delpoux",
+    "title": "Cédric Delpoux",
+    "summary": "French maker sharing the passions he lives by, day to day.",
+    "description": "Bienvenue cher visiteur. Je partage ici les passions qui m’animent et dans lesquelles je m’épanouis au quotidien.",
+    "screenshot": "/shots/cedricdelpoux-fr.jpg",
+    "ogImage": "https://cedricdelpoux.fr/meta-image.png",
+    "favicon": "https://cedricdelpoux.fr/favicon.svg",
+    "role": "Maker",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Gatsby",
+      "React",
+      "WebGL/Three.js"
+    ],
+    "feeds": [
+      "https://cedricdelpoux.fr/rss.xml"
+    ],
+    "outbound": [
+      "strava.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "chad-is",
+    "url": "https://chad.is/",
+    "host": "chad.is",
+    "finalUrl": "https://www.chad.is/",
+    "name": "Chad Mazzola",
+    "title": "Chad Mazzola",
+    "summary": "Design and product leader; personal site and writing.",
+    "description": "Personal website of Chad Mazzola",
+    "screenshot": "/shots/chad-is.jpg",
+    "ogImage": null,
+    "favicon": "https://www.chad.is/icon.png?icon.0fvrsbw3~1e37.png?dpl=dpl_8tX2APGJjyxMzFtpEBwDsR3BrWod",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "chadwin.co",
+      "feedforward.chad.is",
+      "transcendence.chad.is",
+      "tecmogeek.com",
+      "beautifulwebtype.com",
+      "are.na"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "ciechanow-ski",
+    "url": "https://ciechanow.ski/",
+    "host": "ciechanow.ski",
+    "finalUrl": "https://ciechanow.ski/",
+    "name": "Bartosz Ciechanowski",
+    "title": "Bartosz Ciechanowski",
+    "summary": "Mind-bending interactive articles explaining science and engineering.",
+    "description": "Interactive articles about science and engineering.",
+    "screenshot": "/shots/ciechanow-ski.jpg",
+    "ogImage": null,
+    "favicon": "https://ciechanow.ski/favicon.ico",
+    "role": "Engineer",
+    "tags": [
+      "Education",
+      "3D/WebGL",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "React"
+    ],
+    "feeds": [
+      "https://ciechanow.ski/atom.xml"
+    ],
+    "outbound": [
+      "en.wikipedia.org",
+      "adsabs.harvard.edu",
+      "iopscience.iop.org",
+      "nature.com",
+      "iau.org",
+      "ssd.jpl.nasa.gov",
+      "astrophoto.fr",
+      "researchgate.net",
+      "lpi.usra.edu",
+      "link.springer.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "emilkowal-ski",
+    "url": "https://emilkowal.ski/",
+    "host": "emilkowal.ski",
+    "finalUrl": "https://emilkowal.ski/",
+    "name": "Emil Kowalski",
+    "title": "Emil Kowalski",
+    "summary": "Design engineer at Linear; writes about animation and craft.",
+    "description": "Design engineer working at Linear.",
+    "screenshot": "/shots/emilkowal-ski.jpg",
+    "ogImage": "https://emilkowal.ski/opengraph-image.png?892f3fd8543bf349",
+    "favicon": "https://emilkowal.ski/favicon.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "animations.dev",
+      "sonner.emilkowal.ski",
+      "vaul.emilkowal.ski"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "flocrivello-com",
+    "url": "https://flocrivello.com/",
+    "host": "flocrivello.com",
+    "finalUrl": "https://flocrivello.com/",
+    "name": "Flo Crivello",
+    "title": "Flo Crivello",
+    "summary": "Founder and CEO of Lindy; musings on philosophy, business, and tech.",
+    "description": "I'm Flo, founder & CEO of Lindy. This is my personal blog, where I muse on philosophy, business strategy, technology, and really anything that catches my fancy.",
+    "screenshot": "/shots/flocrivello-com.jpg",
+    "ogImage": null,
+    "favicon": "https://storage.ghost.io/c/a2/a9/a2a906be-e7be-491d-9095-826b0059183f/content/images/size/w256h256/2022/11/profile-pic--1-.png",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Ghost"
+    ],
+    "feeds": [
+      "https://flocrivello.com/rss/"
+    ],
+    "outbound": [
+      "storage.ghost.io",
+      "ghost.org",
+      "aspirethemes.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "frankchimero-com",
+    "url": "https://frankchimero.com/",
+    "host": "frankchimero.com",
+    "finalUrl": "https://frankchimero.com/",
+    "name": "Frank Chimero",
+    "title": "Frank Chimero · Frank Chimero",
+    "summary": "Designer and writer; personal site and essays.",
+    "description": "Personal site of designer Frank Chimero",
+    "screenshot": "/shots/frankchimero-com.jpg",
+    "ogImage": null,
+    "favicon": "https://frankchimero.com/favicon.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://frankchimero.com/feed.xml"
+    ],
+    "outbound": [
+      "studiofrank.co",
+      "shapeofdesignbook.com",
+      "frankchimero.eo.page"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "irimi-one",
+    "url": "https://irimi.one/",
+    "host": "irimi.one",
+    "finalUrl": "https://irimi.one/",
+    "name": "irimi.one",
+    "title": "irimi.one",
+    "summary": "A quiet, minimal corner of the personal web.",
+    "description": "",
+    "screenshot": "/shots/irimi-one.jpg",
+    "ogImage": null,
+    "favicon": "https://irimi.one/favicon.png",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "alwinweber.de",
+      "circuit-control.de",
+      "dirtyelectronics.org",
+      "tilde.green",
+      "flipfloater.net",
+      "noisio.de",
+      "poetaster.org",
+      "merveilles.town",
+      "irimi1.bandcamp.com",
+      "makertube.net"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "kk-org",
+    "url": "https://kk.org/",
+    "host": "kk.org",
+    "finalUrl": "https://kk.org/",
+    "name": "Kevin Kelly",
+    "title": "Kevin Kelly – Over the long term, the future is decided by optimists",
+    "summary": "Founding editor of Wired; author and futurist thinking in the long term.",
+    "description": "",
+    "screenshot": "/shots/kk-org.jpg",
+    "ogImage": null,
+    "favicon": "https://kk.org/wp-content/uploads/2022/02/favicon.png",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [],
+    "outbound": [
+      "gmpg.org",
+      "amzn.to",
+      "ted.com",
+      "warpnews.org",
+      "wired.com",
+      "recomendo.com",
+      "go.skimresources.com",
+      "kevinkelly.gumroad.com",
+      "getrevue.co",
+      "asiagrace.com",
+      "truefilms.com",
+      "winkbooks.net",
+      "silver-cord.net",
+      "feedpress.me",
+      "creativecommons.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "kor-nz",
+    "url": "https://kor.nz/",
+    "host": "kor.nz",
+    "finalUrl": "https://kor.nz/",
+    "name": "Hamish MacDonald",
+    "title": "Hamish MacDonald",
+    "summary": "Personal site of Hamish MacDonald.",
+    "description": "",
+    "screenshot": "/shots/kor-nz.jpg",
+    "ogImage": null,
+    "favicon": "https://kor.nz/favicon.svg",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [
+      "Astro",
+      "WebGL/Three.js"
+    ],
+    "feeds": [],
+    "outbound": [
+      "mapmage.gg"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "linedandunlined-com",
+    "url": "https://linedandunlined.com/",
+    "host": "linedandunlined.com",
+    "finalUrl": "https://linedandunlined.com/",
+    "name": "Rob Giampietro",
+    "title": "Lined & Unlined · Home",
+    "summary": "A filing cabinet on the internet by designer and writer Rob Giampietro.",
+    "description": "A filing cabinet on the internet by Rob Giampietro",
+    "screenshot": "/shots/linedandunlined-com.jpg",
+    "ogImage": "/icons/icon-1200x628.png",
+    "favicon": "https://linedandunlined.com/favicon.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://linedandunlined.com/feed"
+    ],
+    "outbound": [
+      "landing.mailerlite.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "magoz-studio",
+    "url": "https://magoz.studio/",
+    "host": "magoz.studio",
+    "finalUrl": "https://magoz.com/",
+    "name": "Magoz",
+    "title": "Magoz",
+    "summary": "Artist in Malmö making bold illustrations and animations.",
+    "description": "Magoz is an artist based in Malmö, Sweden. He creates illustrations and animations focusing on visual communication, problem solving, and minimalism.",
+    "screenshot": "/shots/magoz-studio.jpg",
+    "ogImage": "https://magoz.com/i/magoz-og-image.jpg",
+    "favicon": "https://magoz.com/icon.svg?b1cd120bd8fd4674",
+    "role": "Artist",
+    "tags": [
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "marcbouchenoire-com",
+    "url": "https://marcbouchenoire.com/",
+    "host": "marcbouchenoire.com",
+    "finalUrl": "https://marcbouchenoire.com/",
+    "name": "Marc Bouchenoire",
+    "title": "Marc Bouchenoire",
+    "summary": "Detail-obsessed design engineer building delightful products.",
+    "description": "A detail-obsessed Design Engineer, designing and building delightful products.",
+    "screenshot": "/shots/marcbouchenoire-com.jpg",
+    "ogImage": "https://marcbouchenoire.com/meta.png",
+    "favicon": "https://marcbouchenoire.com/favicon.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "liveblocks.io",
+      "framer.com",
+      "sanity.io",
+      "sketch.com",
+      "frimousse.liveblocks.io",
+      "typometer.marcbouchenoire.com",
+      "symbolist.marcbouchenoire.com",
+      "dimmmensions.marcbouchenoire.com",
+      "awkward.co",
+      "en.lecolededesign.com",
+      "last.fm",
+      "lastfm.freetls.fastly.net"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "marcel-fyi",
+    "url": "https://marcel.fyi/",
+    "host": "marcel.fyi",
+    "finalUrl": "https://marcel.fyi/",
+    "name": "Marcel Wichmann",
+    "title": "Marcel Wichmann - Product Design, UI Design, UX Design",
+    "summary": "Designer and developer for digital products.",
+    "description": "Hey, I'm Marcel, a designer and developer for digital products.",
+    "screenshot": "/shots/marcel-fyi.jpg",
+    "ogImage": "/og_image.png",
+    "favicon": "https://marcel.fyi/favicon-32x32.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "mattrothenberg-com",
+    "url": "https://mattrothenberg.com/",
+    "host": "mattrothenberg.com",
+    "finalUrl": "https://mattrothenberg.com/",
+    "name": "Matt Rothenberg",
+    "title": "Matt Rothenberg",
+    "summary": "Designer and front-end developer based in New York.",
+    "description": "Matt Rothenberg is a Designer and Front-End Developer based in New York",
+    "screenshot": "/shots/mattrothenberg-com.jpg",
+    "ogImage": "https://mattrothenberg.com/_astro/og.CZUOcJjo.png",
+    "favicon": "https://mattrothenberg.com/favicon-96x96.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio",
+      "Blog"
+    ],
+    "tech": [
+      "Astro",
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "kumo-ui.com",
+      "heroku.com",
+      "undp.org",
+      "digitaldevelopmentcompass.undp.org",
+      "getrepeat.io",
+      "arrows.to",
+      "berryfertility.com",
+      "mcdbooks.com",
+      "documate.org",
+      "passivehouseaccelerator.com",
+      "stufstorage.com",
+      "early.works",
+      "untitled.stream",
+      "tellurideprivateresidences.com",
+      "brightband.com",
+      "skyways.com",
+      "fortpartners.com",
+      "conductor.build",
+      "dev.to",
+      "soundcloud.com",
+      "hackernoon.com",
+      "codepen.io"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "nchrs-xyz",
+    "url": "https://nchrs.xyz/",
+    "host": "nchrs.xyz",
+    "finalUrl": "https://nchrs.xyz/",
+    "name": "NCHRS",
+    "title": "NCHRS: Index",
+    "summary": "A minimal personal index and home portal.",
+    "description": "Home portal.",
+    "screenshot": "/shots/nchrs-xyz.jpg",
+    "ogImage": "https://nchrs.xyz/media/headers/index-240.png",
+    "favicon": "https://nchrs.xyz/assets/icon/favicon/favicon-96x96.png",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "creativecommons.org",
+      "merveilles.town",
+      "lieu.cblgh.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "nelson-co",
+    "url": "https://nelson.co/",
+    "host": "nelson.co",
+    "finalUrl": "https://nelson.co/",
+    "name": "Gavin Nelson",
+    "title": "Gavin Nelson, Designer",
+    "summary": "Designer; portfolio and personal site.",
+    "description": "The website and design portfolio of Gavin Nelson.",
+    "screenshot": "/shots/nelson-co.jpg",
+    "ogImage": "https://nelson.co/og.png",
+    "favicon": "https://nelson.co/favicons/favicon.svg",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "openai.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "notebook-lachlanjc-com",
+    "url": "https://notebook.lachlanjc.com/",
+    "host": "notebook.lachlanjc.com",
+    "finalUrl": "https://notebook.lachlanjc.com/",
+    "name": "Lachlan Campbell",
+    "title": "@lachlanjc/notebook",
+    "summary": "Hack Club developer; a notebook of posts about whatever they want.",
+    "description": "Lachlan Campbell’s personal blog, Notebook, with posts about whatever they want.",
+    "screenshot": "/shots/notebook-lachlanjc-com.jpg",
+    "ogImage": "https://notebook.lachlanjc.com/api/card?title=Notebook&fontSize=400px",
+    "favicon": "https://notebook.lachlanjc.com/favicon.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [
+      "https://notebook.lachlanjc.com/feed.xml"
+    ],
+    "outbound": [
+      "lachlanjc.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "notebook-wesleyac-com",
+    "url": "https://notebook.wesleyac.com/",
+    "host": "notebook.wesleyac.com",
+    "finalUrl": "https://notebook.wesleyac.com/",
+    "name": "Wesley Aptekar-Cassels",
+    "title": "Wesley’s Notebook",
+    "summary": "A developer's public notebook and working notes.",
+    "description": "Wesley's notebook",
+    "screenshot": "/shots/notebook-wesleyac-com.jpg",
+    "ogImage": "https://notebook.wesleyac.com/fleuron.png",
+    "favicon": "https://notebook.wesleyac.com/android-chrome-192x192.png",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "React"
+    ],
+    "feeds": [
+      "https://notebook.wesleyac.com/atom.xml"
+    ],
+    "outbound": [
+      "webmention.wesleyac.com",
+      "webmention.io",
+      "webring.recurse.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "onlydeadfish-co-uk",
+    "url": "https://onlydeadfish.co.uk/",
+    "host": "onlydeadfish.co.uk",
+    "finalUrl": "https://onlydeadfish.co.uk/",
+    "name": "Neil Perkin",
+    "title": "Only Dead Fish | AI Strategy, Transformation and Leadership Consultancy - Only Dead Fish",
+    "summary": "AI strategy and transformation; author and keynote speaker Neil Perkin.",
+    "description": "Only Dead Fish is an AI strategy and transformation consultancy run by Neil Perkin, best-selling author, keynote speaker, and workshop facilitator. Helping organisations navigate AI, leadership and change.",
+    "screenshot": "/shots/onlydeadfish-co-uk.jpg",
+    "ogImage": "https://onlydeadfish.co.uk/wp-content/uploads/2023/04/neil-perkin-923x1024.jpg",
+    "favicon": "https://i0.wp.com/onlydeadfish.co.uk/wp-content/uploads/2023/03/cropped-odf_logo.jpg?fit=32%2C32&#038;ssl=1",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [
+      "https://onlydeadfish.co.uk/feed/",
+      "https://onlydeadfish.co.uk/comments/feed/"
+    ],
+    "outbound": [
+      "wp.me",
+      "i0.wp.com",
+      "neilperkin.co.uk",
+      "koganpage.com",
+      "ipa.co.uk"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "ped-ro",
+    "url": "https://ped.ro/",
+    "host": "ped.ro",
+    "finalUrl": "https://ped.ro/",
+    "name": "Pedro Duarte",
+    "title": "Pedro Duarte's Personal Website",
+    "summary": "Developer; code, content, and other things.",
+    "description": "Code, content, and other things.",
+    "screenshot": "/shots/ped-ro.jpg",
+    "ogImage": "https://ped.ro/opengraph-image.jpg?415d826f5aed124b",
+    "favicon": "https://ped.ro/favicon.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "philipcdavis-com",
+    "url": "https://philipcdavis.com/",
+    "host": "philipcdavis.com",
+    "finalUrl": "https://philipcdavis.com/",
+    "name": "Philip Davis",
+    "title": "Philip Davis",
+    "summary": "The personal site of Philip Davis.",
+    "description": "The personal site of Philip Davis",
+    "screenshot": "/shots/philipcdavis-com.jpg",
+    "ogImage": "https://res.cloudinary.com/dpgzvne4j/image/upload/v1604077998/default_ky8gci.png",
+    "favicon": "https://philipcdavis.com/favicons/favicon.svg",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "swiftui.design",
+      "react.design"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "rachsmith-com",
+    "url": "https://rachsmith.com/",
+    "host": "rachsmith.com",
+    "finalUrl": "https://rachsmith.com/",
+    "name": "Rach Smith",
+    "title": "Home | Rach Smith's digital garden",
+    "summary": "Developer at CodePen; a digital garden on dev and productivity.",
+    "description": "Hi 👋🏼 I'm Rach. A developer building software for CodePen, wife, mother of two,\n  productivity nerd and recovering screen addict. This is my digital garden.",
+    "screenshot": "/shots/rachsmith-com.jpg",
+    "ogImage": null,
+    "favicon": "https://rachsmith.com/apple-touch-icon.png",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Astro"
+    ],
+    "feeds": [
+      "https://rachsmith.com/rss/"
+    ],
+    "outbound": [
+      "webmention.io",
+      "gubbigubbidyungungoo.com",
+      "codepen.io"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "randsinrepose-com",
+    "url": "https://randsinrepose.com/",
+    "host": "randsinrepose.com",
+    "finalUrl": "https://randsinrepose.com/",
+    "name": "Michael Lopp (Rands)",
+    "title": "Rands in Repose – Stories about the humans who build software",
+    "summary": "Stories about the humans who build software; engineering leadership.",
+    "description": "Stories about the humans who build software",
+    "screenshot": "/shots/randsinrepose-com.jpg",
+    "ogImage": null,
+    "favicon": "https://randsinrepose.com/nitropack_static/pYcrXSmzMTYaBCajyDlByLkiWOiRWpVF/assets/images/optimized/rev-2c8a43d/randsinrepose.com/wp-content/uploads/2025/08/cropped-rands-favicon-1-32x32.png",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Startups"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "cloud.typography.com",
+      "gmpg.org",
+      "amzn.to",
+      "jamesclear.com",
+      "en.wikipedia.org",
+      "daringfireball.net",
+      "esquire.com",
+      "cottonbureau.com",
+      "creativecommons.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "raul-gil-com",
+    "url": "https://raul-gil.com/",
+    "host": "raul-gil.com",
+    "finalUrl": "https://raul-gil.com/",
+    "name": "Raúl Gil",
+    "title": "Raúl Gil - Illustrator",
+    "summary": "Illustrator and designer from Barcelona giving character to products.",
+    "description": "I am Raúl, an illustrator and designer from Barcelona, Spain. I give life and character to products and publications, and help companies dynamically express ideas.",
+    "screenshot": "/shots/raul-gil-com.jpg",
+    "ogImage": "https://raul-gil.com/wp-content/uploads/2024/12/raul-gil-work.jpg",
+    "favicon": "https://raul-gil.com/wp-content/uploads/2017/12/favicon_transparent.png",
+    "role": "Artist",
+    "tags": [
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "rauno-me",
+    "url": "https://rauno.me/",
+    "host": "rauno.me",
+    "finalUrl": "https://rauno.me/",
+    "name": "Rauno Freiberg",
+    "title": "Rauno Freiberg",
+    "summary": "Estonian interaction designer working with Vercel; Devouring Details.",
+    "description": "Rauno Freiberg is an Estonian interaction designer working with Vercel and Devouring Details.",
+    "screenshot": "/shots/rauno-me.jpg",
+    "ogImage": "https://rauno.me/og4.png",
+    "favicon": "https://rauno.me/favicon.svg",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "3D/WebGL"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "devouringdetails.com",
+      "historyofsoftware.org",
+      "2023.rauno.me",
+      "2022.rauno.me"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "rishimohan-me",
+    "url": "https://rishimohan.me/",
+    "host": "rishimohan.me",
+    "finalUrl": "https://rishimohan.me/",
+    "name": "Rishi Mohan",
+    "title": "Hi, I'm Rishi Mohan!",
+    "summary": "Designer and front-end engineer; also photos, travel, and cafes.",
+    "description": "I'm a designer and front-end engineer by profession. I build SaaS apps, like to travel, take photos and binge try Cafes and Restaurants.",
+    "screenshot": "/shots/rishimohan-me.jpg",
+    "ogImage": "https://rishimohan.me/images/site/meta.jpg",
+    "favicon": "https://rishimohan.me/touch-icons/main-icon.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Photography"
+    ],
+    "features": [
+      "Blog",
+      "Portfolio"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "daskrad.com",
+      "pika.style",
+      "graph.one",
+      "bigbinary.com",
+      "instahyre.com",
+      "instantpolaroid.com",
+      "qurb.rishimohan.me",
+      "lil.rishimohan.me",
+      "starterstory.com",
+      "en.trafficcardinal.com",
+      "boringcashcow.com",
+      "founderbeats.com",
+      "fueler.io"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "simone-computer",
+    "url": "https://simone.computer/",
+    "host": "simone.computer",
+    "finalUrl": "https://simone.computer/",
+    "name": "Simone Marzulli",
+    "title": "Simone's Computer",
+    "summary": "A playful personal computer of a site; click your favourite buttons.",
+    "description": "Simone Marzulli's personal website, feel free to click your favourite buttons!",
+    "screenshot": "/shots/simone-computer.jpg",
+    "ogImage": "https://repository-images.githubusercontent.com/13191631/03057880-b9ff-11e9-9c2f-d158cf8d03b8",
+    "favicon": "https://simone.computer/apple-touch-icon.png",
+    "role": "Maker",
+    "tags": [
+      "Web Dev",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "blog.simone.computer"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "stefanzweifel-io",
+    "url": "https://stefanzweifel.io/",
+    "host": "stefanzweifel.io",
+    "finalUrl": "https://stefanzweifel.dev/",
+    "name": "Stefan Zweifel",
+    "title": "Stefan Zweifel • Full Stack Developer | stefanzweifel.dev",
+    "summary": "Full-stack developer creating things on the internet.",
+    "description": "Hi 👋. I'm a full stack developer creating things on the internet. Welcome to my personal website.",
+    "screenshot": "/shots/stefanzweifel-io.jpg",
+    "ogImage": "https://stefanzweifel.dev/assets/stefan-zweifel-942ce7de-150e-40e8-985d-fc086a24a934.png",
+    "favicon": "https://stefanzweifel.dev/favicon.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "trenda.ch",
+      "phpc.social",
+      "3.screeenly.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "tendigits-space",
+    "url": "https://tendigits.space/",
+    "host": "tendigits.space",
+    "finalUrl": "https://tendigits.space/",
+    "name": "Ten Digits",
+    "title": "Ten Digits",
+    "summary": "Notes kept along the way.",
+    "description": "Notes kept along the way",
+    "screenshot": "/shots/tendigits-space.jpg",
+    "ogImage": null,
+    "favicon": "https://tendigits.space/favicon.ico",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://tendigits.space/feed.xml"
+    ],
+    "outbound": [
+      "merveilles.town",
+      "creativecommons.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "tilde-town",
+    "url": "https://tilde.town/",
+    "host": "tilde.town",
+    "finalUrl": "https://tilde.town/",
+    "name": "tilde.town",
+    "title": "tilde.town",
+    "summary": "A friendly community on a shared unix server; the communal indie web.",
+    "description": "",
+    "screenshot": "/shots/tilde-town.jpg",
+    "ogImage": null,
+    "favicon": "https://tilde.town/favicon.ico",
+    "role": "Collection",
+    "tags": [
+      "Indie Hacking",
+      "Open Source"
+    ],
+    "features": [],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "migadu.com",
+      "tiny.tilde.website"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "tonsky-me",
+    "url": "https://tonsky.me/",
+    "host": "tonsky.me",
+    "finalUrl": "https://tonsky.me/",
+    "name": "Nikita Prokopov",
+    "title": "Blog @ tonsky.me",
+    "summary": "Developer and designer ranting about software quality; Clojure and fonts.",
+    "description": "",
+    "screenshot": "/shots/tonsky-me.jpg",
+    "ogImage": "https://dynogee.com/gen?id=24m2qx9uethuw6p&title=That+yellow+website",
+    "favicon": "https://tonsky.me/i/favicon.png?t=1782676429",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://tonsky.me/atom.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "adamcollier-co-uk",
+    "url": "https://www.adamcollier.co.uk/",
+    "host": "www.adamcollier.co.uk",
+    "finalUrl": "https://www.adamcollier.co.uk/",
+    "name": "Adam Collier",
+    "title": "",
+    "summary": "Personal site of Adam Collier.",
+    "description": "",
+    "screenshot": "/shots/adamcollier-co-uk.jpg",
+    "ogImage": null,
+    "favicon": "https://www.adamcollier.co.uk/favicon.ico",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "coryetzkorn-com",
+    "url": "https://www.coryetzkorn.com/",
+    "host": "www.coryetzkorn.com",
+    "finalUrl": "https://www.coryetzkorn.com/",
+    "name": "Cory Etzkorn",
+    "title": "Cory Etzkorn",
+    "summary": "Founder of Soulmate, a dating app that is just a conversation.",
+    "description": "Cory Etzkorn is the founder of Soulmate, a dating app with no swiping, no profiles, just a conversation that learns who you are and finds your match.",
+    "screenshot": "/shots/coryetzkorn-com.jpg",
+    "ogImage": "/assets/images/about/cory-etzkorn-square-2024.jpg",
+    "favicon": "https://www.coryetzkorn.com/icons/apple-touch-icon.png",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [
+      "https://www.coryetzkorn.com/feed.xml"
+    ],
+    "outbound": [
+      "soulmate.to",
+      "savetostow.com",
+      "wsj.com",
+      "fuzzco.com",
+      "playlist.social",
+      "philips-hue.com",
+      "jal.co.jp",
+      "aesop.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "eikedrescher-com",
+    "url": "https://www.eikedrescher.com/",
+    "host": "www.eikedrescher.com",
+    "finalUrl": "https://www.eikedrescher.com/",
+    "name": "Eike Drescher",
+    "title": "Eike Drescher - Product Designer",
+    "summary": "Product designer marrying the artistic with the useful.",
+    "description": "Always trying to marry the artistic with the useful.",
+    "screenshot": "/shots/eikedrescher-com.jpg",
+    "ogImage": "https://cdn.prod.website-files.com/5ea094d69feadb4133a3d1dd/62c882c91bd87be8b91b4553_OpenGraphHomeNew.png",
+    "favicon": "https://cdn.prod.website-files.com/5ea094d69feadb4133a3d1dd/601f05efe1fe7a4c09f8a5c6_favicon.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "bento.me",
+      "spaces.is",
+      "dennisgec.com",
+      "linktr.ee",
+      "yvesjakob.com",
+      "jenvalentine.com",
+      "9to5mac.com",
+      "iphoneblog.de",
+      "imore.com",
+      "zilmer.com",
+      "jengoertzen.com",
+      "louiscurrie.com"
+    ],
+    "links": [
+      "bento-me"
+    ],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "fromjason-xyz",
+    "url": "https://www.fromjason.xyz/",
+    "host": "www.fromjason.xyz",
+    "finalUrl": "https://www.fromjason.xyz/",
+    "name": "Jason",
+    "title": "",
+    "summary": "Odes, satires, and other matters of stuff and things.",
+    "description": "Odes & Satires, and other matters of stuff & things.",
+    "screenshot": "/shots/fromjason-xyz.jpg",
+    "ogImage": "https://fromjason.xyz/img/opengraph-fromjason.png",
+    "favicon": "https://www.fromjason.xyz/img/favicon.png",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://www.fromjason.xyz/feed/feed.xml"
+    ],
+    "outbound": [
+      "aperture.p3k.io",
+      "indieauth.com",
+      "tokens.indieauth.com",
+      "webmention.io"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "jeremiak-com",
+    "url": "https://www.jeremiak.com/",
+    "host": "www.jeremiak.com",
+    "finalUrl": "https://www.jeremiak.com/",
+    "name": "Jeremia Kimelman",
+    "title": "👋🏻 - Jeremia on the internet",
+    "summary": "Developer and data journalist; blog and work portfolio.",
+    "description": "Jeremia Kimelman's personal website with blog posts and a work portfolio",
+    "screenshot": "/shots/jeremiak-com.jpg",
+    "ogImage": null,
+    "favicon": "https://www.jeremiak.com/img/favicon.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Portfolio"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://www.jeremiak.com/blog/rss.xml"
+    ],
+    "outbound": [
+      "calmatters.org",
+      "journa.host"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "jordienric-com",
+    "url": "https://www.jordienric.com/",
+    "host": "www.jordienric.com",
+    "finalUrl": "https://www.jordienric.com/",
+    "name": "Jordi Enric",
+    "title": "Jordi Enric",
+    "summary": "Software engineer at Supabase; writing, notes, and bookmarks.",
+    "description": "Writing, notes, and bookmarks from Jordi Enric, a software engineer at Supabase.",
+    "screenshot": "/shots/jordienric-com.jpg",
+    "ogImage": null,
+    "favicon": "https://www.jordienric.com/favicon.ico",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "plausible.io",
+      "supabase.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "madewithtea-com",
+    "url": "https://www.madewithtea.com/",
+    "host": "www.madewithtea.com",
+    "finalUrl": "https://www.madewithtea.com/",
+    "name": "Jendrik Poloczek",
+    "title": "Made with Tea: Jendrik Poloczek",
+    "summary": "Blockchain security engineer at Aikido; former ML researcher.",
+    "description": "Currently, I'm working at Aikido Security as Blockchain Security Engineer. I started out as a PhD candidate researcher in the machine learning field, became a senior software engineer and worked in small and large scale tech companies such as Coinbase. My most recent employment was leading the infrastructure investments team as Principal Research Engineer at the European crypto investment firm Greenfield Capital.",
+    "screenshot": "/shots/madewithtea-com.jpg",
+    "ogImage": "https://www.madewithtea.com/images/og-default.png",
+    "favicon": "https://www.madewithtea.com/favicon.ico",
+    "role": "Engineer",
+    "tags": [
+      "Security",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Vercel"
+    ],
+    "feeds": [
+      "https://www.madewithtea.com/rss.xml"
+    ],
+    "outbound": [
+      "eepurl.com",
+      "aikido.dev",
+      "coinbase.com",
+      "webofdevs.com",
+      "plausible.io"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "marc-julian-de",
+    "url": "https://www.marc-julian.de/",
+    "host": "www.marc-julian.de",
+    "finalUrl": "https://marc-julian.com/",
+    "name": "Marc Julian Schwarz",
+    "title": "Marc Julian Schwarz — MJ's Blog",
+    "summary": "A developer's personal blog.",
+    "description": "MJ's Blog",
+    "screenshot": "/shots/marc-julian-de.jpg",
+    "ogImage": null,
+    "favicon": "https://marc-julian.com/favicon.svg",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Astro"
+    ],
+    "feeds": [],
+    "outbound": [
+      "govradar.de",
+      "sammlung.app",
+      "cal.com",
+      "qira.net",
+      "wizard.marc-julian.com",
+      "the-brew-code.de",
+      "notes.marc-julian.com",
+      "shots.marc-julian.com",
+      "mdsnip.com",
+      "zed.dev",
+      "ghostty.org",
+      "obsidian.md",
+      "docker.com",
+      "netnewswire.com",
+      "tools.marc-julian.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "marco-fyi",
+    "url": "https://www.marco.fyi/",
+    "host": "www.marco.fyi",
+    "finalUrl": "https://www.marco.fyi/",
+    "name": "Marco Cornacchia",
+    "title": "Marco Cornacchia—Product Designer in SF",
+    "summary": "Product designer in San Francisco.",
+    "description": "i design things.",
+    "screenshot": "/shots/marco-fyi.jpg",
+    "ogImage": "https://cdn.prod.website-files.com/62c89bdb7c26b515f632de67/6317913448d0943c95005700_twitter-og-img.png",
+    "favicon": "https://cdn.prod.website-files.com/62c89bdb7c26b515f632de67/62ff47bdf42b3405c93ecb69_card-favicon.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "marcocornacchia.read.cv",
+      "turfsports.com",
+      "icloud.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "oliverburkeman-com",
+    "url": "https://www.oliverburkeman.com/",
+    "host": "www.oliverburkeman.com",
+    "finalUrl": "https://www.oliverburkeman.com/",
+    "name": "Oliver Burkeman",
+    "title": "Home | Oliver Burkeman",
+    "summary": "Writer; author of Four Thousand Weeks and the Imperfectionist.",
+    "description": "",
+    "screenshot": "/shots/oliverburkeman-com.jpg",
+    "ogImage": "https://static.wixstatic.com/media/053ea9_423193248b6742e282afcb4ca15c2aab~mv2.jpg/v1/fill/w_531,h_885,al_c/053ea9_423193248b6742e282afcb4ca15c2aab~mv2.jpg",
+    "favicon": "https://static.wixstatic.com/media/053ea9_904d6f423dcd49119dc3ae38bee7ed80%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/053ea9_904d6f423dcd49119dc3ae38bee7ed80%7Emv2.png",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "React",
+      "WebGL/Three.js"
+    ],
+    "feeds": [],
+    "outbound": [
+      "static.parastorage.com",
+      "siteassets.parastorage.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "seanrk-com",
+    "url": "https://www.seanrk.com/",
+    "host": "www.seanrk.com",
+    "finalUrl": "https://www.seanrk.com/",
+    "name": "Sean Kennedy",
+    "title": "Sean Kennedy - Design Portfolio",
+    "summary": "Designer; a portfolio of selected work.",
+    "description": "Here you will find some work I've done.",
+    "screenshot": "/shots/seanrk-com.jpg",
+    "ogImage": "https://www.seanrk.com/_assets/v11/163fe1111df39d08920089e8c069ce618025d622.png",
+    "favicon": "https://www.seanrk.com/_assets/v11/0fe0240019288d0fc9a4d84f9fcd4315e8e13618.png",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "sj-land",
+    "url": "https://www.sj.land/",
+    "host": "www.sj.land",
+    "finalUrl": "https://www.sj.land/",
+    "name": "SJ",
+    "title": "SJ · Home",
+    "summary": "Designer and developer reading about business, finance, and crypto.",
+    "description": "I’m a designer and developer by training and trade. I spend most of my spare time reading about business, finance and crypto. If this combination interests you, welcome to my corner of the internet. This is where I share my reading list, investment updates, and software adventures.",
+    "screenshot": "/shots/sj-land.jpg",
+    "ogImage": "https://www.sj.land/og/index.png",
+    "favicon": "https://www.sj.land/favicon.gif",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev",
+      "Finance"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "coinbase.com",
+      "compoundplanning.com",
+      "loversmagazine.com",
+      "ui.land",
+      "thediff.co",
+      "hakaimagazine.com",
+      "worrydream.com",
+      "scholars-stage.org",
+      "pudding.cool"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "stephenwolfram-com",
+    "url": "https://www.stephenwolfram.com/",
+    "host": "www.stephenwolfram.com",
+    "finalUrl": "https://www.stephenwolfram.com/",
+    "name": "Stephen Wolfram",
+    "title": "Stephen Wolfram: Official Website",
+    "summary": "Founder and CEO of Wolfram Research; creator of Mathematica and Wolfram|Alpha.",
+    "description": "Official website of Stephen Wolfram: Founder & CEO of Wolfram Research; creator of Mathematica, Wolfram|Alpha & the Wolfram Language; author of A New Kind of Science",
+    "screenshot": "/shots/stephenwolfram-com.jpg",
+    "ogImage": "https://www.stephenwolfram.com/share.png",
+    "favicon": "https://www.stephenwolfram.com/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Math",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "livestreams.stephenwolfram.com",
+      "writings.stephenwolfram.com",
+      "wolframscience.com",
+      "wolfram-media.com",
+      "wolfram.com",
+      "wolframphysics.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "taniarascia-com",
+    "url": "https://www.taniarascia.com/",
+    "host": "www.taniarascia.com",
+    "finalUrl": "https://www.taniarascia.com/",
+    "name": "Tania Rascia",
+    "title": "Tania Rascia's Website",
+    "summary": "Software engineer and open-source creator; a digital garden.",
+    "description": "Software engineer and open source creator. This is my digital garden.",
+    "screenshot": "/shots/taniarascia-com.jpg",
+    "ogImage": "https://taniarascia.com/logo.png",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAbNJREFUWEdjZCARSEnJ/ydRC4ryZ88eMpKinyTFIIMH3IH8QmZYQ4ib4yXY45MmLSAlADDU5uUlgMW+/hAH0x/fncIbSBiSg9aBMIe1de5C8fWWnX/B/IvHjMD0hg17yArBR4+egPXBQlDf6hyYf2yfJ96QhIfgkHPgtZvsYJ/de/ANbwhKSUHS0rNnkDQKA2ZmqijJZ82a/eC0jR6CMPW4QhJnCA5bB8LSWkiII94QDIy6gRJDuEKS6iE4aByIK+2R6kBYyMHSOnpaJDsEB70DcRWGgyYEB70DYSFFarUCKwdhuZhmaXDQOBDdh7A6mdSQg6lHDzmKQ3DIOJDcECNWH9nlILEWUKqOYgcumWdPqRtQ9Fs5bQfzlRS4UOpkkmsSmKmD1oEwh509tZYqIXjt2h2wObEJ5WA6JukgZSE4aB0I64vA0gQsBJWVZcgKybt3IX0SqoXgqAMpTYOjITgagiTm5ZGTi3GV7Og1CbHlIXrIwQIeVpPA6mSi+8WD3oG4fLR4QSeJqQ6/crJDcNA6EOZfXAOYVA0+PIahj7gSPcI6aBxIL4cQaw/Jo/zEGkwtdQBrbfJHElv02wAAAABJRU5ErkJggg==",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Gatsby",
+      "React",
+      "WebGL/Three.js"
+    ],
+    "feeds": [
+      "https://www.taniarascia.com/rss.xml"
+    ],
+    "outbound": [
+      "keyboardaccordion.com",
+      "takenote.dev",
+      "ko-fi.com",
+      "gatsbyjs.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "wethecitizens-net",
+    "url": "https://www.wethecitizens.net/",
+    "host": "www.wethecitizens.net",
+    "finalUrl": "https://www.wethecitizens.net/",
+    "name": "We, The Citizens",
+    "title": "We, The Citizens",
+    "summary": "Stories, analysis, and weekly wraps on Singapore politics.",
+    "description": "Stories, analysis and weekly wraps from Singapore.",
+    "screenshot": "/shots/wethecitizens-net.jpg",
+    "ogImage": "https://storage.ghost.io/c/65/7c/657c643d-32a8-478f-b377-dfe31a248c90/content/images/2021/03/Logo-2.png",
+    "favicon": "https://storage.ghost.io/c/65/7c/657c643d-32a8-478f-b377-dfe31a248c90/content/images/size/w256h256/2021/03/Logo.png",
+    "role": "Writer",
+    "tags": [
+      "Politics",
+      "Writing"
+    ],
+    "features": [
+      "Newsletter",
+      "Blog"
+    ],
+    "tech": [
+      "Ghost"
+    ],
+    "feeds": [
+      "https://www.wethecitizens.net/archive/rss/"
+    ],
+    "outbound": [
+      "storage.ghost.io",
+      "ghost.org",
+      "aspirethemes.com"
+    ],
+    "links": [],
+    "inDegree": 0,
     "status": "ok"
   }
 ]

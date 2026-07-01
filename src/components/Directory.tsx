@@ -78,6 +78,13 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
     setSortOpen(false);
   };
 
+  // Open a random site (from the currently-visible set) in a new tab — for fun.
+  const openRandom = () => {
+    const pool = filtered.length ? filtered : sites;
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    if (pick) window.open(pick.finalUrl, "_blank", "noopener,noreferrer");
+  };
+
   return (
     <div className="flex flex-col min-h-screen">
       {/* Header */}
@@ -95,13 +102,23 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
               A directory of personal websites from the people building the internet.
             </p>
           </div>
-          <button
-            onClick={() => setSubmitOpen(true)}
-            className="shrink-0 rounded-lg px-3.5 py-2 text-[13px] font-medium"
-            style={{ background: "var(--accent)", color: "var(--bg-card)" }}
-          >
-            + Add site
-          </button>
+          <div className="flex items-center gap-2 shrink-0">
+            <button
+              onClick={openRandom}
+              className="rounded-lg px-3 py-2 text-[13px] font-medium"
+              style={{ background: "var(--bg-card)", color: "var(--text-1)", border: "1px solid var(--border-strong)" }}
+              title="Open a random site in a new tab"
+            >
+              🎲 Random
+            </button>
+            <button
+              onClick={() => setSubmitOpen(true)}
+              className="rounded-lg px-3.5 py-2 text-[13px] font-medium"
+              style={{ background: "var(--accent)", color: "var(--bg-card)" }}
+            >
+              + Add site
+            </button>
+          </div>
         </div>
       </header>
 
