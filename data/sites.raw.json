@@ -2490,5 +2490,321 @@
     "textSnippet": "Tom Osman — Explores the frontier of digital technologies Tom Osman [ Writing ] [ Livestreams ] [ Tools ] [ Portfolio ] [ Library ] [ Timeline ] [ About ] [ Work ] Technology Dealer Discovering what&#x27;s possible with technology. Building systems that amplify human capability. View Tools // 01 Newsletter // 02 Selected Software // DISPLAYING 6 ITEMS [ ACCESS ] // AI Retell AI Voice agent platform for building, testing, deploying, and monitoring AI phone-call agents that handle live conversations. [ ACCESS ] // DEVTOOLS Replit Cloud IDE for rapidly spinning up experiments, running agents, and sharing prototypes with collaborators. [ ACCESS ] // AI Google AI Studio My go-to playground for testing Gemini prompts and evaluating ideas quickly. [ ACCESS ] // AI Anything AI app builder that turns natural language specs into web/mobile apps with built-in databases, payments, auth, AI models, and integrations. [ ACCESS ] // AI Lindy.AI Agent platform for drafting personalized outreach, research summaries, and workflows. [ ACCESS ] // DEVTOOLS Warp The agentic terminal that treats your CLI as a collaborative, AI-native development environment with modern blocks and workflows. // Philosophy",
     "status": "ok",
     "screenshot": "/shots/tomosman-com.jpg"
+  },
+  {
+    "id": "carlos-m-com",
+    "host": "carlos-m.com",
+    "url": "https://carlos-m.com/",
+    "finalUrl": "https://carlos-m.com/",
+    "title": "Carlos Melegrito",
+    "description": "Carlos Melegrito is a human interface designer at Apple.",
+    "ogImage": "preview.png",
+    "favicon": "https://carlos-m.com/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "tartvillain.com"
+    ],
+    "textSnippet": "Carlos Melegrito Carlos Melegrito is a human interface designer. His goal at Apple, Inc. is to build tools that empower people to make wonderful things. He currently lives in California, and spends most of his time running, writing, and baking tarts .",
+    "status": "ok",
+    "screenshot": "/shots/carlos-m-com.jpg"
+  },
+  {
+    "id": "cretu-dev",
+    "host": "cretu.dev",
+    "url": "https://cretu.dev/",
+    "finalUrl": "https://cretu.dev/",
+    "title": "Cristian Crețu",
+    "description": "Design Engineer.",
+    "ogImage": "https://cretu.dev/static/images/og.png",
+    "favicon": "https://cretu.dev/static/favicons/favicon.svg",
+    "feeds": [
+      "https://cretu.dev/rss.xml"
+    ],
+    "tech": [
+      "Astro"
+    ],
+    "outbound": [
+      "anara.com",
+      "hive.cretu.dev"
+    ],
+    "textSnippet": "Cristian Crețu Skip to content Cristian Crețu 2026 Work Writing X Email Cristian Crețu , 21 design engineer at Anara now shipping more, week over week no pixel out of place delusional optimism. i always win selected work 3 Anara Agents specialized agents for research Family Drawer pure swiftui recreation Hive n agents on n tasks, isolated via worktrees all work writing 3 the education system is a scam 2025 2025, bit by bit 2025 produce more, consume less 2025 all essays elsewhere x.com/cristicrtu github.com/cristicretu hi [at] @ cretu (dot) . dev",
+    "status": "ok",
+    "screenshot": "/shots/cretu-dev.jpg"
+  },
+  {
+    "id": "fayazahmed-com",
+    "host": "fayazahmed.com",
+    "url": "https://fayazahmed.com/",
+    "finalUrl": "https://fayazahmed.com/",
+    "title": "Fayaz Ahmed",
+    "description": "I'm Fayaz, your friendly neighborhood software, product engineer and designer from Bengaluru, India. I specialize in building web applications and sites using Javascript, React, Vue & Node.",
+    "ogImage": null,
+    "favicon": "https://fayazahmed.com/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Nuxt",
+      "React"
+    ],
+    "outbound": [
+      "supersaas.dev",
+      "t.me",
+      "feedbackjar.app",
+      "feedful.app"
+    ],
+    "textSnippet": "Fayaz Ahmed Home Projects Articles Lab What&#39;s in my bag? Bookmarks Toggle theme Hello! I&#39;m Fayaz, I work as a software, product engineer and designer from Bengaluru, India. I specialize in building web applications and sites using Javascript, React, Vue &amp; Node. I&#39;ve procrastinated building this website for years but finally it&#39;s here, I&#39;ve carved out my own little nook on the internet to share my silly experiments, nifty projects, and thoughts (mostly about tech and design). By day, I&#39;m a Product Engineer at Chatwoot (YC S21) , and by night (and weekends), I&#39;m busy tinkering with some random tool or app that I am building. FIND ME ON Twitter GitHub Linkedin Telegram FEATURED PROEJCTS Feedbackjar Open source feedback, roadmaps and changelogs Feedful Modern news reader in tweetdeck style Hawa A simple white noise app which sits in the menubar All Projects → RECENT ARTICLES Nov 2, 2023 How to Use Two GitHub Accounts on a Macbook the Right Way Using multiple GitHub accounts on a Macbook can be challenging, but there&#39;s a way to do it correctly. Nov 22, 2023 Monitoring a website and getting alerted on telegram using cloudflare workers Creating a Cloudf",
+    "status": "ok",
+    "screenshot": "/shots/fayazahmed-com.jpg"
+  },
+  {
+    "id": "hacdias-com",
+    "host": "hacdias.com",
+    "url": "https://hacdias.com/",
+    "finalUrl": "https://hacdias.com/",
+    "title": "Home - Henrique Dias",
+    "description": "Henrique is a software engineer who is passionate about open source, digital identity, web technology, and user agency. In his free time, he enjoys staying active, programming, photography, and a tasty cup of coffee or tea.",
+    "ogImage": "https://media.hacdias.com/image/1800/2024-09-01-stratumse-heide.jpeg",
+    "favicon": "https://hacdias.com/favicon.png",
+    "feeds": [
+      "https://hacdias.com/feed.xml"
+    ],
+    "tech": [
+      "Hugo"
+    ],
+    "outbound": [],
+    "textSnippet": "Home - Henrique Dias Skip to content H Henrique Dias known as @hacdias 🧁 About ✏️ Writings 📷 Photos 📖 Guestbook 🔎 Search 🌈 More Contact ✉️ Email 💬 Signal Elsewhere 🦋 Bluesky 🐙 GitHub 📷 Instagram 🐘 Mastodon 💼 LinkedIn Hi, I'm Henrique ! 👋 I&rsquo;m a software engineer from Portugal 🇵🇹, living in The Netherlands 🇳🇱. Now working on digital identity at Animo Solutions, and maintaining several open source projects. I&rsquo;m passionate about open source, web technology, and user agency. I enjoy staying active, photography, and a tasty cup of coffee or tea. Welcome to my corner on the web! 🌿 Freshly Planted ⇢ Recently in June '26 2026-06-30 Stepping Into The Car, Again 2026-06-26 Recently in May '26 2026-06-02 Recently in April '26 2026-04-30 Stepping Into The Car 2026-04-27 Getting My First Swimming Diploma 2026-04-21 Recently in March '26 2026-03-31 Swimming On The Deep End 2026-03-31 Using Claude Code To Improve Eagle 2026-03-14 Update On File Browser 2026-03-11 Adding Standard.site Support 2026-03-04 Recently in February '26 2026-02-28 Swimming Lessons Check-in 2026-02-24 New Website, Who Dis? 2026-02-21 Moving Away From Cloudflare 2026-02-20 Thoughts on Bookmarking ",
+    "status": "ok",
+    "screenshot": "/shots/hacdias-com.jpg"
+  },
+  {
+    "id": "hellodani-co",
+    "host": "hellodani.co",
+    "url": "https://hellodani.co/",
+    "finalUrl": "https://hellodani.co/",
+    "title": "Daniella Marynova - Visual & Product Designer for SaaS, Fintech, AI, web3 and dev tools",
+    "description": "Visual & product designer crafting brand, product, and marketing design for SaaS, fintech, AI, web3 and dev tools.",
+    "ogImage": "https://framerusercontent.com/images/Vti71C3kgSkeOHn8R3WoE2Ap3RU.png",
+    "favicon": "https://framerusercontent.com/images/bc7HNprkeHF4LZ49QNkzgCkjGrM.png",
+    "feeds": [],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "outbound": [
+      "framer.com",
+      "tally.so"
+    ],
+    "textSnippet": "Daniella Marynova - Visual &amp; Product Designer for SaaS, Fintech, AI, web3 and dev tools works garden ')\"> ')\"> Hi, I’m Daniella Visual and Product designer you can count on Visual and Product designer you can count on Visual and Product designer you can count on Simplicity is my superpower. I turn complex ideas into experiences users love and investors trust. I help SaaS, AI, and Dev founders craft story-driven brands and products. Simplicity is my superpower. I turn complex ideas into experiences users love and investors trust. I help SaaS, AI, and Dev founders craft story-driven brands and products. Chat with me Chat with me Chat with me Step into my digital home Tiny fraction of my work Tiny fraction of my work Teaming with founders to propel their next product breakthrough – design that’s both functional and great looking Corti.ai medtech, ai Corti is a healthcare AI company that builds specialized language models to support medical professionals in real time. Corti.ai medtech, ai Corti is a healthcare AI company that builds specialized language models to support medical professionals in real time. Corti.ai medtech, ai Zapo b2b, SaaS Zapo is a UK-based platform that drives ",
+    "status": "ok",
+    "screenshot": "/shots/hellodani-co.jpg"
+  },
+  {
+    "id": "lingxi-li",
+    "host": "lingxi.li",
+    "url": "https://lingxi.li/",
+    "finalUrl": "https://lingxi.li/",
+    "title": "Lingxi Li",
+    "description": "A solution shipper, who cares deeply about both engineering and design.",
+    "ogImage": "https://lingxi.li/opengraph-image.png?opengraph-image.17g9wl6qlz9_c.png",
+    "favicon": "https://lingxi.li/favicon.ico?favicon.0y8_2stno-i8e.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "cursor.com"
+    ],
+    "textSnippet": "Lingxi Li Lingxi Works Thoughts Bookmarks Projects Publications Design System Subdomain Directory Socials &amp; Contact More Menu A solution shipper, who cares deeply about both engineering and design. Coming soon in early 2026 Hey, this is Lingxi Li. 👋 Based in SF. Focused on full-stack design engineering, scalable AI systems, end-to-end AI agent solutions, and every aspect of your experience. I enjoy crafting software that is predictable, scalable, rigorous, and beautiful. I am a Renaissance Engineer — caring about details, going deep, and being creative. I have a wide range of expertise, while still going deep into most of them. No matter if the problems are related to mathematical algorithms or visual experiences, I tend to thoroughly investigate the underlying rationales, resolving them more effectively than others typically do. That depth also extends to human interface and software system design, where I chase clarity, coherence, and perfection in everything I build. My philosophy of building exceptional software is to &quot;build once and run forever&quot;. It&#x27;s not about starting with complexity. It&#x27;s about keeping scalability in mind so the simplest version can",
+    "status": "ok",
+    "screenshot": "/shots/lingxi-li.jpg"
+  },
+  {
+    "id": "melanie-richards-com",
+    "host": "melanie-richards.com",
+    "url": "https://melanie-richards.com/",
+    "finalUrl": "https://melanie-richards.com/",
+    "title": "Melanie Richards",
+    "description": "A Seattle-based product manager with a background in web design and development, currently helping enable web teams at Webflow.",
+    "ogImage": "https://melanie-richards.com/assets/images/social-image.png",
+    "favicon": "https://melanie-richards.com/assets/images/favicon.png",
+    "feeds": [
+      "https://melanie-richards.com/feed.xml"
+    ],
+    "tech": [],
+    "outbound": [
+      "front-end.social",
+      "webflow.com",
+      "app.thestorygraph.com",
+      "11ty.dev",
+      "bookshop.org"
+    ],
+    "textSnippet": "Melanie Richards Skip to main content Melanie&nbsp;Richards Projects Product Blog Info A brief introduction Hi, I’m Melanie, a product leader with a design and web dev background. Currently, I’m helping enable teams visually build for the web at Webflow . My personal mission is to empower people to make inspiring, impactful, and inclusive things on the web. As a builder at heart, I always love making side projects ! New on the blog Learning Log, Apr 2026 May 10, 2026 — Basking in spring, despite the itis Learning Log, Feb &amp; Mar 2026 Apr 02, 2026 — Returning to work from parental leave and welcoming spring Learning Log, Jan 2026 Feb 05, 2026 — Defund, dissolve, abolish, melt the ICE 2025 Highlights Dec 31, 2025 — The year I became a mother Now What I’m up to right now. Last updated Feb 22, 2026 Leading core product at Webflow Figuring out our back-to-work routine with a baby Sewing some fun storage cubes for my daughter’s toys Knitting my second hat Eagerly awaiting hiking season Running a small monthly writing group Current media Reading Books I’m reading Watching Movies I’m watching Listening Live shows I’ve attended Observing Nature Birds I’ve identified Navigation Home Proje",
+    "status": "ok",
+    "screenshot": "/shots/melanie-richards-com.jpg"
+  },
+  {
+    "id": "mikkelmalmberg-com",
+    "host": "mikkelmalmberg.com",
+    "url": "https://mikkelmalmberg.com/",
+    "finalUrl": "https://mikkelmalmberg.com/",
+    "title": "Mikkel Malmberg",
+    "description": "Personal site of Mikkel Malmberg. Posts, notes, projects, and AMA.",
+    "ogImage": "https://mikkelmalmberg.com/og/home.png",
+    "favicon": "https://mikkelmalmberg.com/favicon.ico",
+    "feeds": [
+      "https://mikkelmalmberg.com/feeds/all.xml",
+      "https://mikkelmalmberg.com/feeds/posts.xml",
+      "https://mikkelmalmberg.com/feeds/notes.xml"
+    ],
+    "tech": [
+      "React"
+    ],
+    "outbound": [
+      "brainbow.studio",
+      "tunaformac.com",
+      "10er.com",
+      "nitrokit.dev",
+      "getmoves.app",
+      "getsprinkles.app",
+      "dr.dk",
+      "fupifarvandet.dk",
+      "cranes.supply",
+      "web.archive.org",
+      "latr.fm",
+      "moem.dk",
+      "2sek.dk",
+      "5min.dk",
+      "mikker.eth.link",
+      "mikker.tez.page"
+    ],
+    "textSnippet": "Mikkel Malmberg Posts AMA ✳︎ Hi, I’m Mikkel Malmberg. Maybe you know me as mikker . I run Brainbow , a tiny product studio specializing in building platforms for creators. I make macOS apps for advanced connoisseurs, like Tuna . I make videos for the fun of it. I like sharing my work and dumb jokes on Twitter x/mikker . Tuna (Mac) The modal launcher for macOS 10er.com Dependable payments for creative projects Funnymost.com Quality comedy storefront Nitro Kit The most Rails-y UI kit FlickRing (Mac) Flick gestures for your normie mouse Leader Key (Mac) The *faster than your launcher* launcher Moves (Mac) Window fiddler #1 Sprinkles (Mac) Modify any website Media YouTube.com/@mikkelmalmberg video est. 2025 Personal channel Onto Something audio est. 2024 Peter and Mikkel are onto something. Podcast build-log Kortsluttet audio 2020-2021 Danish radio show about tech and society on national Danish P1 Fup i Farvandet audio 2011-2018 Denmark&#39;s first comedy podcast by comedians Curiosities steve mac est. 2026 CLI for driving Mac applications via the Accessibility API Poof mac est. 2026 macOS text snippet expander dude suite other est. 2026 Tiny TUI task runner with hotkeys, split output,",
+    "status": "ok",
+    "screenshot": "/shots/mikkelmalmberg-com.jpg"
+  },
+  {
+    "id": "sebastiandedeyne-com",
+    "host": "sebastiandedeyne.com",
+    "url": "https://sebastiandedeyne.com/",
+    "finalUrl": "https://sebastiandedeyne.com/",
+    "title": "Information Overload",
+    "description": "Thoughts & references from an engineering manager in Belgium",
+    "ogImage": null,
+    "favicon": "https://sebastiandedeyne.com/favicon.svg",
+    "feeds": [
+      "https://sebastiandedeyne.com/index.xml",
+      "https://sebastiandedeyne.com/articles.xml"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Information Overload information overload ▮ by sebastian de deyne Thoughts & references from an engineering manager in Belgium Blog About Newsletter Twitter RSS Don't skip `else` with octane 22 Jun 2026 I came across a subtle Octane but last week. We needed to disable Inertia&rsquo;s history encryption in some places in the app. By default, it&rsquo;s enabled everywhere. So we added a route check to the middleware to turn it off. class HandleInertiaRequests { public function handle ( Request $request , Closure $next ) { if ( $request -&gt; is ( &#39;admin/*&#39; )) { Inertia :: encryptHistory ( false ); } // … } } The problem is, if you&rsquo;re running Octane and make a request to an admin/* route, history encryption will be disabled, and there&rsquo;s nothing to re-enable it for the next request. The fix is to make sure both sides of the statement are executed. class HandleInertiaRequests { public function handle ( Request $request , Closure $next ) { if ( $request -&gt; is ( &#39;admin/*&#39; )) { Inertia :: encryptHistory ( false ); } else { Inertia :: encryptHistory ( true ); } // … } } Or more succinct: class HandleInertiaRequests { public function handle ( Request $request ,",
+    "status": "ok",
+    "screenshot": "/shots/sebastiandedeyne-com.jpg"
+  },
+  {
+    "id": "surya-website",
+    "host": "surya.website",
+    "url": "https://surya.website/",
+    "finalUrl": "https://surya.website/",
+    "title": "Surya Narreddi",
+    "description": "I'm a designer and creative technologist based in Brooklyn, NY.",
+    "ogImage": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+    "favicon": "https://framerusercontent.com/images/QwkPFiDJZKisyXUTjcpnwsjyg.png",
+    "feeds": [],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "outbound": [
+      "framer.com",
+      "are.na"
+    ],
+    "textSnippet": "Surya Narreddi Home Work Blog About I'm a designer and technologist exploring how AI is reshaping the way we create. Currently based in📍Brooklyn, NY. Recent graduate of 🎓 NYU's ITP programme. Currently based in📍Brooklyn, NY. Recent graduate of 🎓 NYU's ITP programme. AI is transforming the relationship between software, its creators, and its users (humans and agents) . I'm curious about where this goes. AI is transforming the relationship between software, its creators, and its users (humans and agents) . I'm curious about where this goes. Humans designing for humans: the traditional model, now being reshaped by AI tools that alter both the possibilities and the participants Humans designing for agents: developing software that AI agents can parse, inhabit, and build upon Agents designing for humans and other agents: a nascent space where software begins to author itself, prompting new questions about the role of humans. Humans designing for humans: the traditional model, now being reshaped by AI tools that alter both the possibilities and the participants Humans designing for agents: developing software that AI agents can parse, inhabit, and build upon Agents designing for huma",
+    "status": "ok",
+    "screenshot": "/shots/surya-website.jpg"
+  },
+  {
+    "id": "tylerbeauchamp-net",
+    "host": "tylerbeauchamp.net",
+    "url": "https://tylerbeauchamp.net/",
+    "finalUrl": "https://tylerbeauchamp.net/",
+    "title": "Tyler Beauchamp",
+    "description": "I’m Tyler Beauchamp, a product designer at Notion.",
+    "ogImage": "https://framerusercontent.com/images/M4kOZX7k5iYIooGjxmOUtslUafA.png",
+    "favicon": "https://framerusercontent.com/images/G6diKb4kyterPkyyrIU6IzeU0.png",
+    "feeds": [],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "outbound": [
+      "framer.com",
+      "openai.com",
+      "books.tylerbeauchamp.net"
+    ],
+    "textSnippet": "Tyler Beauchamp Tyler Beauchamp LinkedIn Dribbble Medium Twitter Instagram Tyler Beauchamp Contact I’m Tyler Beauchamp, a product designer at OpenAI I’m Tyler Beauchamp, a product designer at OpenAI I’m Tyler Beauchamp, a product designer at OpenAI",
+    "status": "ok",
+    "screenshot": "/shots/tylerbeauchamp-net.jpg"
+  },
+  {
+    "id": "alanagoyal-com",
+    "host": "www.alanagoyal.com",
+    "url": "https://www.alanagoyal.com/",
+    "finalUrl": "https://www.alanagoyal.com/",
+    "title": "alana goyal",
+    "description": "Personal website of Alana Goyal",
+    "ogImage": "https://alanagoyal.com/notes/api/og/?title=about%20me&emoji=%F0%9F%91%8B%F0%9F%8F%BC",
+    "favicon": "data:image/svg+xml,&lt;svg xmlns=&#x27;http://www.w3.org/2000/svg&#x27;%20viewBox=&#x27;0%200%20384%20512&#x27;&gt;&lt;path%20d=&#x27;M318.7%20268.7c-.2-36.7%2016.4-64.4%2050-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3%2020.7-88.5%2020.7-15%200-49.4-19.7-76.4-19.7C63.3%20141.2%204%20184.8%204%20273.5q0%2039.3%2014.4%2081.2c12.8%2036.7%2059%20126.7%20107.2%20125.2%2025.2-.6%2043-17.9%2075.8-17.9%2031.8%200%2048.3%2017.9%2076.4%2017.9%2048.6-.7%2090.4-82.5%20102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4%2024.8-61.9%2024-72.5-24.1%201.4-52%2016.4-67.9%2034.9-17.5%2019.8-27.8%2044.3-25.6%2071.9%2026.1%202%2049.9-11.4%2069.5-34.3z&#x27;/&gt;&lt;/svg&gt;",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "alana goyal",
+    "status": "ok",
+    "screenshot": "/shots/alanagoyal-com.jpg"
+  },
+  {
+    "id": "eduardbodak-com",
+    "host": "www.eduardbodak.com",
+    "url": "https://www.eduardbodak.com/",
+    "finalUrl": "https://www.eduardbodak.com/",
+    "title": "Webdesigner aus Köln | Design | Webflow | Animationen | Barrierefreiheit",
+    "description": "Als Webdesigner helfe ich designorientierten Unternehmen, alle ihre Wünsche wahr werden zu lassen. Solange es etwas mit einer tollen Website zu tun hat.",
+    "ogImage": "https://cdn.prod.website-files.com/64591e5db836f60c02bb97e9/680fdd120c1b1657876c3607_1200x630_OG.png",
+    "favicon": "https://cdn.prod.website-files.com/64591e5db836f60c02bb97e9/6703ea4bbff5d08293f4cd11_32x32_Favicon.svg",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "localhost",
+      "webflow.com"
+    ],
+    "textSnippet": "Webdesigner aus Köln | Design | Webflow | Animationen | Barrierefreiheit --> Zum Inhalt springen Eduard Bodak Service Prozess Preis Kontakt Feed Feed in 2026 Menü Zurück Service Prozess Preis Kontakt Feed in 2026 ZZZ 3D2Y 3D2Y A113 Einfache Websites Einfache Websites Einfache Websites Strategy NVL-101 Strategy Strategy Visual Research Mitbewerber Analyse Wireframes Content Mapping User Flow Konzepte Strategy Design NVL-101 Design Design Visual Research Mitbewerber Analyse Wireframes Content Mapping User Flow Konzepte Design Build NVL-101 Build Build Visual Research Mitbewerber Analyse Wireframes Content Mapping User Flow Konzepte Build Als Webdesigner helfe ich design­orientierten Unternehmen, alle ihre Wünsche wahr werden zu lassen. Solange es etwas mit einer tollen Website zu tun hat. Pro Monat € 3.245,- Scroll Webdesign &amp; Webflow Ein Klick mit Wirkung Gute Websites sehen nicht nur gut aus – sie fühlen sich auch gut an. Kleine Bewegungen, durchdachte Übergänge, subtile Reaktionen: Das macht aus einem Klick ein gutes Gefühl. Das macht aus einem Tippen ein gutes Gefühl. Standard Gefühl Service Wenn alles gleich ist, ist es die größte Chance, anders zu sein. Strategy NVL-101 Str",
+    "status": "ok",
+    "screenshot": "/shots/eduardbodak-com.jpg"
+  },
+  {
+    "id": "zegzulka-com",
+    "host": "www.zegzulka.com",
+    "url": "https://www.zegzulka.com/",
+    "finalUrl": "https://www.zegzulka.com/",
+    "title": "Jakub Zeg, Designer",
+    "description": "Designer based in Los Angeles. Specializes in dynamic, interactive visuals. Worked at Apple, Meta, and ZOE. Now studying at ArtCenter. Skilled in 3D, motion design, interactive prototyping, and UX.",
+    "ogImage": "https://framerusercontent.com/assets/j2czbNpJi1pVAERnjVRApJ6PgQU.png",
+    "favicon": "https://framerusercontent.com/images/lk7t2Tsgj5sem5YPUiShqKFBfJ0.png",
+    "feeds": [],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "outbound": [
+      "framer.com"
+    ],
+    "textSnippet": "Jakub Zeg, Designer Jakub Zeg Work Play Info Résumé Jakub Zeg Work Play Info Résumé Contact 2077 Contact 2077",
+    "status": "ok",
+    "screenshot": "/shots/zegzulka-com.jpg"
   }
 ]

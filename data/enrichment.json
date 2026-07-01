@@ -1139,5 +1139,178 @@
     "features": [
       "Blog"
     ]
+  },
+  "carlos-m-com": {
+    "name": "Carlos Melegrito",
+    "summary": "Human interface designer at Apple.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "cretu-dev": {
+    "name": "Cristian Crețu",
+    "summary": "Design engineer exploring graphics, interfaces, and the craft of the web.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "3D/WebGL",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "fayazahmed-com": {
+    "name": "Fayaz Ahmed",
+    "summary": "Software and product engineer and designer from Bengaluru building for the web.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog",
+      "Projects"
+    ]
+  },
+  "hacdias-com": {
+    "name": "Henrique Dias",
+    "summary": "Software engineer into open source, digital identity, and user agency.",
+    "role": "Engineer",
+    "tags": [
+      "Open Source",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hellodani-co": {
+    "name": "Daniella Marynova",
+    "summary": "Visual and product designer crafting brand and product for SaaS, fintech, and AI.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "lingxi-li": {
+    "name": "Lingxi Li",
+    "summary": "Solution shipper who cares deeply about both engineering and design.",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "melanie-richards-com": {
+    "name": "Melanie Richards",
+    "summary": "Seattle product manager with a web design and dev background, at Webflow.",
+    "role": "Designer",
+    "tags": [
+      "Product",
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mikkelmalmberg-com": {
+    "name": "Mikkel Malmberg",
+    "summary": "Developer's personal site with posts, notes, projects, and an AMA.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog",
+      "Projects"
+    ]
+  },
+  "sebastiandedeyne-com": {
+    "name": "Sebastian De Deyne",
+    "summary": "Engineering manager in Belgium sharing thoughts and references.",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "surya-website": {
+    "name": "Surya Narreddi",
+    "summary": "Designer and creative technologist based in Brooklyn.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "3D/WebGL"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "tylerbeauchamp-net": {
+    "name": "Tyler Beauchamp",
+    "summary": "Product designer at Notion.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "alanagoyal-com": {
+    "name": "Alana Goyal",
+    "summary": "Founder of Basecase Capital; personal site with notes and projects.",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Finance"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eduardbodak-com": {
+    "name": "Eduard Bodak",
+    "summary": "Web designer in Cologne focused on Webflow, animation, and accessibility.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "zegzulka-com": {
+    "name": "Jakub Zeg",
+    "summary": "Designer in LA making dynamic interactive visuals; ex-Apple and Meta; 3D and motion.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "3D/WebGL",
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ]
   }
 }

@@ -2289,7 +2289,20 @@
       "jakub-kr",
       "mackenziechild-me",
       "tomosman-com",
-      "marijanapav-com"
+      "fayazahmed-com",
+      "marijanapav-com",
+      "zegzulka-com",
+      "hellodani-co",
+      "eduardbodak-com",
+      "tylerbeauchamp-net",
+      "alanagoyal-com",
+      "surya-website",
+      "sebastiandedeyne-com",
+      "mikkelmalmberg-com",
+      "hacdias-com",
+      "melanie-richards-com",
+      "carlos-m-com",
+      "cretu-dev"
     ],
     "inDegree": 0,
     "status": "ok"
@@ -3557,6 +3570,481 @@
     ],
     "feeds": [],
     "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "carlos-m-com",
+    "url": "https://carlos-m.com/",
+    "host": "carlos-m.com",
+    "finalUrl": "https://carlos-m.com/",
+    "name": "Carlos Melegrito",
+    "title": "Carlos Melegrito",
+    "summary": "Human interface designer at Apple.",
+    "description": "Carlos Melegrito is a human interface designer at Apple.",
+    "screenshot": "/shots/carlos-m-com.jpg",
+    "ogImage": "preview.png",
+    "favicon": "https://carlos-m.com/favicon.ico",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "tartvillain.com"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "cretu-dev",
+    "url": "https://cretu.dev/",
+    "host": "cretu.dev",
+    "finalUrl": "https://cretu.dev/",
+    "name": "Cristian Crețu",
+    "title": "Cristian Crețu",
+    "summary": "Design engineer exploring graphics, interfaces, and the craft of the web.",
+    "description": "Design Engineer.",
+    "screenshot": "/shots/cretu-dev.jpg",
+    "ogImage": "https://cretu.dev/static/images/og.png",
+    "favicon": "https://cretu.dev/static/favicons/favicon.svg",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "3D/WebGL",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Astro"
+    ],
+    "feeds": [
+      "https://cretu.dev/rss.xml"
+    ],
+    "outbound": [
+      "anara.com",
+      "hive.cretu.dev"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "fayazahmed-com",
+    "url": "https://fayazahmed.com/",
+    "host": "fayazahmed.com",
+    "finalUrl": "https://fayazahmed.com/",
+    "name": "Fayaz Ahmed",
+    "title": "Fayaz Ahmed",
+    "summary": "Software and product engineer and designer from Bengaluru building for the web.",
+    "description": "I'm Fayaz, your friendly neighborhood software, product engineer and designer from Bengaluru, India. I specialize in building web applications and sites using Javascript, React, Vue & Node.",
+    "screenshot": "/shots/fayazahmed-com.jpg",
+    "ogImage": null,
+    "favicon": "https://fayazahmed.com/favicon.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog",
+      "Projects"
+    ],
+    "tech": [
+      "Nuxt",
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "supersaas.dev",
+      "t.me",
+      "feedbackjar.app",
+      "feedful.app"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "hacdias-com",
+    "url": "https://hacdias.com/",
+    "host": "hacdias.com",
+    "finalUrl": "https://hacdias.com/",
+    "name": "Henrique Dias",
+    "title": "Home - Henrique Dias",
+    "summary": "Software engineer into open source, digital identity, and user agency.",
+    "description": "Henrique is a software engineer who is passionate about open source, digital identity, web technology, and user agency. In his free time, he enjoys staying active, programming, photography, and a tasty cup of coffee or tea.",
+    "screenshot": "/shots/hacdias-com.jpg",
+    "ogImage": "https://media.hacdias.com/image/1800/2024-09-01-stratumse-heide.jpeg",
+    "favicon": "https://hacdias.com/favicon.png",
+    "role": "Engineer",
+    "tags": [
+      "Open Source",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Hugo"
+    ],
+    "feeds": [
+      "https://hacdias.com/feed.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "hellodani-co",
+    "url": "https://hellodani.co/",
+    "host": "hellodani.co",
+    "finalUrl": "https://hellodani.co/",
+    "name": "Daniella Marynova",
+    "title": "Daniella Marynova - Visual & Product Designer for SaaS, Fintech, AI, web3 and dev tools",
+    "summary": "Visual and product designer crafting brand and product for SaaS, fintech, and AI.",
+    "description": "Visual & product designer crafting brand, product, and marketing design for SaaS, fintech, AI, web3 and dev tools.",
+    "screenshot": "/shots/hellodani-co.jpg",
+    "ogImage": "https://framerusercontent.com/images/Vti71C3kgSkeOHn8R3WoE2Ap3RU.png",
+    "favicon": "https://framerusercontent.com/images/bc7HNprkeHF4LZ49QNkzgCkjGrM.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "feeds": [],
+    "outbound": [
+      "framer.com",
+      "tally.so"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "lingxi-li",
+    "url": "https://lingxi.li/",
+    "host": "lingxi.li",
+    "finalUrl": "https://lingxi.li/",
+    "name": "Lingxi Li",
+    "title": "Lingxi Li",
+    "summary": "Solution shipper who cares deeply about both engineering and design.",
+    "description": "A solution shipper, who cares deeply about both engineering and design.",
+    "screenshot": "/shots/lingxi-li.jpg",
+    "ogImage": "https://lingxi.li/opengraph-image.png?opengraph-image.17g9wl6qlz9_c.png",
+    "favicon": "https://lingxi.li/favicon.ico?favicon.0y8_2stno-i8e.ico",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "cursor.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "melanie-richards-com",
+    "url": "https://melanie-richards.com/",
+    "host": "melanie-richards.com",
+    "finalUrl": "https://melanie-richards.com/",
+    "name": "Melanie Richards",
+    "title": "Melanie Richards",
+    "summary": "Seattle product manager with a web design and dev background, at Webflow.",
+    "description": "A Seattle-based product manager with a background in web design and development, currently helping enable web teams at Webflow.",
+    "screenshot": "/shots/melanie-richards-com.jpg",
+    "ogImage": "https://melanie-richards.com/assets/images/social-image.png",
+    "favicon": "https://melanie-richards.com/assets/images/favicon.png",
+    "role": "Designer",
+    "tags": [
+      "Product",
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://melanie-richards.com/feed.xml"
+    ],
+    "outbound": [
+      "front-end.social",
+      "webflow.com",
+      "app.thestorygraph.com",
+      "11ty.dev",
+      "bookshop.org"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "mikkelmalmberg-com",
+    "url": "https://mikkelmalmberg.com/",
+    "host": "mikkelmalmberg.com",
+    "finalUrl": "https://mikkelmalmberg.com/",
+    "name": "Mikkel Malmberg",
+    "title": "Mikkel Malmberg",
+    "summary": "Developer's personal site with posts, notes, projects, and an AMA.",
+    "description": "Personal site of Mikkel Malmberg. Posts, notes, projects, and AMA.",
+    "screenshot": "/shots/mikkelmalmberg-com.jpg",
+    "ogImage": "https://mikkelmalmberg.com/og/home.png",
+    "favicon": "https://mikkelmalmberg.com/favicon.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog",
+      "Projects"
+    ],
+    "tech": [
+      "React"
+    ],
+    "feeds": [
+      "https://mikkelmalmberg.com/feeds/all.xml",
+      "https://mikkelmalmberg.com/feeds/posts.xml",
+      "https://mikkelmalmberg.com/feeds/notes.xml"
+    ],
+    "outbound": [
+      "brainbow.studio",
+      "tunaformac.com",
+      "10er.com",
+      "nitrokit.dev",
+      "getmoves.app",
+      "getsprinkles.app",
+      "dr.dk",
+      "fupifarvandet.dk",
+      "cranes.supply",
+      "web.archive.org",
+      "latr.fm",
+      "moem.dk",
+      "2sek.dk",
+      "5min.dk",
+      "mikker.eth.link",
+      "mikker.tez.page"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "sebastiandedeyne-com",
+    "url": "https://sebastiandedeyne.com/",
+    "host": "sebastiandedeyne.com",
+    "finalUrl": "https://sebastiandedeyne.com/",
+    "name": "Sebastian De Deyne",
+    "title": "Information Overload",
+    "summary": "Engineering manager in Belgium sharing thoughts and references.",
+    "description": "Thoughts & references from an engineering manager in Belgium",
+    "screenshot": "/shots/sebastiandedeyne-com.jpg",
+    "ogImage": null,
+    "favicon": "https://sebastiandedeyne.com/favicon.svg",
+    "role": "Engineer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://sebastiandedeyne.com/index.xml",
+      "https://sebastiandedeyne.com/articles.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "surya-website",
+    "url": "https://surya.website/",
+    "host": "surya.website",
+    "finalUrl": "https://surya.website/",
+    "name": "Surya Narreddi",
+    "title": "Surya Narreddi",
+    "summary": "Designer and creative technologist based in Brooklyn.",
+    "description": "I'm a designer and creative technologist based in Brooklyn, NY.",
+    "screenshot": "/shots/surya-website.jpg",
+    "ogImage": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+    "favicon": "https://framerusercontent.com/images/QwkPFiDJZKisyXUTjcpnwsjyg.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "3D/WebGL"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "feeds": [],
+    "outbound": [
+      "framer.com",
+      "are.na"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "tylerbeauchamp-net",
+    "url": "https://tylerbeauchamp.net/",
+    "host": "tylerbeauchamp.net",
+    "finalUrl": "https://tylerbeauchamp.net/",
+    "name": "Tyler Beauchamp",
+    "title": "Tyler Beauchamp",
+    "summary": "Product designer at Notion.",
+    "description": "I’m Tyler Beauchamp, a product designer at Notion.",
+    "screenshot": "/shots/tylerbeauchamp-net.jpg",
+    "ogImage": "https://framerusercontent.com/images/M4kOZX7k5iYIooGjxmOUtslUafA.png",
+    "favicon": "https://framerusercontent.com/images/G6diKb4kyterPkyyrIU6IzeU0.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "feeds": [],
+    "outbound": [
+      "framer.com",
+      "openai.com",
+      "books.tylerbeauchamp.net"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "alanagoyal-com",
+    "url": "https://www.alanagoyal.com/",
+    "host": "www.alanagoyal.com",
+    "finalUrl": "https://www.alanagoyal.com/",
+    "name": "Alana Goyal",
+    "title": "alana goyal",
+    "summary": "Founder of Basecase Capital; personal site with notes and projects.",
+    "description": "Personal website of Alana Goyal",
+    "screenshot": "/shots/alanagoyal-com.jpg",
+    "ogImage": "https://alanagoyal.com/notes/api/og/?title=about%20me&emoji=%F0%9F%91%8B%F0%9F%8F%BC",
+    "favicon": "data:image/svg+xml,&lt;svg xmlns=&#x27;http://www.w3.org/2000/svg&#x27;%20viewBox=&#x27;0%200%20384%20512&#x27;&gt;&lt;path%20d=&#x27;M318.7%20268.7c-.2-36.7%2016.4-64.4%2050-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3%2020.7-88.5%2020.7-15%200-49.4-19.7-76.4-19.7C63.3%20141.2%204%20184.8%204%20273.5q0%2039.3%2014.4%2081.2c12.8%2036.7%2059%20126.7%20107.2%20125.2%2025.2-.6%2043-17.9%2075.8-17.9%2031.8%200%2048.3%2017.9%2076.4%2017.9%2048.6-.7%2090.4-82.5%20102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4%2024.8-61.9%2024-72.5-24.1%201.4-52%2016.4-67.9%2034.9-17.5%2019.8-27.8%2044.3-25.6%2071.9%2026.1%202%2049.9-11.4%2069.5-34.3z&#x27;/&gt;&lt;/svg&gt;",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Finance"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "eduardbodak-com",
+    "url": "https://www.eduardbodak.com/",
+    "host": "www.eduardbodak.com",
+    "finalUrl": "https://www.eduardbodak.com/",
+    "name": "Eduard Bodak",
+    "title": "Webdesigner aus Köln | Design | Webflow | Animationen | Barrierefreiheit",
+    "summary": "Web designer in Cologne focused on Webflow, animation, and accessibility.",
+    "description": "Als Webdesigner helfe ich designorientierten Unternehmen, alle ihre Wünsche wahr werden zu lassen. Solange es etwas mit einer tollen Website zu tun hat.",
+    "screenshot": "/shots/eduardbodak-com.jpg",
+    "ogImage": "https://cdn.prod.website-files.com/64591e5db836f60c02bb97e9/680fdd120c1b1657876c3607_1200x630_OG.png",
+    "favicon": "https://cdn.prod.website-files.com/64591e5db836f60c02bb97e9/6703ea4bbff5d08293f4cd11_32x32_Favicon.svg",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Web Dev"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "localhost",
+      "webflow.com"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "zegzulka-com",
+    "url": "https://www.zegzulka.com/",
+    "host": "www.zegzulka.com",
+    "finalUrl": "https://www.zegzulka.com/",
+    "name": "Jakub Zeg",
+    "title": "Jakub Zeg, Designer",
+    "summary": "Designer in LA making dynamic interactive visuals; ex-Apple and Meta; 3D and motion.",
+    "description": "Designer based in Los Angeles. Specializes in dynamic, interactive visuals. Worked at Apple, Meta, and ZOE. Now studying at ArtCenter. Skilled in 3D, motion design, interactive prototyping, and UX.",
+    "screenshot": "/shots/zegzulka-com.jpg",
+    "ogImage": "https://framerusercontent.com/assets/j2czbNpJi1pVAERnjVRApJ6PgQU.png",
+    "favicon": "https://framerusercontent.com/images/lk7t2Tsgj5sem5YPUiShqKFBfJ0.png",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "3D/WebGL",
+      "Art"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "React",
+      "Framer"
+    ],
+    "feeds": [],
+    "outbound": [
+      "framer.com"
+    ],
     "links": [],
     "inDegree": 1,
     "status": "ok"
