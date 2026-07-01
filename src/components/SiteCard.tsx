@@ -65,7 +65,14 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
           >
             {host} <span aria-hidden style={{ opacity: 0.6 }}>↗</span>
           </a>
-          {site.inDegree > 0 && <span className="shrink-0 ml-2">★ {site.inDegree}</span>}
+          {site.inDegree > 0 && (
+            <span
+              className="shrink-0 ml-2"
+              title={`Linked to by ${site.inDegree} other ${site.inDegree === 1 ? "site" : "sites"} in the directory`}
+            >
+              ★ {site.inDegree}
+            </span>
+          )}
         </div>
       </div>
     </div>

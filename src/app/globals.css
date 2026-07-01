@@ -96,11 +96,22 @@ body {
 }
 .wordmark span {
   display: inline-block;
-  transition: transform 0.28s cubic-bezier(0.34, 1.6, 0.5, 1), color 0.28s ease;
 }
-.wordmark:hover span {
-  transform: translateY(-0.16em);
-  color: var(--c);
+@media (prefers-reduced-motion: no-preference) {
+  .wordmark:hover span {
+    animation: wordmark-bob 0.55s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+}
+@keyframes wordmark-bob {
+  0% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-0.24em);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
 .host-link {

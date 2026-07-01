@@ -1,6 +1,6 @@
 "use client";
 
-import { type CSSProperties, useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Site } from "@/lib/types";
 import SiteCard from "./SiteCard";
 import SiteDetail from "./SiteDetail";
@@ -11,9 +11,6 @@ type Facets = { roles: Facet[]; tags: Facet[]; features: Facet[] };
 type Sort = "az" | "random";
 
 const SORT_LABEL: Record<Sort, string> = { az: "A–Z", random: "Shuffle" };
-
-// Playful indie-web palette for the wordmark hover (one color per letter).
-const TITLE_COLORS = ["#e5484d", "#f76b15", "#ffb224", "#46a758", "#12a594", "#0091ff", "#3e63dd", "#8e4ec6", "#e93d82"];
 
 export default function Directory({ sites, facets }: { sites: Site[]; facets: Facets }) {
   const [q, setQ] = useState("");
@@ -89,10 +86,7 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
           <div>
             <h1 className="wordmark text-[24px] md:text-[30px] font-semibold tracking-tight" style={{ color: "var(--text-1)" }}>
               {"Homepages".split("").map((ch, i) => (
-                <span
-                  key={i}
-                  style={{ "--c": TITLE_COLORS[i % TITLE_COLORS.length], transitionDelay: `${i * 25}ms` } as CSSProperties}
-                >
+                <span key={i} style={{ animationDelay: `${i * 45}ms` }}>
                   {ch}
                 </span>
               ))}
