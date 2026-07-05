@@ -2,9 +2,9 @@
 
 import { useEffect, useState } from "react";
 
-// Where suggestions go. Set NEXT_PUBLIC_FORMSPREE_ID to a Formspree form id
-// (the part after /f/ in https://formspree.io/f/XXXXXXXX). If it's unset, the
-// form gracefully falls back to opening a pre-filled email instead.
+// Where suggestions go. Configured via NEXT_PUBLIC_FORMSPREE_ID (the part after
+// /f/ in https://formspree.io/f/XXXXXXXX), set in Vercel. If it's ever unset,
+// the form gracefully falls back to opening a pre-filled email instead.
 const FORM_ID = process.env.NEXT_PUBLIC_FORMSPREE_ID;
 const FALLBACK_EMAIL = "3owen.c@gmail.com";
 
