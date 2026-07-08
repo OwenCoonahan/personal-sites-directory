@@ -4783,5 +4783,351 @@
     "textSnippet": "Steph | Smith - Remote Work, Continuous Growth, and Technology --> Steph | Smith &nbsp;Steph | Smith Made: Internet Pipes 50 Days of Fun My Book My Protocol Eunoia MYGA FeMake nomad(hubb) More: Open Podcast Books Photos Travel COVID Resources --> Scholarships FAQ Blog Pipes Subscribe Contact hi, I'm Steph As seen in: - ABOUT - Hi! Thank you for visiting my site. I'm Steph. :) I spend my days working at Nvidia , after leading growth at Groq ( relevant ). Before that, I hosted the a16z podcast and worked for companies like The Hustle (led their product Trends to millions in ARR) and HubSpot (leading their creator program ). As a perpetual night owl 🦉, I’m always cooking something up. Since teaching myself to code in '18, I've built many a side project ( Eunoia is my favorite!), wrote a book on content , have an unhealthy Twitter addiction , and run my own podcast with my husband. My latest project is Internet Pipes , which helps you make sense of all the incredible data online. The community is ~3k people strong, and growing daily. This crazy adventure all started nearly a decade ago, when I was unhappy with my life and decided to design a new one. Since then, I’ve worked remotely w",
     "status": "ok",
     "screenshot": "/shots/stephsmith-io.jpg"
+  },
+  {
+    "id": "rauchg-com",
+    "host": "rauchg.com",
+    "url": "https://rauchg.com/",
+    "finalUrl": "https://rauchg.com/",
+    "title": "Vercel Security Checkpoint",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://rauchg.com/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Astro",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Vercel Security Checkpoint | sfo1::1783543051-BoXcSXiv0hjpP3rMzKvJOLlZrWAshAN3 Enable JavaScript to continue Vercel Security Checkpoint | sfo1::1783543051-BoXcSXiv0hjpP3rMzKvJOLlZrWAshAN3",
+    "status": "ok",
+    "screenshot": null
+  },
+  {
+    "id": "adamwathan-me",
+    "host": "adamwathan.me",
+    "url": "https://adamwathan.me/",
+    "finalUrl": "https://adamwathan.me/",
+    "title": "Adam Wathan",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://adamwathan.me/favicon.ico",
+    "feeds": [
+      "https://adamwathan.me/rss/index.xml"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Adam Wathan Adam Wathan Articles Talks Screencasts Podcast Courses Projects Journal Articles Talks Screencasts Podcast Courses Projects Journal Who the hell am I? I'm @adamwathan , a full-stack developer, entrepreneur, and Justin's worst nightmare . I share everything I know about making awesome software through my articles , talks , screencasts , podcast , and courses . In 2016, I released my first book and left my job to make things full-time that help other developers build better software. Right now I'm working on Tailwind CSS , and I share updates about my progress in my work journal . Curious about how I work? Check out my uses page for a full list of all the software, gadgets, and services I use.",
+    "status": "ok",
+    "screenshot": "/shots/adamwathan-me.jpg"
+  },
+  {
+    "id": "amasad-me",
+    "host": "amasad.me",
+    "url": "https://amasad.me/",
+    "finalUrl": "https://amasad.me/",
+    "title": "Amjad Masad",
+    "description": "Amjad Masad's site",
+    "ogImage": "/public/pic.png",
+    "favicon": "https://www.gravatar.com/avatar/03637ef1a5121222c8db0ed48c34e124.png?s=32",
+    "feeds": [
+      "https://amasad.me/rss"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Amjad Masad Amjad Masad About Twitter Email Replit Github RSS Essays: How to Keep Winning Civilizational Primitives Investing in Synthesis Why Learn Compilers Computers Doing The Right Thing Learning to Fight The Hyperreal On Hosting Sites from Your Editor Ambition++; Reflecting on a decade of work Replit is not an IDE Why We Switched From MongoDB to PostgresSQL (GPT 3 post) Do What Makes The Best Story 50th Anniversary of The Mother of All Demos Leapfrogging the IDE Beware the Metagame Github and Open-source Is a Boon for the Underprivileged Be Grateful Mental Frames to Get Over Entrepreneurial Anxiety and Depression Dialectical Progress in Programming Disintegrated Development Environments — How Did We Get Here? Fake Minimalism 2016 Kierkegaard and Entrepreneurship What is Perfectionism and How to Cure It John Carmack on Idea Generation Caching and Promises Eval as a Service The Stoic of Open Source Overcoming Intuition in Programming Easier Concurrent Programming in JavaScript with Async Functions Hello World Lesser-Known JavaScript Debugging Techniques Building an In-Browser JavaScript VM and Debugger Using Generators On VMs in JavaScript",
+    "status": "ok",
+    "screenshot": "/shots/amasad-me.jpg"
+  },
+  {
+    "id": "zenorocha-com",
+    "host": "zenorocha.com",
+    "url": "https://zenorocha.com/",
+    "finalUrl": "https://zenorocha.com/",
+    "title": "Zeno Rocha",
+    "description": "Obsessed with developer experience",
+    "ogImage": "https://zenorocha.com/static/images/home-bw.jpg",
+    "favicon": "https://zenorocha.com/favicon.svg",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "resend.com"
+    ],
+    "textSnippet": "Zeno Rocha z About Articles Projects Talks Podcasts Investing Uses Reminder Zeno Rocha Founder &amp; CEO at Resend Obsessed with developer experience Email Twitter GitHub LinkedIn Instagram",
+    "status": "ok",
+    "screenshot": "/shots/zenorocha-com.jpg"
+  },
+  {
+    "id": "leerob-io",
+    "host": "leerob.io",
+    "url": "https://leerob.io/",
+    "finalUrl": "https://leerob.com/",
+    "title": "Lee Robinson",
+    "description": "Developer and writer.",
+    "ogImage": "https://leerob.com/opengraph-image.png?opengraph-image.e50fc1a6.png",
+    "favicon": "https://leerob.com/favicon.ico?favicon.dbbf33f6.ico",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Lee Robinson Lee Robinson I’m an engineer and writer . I work on ML at Cursor , helping improve model behavior. Previously, I worked at Vercel . I’ve been coding for 15 years and teaching for the second half. My life’s work is to make technology easy to understand and interesting to learn about. I’m a husband, father, and a massive music fan . I last listened to Rumpta by Solomun, Skrillex . Some of my favorite writing includes: Things I Believe Coding Agents &amp; Complexity Budgets Building Low-Level Software with Only Coding Agents How Does Image Compression Work? Developer Marketing Understanding AI You can read my writing or code , or follow me online . I also make videos , advise companies, and do angel investing. Reach out if interested.",
+    "status": "ok",
+    "screenshot": "/shots/leerob-io.jpg"
+  },
+  {
+    "id": "mxstbr-com",
+    "host": "mxstbr.com",
+    "url": "https://mxstbr.com/",
+    "finalUrl": "https://mxstbr.com/",
+    "title": "Max Stoiber (@mxstbr)",
+    "description": "CEO & co-founder of Stellate, creator of styled-components and react-boilerplate and angel investor in early-stage startups.",
+    "ogImage": "https://mxstbr.com/og",
+    "favicon": "https://mxstbr.com/icon.png?icon.0412e0a9.png",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "openai.com",
+      "shopify.com",
+      "stellate.co",
+      "gatsbyjs.com",
+      "hub.packtpub.com",
+      "thinkmill.com.au"
+    ],
+    "textSnippet": "Max Stoiber (@mxstbr) Max Stoiber Notes Open Source Investments TL;DR Member of Technical Staff at OpenAI Prev Director of Engineering at Shopify Prev CEO &amp; co-founder of Stellate ( acq. by Shopify ) (Co-)creator of open source projects used by millions 💅 Angel investor in 22 + startups 👼 Speciality coffee barista and backcountry skier 🎿 Austrian living in San Francisco 🌁 Essays You probably don&#x27;t need GraphQL 20,934 views Why I Love Tailwind 46,315 views Margin considered harmful 77,558 views Why I Write CSS in JavaScript 67,287 views Tech Choices I Regret at Spectrum 41,528 views Average: 0,83 essays/year Work OpenAI Member of Technical Staff 2026–now Shopify Director of Engineering 2024–2026 Stellate (acq) CEO &amp; Co-founder 2021–2024 Gatsby Senior Staff Software Engineer 2020–2021 GitHub Software Engineer 2018–2020 Spectrum (acq) CTO &amp; Co-founder 2017–2018 Thinkmill Open Source Developer 2016–2017 RSS Twitter GitHub LinkedIn Instagram",
+    "status": "ok",
+    "screenshot": "/shots/mxstbr-com.jpg"
+  },
+  {
+    "id": "arvidkahl-com",
+    "host": "arvidkahl.com",
+    "url": "https://arvidkahl.com/",
+    "finalUrl": "https://thebootstrappedfounder.com/",
+    "title": "The Bootstrapped Founder – How to Start, Run, and Sell a Bootstrapped Business — by Arvid Kahl",
+    "description": "Hi! I'm Arvid. I empower founders & creators who want to build calm & sustainable businesses in public. The Bootstrapped Founder is the home of my Twitter course Find your Following, the books Zero to Sold and The Embedded Entrepreneur, where I share how to build a business, an audience, and a path to financial&hellip;",
+    "ogImage": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2022/11/tbfp-blog-share-main.png?fit=1200%2C630&ssl=1",
+    "favicon": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2022/11/cropped-symbol_white_bgblue_web.png?fit=32%2C32&#038;ssl=1",
+    "feeds": [
+      "https://thebootstrappedfounder.com/feed/",
+      "https://thebootstrappedfounder.com/comments/feed/"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "c0.wp.com",
+      "wp.me",
+      "i0.wp.com",
+      "teardown.me",
+      "shop.thebootstrappedfounder.com",
+      "tbf.link",
+      "findyourfollowing.com",
+      "links.zerotosoldbook.com",
+      "embeddedentrepreneur.com",
+      "wordpress.org",
+      "wordpress.com"
+    ],
+    "textSnippet": "The Bootstrapped Founder &#8211; How to Start, Run, and Sell a Bootstrapped Business — by Arvid Kahl Skip to content The Bootstrapped Founder How to Start, Run, and Sell a Bootstrapped Business — by Arvid Kahl Menu Posts Books Newsletter Podcast Consulting &#038; Services Clarity Call Twitter Teardown Shop Arvid About Me Media Kit Tech Stack Search START TYPING AND PRESS ENTER TO SEARCH Posts Books Newsletter Podcast Consulting &#038; Services Clarity Call Twitter Teardown Shop Arvid About Me Media Kit Tech Stack Search The Bootstrapped Founder Hi! I&#8217;m Arvid . I empower founders &amp; creators who want to build calm &amp; sustainable businesses in public. The Bootstrapped Founder is the home of my Twitter course Find your Following , the books Zero to Sold and The Embedded Entrepreneur , where I share how to build a business, an audience, and a path to financial independence. You will also find the Bootstrapper&#8217;s Bookshelf , the Bootstrapped Founder Podcast , the YouTube channel, and the Bootstrapped Founder Newsletter here. Here are my most recent blog posts: Building in Public The Increasing Risk of Building in Public Reading Time: 6 minutes Building in public once he",
+    "status": "ok",
+    "screenshot": "/shots/arvidkahl-com.jpg"
+  },
+  {
+    "id": "justinjackson-ca",
+    "host": "justinjackson.ca",
+    "url": "https://justinjackson.ca/",
+    "finalUrl": "https://justinjackson.ca/",
+    "title": "Justin Jackson – SaaS, bootstrapping, marketing",
+    "description": "Co-founder of Transistor.fm (podcast hosting). I write about SaaS marketing, bootstrapping startups, the good life, calm companies, and creating a better society.",
+    "ogImage": "https://justinjackson.ca/assets/justin-jackson-02.jpeg",
+    "favicon": "https://justinjackson.ca/img/asset/bWFpbi9icnV0YWwvanVzdGluLWphY2tzb24tZG90cy1jaXJjbGUucG5n/justin-jackson-dots-circle.png?w=32&h=32&s=7e1b78ae8c8e62042f940d6b7ff46531",
+    "feeds": [
+      "https://justinjackson.ca/feed"
+    ],
+    "tech": [],
+    "outbound": [
+      "twitch.tv",
+      "transistor.fm",
+      "mbsy.co",
+      "creativebloq.com",
+      "smashingmagazine.com",
+      "t3n.de",
+      "lifehacker.com",
+      "hackermonthly.com",
+      "cbc.ca",
+      "statamic.com"
+    ],
+    "textSnippet": "Justin Jackson – SaaS, bootstrapping, marketing Home About Articles Newsletter RSS Recent Posts We have a communication problem Do the hardest thing Necessary but not sufficient On the web Bluesky: @justinjackson.ca [email&#160;protected] youtube.com/justinjackson instagram.com/mijustin twitch.tv/megajustin Email newsletter You can email me at words [at]&nbsp;megamaker.co Hi, I’m Justin Jackson. I co-founded Transistor.fm (podcast hosting and analytics). I write about the reality of bootstrapping startups , pursuing a good life, building calm companies, business ethics, and creating a better society. Subscribe here so you don&#039;t miss anything: Get my newsletter Thanks! You'll now receive my newsletter every week. Have questions? Email me: [email&#160;protected] Startup stories, lessons, and tips. Sent on Saturday mornings. Read it while you drink your coffee. There was an error submitting your subscription. Please try again. Subscribe now I'd like to receive a free 30 day course by email. No spam. Unsubscribe anytime. Powered by ConvertKit . Awww yeaaah! Looks like you're already on my mailing list! Have you checked out my YouTube channel? My work has been featured in: Popular ",
+    "status": "ok",
+    "screenshot": "/shots/justinjackson-ca.jpg"
+  },
+  {
+    "id": "okdork-com",
+    "host": "okdork.com",
+    "url": "https://okdork.com/",
+    "finalUrl": "https://noahkagan.com/",
+    "title": "Home | Noah Kagan",
+    "description": "My site features articles about how to start a business, marketing, self-improvement and stupid humor. PS. Looking for recent articles? Go here.",
+    "ogImage": "https://noahkagan.com/wp-content/uploads/noah-kagan-website-pic.jpg",
+    "favicon": "https://noahkagan.com/wp-content/uploads/2017/02/cropped-okdork-2017-favicon-128x128-32x32.png",
+    "feeds": [
+      "https://noahkagan.com/feed/",
+      "https://noahkagan.com/comments/feed/",
+      "https://noahkagan.com/home/feed/"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "appsumo.com"
+    ],
+    "textSnippet": "Home | Noah Kagan --> by NOAH KAGAN Menu Book Newsletter Articles About 1.3M Free Weekly Marketing Newsletter Join 100k+ subscribers to the Free Marketing Newsletter for insider tips, cutting edge strategies, and personal tool recommendations. Spice me up! Spice me up! All tactics. No fluff. Action takers Only 🚀 Hola, I am the Chief Sumo at AppSumo.com , where we help entrepreneurs kick more ass. Before that I was a cubicle monkey at Intel, #30 at Facebook and #4 at Mint. These are my stories on marketing, starting a business, personal improvement and productivity tips. This site is about actionable business advice for entrepreneurs and businesspeople. Learn how to start a business, marketing, and more. I’ve failed and succeeded over the years, and these are my stories. Bonus, you can check out my YouTube channel and Podcast about starting and growing a business. Best articles to start with: Time Management Tips of Insanely Busy People Why I Walked Out on Tony Robbins What I Learned Growing an 8-Figure Business Recent on the Podcast: 15 year of AppSumo Hey Sam Parr Million Dollar Weekend crossed 100,000 sales!! Free Weekly Marketing Newsletter Join 100k+ subscribers to the Free We",
+    "status": "ok",
+    "screenshot": "/shots/okdork-com.jpg"
+  },
+  {
+    "id": "joshpigford-com",
+    "host": "joshpigford.com",
+    "url": "https://joshpigford.com/",
+    "finalUrl": "https://joshpigford.com/",
+    "title": "Josh Pigford",
+    "description": "Josh Pigford: Dabbler. Co-founder and CEO of Maybe.",
+    "ogImage": "https://joshpigford.com/meta.png",
+    "favicon": "https://joshpigford.com/apple-touch-icon.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "granite.co",
+      "keptwell.org",
+      "superfantastictoys.com",
+      "replysocial.co",
+      "chops.md",
+      "clearly.md",
+      "timeslice.today",
+      "studio.neato.fun"
+    ],
+    "textSnippet": "Josh Pigford ⦂⦚ Josh Pigford Home / Articles / Projects / Investments / Podcasts / Books / Art / Guestbook Dabbler. Currently building...an offensive number of things. Granite - A vault that knows your documents KeptWell - Your family&#x27;s medical binder, replaced Initial Commit - Fractional AI &amp; product co-founder for startups Super Fantastic - Toy store &amp; novelty collectibles ReplySocial - Inbox for monitoring &amp; replying to X mentions Chops - Browse, edit, and manage AI agent skills from your Mac Clearly - Clean native markdown editor for Mac Timeslice - Visual time-blocking calendar Studio - Browser-based generative design and art creation tools You can find me on social media as @Shpigford . This thing is open source , for better or worse.",
+    "status": "ok",
+    "screenshot": "/shots/joshpigford-com.jpg"
+  },
+  {
+    "id": "kevinrose-com",
+    "host": "kevinrose.com",
+    "url": "https://kevinrose.com/",
+    "finalUrl": "https://www.kevinrose.com/",
+    "title": "Kevin Rose | Substack",
+    "description": "Exploring emerging AI / tech trends, finance, health, minimal-living, philosophy, and the discipline of Zen. Click to read Kevin Rose, a Substack publication with hundreds of thousands of subscribers.",
+    "ogImage": "https://substackcdn.com/image/fetch/$s_!RBNG!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fkro.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-292091792%26version%3D9",
+    "favicon": "https://substackcdn.com/image/fetch/$s_!BuZ1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F566823c5-896e-487d-9da3-89ab079c8baf%2Ffavicon.ico",
+    "feeds": [
+      "https://www.kevinrose.com/feed"
+    ],
+    "tech": [
+      "React"
+    ],
+    "outbound": [],
+    "textSnippet": "Kevin Rose | Substack Kevin Rose Exploring emerging AI / tech trends, finance, health, minimal-living, philosophy, and the discipline of Zen. Over 124,000 subscribers Subscribe By subscribing, you agree Substack's Terms of Use , and acknowledge its Information Collection Notice and Privacy Policy . No thanks This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+    "status": "ok",
+    "screenshot": "/shots/kevinrose-com.jpg"
+  },
+  {
+    "id": "anne-laure-net",
+    "host": "anne-laure.net",
+    "url": "https://anne-laure.net/",
+    "finalUrl": "https://anne-laure.net/",
+    "title": "Anne-Laure Le Cunff, PhD | Neuroscientist, Entrepreneur & Educator",
+    "description": "Anne-Laure Le Cunff, neuroscientist and founder of Ness Labs, teaches people how to leverage their curiosity to think, feel, and live more deeply.",
+    "ogImage": "https://anne-laure.net/img/banner-anne-laure.png",
+    "favicon": "https://anne-laure.net/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "nesslabs.com",
+      "researchgate.net",
+      "newsletter.nesslabs.com",
+      "penguinrandomhouse.com",
+      "kcl.ac.uk",
+      "remarkable.com",
+      "appliedneuroscienceassociation.com",
+      "mentalhealthresearchmatters.org.uk",
+      "tenentrepreneurs.org",
+      "foundersacademy.io",
+      "liss-dtp.ac.uk",
+      "hypercurious.com",
+      "bigthink.com",
+      "soundcloud.com",
+      "doi.org"
+    ],
+    "textSnippet": "Anne-Laure Le Cunff, PhD | Neuroscientist, Entrepreneur & Educator About Work Contact Hi, I’m Anne-Laure. I help people apply their curiosity to think, feel, and live more deeply. My work focuses on the neuroscience of curiosity: the architecture behind why we seek, and how this system can be tuned or disrupted. This research has led me to explore fascinating territories all connected to curiosity, from ADHD to AI, mental health to lifelong learning. I’m also interested in psychedelics, the nature of consciousness, tools for thought, and movement as mindfulness. Every week, I write a newsletter which is read by more than 120,000 fellow curious minds. I also published a book, Tiny Experiments , a practical guide on how to live a more experimental life. Please get in touch if any of this resonates. I’m open to speaking engagements, research collaborations, and writing opportunities — particularly projects exploring the intersection of neuroscience, technology, and human flourishing. Where I’ve worked Ness Labs , Founder & CEO (current) King’s College London , Researcher (current) Entrepreneur First, Founder in Residence Google, Global Marketing Lead, Google Fit Advisory roles reMarka",
+    "status": "ok",
+    "screenshot": "/shots/anne-laure-net.jpg"
+  },
+  {
+    "id": "marclou-com",
+    "host": "marclou.com",
+    "url": "https://marclou.com/",
+    "finalUrl": "https://marclou.com/",
+    "title": "Marc Lou | Indie Page",
+    "description": "I was fired everywhere, so I hired myself.\n\n42,851 entrepreneurs read Just Ship It:\n\nI share how to find startup ideas, launch fast, and get profitable 👇",
+    "ogImage": "https://indiepa.ge/api/og?username=marclou",
+    "favicon": "https://d3m8mk7e1mf7xn.cloudfront.net/64224402d24ae443b84e744a/1679968753139Fun.png",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "outbound": [
+      "indiepa.ge",
+      "newsletter.marclou.com",
+      "codefa.st",
+      "shipfa.st",
+      "datafa.st",
+      "trustmrr.com",
+      "ship-or-die.com",
+      "zenvoice.io",
+      "poopup.co",
+      "byedispute.com",
+      "workbookpdf.com",
+      "habitsgarden.com",
+      "launchvir.al",
+      "supershrimp.io",
+      "bioa.ge",
+      "datamarket.datafa.st",
+      "logofa.st",
+      "unicor.ne",
+      "datacity.datafa.st",
+      "stalkr.ai",
+      "datarot.datafa.st",
+      "insigh.to",
+      "macrodata.datafa.st",
+      "dataradar.datafa.st",
+      "clipmarc.com",
+      "50hacks.co",
+      "theherofit.app",
+      "dataempire.datafa.st",
+      "fitymi.app",
+      "decisiongame.co",
+      "buddycrush.co",
+      "bookscalculator.com",
+      "naval25.com",
+      "mood2movie.com",
+      "makelanding.ai",
+      "googe.com"
+    ],
+    "textSnippet": "Marc Lou | Indie Page Marc Lou Bali $ 91.4k /month I was fired everywhere, so I hired myself. 42,851 entrepreneurs read Just Ship It: I share how to find startup ideas, launch fast, and get profitable 👇 Subscribe twitter CodeFast . $ 9.4k /mo Learn to code in weeks, not years ShipFast . $ 3.6k /mo Ship your startup in days, not months DataFast . $ 21.9k /mo Grow your startup with data, not guesses TrustMRR . $ 37.3k /mo The database of verified startup revenues Ship or Die . $ 17.5k /mo SHIP your app in 30 days, or die 💀 Zenvoice . $ 138 /mo Focus on your startup, not the invoices Indie Page . $ 865 /mo All your startups in a page, like this one PoopUp . $ 19 /mo Turn your visitors into customers with wake-up call ByeDispute . $ 201 /mo Prevent disputes before getting banned from Stripe WorkbookPDF . $ 58 /mo Language workbooks you&#x27;ll love Habits Garden . $ 19 /mo Fight procrastination with a gamified habit tracker LaunchViral . $ 258 /mo Grow your startup with viral launch videos SuperShrimp . $ 136 /mo Fix your terrible posture BioAge . $ 0 /mo Your BioHacker dashboard DataMarketTerminal A Bloomberg terminal for web analytics LogoFast Make beautiful logos with AI, fast &am",
+    "status": "ok",
+    "screenshot": "/shots/marclou-com.jpg"
   }
 ]

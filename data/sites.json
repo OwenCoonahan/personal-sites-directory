@@ -6889,5 +6889,505 @@
     "links": [],
     "inDegree": 0,
     "status": "ok"
+  },
+  {
+    "id": "rauchg-com",
+    "url": "https://rauchg.com/",
+    "host": "rauchg.com",
+    "finalUrl": "https://rauchg.com/",
+    "name": "Guillermo Rauch",
+    "title": "Vercel Security Checkpoint",
+    "summary": "Founder and CEO of Vercel; creator of Next.js and Socket.io.",
+    "description": "",
+    "screenshot": null,
+    "ogImage": null,
+    "favicon": "https://rauchg.com/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Astro",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "adamwathan-me",
+    "url": "https://adamwathan.me/",
+    "host": "adamwathan.me",
+    "finalUrl": "https://adamwathan.me/",
+    "name": "Adam Wathan",
+    "title": "Adam Wathan",
+    "summary": "Creator of Tailwind CSS and cofounder of Tailwind Labs.",
+    "description": "",
+    "screenshot": "/shots/adamwathan-me.jpg",
+    "ogImage": null,
+    "favicon": "https://adamwathan.me/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://adamwathan.me/rss/index.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "amasad-me",
+    "url": "https://amasad.me/",
+    "host": "amasad.me",
+    "finalUrl": "https://amasad.me/",
+    "name": "Amjad Masad",
+    "title": "Amjad Masad",
+    "summary": "Founder and CEO of Replit.",
+    "description": "Amjad Masad's site",
+    "screenshot": "/shots/amasad-me.jpg",
+    "ogImage": "/public/pic.png",
+    "favicon": "https://www.gravatar.com/avatar/03637ef1a5121222c8db0ed48c34e124.png?s=32",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://amasad.me/rss"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "zenorocha-com",
+    "url": "https://zenorocha.com/",
+    "host": "zenorocha.com",
+    "finalUrl": "https://zenorocha.com/",
+    "name": "Zeno Rocha",
+    "title": "Zeno Rocha",
+    "summary": "Founder and CEO of Resend; creator of the Dracula theme.",
+    "description": "Obsessed with developer experience",
+    "screenshot": "/shots/zenorocha-com.jpg",
+    "ogImage": "https://zenorocha.com/static/images/home-bw.jpg",
+    "favicon": "https://zenorocha.com/favicon.svg",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "resend.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "leerob-io",
+    "url": "https://leerob.io/",
+    "host": "leerob.io",
+    "finalUrl": "https://leerob.com/",
+    "name": "Lee Robinson",
+    "title": "Lee Robinson",
+    "summary": "Developer and educator making Next.js and modern web dev approachable.",
+    "description": "Developer and writer.",
+    "screenshot": "/shots/leerob-io.jpg",
+    "ogImage": "https://leerob.com/opengraph-image.png?opengraph-image.e50fc1a6.png",
+    "favicon": "https://leerob.com/favicon.ico?favicon.dbbf33f6.ico",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Education"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "mxstbr-com",
+    "url": "https://mxstbr.com/",
+    "host": "mxstbr.com",
+    "finalUrl": "https://mxstbr.com/",
+    "name": "Max Stoiber",
+    "title": "Max Stoiber (@mxstbr)",
+    "summary": "Creator of styled-components; founder building developer tools.",
+    "description": "CEO & co-founder of Stellate, creator of styled-components and react-boilerplate and angel investor in early-stage startups.",
+    "screenshot": "/shots/mxstbr-com.jpg",
+    "ogImage": "https://mxstbr.com/og",
+    "favicon": "https://mxstbr.com/icon.png?icon.0412e0a9.png",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "openai.com",
+      "shopify.com",
+      "stellate.co",
+      "gatsbyjs.com",
+      "hub.packtpub.com",
+      "thinkmill.com.au"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "arvidkahl-com",
+    "url": "https://arvidkahl.com/",
+    "host": "arvidkahl.com",
+    "finalUrl": "https://thebootstrappedfounder.com/",
+    "name": "Arvid Kahl",
+    "title": "The Bootstrapped Founder – How to Start, Run, and Sell a Bootstrapped Business — by Arvid Kahl",
+    "summary": "Bootstrapped founder and author; writes and podcasts about building solo.",
+    "description": "Hi! I'm Arvid. I empower founders & creators who want to build calm & sustainable businesses in public. The Bootstrapped Founder is the home of my Twitter course Find your Following, the books Zero to Sold and The Embedded Entrepreneur, where I share how to build a business, an audience, and a path to financial&hellip;",
+    "screenshot": "/shots/arvidkahl-com.jpg",
+    "ogImage": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2022/11/tbfp-blog-share-main.png?fit=1200%2C630&ssl=1",
+    "favicon": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2022/11/cropped-symbol_white_bgblue_web.png?fit=32%2C32&#038;ssl=1",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [
+      "https://thebootstrappedfounder.com/feed/",
+      "https://thebootstrappedfounder.com/comments/feed/"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "c0.wp.com",
+      "wp.me",
+      "i0.wp.com",
+      "teardown.me",
+      "shop.thebootstrappedfounder.com",
+      "tbf.link",
+      "findyourfollowing.com",
+      "links.zerotosoldbook.com",
+      "embeddedentrepreneur.com",
+      "wordpress.org",
+      "wordpress.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "justinjackson-ca",
+    "url": "https://justinjackson.ca/",
+    "host": "justinjackson.ca",
+    "finalUrl": "https://justinjackson.ca/",
+    "name": "Justin Jackson",
+    "title": "Justin Jackson – SaaS, bootstrapping, marketing",
+    "summary": "Cofounder of Transistor.fm; writes about SaaS, bootstrapping, and marketing.",
+    "description": "Co-founder of Transistor.fm (podcast hosting). I write about SaaS marketing, bootstrapping startups, the good life, calm companies, and creating a better society.",
+    "screenshot": "/shots/justinjackson-ca.jpg",
+    "ogImage": "https://justinjackson.ca/assets/justin-jackson-02.jpeg",
+    "favicon": "https://justinjackson.ca/img/asset/bWFpbi9icnV0YWwvanVzdGluLWphY2tzb24tZG90cy1jaXJjbGUucG5n/justin-jackson-dots-circle.png?w=32&h=32&s=7e1b78ae8c8e62042f940d6b7ff46531",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://justinjackson.ca/feed"
+    ],
+    "outbound": [
+      "twitch.tv",
+      "transistor.fm",
+      "mbsy.co",
+      "creativebloq.com",
+      "smashingmagazine.com",
+      "t3n.de",
+      "lifehacker.com",
+      "hackermonthly.com",
+      "cbc.ca",
+      "statamic.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "okdork-com",
+    "url": "https://okdork.com/",
+    "host": "okdork.com",
+    "finalUrl": "https://noahkagan.com/",
+    "name": "Noah Kagan",
+    "title": "Home | Noah Kagan",
+    "summary": "Founder and CEO of AppSumo; marketing and entrepreneurship.",
+    "description": "My site features articles about how to start a business, marketing, self-improvement and stupid humor. PS. Looking for recent articles? Go here.",
+    "screenshot": "/shots/okdork-com.jpg",
+    "ogImage": "https://noahkagan.com/wp-content/uploads/noah-kagan-website-pic.jpg",
+    "favicon": "https://noahkagan.com/wp-content/uploads/2017/02/cropped-okdork-2017-favicon-128x128-32x32.png",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Growth"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [
+      "https://noahkagan.com/feed/",
+      "https://noahkagan.com/comments/feed/",
+      "https://noahkagan.com/home/feed/"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "appsumo.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "joshpigford-com",
+    "url": "https://joshpigford.com/",
+    "host": "joshpigford.com",
+    "finalUrl": "https://joshpigford.com/",
+    "name": "Josh Pigford",
+    "title": "Josh Pigford",
+    "summary": "Serial founder (Baremetrics, Maybe); builds and writes in public.",
+    "description": "Josh Pigford: Dabbler. Co-founder and CEO of Maybe.",
+    "screenshot": "/shots/joshpigford-com.jpg",
+    "ogImage": "https://joshpigford.com/meta.png",
+    "favicon": "https://joshpigford.com/apple-touch-icon.png",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "granite.co",
+      "keptwell.org",
+      "superfantastictoys.com",
+      "replysocial.co",
+      "chops.md",
+      "clearly.md",
+      "timeslice.today",
+      "studio.neato.fun"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "kevinrose-com",
+    "url": "https://kevinrose.com/",
+    "host": "kevinrose.com",
+    "finalUrl": "https://www.kevinrose.com/",
+    "name": "Kevin Rose",
+    "title": "Kevin Rose | Substack",
+    "summary": "Founder of Digg; investor, podcaster, and newsletter writer.",
+    "description": "Exploring emerging AI / tech trends, finance, health, minimal-living, philosophy, and the discipline of Zen. Click to read Kevin Rose, a Substack publication with hundreds of thousands of subscribers.",
+    "screenshot": "/shots/kevinrose-com.jpg",
+    "ogImage": "https://substackcdn.com/image/fetch/$s_!RBNG!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fkro.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-292091792%26version%3D9",
+    "favicon": "https://substackcdn.com/image/fetch/$s_!BuZ1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F566823c5-896e-487d-9da3-89ab079c8baf%2Ffavicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Crypto"
+    ],
+    "features": [
+      "Newsletter",
+      "Blog"
+    ],
+    "tech": [
+      "React"
+    ],
+    "feeds": [
+      "https://www.kevinrose.com/feed"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "anne-laure-net",
+    "url": "https://anne-laure.net/",
+    "host": "anne-laure.net",
+    "finalUrl": "https://anne-laure.net/",
+    "name": "Anne-Laure Le Cunff",
+    "title": "Anne-Laure Le Cunff, PhD | Neuroscientist, Entrepreneur & Educator",
+    "summary": "Neuroscientist and founder of Ness Labs; author of Tiny Experiments.",
+    "description": "Anne-Laure Le Cunff, neuroscientist and founder of Ness Labs, teaches people how to leverage their curiosity to think, feel, and live more deeply.",
+    "screenshot": "/shots/anne-laure-net.jpg",
+    "ogImage": "https://anne-laure.net/img/banner-anne-laure.png",
+    "favicon": "https://anne-laure.net/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Writing",
+      "Education",
+      "Health"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "nesslabs.com",
+      "researchgate.net",
+      "newsletter.nesslabs.com",
+      "penguinrandomhouse.com",
+      "kcl.ac.uk",
+      "remarkable.com",
+      "appliedneuroscienceassociation.com",
+      "mentalhealthresearchmatters.org.uk",
+      "tenentrepreneurs.org",
+      "foundersacademy.io",
+      "liss-dtp.ac.uk",
+      "hypercurious.com",
+      "bigthink.com",
+      "soundcloud.com",
+      "doi.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "marclou-com",
+    "url": "https://marclou.com/",
+    "host": "marclou.com",
+    "finalUrl": "https://marclou.com/",
+    "name": "Marc Lou",
+    "title": "Marc Lou | Indie Page",
+    "summary": "Indie maker shipping profitable startups solo and building in public.",
+    "description": "I was fired everywhere, so I hired myself.\n\n42,851 entrepreneurs read Just Ship It:\n\nI share how to find startup ideas, launch fast, and get profitable 👇",
+    "screenshot": "/shots/marclou-com.jpg",
+    "ogImage": "https://indiepa.ge/api/og?username=marclou",
+    "favicon": "https://d3m8mk7e1mf7xn.cloudfront.net/64224402d24ae443b84e744a/1679968753139Fun.png",
+    "role": "Maker",
+    "tags": [
+      "Indie Hacking",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "indiepa.ge",
+      "newsletter.marclou.com",
+      "codefa.st",
+      "shipfa.st",
+      "datafa.st",
+      "trustmrr.com",
+      "ship-or-die.com",
+      "zenvoice.io",
+      "poopup.co",
+      "byedispute.com",
+      "workbookpdf.com",
+      "habitsgarden.com",
+      "launchvir.al",
+      "supershrimp.io",
+      "bioa.ge",
+      "datamarket.datafa.st",
+      "logofa.st",
+      "unicor.ne",
+      "datacity.datafa.st",
+      "stalkr.ai",
+      "datarot.datafa.st",
+      "insigh.to",
+      "macrodata.datafa.st",
+      "dataradar.datafa.st",
+      "clipmarc.com",
+      "50hacks.co",
+      "theherofit.app",
+      "dataempire.datafa.st",
+      "fitymi.app",
+      "decisiongame.co",
+      "buddycrush.co",
+      "bookscalculator.com",
+      "naval25.com",
+      "mood2movie.com",
+      "makelanding.ai",
+      "googe.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
   }
 ]

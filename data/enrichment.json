@@ -2239,5 +2239,172 @@
     "features": [
       "Blog"
     ]
+  },
+  "rauchg-com": {
+    "name": "Guillermo Rauch",
+    "summary": "Founder and CEO of Vercel; creator of Next.js and Socket.io.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "adamwathan-me": {
+    "name": "Adam Wathan",
+    "summary": "Creator of Tailwind CSS and cofounder of Tailwind Labs.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "amasad-me": {
+    "name": "Amjad Masad",
+    "summary": "Founder and CEO of Replit.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "zenorocha-com": {
+    "name": "Zeno Rocha",
+    "summary": "Founder and CEO of Resend; creator of the Dracula theme.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "leerob-io": {
+    "name": "Lee Robinson",
+    "summary": "Developer and educator making Next.js and modern web dev approachable.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Education"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "mxstbr-com": {
+    "name": "Max Stoiber",
+    "summary": "Creator of styled-components; founder building developer tools.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "arvidkahl-com": {
+    "name": "Arvid Kahl",
+    "summary": "Bootstrapped founder and author; writes and podcasts about building solo.",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "justinjackson-ca": {
+    "name": "Justin Jackson",
+    "summary": "Cofounder of Transistor.fm; writes about SaaS, bootstrapping, and marketing.",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "okdork-com": {
+    "name": "Noah Kagan",
+    "summary": "Founder and CEO of AppSumo; marketing and entrepreneurship.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Growth"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "joshpigford-com": {
+    "name": "Josh Pigford",
+    "summary": "Serial founder (Baremetrics, Maybe); builds and writes in public.",
+    "role": "Founder",
+    "tags": [
+      "Indie Hacking",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "kevinrose-com": {
+    "name": "Kevin Rose",
+    "summary": "Founder of Digg; investor, podcaster, and newsletter writer.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Crypto"
+    ],
+    "features": [
+      "Newsletter",
+      "Blog"
+    ]
+  },
+  "anne-laure-net": {
+    "name": "Anne-Laure Le Cunff",
+    "summary": "Neuroscientist and founder of Ness Labs; author of Tiny Experiments.",
+    "role": "Founder",
+    "tags": [
+      "Writing",
+      "Education",
+      "Health"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "marclou-com": {
+    "name": "Marc Lou",
+    "summary": "Indie maker shipping profitable startups solo and building in public.",
+    "role": "Maker",
+    "tags": [
+      "Indie Hacking",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
   }
 }
