@@ -71,7 +71,7 @@ export default function SubmitModal({ onClose }: { onClose: () => void }) {
             <div className="text-[28px] mb-2">✓</div>
             <h2 className="text-[18px] font-semibold">Thanks for the suggestion</h2>
             <p className="text-[14px] mt-2" style={{ color: "var(--text-2)" }}>
-              I read every one and add the good ones to the directory.
+              I read every single one. Thanks for helping it grow.
             </p>
             <button className="filter-pill mt-5" onClick={onClose}>
               Close
