@@ -642,7 +642,9 @@
       "claude.com",
       "wordpress.com"
     ],
-    "links": [],
+    "links": [
+      "paulgraham-com"
+    ],
     "inDegree": 1,
     "status": "ok"
   },
@@ -2471,7 +2473,9 @@
       "blog.readme.io",
       "techcrunch.com"
     ],
-    "links": [],
+    "links": [
+      "paulgraham-com"
+    ],
     "inDegree": 0,
     "status": "ok"
   },
@@ -5625,7 +5629,9 @@
       "scholars-stage.org",
       "pudding.cool"
     ],
-    "links": [],
+    "links": [
+      "worrydream-com"
+    ],
     "inDegree": 0,
     "status": "ok"
   },
@@ -5847,6 +5853,150 @@
     "tech": [
       "Vercel"
     ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "paulgraham-com",
+    "url": "https://paulgraham.com/",
+    "host": "paulgraham.com",
+    "finalUrl": "https://paulgraham.com/",
+    "name": "Paul Graham",
+    "title": "Paul Graham",
+    "summary": "Y Combinator cofounder and the original startup essayist.",
+    "description": "",
+    "screenshot": "/shots/paulgraham-com.jpg",
+    "ogImage": null,
+    "favicon": "http://ycombinator.com/arc/arc.png",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+    ],
+    "outbound": [
+      "ycombinator.com",
+      "mas.to",
+      "arclanguage.org",
+      "aaronsw.com",
+      "technorati.com"
+    ],
+    "links": [],
+    "inDegree": 2,
+    "status": "ok"
+  },
+  {
+    "id": "abdussalam-pk",
+    "url": "https://abdussalam.pk/",
+    "host": "abdussalam.pk",
+    "finalUrl": "https://abdussalam.pk/",
+    "name": "Abdus Salam",
+    "title": "Abdus Salam · Sr. Product Designer - Abdus Salam",
+    "summary": "Senior product designer based in Pakistan.",
+    "description": "",
+    "screenshot": null,
+    "ogImage": null,
+    "favicon": "https://i0.wp.com/abdussalam.pk/wp-content/uploads/2018/01/favicon.png?fit=32%2C32&ssl=1",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "feeds": [],
+    "outbound": [
+      "use.typekit.net",
+      "i0.wp.com",
+      "techcrunch.com",
+      "about.fb.com",
+      "digitalinformationworld.com",
+      "socialmediatoday.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "worrydream-com",
+    "url": "https://worrydream.com/",
+    "host": "worrydream.com",
+    "finalUrl": "https://worrydream.com/",
+    "name": "Bret Victor",
+    "title": "Bret Victor, human being",
+    "summary": "Interface researcher reimagining how we think and create; behind Dynamicland.",
+    "description": "An offshore drilling platform in the sea of knowledge.",
+    "screenshot": "/shots/worrydream-com.jpg",
+    "ogImage": null,
+    "favicon": "https://worrydream.com/favicon.ico",
+    "role": "Researcher",
+    "tags": [
+      "Design",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://worrydream.com/feed.xml"
+    ],
+    "outbound": [
+      "posts.dynamicland.org",
+      "dynamicland.org",
+      "vimeo.com",
+      "wired.com",
+      "theatlantic.com",
+      "limn.it",
+      "aeon.co",
+      "tashian.com",
+      "commons.wikimedia.org",
+      "edwardtufte.com",
+      "bookshop.org",
+      "mitpress.mit.edu",
+      "archive.org",
+      "the-witness.net",
+      "en.wikipedia.org",
+      "penguinrandomhouse.com",
+      "davidhestenes.net",
+      "franklambert.net",
+      "jonhays.net",
+      "posts.dynamic.land"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "dougkoellmer-com",
+    "url": "https://www.dougkoellmer.com/",
+    "host": "www.dougkoellmer.com",
+    "finalUrl": "https://www.dougkoellmer.com/",
+    "name": "Doug Koellmer",
+    "title": "Doug Koellmer",
+    "summary": "Personal website of Doug Koellmer.",
+    "description": "Doug Koellmer's personal website.",
+    "screenshot": "/shots/dougkoellmer-com.jpg",
+    "ogImage": null,
+    "favicon": "https://www.dougkoellmer.com/apple-touch-icon.png",
+    "role": "",
+    "tags": [],
+    "features": [],
+    "tech": [],
     "feeds": [],
     "outbound": [],
     "links": [],

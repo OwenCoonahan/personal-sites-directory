@@ -1914,5 +1914,48 @@
     "features": [
       "Projects"
     ]
+  },
+  "paulgraham-com": {
+    "name": "Paul Graham",
+    "summary": "Y Combinator cofounder and the original startup essayist.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "abdussalam-pk": {
+    "name": "Abdus Salam",
+    "summary": "Senior product designer based in Pakistan.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Portfolio"
+    ]
+  },
+  "worrydream-com": {
+    "name": "Bret Victor",
+    "summary": "Interface researcher reimagining how we think and create; behind Dynamicland.",
+    "role": "Researcher",
+    "tags": [
+      "Design",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dougkoellmer-com": {
+    "name": "Doug Koellmer",
+    "summary": "Personal website of Doug Koellmer.",
+    "role": "",
+    "tags": [],
+    "features": []
   }
 }

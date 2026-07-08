@@ -4054,5 +4054,110 @@
     "textSnippet": "Jordan Singer",
     "status": "ok",
     "screenshot": "/shots/ibuildmyideas-com.jpg"
+  },
+  {
+    "id": "paulgraham-com",
+    "host": "paulgraham.com",
+    "url": "https://paulgraham.com/",
+    "finalUrl": "https://paulgraham.com/",
+    "title": "Paul Graham",
+    "description": "",
+    "ogImage": null,
+    "favicon": "http://ycombinator.com/arc/arc.png",
+    "feeds": [
+      "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+    ],
+    "tech": [],
+    "outbound": [
+      "ycombinator.com",
+      "mas.to",
+      "arclanguage.org",
+      "aaronsw.com",
+      "technorati.com"
+    ],
+    "textSnippet": "Paul Graham --> New: How to Earn a Billion Dollars | The Brand Age Want to start a startup? Get funded by Y Combinator . New Arc Out --> &copy; mmxxvi pg photos edited with snipshot . --> --> --> Technorati Profile -->",
+    "status": "ok",
+    "screenshot": "/shots/paulgraham-com.jpg"
+  },
+  {
+    "id": "abdussalam-pk",
+    "host": "abdussalam.pk",
+    "url": "https://abdussalam.pk/",
+    "finalUrl": "https://abdussalam.pk/",
+    "title": "Abdus Salam · Sr. Product Designer - Abdus Salam",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://i0.wp.com/abdussalam.pk/wp-content/uploads/2018/01/favicon.png?fit=32%2C32&ssl=1",
+    "feeds": [],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "outbound": [
+      "use.typekit.net",
+      "i0.wp.com",
+      "techcrunch.com",
+      "about.fb.com",
+      "digitalinformationworld.com",
+      "socialmediatoday.com"
+    ],
+    "textSnippet": "Abdus Salam · Sr. Product Designer - Abdus Salam Abdus Salam Projects About Résumé Uncut &#038; Raw Work Leadership Strategy Collaboration Projects About Résumé Uncut &#038; Raw Work Leadership Strategy Collaboration Hi, I'm Abdus Salam, Sr. Product Designer at Meta FinTech Supporting payments, financial services and products across the family of apps, i.e., Facebook, Instagram and Messenger. Previously, launched&nbsp; Ad Strategies on Facebook, shipped&nbsp;iOS &amp; Android apps for&nbsp;TV Guide, and&nbsp;led&nbsp;Design Systems&nbsp;efforts at CBS. Work (Meta)↓ Leadership: Training &amp; mentorship↓ Strategy↓ Collaboration↓ About me↓ There's more↓ AI Experiments &times; work work Increasing Payment-Ready Users In Meta Pay Designed a new onboarding experience to drive comprehension and improve engagement rates for new users – delivering on a company level initiative of increasing payment ready credentials in Hub (Orders and Payments) across Instagram, Messenger and Facebook. Role Product Strategy End-to-end Visual Design + Interaction Design Sizzle Reel Press TechCrunch Read on Facebook If you are reading this, it is because your browser does not support the HTML5 video element.",
+    "status": "ok",
+    "screenshot": null
+  },
+  {
+    "id": "worrydream-com",
+    "host": "worrydream.com",
+    "url": "https://worrydream.com/",
+    "finalUrl": "https://worrydream.com/",
+    "title": "Bret Victor, human being",
+    "description": "An offshore drilling platform in the sea of knowledge.",
+    "ogImage": null,
+    "favicon": "https://worrydream.com/favicon.ico",
+    "feeds": [
+      "https://worrydream.com/feed.xml"
+    ],
+    "tech": [],
+    "outbound": [
+      "posts.dynamicland.org",
+      "dynamicland.org",
+      "vimeo.com",
+      "wired.com",
+      "theatlantic.com",
+      "limn.it",
+      "aeon.co",
+      "tashian.com",
+      "commons.wikimedia.org",
+      "edwardtufte.com",
+      "bookshop.org",
+      "mitpress.mit.edu",
+      "archive.org",
+      "the-witness.net",
+      "en.wikipedia.org",
+      "penguinrandomhouse.com",
+      "davidhestenes.net",
+      "franklambert.net",
+      "jonhays.net",
+      "posts.dynamic.land"
+    ],
+    "textSnippet": "Bret Victor, human being Bret Victor authoring I’ve dedicated my life to creating a humane dynamic medium . I am (now and forever) making Dynamicland . Real-world dynamic medium. Dynamicland documentation space : goes pretty deep Intro , FAQ , 2019 , 2020 , 2021 , 2022 , making of 2024 Computational Public Space : cities for understanding The communal science lab : dream of a molecular makerspace 2023 Improvising cellular playgrounds in Realtalk : dynamic presentation 2022 Biomolecular design in Realtalk : doing science together 2019 Bootstrapping research : the lab is the experiment 2018 Dynamicland talk : first light 2017 Dynamicland zine : dream of a communal computer 2016 Hypercard in the World : escaping the tiny rectangle Toward a dynamic medium. 2015 What Can a Technologist Do About Climate Change? &nbsp;&amp;&nbsp; notes 2014 The Humane Representation of Thought — talk , doc , poster , notes Seeing Spaces — talk , poster , dynamic poster 2013 Media for Thinking the Unthinkable &nbsp;&amp;&nbsp; notes Drawing Dynamic Visualizations &nbsp;&amp;&nbsp; notes 2012 Learnable Programming Stop Drawing Dead Fish Inventing on Principle 2011 Up and Down the Ladder of Abstraction Scien",
+    "status": "ok",
+    "screenshot": "/shots/worrydream-com.jpg"
+  },
+  {
+    "id": "dougkoellmer-com",
+    "host": "www.dougkoellmer.com",
+    "url": "https://www.dougkoellmer.com/",
+    "finalUrl": "https://www.dougkoellmer.com/",
+    "title": "Doug Koellmer",
+    "description": "Doug Koellmer's personal website.",
+    "ogImage": null,
+    "favicon": "https://www.dougkoellmer.com/apple-touch-icon.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Doug Koellmer Sorry, but your web browser must have JavaScript enabled in order for this page to display correctly.",
+    "status": "ok",
+    "screenshot": "/shots/dougkoellmer-com.jpg"
   }
 ]
