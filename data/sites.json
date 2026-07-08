@@ -575,80 +575,6 @@
     "status": "ok"
   },
   {
-    "id": "stratechery-com",
-    "url": "https://stratechery.com/",
-    "host": "stratechery.com",
-    "finalUrl": "https://stratechery.com/",
-    "name": "Ben Thompson",
-    "title": "Stratechery by Ben Thompson – On the business, strategy, and impact of technology.",
-    "summary": "The defining newsletter on the business, strategy, and impact of technology.",
-    "description": "On the business, strategy, and impact of technology.",
-    "screenshot": "/shots/stratechery-com.jpg",
-    "ogImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "favicon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&#038;ssl=1",
-    "role": "Writer",
-    "tags": [
-      "Writing",
-      "Startups",
-      "Finance"
-    ],
-    "features": [
-      "Blog",
-      "Newsletter"
-    ],
-    "tech": [
-      "WordPress"
-    ],
-    "feeds": [],
-    "outbound": [
-      "c0.wp.com",
-      "use.typekit.net",
-      "i0.wp.com",
-      "stratechery.passport.online",
-      "forum.stratechery.com",
-      "dithering.passport.online",
-      "goat.passport.online",
-      "asianometry.passport.online",
-      "sharptech.fm",
-      "anthropic.com",
-      "theinformation.com",
-      "wired.com",
-      "daringfireball.net",
-      "cnbc.com",
-      "forum.valuepickr.com",
-      "berkshirehathaway.com",
-      "bloomberg.com",
-      "insideevs.com",
-      "kottke.org",
-      "news.aa.com",
-      "united.mediaroom.com",
-      "sec.gov",
-      "reuters.com",
-      "cerebras.ai",
-      "nvidia.com",
-      "businesswire.com",
-      "newsletter.semianalysis.com",
-      "dwarkesh.com",
-      "seekingalpha.com",
-      "cbsnews.com",
-      "penguinrandomhouse.com",
-      "asymco.com",
-      "theverge.com",
-      "fabricatedknowledge.com",
-      "en.wikipedia.org",
-      "ai.meta.com",
-      "paulgraham.com",
-      "wsj.com",
-      "claude.com",
-      "wordpress.com"
-    ],
-    "links": [
-      "paulgraham-com"
-    ],
-    "inDegree": 1,
-    "status": "ok"
-  },
-  {
     "id": "monkbent-net",
     "url": "https://monkbent.net/",
     "host": "monkbent.net",
@@ -700,7 +626,6 @@
       "nytimes.com"
     ],
     "links": [
-      "stratechery-com",
       "ma-tt"
     ],
     "inDegree": 0,
@@ -5893,7 +5818,7 @@
       "technorati.com"
     ],
     "links": [],
-    "inDegree": 2,
+    "inDegree": 1,
     "status": "ok"
   },
   {
