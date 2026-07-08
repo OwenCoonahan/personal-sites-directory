@@ -371,32 +371,6 @@
     "status": "ok"
   },
   {
-    "id": "wildome-com",
-    "url": "https://wildome.com/",
-    "host": "wildome.com",
-    "finalUrl": "https://wildome.com/",
-    "name": "Wildome",
-    "title": "404: NOT_FOUND",
-    "summary": "Experimental personal project (currently returning a 404).",
-    "description": "",
-    "screenshot": "/shots/wildome-com.jpg",
-    "ogImage": null,
-    "favicon": "https://wildome.com/favicon.ico",
-    "role": "Maker",
-    "tags": [
-      "Web Dev"
-    ],
-    "features": [],
-    "tech": [
-      "Vercel"
-    ],
-    "feeds": [],
-    "outbound": [],
-    "links": [],
-    "inDegree": 0,
-    "status": "ok"
-  },
-  {
     "id": "gabrielemuratori-tech",
     "url": "https://gabrielemuratori.tech/",
     "host": "gabrielemuratori.tech",
@@ -1107,30 +1081,6 @@
     ],
     "links": [],
     "inDegree": 2,
-    "status": "ok"
-  },
-  {
-    "id": "lukewin-es",
-    "url": "https://lukewin.es/",
-    "host": "lukewin.es",
-    "finalUrl": "https://lukewin.es/",
-    "name": "Luke Wines",
-    "title": "Cloudflare Tunnel error | lukewin.es | Cloudflare",
-    "summary": "Developer's personal site (currently behind a Cloudflare error).",
-    "description": "",
-    "screenshot": "/shots/lukewin-es.jpg",
-    "ogImage": null,
-    "favicon": "https://lukewin.es/favicon.ico",
-    "role": "Developer",
-    "tags": [
-      "Web Dev"
-    ],
-    "features": [],
-    "tech": [],
-    "feeds": [],
-    "outbound": [],
-    "links": [],
-    "inDegree": 0,
     "status": "ok"
   },
   {
@@ -2124,30 +2074,6 @@
     "status": "ok"
   },
   {
-    "id": "vednig-site",
-    "url": "https://vednig.site/",
-    "host": "vednig.site",
-    "finalUrl": "https://vednig.site/",
-    "name": "Vednig",
-    "title": "vednig.site",
-    "summary": "Developer's personal site.",
-    "description": "",
-    "screenshot": null,
-    "ogImage": null,
-    "favicon": "https://vednig.site/favicon.ico",
-    "role": "Developer",
-    "tags": [
-      "Web Dev"
-    ],
-    "features": [],
-    "tech": [],
-    "feeds": [],
-    "outbound": [],
-    "links": [],
-    "inDegree": 0,
-    "status": "fetch_error"
-  },
-  {
     "id": "owenwinter-co-uk",
     "url": "https://owenwinter.co.uk/",
     "host": "owenwinter.co.uk",
@@ -2394,7 +2320,7 @@
     "title": "Vercel Security Checkpoint",
     "summary": "Designer, photographer, and writer; long-running tech and photography blog.",
     "description": "",
-    "screenshot": "/shots/paulstamatiou-com.jpg",
+    "screenshot": null,
     "ogImage": null,
     "favicon": "https://paulstamatiou.com/favicon.ico",
     "role": "Designer",
@@ -5300,28 +5226,6 @@
     "feeds": [
       "https://tonsky.me/atom.xml"
     ],
-    "outbound": [],
-    "links": [],
-    "inDegree": 0,
-    "status": "ok"
-  },
-  {
-    "id": "adamcollier-co-uk",
-    "url": "https://www.adamcollier.co.uk/",
-    "host": "www.adamcollier.co.uk",
-    "finalUrl": "https://www.adamcollier.co.uk/",
-    "name": "Adam Collier",
-    "title": "",
-    "summary": "Personal site of Adam Collier.",
-    "description": "",
-    "screenshot": "/shots/adamcollier-co-uk.jpg",
-    "ogImage": null,
-    "favicon": "https://www.adamcollier.co.uk/favicon.ico",
-    "role": "",
-    "tags": [],
-    "features": [],
-    "tech": [],
-    "feeds": [],
     "outbound": [],
     "links": [],
     "inDegree": 0,

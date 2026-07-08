@@ -255,24 +255,6 @@
     "screenshot": "/shots/zuhair-io.jpg"
   },
   {
-    "id": "wildome-com",
-    "host": "wildome.com",
-    "url": "https://wildome.com/",
-    "finalUrl": "https://wildome.com/",
-    "title": "404: NOT_FOUND",
-    "description": "",
-    "ogImage": null,
-    "favicon": "https://wildome.com/favicon.ico",
-    "feeds": [],
-    "tech": [
-      "Vercel"
-    ],
-    "outbound": [],
-    "textSnippet": "404: NOT_FOUND 404 : NOT_FOUND Code: DEPLOYMENT_NOT_FOUND ID: iad1::zwgnr-1782239983409-9d39238cadec This deployment cannot be found. For more information and troubleshooting, see our documentation.",
-    "status": "ok",
-    "screenshot": "/shots/wildome-com.jpg"
-  },
-  {
     "id": "gabrielemuratori-tech",
     "host": "gabrielemuratori.tech",
     "url": "https://gabrielemuratori.tech/",
@@ -788,22 +770,6 @@
     "textSnippet": "Link in bio tool: Everything you are, in one simple link | Linktree Skip to main content Find your archetype with THE CREATOR INDEX A link in bio built for you. Join 70M+ people using Linktree for their link in bio. One link to help you share everything you create, curate and sell from your Instagram, TikTok, Twitter, YouTube and other social media profiles. Get started for free Create and customize your Linktree in minutes Connect all your content across social media, websites, stores and more in one link in bio. Customize every detail or let Linktree automatically enhance it to match your brand and drive more clicks. Get started for free Get started for free Share your Linktree anywhere you like! Add your unique Linktree URL to all the platforms and places you find your audience. Then use your QR code to drive your offline traffic back to your link in bio. Get started for free Get started for free Analyze your audience and keep them engaged Track your engagement over time, monitor revenue and learn what’s converting your audience. Make informed updates on the fly to keep them coming back. Get started for free Get started for free The only link in bio trusted by 70M+ musicians /se",
     "status": "ok",
     "screenshot": "/shots/bento-me.jpg"
-  },
-  {
-    "id": "lukewin-es",
-    "host": "lukewin.es",
-    "url": "https://lukewin.es/",
-    "finalUrl": "https://lukewin.es/",
-    "title": "Cloudflare Tunnel error | lukewin.es | Cloudflare",
-    "description": "",
-    "ogImage": null,
-    "favicon": "https://lukewin.es/favicon.ico",
-    "feeds": [],
-    "tech": [],
-    "outbound": [],
-    "textSnippet": "Cloudflare Tunnel error | lukewin.es | Cloudflare Please enable cookies. Error 1033 Ray ID: a1059e02f823fbfb &bull; 2026-06-23 18:39:45 UTC Cloudflare Tunnel error What happened? You've requested a page on a website (lukewin.es) that is on the Cloudflare network. The host (lukewin.es) is configured as a Cloudflare Tunnel, and Cloudflare is currently unable to resolve it. What can I do? If you are a visitor of this website: Please try again in a few minutes. If you are the owner of this website: Ensure that cloudflared is running and can reach the network. You may wish to enable load balancing for your tunnel. Was this page helpful? Yes No Thank you for your feedback! Cloudflare Ray ID: a1059e02f823fbfb &bull; Your IP: Click to reveal 2603:7000:8cf0:ab00:81b8:6e5a:8f38:9c91 &bull; Performance &amp; security by Cloudflare",
-    "status": "ok",
-    "screenshot": "/shots/lukewin-es.jpg"
   },
   {
     "id": "nguyenvu-dev",
@@ -1487,22 +1453,6 @@
     "screenshot": "/shots/justinliao-com.jpg"
   },
   {
-    "id": "vednig-site",
-    "host": "vednig.site",
-    "url": "https://vednig.site/",
-    "finalUrl": "https://vednig.site/",
-    "title": "vednig.site",
-    "description": "",
-    "ogImage": null,
-    "favicon": "https://vednig.site/favicon.ico",
-    "feeds": [],
-    "tech": [],
-    "outbound": [],
-    "textSnippet": "",
-    "status": "fetch_error",
-    "screenshot": null
-  },
-  {
     "id": "owenwinter-co-uk",
     "host": "owenwinter.co.uk",
     "url": "https://owenwinter.co.uk/",
@@ -1679,7 +1629,7 @@
     "outbound": [],
     "textSnippet": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Vercel Security Checkpoint | iad1::1782239988-LwZWcB2oWDZEN3OGPqWAADbz88OMKo2w Enable JavaScript to continue Vercel Security Checkpoint | iad1::1782239988-LwZWcB2oWDZEN3OGPqWAADbz88OMKo2w",
     "status": "ok",
-    "screenshot": "/shots/paulstamatiou-com.jpg"
+    "screenshot": null
   },
   {
     "id": "ma-tt",
@@ -3680,22 +3630,6 @@
     "textSnippet": "Blog @ tonsky.me Blog Work Talks Logos About Sign In Personal Information User Agreement Hi! I’m Niki. Here I write about programming and UI design Subscribe I consult on all things Clojure: web, backend, Datomic, DataScript, performance, etc. Check out my Github and get in touch niki@tonsky.me 2026 Every Frame Perfect 6/13 Claude is an Electron App because we’ve lost native 3/3 It’s hard to justify Tahoe icons 1/5 2025 Statistics made simple 12/15 How to get hired in 2025 11/26 Needy programs 11/13 I am sorry, but everyone is getting syntax highlighting wrong 10/15 We shouldn’t have needed lockfiles 8/6 Gaslight-driven development 7/16 When You Get to Be Smart Writing a Macro 5/1 2024 Where Should Visual Programming Go? 7/18 Clojure macros continue to surprise me 7/15 Local, first, forever 6/24 Going to the cinema is a data visualization problem 5/14 Humble Chronicles: Shape of the Component 4/30 Humble Chronicles: The Inescapable Objects 4/30 Hardest Problem in Computer Science: Centering Things 4/16 Daylight Saving Time is a perfect test for UI designer 3/31 JavaScript Bloat in 2024 2/22 New Library: clj-reload 2/17 In Loving Memory of Square Checkbox 1/28 2023 Humble Chronicles",
     "status": "ok",
     "screenshot": "/shots/tonsky-me.jpg"
-  },
-  {
-    "id": "adamcollier-co-uk",
-    "host": "www.adamcollier.co.uk",
-    "url": "https://www.adamcollier.co.uk/",
-    "finalUrl": "https://www.adamcollier.co.uk/",
-    "title": "",
-    "description": "",
-    "ogImage": null,
-    "favicon": "https://www.adamcollier.co.uk/favicon.ico",
-    "feeds": [],
-    "tech": [],
-    "outbound": [],
-    "textSnippet": "no available server",
-    "status": "ok",
-    "screenshot": "/shots/adamcollier-co-uk.jpg"
   },
   {
     "id": "coryetzkorn-com",

@@ -125,15 +125,6 @@
       "Portfolio"
     ]
   },
-  "wildome-com": {
-    "name": "Wildome",
-    "summary": "Experimental personal project (currently returning a 404).",
-    "role": "Maker",
-    "tags": [
-      "Web Dev"
-    ],
-    "features": []
-  },
   "gabrielemuratori-tech": {
     "name": "Gabriele Muratori",
     "summary": "Founder and builder in the creator economy (Roster).",
@@ -343,15 +334,6 @@
     "features": [
       "Portfolio"
     ]
-  },
-  "lukewin-es": {
-    "name": "Luke Wines",
-    "summary": "Developer's personal site (currently behind a Cloudflare error).",
-    "role": "Developer",
-    "tags": [
-      "Web Dev"
-    ],
-    "features": []
   },
   "nguyenvu-dev": {
     "name": "Vu Nguyen",
@@ -682,15 +664,6 @@
     "features": [
       "Portfolio"
     ]
-  },
-  "vednig-site": {
-    "name": "Vednig",
-    "summary": "Developer's personal site.",
-    "role": "Developer",
-    "tags": [
-      "Web Dev"
-    ],
-    "features": []
   },
   "owenwinter-co-uk": {
     "name": "Owen Winter",
@@ -1727,13 +1700,6 @@
     "features": [
       "Blog"
     ]
-  },
-  "adamcollier-co-uk": {
-    "name": "Adam Collier",
-    "summary": "Personal site of Adam Collier.",
-    "role": "",
-    "tags": [],
-    "features": []
   },
   "coryetzkorn-com": {
     "name": "Cory Etzkorn",
