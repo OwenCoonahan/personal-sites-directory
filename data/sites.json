@@ -2071,7 +2071,9 @@
       "sho.com",
       "squarespace.com"
     ],
-    "links": [],
+    "links": [
+      "perell-com"
+    ],
     "inDegree": 0,
     "status": "ok"
   },
@@ -5999,6 +6001,891 @@
     "tech": [],
     "feeds": [],
     "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "blog-samaltman-com",
+    "url": "https://blog.samaltman.com/",
+    "host": "blog.samaltman.com",
+    "finalUrl": "https://blog.samaltman.com/",
+    "name": "Sam Altman",
+    "title": "Sam Altman",
+    "summary": "CEO of OpenAI and former Y Combinator president; essays on startups and the future.",
+    "description": "Sam Altman",
+    "screenshot": "/shots/blog-samaltman-com.jpg",
+    "ogImage": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3439526/q4Xtf4iMYA_SCrMc8hMfnF_k3UE/large_WhatsApp_Image_2026-02-28_at_15.26.14__4_.jpeg",
+    "favicon": "https://phthemes.s3.amazonaws.com/189/ocI2l2NFgWKLlp1H/images/favicon.ico?v=1496356566",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://blog.samaltman.com/posts.atom"
+    ],
+    "outbound": [
+      "posthaven.com",
+      "bloomberg.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "patrickcollison-com",
+    "url": "https://patrickcollison.com/",
+    "host": "patrickcollison.com",
+    "finalUrl": "https://patrickcollison.com/",
+    "name": "Patrick Collison",
+    "title": "Home · Patrick Collison",
+    "summary": "Cofounder and CEO of Stripe; famous reading lists, questions, and essays.",
+    "description": "",
+    "screenshot": "/shots/patrickcollison-com.jpg",
+    "ogImage": null,
+    "favicon": "https://patrickcollison.com/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "tobi-lutke-com",
+    "url": "https://tobi.lutke.com/",
+    "host": "tobi.lutke.com",
+    "finalUrl": "https://tobi.lutke.com/",
+    "name": "Tobi Lütke",
+    "title": "Too-biased",
+    "summary": "Founder and CEO of Shopify.",
+    "description": "",
+    "screenshot": "/shots/tobi-lutke-com.jpg",
+    "ogImage": null,
+    "favicon": "https://tobi.lutke.com/cdn/shop/t/1/assets/favicon.png?v=172415490672994178431388761549",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Shopify"
+    ],
+    "feeds": [],
+    "outbound": [
+      "monorail-edge.shopifysvc.com",
+      "sec.gov",
+      "climate.gov",
+      "unenvironment.org",
+      "carbonengineering.com",
+      "climeworks.com",
+      "shopify.com",
+      "tryarrive.com",
+      "chess.com",
+      "ipsos.com",
+      "theglobeandmail.com",
+      "accelerateott.ca",
+      "en.wikipedia.org",
+      "german-way.com",
+      "bvp.com",
+      "shopify.ca"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "vitalik-eth-limo",
+    "url": "https://vitalik.eth.limo/",
+    "host": "vitalik.eth.limo",
+    "finalUrl": "https://vitalik.eth.limo/",
+    "name": "Vitalik Buterin",
+    "title": "Vitalik Buterin's website",
+    "summary": "Creator of Ethereum; essays on crypto, governance, and public goods.",
+    "description": "",
+    "screenshot": "/shots/vitalik-eth-limo.jpg",
+    "ogImage": "http://vitalik.ca/images/icon.png",
+    "favicon": "https://vitalik.eth.limo/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Crypto",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://vitalik.eth.limo/feed.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "dhh-dk",
+    "url": "https://dhh.dk/",
+    "host": "dhh.dk",
+    "finalUrl": "https://dhh.dk/",
+    "name": "David Heinemeier Hansson",
+    "title": "David Heinemeier Hansson (DHH)",
+    "summary": "Creator of Ruby on Rails and cofounder of 37signals.",
+    "description": "",
+    "screenshot": "/shots/dhh-dk.jpg",
+    "ogImage": null,
+    "favicon": "https://dhh.dk/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "world.hey.com",
+      "37signals.com",
+      "rubyonrails.org",
+      "shopify.com",
+      "airbnb.com",
+      "squareup.com",
+      "coinbase.com",
+      "zendesk.com",
+      "omarchy.org",
+      "basecamp.com",
+      "signalvnoise.com",
+      "hey.com",
+      "fizzy.do",
+      "once.com",
+      "en.wikipedia.org",
+      "fiawec.com",
+      "workfeed.io",
+      "ziik.io",
+      "turis.app",
+      "servicelovers.com",
+      "upteko.com",
+      "itb.dk",
+      "tim.blog",
+      "devtools.fm",
+      "corecursive.com",
+      "thetwentyminutevc.com",
+      "2centdad.com",
+      "fullstackradio.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "dharmesh-com",
+    "url": "https://dharmesh.com/",
+    "host": "dharmesh.com",
+    "finalUrl": "https://dharmesh.com/",
+    "name": "Dharmesh Shah",
+    "title": "dharmesh.com",
+    "summary": "Cofounder and CTO of HubSpot.",
+    "description": "Personal website for Dharmesh Shah, co-founder and CTO of HubSpot.",
+    "screenshot": "/shots/dharmesh-com.jpg",
+    "ogImage": null,
+    "favicon": "https://dharmesh.com/hubfs/assets/logos/utility/favicon.svg",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "use.fontawesome.com",
+      "dharmesh.tv",
+      "onstartups.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "sahillavingia-com",
+    "url": "https://sahillavingia.com/",
+    "host": "sahillavingia.com",
+    "finalUrl": "https://sahillavingia.com/",
+    "name": "Sahil Lavingia",
+    "title": "Sahil Lavingia",
+    "summary": "Founder and CEO of Gumroad; also a painter and writer.",
+    "description": "",
+    "screenshot": "/shots/sahillavingia-com.jpg",
+    "ogImage": null,
+    "favicon": "https://sahillavingia.com/icon?53dc3c9e8eb57a40",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "feeds": [],
+    "outbound": [
+      "antiwork.com",
+      "zoom.sahillavingia.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "levels-io",
+    "url": "https://levels.io/",
+    "host": "levels.io",
+    "finalUrl": "https://levels.io/",
+    "name": "Pieter Levels",
+    "title": "@levelsio's blog",
+    "summary": "Indie founder of Nomad List and Photo AI; builds profitable products solo, in public.",
+    "description": "Indie maker. Building companies as a one-person business.",
+    "screenshot": "/shots/levels-io.jpg",
+    "ogImage": "https://levels.io/favicon.jpg?v=1783494312",
+    "favicon": "https://levels.io/favicon.jpg?v=1783494312",
+    "role": "Maker",
+    "tags": [
+      "Indie Hacking",
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "feeds": [
+      "https://levels.io/rss",
+      "https://levels.io/rss/longform"
+    ],
+    "outbound": [
+      "pieter.com",
+      "levels.vc"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "nathanbarry-com",
+    "url": "https://nathanbarry.com/",
+    "host": "nathanbarry.com",
+    "finalUrl": "https://nathanbarry.com/",
+    "name": "Nathan Barry",
+    "title": "Home | Nathan Barry",
+    "summary": "Founder and CEO of Kit (formerly ConvertKit).",
+    "description": "",
+    "screenshot": "/shots/nathanbarry-com.jpg",
+    "ogImage": null,
+    "favicon": "https://nathanbarry.com/wp-content/uploads/2019/03/favicon.png",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Creator Economy"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [],
+    "outbound": [
+      "nathanbarrystg.wpengine.com",
+      "thinklegend.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "joelonsoftware-com",
+    "url": "https://joelonsoftware.com/",
+    "host": "joelonsoftware.com",
+    "finalUrl": "https://www.joelonsoftware.com/",
+    "name": "Joel Spolsky",
+    "title": "Joel on Software",
+    "summary": "Cofounder of Stack Overflow and Trello; the original software essayist.",
+    "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
+    "screenshot": "/shots/joelonsoftware-com.jpg",
+    "ogImage": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1",
+    "favicon": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=32%2C32&#038;ssl=1",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "feeds": [
+      "https://www.joelonsoftware.com/feed/",
+      "https://www.joelonsoftware.com/comments/feed/"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "wp.me",
+      "i0.wp.com",
+      "stackoverflow.com",
+      "stackoverflowbusiness.com",
+      "fogcreek.com",
+      "trello.com",
+      "wordpress.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "gatesnotes-com",
+    "url": "https://gatesnotes.com/",
+    "host": "gatesnotes.com",
+    "finalUrl": "https://gatesnotes.com/",
+    "name": "Bill Gates",
+    "title": "gatesnotes.com",
+    "summary": "Microsoft cofounder; notes on books, global health, climate, and the future.",
+    "description": "",
+    "screenshot": "/shots/gatesnotes-com.jpg",
+    "ogImage": null,
+    "favicon": "https://gatesnotes.com/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Writing",
+      "Health"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "fetch_error"
+  },
+  {
+    "id": "nav-al",
+    "url": "https://nav.al/",
+    "host": "nav.al",
+    "finalUrl": "https://nav.al/",
+    "name": "Naval Ravikant",
+    "title": "Naval",
+    "summary": "Founder of AngelList; aphorisms on wealth, happiness, and leverage.",
+    "description": "",
+    "screenshot": "/shots/nav-al.jpg",
+    "ogImage": "https://i0.wp.com/nav.al/wp-content/uploads/2019/12/Navatar.png?fit=1080%2C1080&ssl=1",
+    "favicon": "https://nav.al/wp-content/themes/naval/images/favicon/favicon.ico",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [],
+    "outbound": [
+      "c0.wp.com",
+      "use.typekit.net",
+      "ycombinator.com",
+      "abelpolice.com",
+      "traffic.libsyn.com",
+      "boomsupersonic.com",
+      "en.wikipedia.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "cdixon-com",
+    "url": "https://cdixon.com/",
+    "host": "cdixon.com",
+    "finalUrl": "https://cdixon.org/",
+    "name": "Chris Dixon",
+    "title": "cdixon",
+    "summary": "General partner at a16z; investor and writer on crypto and startups.",
+    "description": "programming, philosophy, history, internet, startups",
+    "screenshot": "/shots/cdixon-com.jpg",
+    "ogImage": null,
+    "favicon": "https://cdixon.org/favicon.svg",
+    "role": "Investor",
+    "tags": [
+      "Crypto",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [
+      "https://cdixon.org/rss.xml"
+    ],
+    "outbound": [],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "eladgil-com",
+    "url": "https://eladgil.com/",
+    "host": "eladgil.com",
+    "finalUrl": "https://eladgil.com/",
+    "name": "Elad Gil",
+    "title": "Elad Gil",
+    "summary": "Serial founder and investor; author of the High Growth Handbook.",
+    "description": "I am a technology entrepreneur, investor, and future forward optimist.  I have been working on a series of investments, incubations, and operating companies focused on the technology future.",
+    "screenshot": "/shots/eladgil-com.jpg",
+    "ogImage": "http://static1.squarespace.com/static/65ea1cb3529ccd1a677e7d09/t/65ee94095d2eb426b482e193/1710134282054/dragonball-tenkaichi-daibouken_400x400+%281%29.jpg?format=1500w",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/65ea1cb3529ccd1a677e7d09/bba0be90-63f5-48c3-bf60-d30c793bdedf/favicon.ico?format=100w",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Squarespace"
+    ],
+    "feeds": [],
+    "outbound": [
+      "static1.squarespace.com",
+      "use.typekit.net",
+      "p.typekit.net",
+      "blog.eladgil.com",
+      "scale.ai",
+      "braintrustdata.com",
+      "forbes.com",
+      "harvey.ai",
+      "growth.eladgil.com",
+      "ncbi.nlm.nih.gov",
+      "pubmed.ncbi.nlm.nih.gov",
+      "bioagelabs.com",
+      "clinicaltrialsarena.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "reidhoffman-org",
+    "url": "https://reidhoffman.org/",
+    "host": "reidhoffman.org",
+    "finalUrl": "https://www.reidhoffman.org/",
+    "name": "Reid Hoffman",
+    "title": "Reid Hoffman - Entrepreneur. Investor. Strategist.",
+    "summary": "Cofounder of LinkedIn and partner at Greylock; author and podcaster.",
+    "description": "A hub of all my posts and essays online. I write about entrepreneurship, civics, and intellectual life.",
+    "screenshot": "/shots/reidhoffman-org.jpg",
+    "ogImage": "https://www.reidhoffman.org/wp-content/uploads/2025/04/rh-share.png",
+    "favicon": "https://www.reidhoffman.org/wp-content/uploads/2025/03/P6-JSOM6_400x400-1.png",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress",
+      "WebGL/Three.js"
+    ],
+    "feeds": [
+      "https://www.reidhoffman.org/feed/"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "inflection.ai",
+      "manasai.co",
+      "greylock.com",
+      "en.wikipedia.org",
+      "sfstandard.com",
+      "superagency.ai"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "bhorowitz-com",
+    "url": "https://bhorowitz.com/",
+    "host": "bhorowitz.com",
+    "finalUrl": "https://a16z.com/author/ben-horowitz/",
+    "name": "Ben Horowitz",
+    "title": "Ben Horowitz, Partner at Andreessen Horowitz",
+    "summary": "Cofounder of Andreessen Horowitz; author of The Hard Thing About Hard Things.",
+    "description": "Ben Horowitz is a cofounder and general partner at the venture capital firm Andreessen Horowitz. He is the author of the New York Times bestsellers, The",
+    "screenshot": "/shots/bhorowitz-com.jpg",
+    "ogImage": null,
+    "favicon": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/06/Favicon-%E2%80%94-48x48px.png",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [],
+    "outbound": [
+      "use.typekit.net",
+      "d1lamhf6l6yk6d.cloudfront.net",
+      "a16zcrypto.com",
+      "build.a16z.com",
+      "jobs.a16z.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "avc-com",
+    "url": "https://avc.com/",
+    "host": "avc.com",
+    "finalUrl": "https://avc.com/",
+    "name": "Fred Wilson",
+    "title": "AVC - Musings of a VC in NYC",
+    "summary": "Cofounder of Union Square Ventures; daily musings of a VC in NYC.",
+    "description": "Musings of a VC in NYC",
+    "screenshot": "/shots/avc-com.jpg",
+    "ogImage": null,
+    "favicon": "https://avc.com/content/uploads/2020/01/cropped-avc-eye-32x32.jpg",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Finance"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "feeds": [
+      "https://avc.com/feed/",
+      "https://avc.com/comments/feed/"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "use.typekit.net",
+      "blog.usv.com",
+      "transitinnovation.org",
+      "a16zcrypto.com",
+      "readwriteown.com",
+      "vitalik.eth.limo",
+      "usv.com",
+      "tech-week.com",
+      "opensea.io"
+    ],
+    "links": [
+      "vitalik-eth-limo"
+    ],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "feld-com",
+    "url": "https://feld.com/",
+    "host": "feld.com",
+    "finalUrl": "https://feld.com/",
+    "name": "Brad Feld",
+    "title": "Feld Thoughts",
+    "summary": "Cofounder of Foundry and Techstars; longtime VC and author.",
+    "description": "Brad Feld's blog on entrepreneurship, venture capital, books, and life",
+    "screenshot": "/shots/feld-com.jpg",
+    "ogImage": "https://feld.com/og-default.png",
+    "favicon": "https://feld.com/favicon.ico",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "Hugo",
+      "Vercel"
+    ],
+    "feeds": [
+      "https://feld.com/index.xml"
+    ],
+    "outbound": [
+      "gohugo.io"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "andrewchen-com",
+    "url": "https://andrewchen.com/",
+    "host": "andrewchen.com",
+    "finalUrl": "https://andrewchen.com/",
+    "name": "Andrew Chen",
+    "title": "andrewchen",
+    "summary": "General partner at a16z and former Uber; author of The Cold Start Problem.",
+    "description": "",
+    "screenshot": "/shots/andrewchen-com.jpg",
+    "ogImage": null,
+    "favicon": "https://andrewchen.co/wp-content/uploads/2015/05/favicon.png",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Growth"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [
+      "https://andrewchen.com/feed/"
+    ],
+    "outbound": [
+      "andrewchen.wpenginepowered.com",
+      "andrewchen.co"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "perell-com",
+    "url": "https://perell.com/",
+    "host": "perell.com",
+    "finalUrl": "https://perell.com/",
+    "name": "David Perell",
+    "title": "Hi, I'm David Perell.",
+    "summary": "Writer and founder of Write of Passage; essays on writing and the internet.",
+    "description": "I write, host a podcast, and run a writing school called Write of Passage.",
+    "screenshot": "/shots/perell-com.jpg",
+    "ogImage": "https://perell.com/wp-content/uploads/2020/12/Website-Home.png",
+    "favicon": "https://i0.wp.com/perell.com/wp-content/uploads/2020/12/cropped-dp_square-1.png?fit=32%2C32&#038;quality=80&#038;ssl=1",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Education"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "feeds": [
+      "https://perell.com/feed/",
+      "https://perell.com/comments/feed/"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "i0.wp.com",
+      "long-water-221.ck.page",
+      "wordpress.com",
+      "pressable.com",
+      "writeofpassage.school"
+    ],
+    "links": [],
+    "inDegree": 1,
+    "status": "ok"
+  },
+  {
+    "id": "julian-com",
+    "url": "https://julian.com/",
+    "host": "julian.com",
+    "finalUrl": "https://www.julian.com/",
+    "name": "Julian Shapiro",
+    "title": "Julian Shapiro",
+    "summary": "Founder and writer; sharp guides on marketing, startups, and writing.",
+    "description": "I deconstruct how things work—like writing and storytelling—and share my learnings along the way.",
+    "screenshot": "/shots/julian-com.jpg",
+    "ogImage": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/60f46e132252d8747321b3e6_Open%20Graph.png",
+    "favicon": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/5fc48da5c755c681091db4ed_App%20Icon%20%E2%80%94%2032.png",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Startups",
+      "Growth"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "julian.capital",
+      "en.wikipedia.org"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "ryanhoover-me",
+    "url": "https://ryanhoover.me/",
+    "host": "ryanhoover.me",
+    "finalUrl": "https://www.ryanhoover.me/",
+    "name": "Ryan Hoover",
+    "title": "Ryan Hoover on the internet",
+    "summary": "Founder of Product Hunt and investor at Weekend Fund.",
+    "description": "",
+    "screenshot": "/shots/ryanhoover-me.jpg",
+    "ogImage": null,
+    "favicon": "https://cdn.prod.website-files.com/5f4a71e71909bd081387449a/5f53c37cfd7f2313a8afcfde_ryan-hoover-profile-pic%20favicon.jpeg",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "weekend.fund",
+      "signatureblock.co",
+      "fastround.co",
+      "adaptive.ai",
+      "airgarage.com",
+      "techcrunch.com",
+      "around.co",
+      "athenago.me",
+      "atlys.com",
+      "blueland.com",
+      "braintrust.dev",
+      "carrd.co",
+      "certn.com",
+      "deel.com",
+      "flybyrobotics.com",
+      "functionhealth.com",
+      "marsghc.com",
+      "intercom.com",
+      "invideo.io",
+      "kineuphorics.com",
+      "luminai.com",
+      "mainfra.me",
+      "mindbloom.com",
+      "moonpay.com",
+      "outset.ai",
+      "passportglobal.com",
+      "pipe.com",
+      "pinwheelapi.com",
+      "rail.io",
+      "rosebud.app",
+      "superwall.com",
+      "getsystem2.com",
+      "thirdweb.com",
+      "truemed.com"
+    ],
+    "links": [],
+    "inDegree": 0,
+    "status": "ok"
+  },
+  {
+    "id": "stephsmith-io",
+    "url": "https://stephsmith.io/",
+    "host": "stephsmith.io",
+    "finalUrl": "https://stephsmith.io/",
+    "name": "Steph Smith",
+    "title": "Steph | Smith - Remote Work, Continuous Growth, and Technology",
+    "summary": "Writer and maker on remote work, growth, and technology; hosts the a16z podcast.",
+    "description": "Join over 350k people who have read my articles spanning remote work, continuous growth, and technology.",
+    "screenshot": "/shots/stephsmith-io.jpg",
+    "ogImage": "https://stephsmith.io/stephsmith.jpg",
+    "favicon": "https://stephsmith.io/favicon.ico",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Growth",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog"
+    ],
+    "tech": [],
+    "feeds": [],
+    "outbound": [
+      "internetpipes.com",
+      "eunoia.world",
+      "begreat.me",
+      "femake.tech",
+      "nomadhubb.com",
+      "unsplash.com",
+      "blog.stephsmith.io",
+      "mailchi.mp",
+      "jamesclear.com",
+      "elpha.com",
+      "indiehackers.com",
+      "softwareleadweekly.com",
+      "hackernoon.com",
+      "fortune.com",
+      "dev.to",
+      "groq.com",
+      "thehustle.co",
+      "trends.co",
+      "listenandlearn.co",
+      "a16z.com",
+      "future.com",
+      "podchaser.com",
+      "progression.page",
+      "click.linksynergy.com",
+      "simpleleadership.io",
+      "dojobali.org",
+      "wifitribe.co",
+      "liv.it",
+      "hqcasanova.com"
+    ],
     "links": [],
     "inDegree": 0,
     "status": "ok"

@@ -1957,5 +1957,287 @@
     "role": "",
     "tags": [],
     "features": []
+  },
+  "blog-samaltman-com": {
+    "name": "Sam Altman",
+    "summary": "CEO of OpenAI and former Y Combinator president; essays on startups and the future.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "patrickcollison-com": {
+    "name": "Patrick Collison",
+    "summary": "Cofounder and CEO of Stripe; famous reading lists, questions, and essays.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tobi-lutke-com": {
+    "name": "Tobi Lütke",
+    "summary": "Founder and CEO of Shopify.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vitalik-eth-limo": {
+    "name": "Vitalik Buterin",
+    "summary": "Creator of Ethereum; essays on crypto, governance, and public goods.",
+    "role": "Founder",
+    "tags": [
+      "Crypto",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dhh-dk": {
+    "name": "David Heinemeier Hansson",
+    "summary": "Creator of Ruby on Rails and cofounder of 37signals.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dharmesh-com": {
+    "name": "Dharmesh Shah",
+    "summary": "Cofounder and CTO of HubSpot.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "sahillavingia-com": {
+    "name": "Sahil Lavingia",
+    "summary": "Founder and CEO of Gumroad; also a painter and writer.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "levels-io": {
+    "name": "Pieter Levels",
+    "summary": "Indie founder of Nomad List and Photo AI; builds profitable products solo, in public.",
+    "role": "Maker",
+    "tags": [
+      "Indie Hacking",
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nathanbarry-com": {
+    "name": "Nathan Barry",
+    "summary": "Founder and CEO of Kit (formerly ConvertKit).",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Creator Economy"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "joelonsoftware-com": {
+    "name": "Joel Spolsky",
+    "summary": "Cofounder of Stack Overflow and Trello; the original software essayist.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "gatesnotes-com": {
+    "name": "Bill Gates",
+    "summary": "Microsoft cofounder; notes on books, global health, climate, and the future.",
+    "role": "Founder",
+    "tags": [
+      "Writing",
+      "Health"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nav-al": {
+    "name": "Naval Ravikant",
+    "summary": "Founder of AngelList; aphorisms on wealth, happiness, and leverage.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cdixon-com": {
+    "name": "Chris Dixon",
+    "summary": "General partner at a16z; investor and writer on crypto and startups.",
+    "role": "Investor",
+    "tags": [
+      "Crypto",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eladgil-com": {
+    "name": "Elad Gil",
+    "summary": "Serial founder and investor; author of the High Growth Handbook.",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "reidhoffman-org": {
+    "name": "Reid Hoffman",
+    "summary": "Cofounder of LinkedIn and partner at Greylock; author and podcaster.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bhorowitz-com": {
+    "name": "Ben Horowitz",
+    "summary": "Cofounder of Andreessen Horowitz; author of The Hard Thing About Hard Things.",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "avc-com": {
+    "name": "Fred Wilson",
+    "summary": "Cofounder of Union Square Ventures; daily musings of a VC in NYC.",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Finance"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "feld-com": {
+    "name": "Brad Feld",
+    "summary": "Cofounder of Foundry and Techstars; longtime VC and author.",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "andrewchen-com": {
+    "name": "Andrew Chen",
+    "summary": "General partner at a16z and former Uber; author of The Cold Start Problem.",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Growth"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "perell-com": {
+    "name": "David Perell",
+    "summary": "Writer and founder of Write of Passage; essays on writing and the internet.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Education"
+    ],
+    "features": [
+      "Blog",
+      "Newsletter"
+    ]
+  },
+  "julian-com": {
+    "name": "Julian Shapiro",
+    "summary": "Founder and writer; sharp guides on marketing, startups, and writing.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Startups",
+      "Growth"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ryanhoover-me": {
+    "name": "Ryan Hoover",
+    "summary": "Founder of Product Hunt and investor at Weekend Fund.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stephsmith-io": {
+    "name": "Steph Smith",
+    "summary": "Writer and maker on remote work, growth, and technology; hosts the a16z podcast.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Growth",
+      "Indie Hacking"
+    ],
+    "features": [
+      "Blog"
+    ]
   }
 }

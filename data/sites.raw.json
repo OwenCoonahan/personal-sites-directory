@@ -4159,5 +4159,629 @@
     "textSnippet": "Doug Koellmer Sorry, but your web browser must have JavaScript enabled in order for this page to display correctly.",
     "status": "ok",
     "screenshot": "/shots/dougkoellmer-com.jpg"
+  },
+  {
+    "id": "blog-samaltman-com",
+    "host": "blog.samaltman.com",
+    "url": "https://blog.samaltman.com/",
+    "finalUrl": "https://blog.samaltman.com/",
+    "title": "Sam Altman",
+    "description": "Sam Altman",
+    "ogImage": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3439526/q4Xtf4iMYA_SCrMc8hMfnF_k3UE/large_WhatsApp_Image_2026-02-28_at_15.26.14__4_.jpeg",
+    "favicon": "https://phthemes.s3.amazonaws.com/189/ocI2l2NFgWKLlp1H/images/favicon.ico?v=1496356566",
+    "feeds": [
+      "https://blog.samaltman.com/posts.atom"
+    ],
+    "tech": [],
+    "outbound": [
+      "posthaven.com",
+      "bloomberg.com"
+    ],
+    "textSnippet": "Sam Altman Manage New Post Logout Login Sam Altman - Here is a photo of my family. I love them more than anything. Images have power, I hope. Normally we try to be pretty private, but in this case I am sharing a photo in the hopes that it might dissuade the next person from throwing a Molotov cocktail at our house, no matter what they think about me. The first person did it last night, at 3:45 am in the morning. Thankfully it bounced off the house and no one got hurt. Words have power too. There was an incendiary article about me a few days ago. Someone said to me yesterday they thought it was coming at a time of great anxiety about AI and that it made things more dangerous for me. I brushed it aside. Now I am awake in the middle of the night and pissed, and thinking that I have underestimated the power of words and narratives. This seems like as good of a time as any to address a few things. First , what I believe. *Working towards prosperity for everyone, empowering all people, and advancing science and technology are moral obligations for me. *AI will be the most powerful tool for expanding human capability and potential that anyone has ever seen. Demand for this tool will be es",
+    "status": "ok",
+    "screenshot": "/shots/blog-samaltman-com.jpg"
+  },
+  {
+    "id": "patrickcollison-com",
+    "host": "patrickcollison.com",
+    "url": "https://patrickcollison.com/",
+    "finalUrl": "https://patrickcollison.com/",
+    "title": "Home · Patrick Collison",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://patrickcollison.com/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "Vercel"
+    ],
+    "outbound": [],
+    "textSnippet": "Home · Patrick Collison Patrick Collison About Advice Bookshelf Culture Dispatches Fast Growth Labs Links Pollution Progress Questions Solar SV history Travel &nbsp;",
+    "status": "ok",
+    "screenshot": "/shots/patrickcollison-com.jpg"
+  },
+  {
+    "id": "tobi-lutke-com",
+    "host": "tobi.lutke.com",
+    "url": "https://tobi.lutke.com/",
+    "finalUrl": "https://tobi.lutke.com/",
+    "title": "Too-biased",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://tobi.lutke.com/cdn/shop/t/1/assets/favicon.png?v=172415490672994178431388761549",
+    "feeds": [],
+    "tech": [
+      "Shopify"
+    ],
+    "outbound": [
+      "monorail-edge.shopifysvc.com",
+      "sec.gov",
+      "climate.gov",
+      "unenvironment.org",
+      "carbonengineering.com",
+      "climeworks.com",
+      "shopify.com",
+      "tryarrive.com",
+      "chess.com",
+      "ipsos.com",
+      "theglobeandmail.com",
+      "accelerateott.ca",
+      "en.wikipedia.org",
+      "german-way.com",
+      "bvp.com",
+      "shopify.ca"
+    ],
+    "textSnippet": "Too-biased Tobi L&uuml;tke Shopify CEO Home About Home About Your cart (0) We need to talk about carbon December 22 2019 As Shopify prepared to go public in 2015, I wrote a letter in our F1 filing that read, “I want Shopify to be a company that sees the next century.” Upon further reflection, I realize I left out an important caveat. For this to be a desirable goal, we have to ensure that the next century is worth reaching. To make our 100-year vision come true, we need to not only make commerce better, but take better care of our planet. Shopify has taken many steps to build a sustainable company, including becoming carbon neutral. We’re setting best-in-class standards by buying offsets for all the carbon this company has ever used and will ever use, and we choose renewable energy to heat and power our operations. But it’s not enough. Here’s why it’s not enough When we discovered fossil fuels in the ground, the path of human history changed forever. For the past 200 years, we’ve used that fuel to kickstart everything from the Industrial Revolution to modernity. Our planet has enjoyed a phase of unprecedented wealth and health because of these innovations. There has never been a be",
+    "status": "ok",
+    "screenshot": "/shots/tobi-lutke-com.jpg"
+  },
+  {
+    "id": "vitalik-eth-limo",
+    "host": "vitalik.eth.limo",
+    "url": "https://vitalik.eth.limo/",
+    "finalUrl": "https://vitalik.eth.limo/",
+    "title": "Vitalik Buterin's website",
+    "description": "",
+    "ogImage": "http://vitalik.ca/images/icon.png",
+    "favicon": "https://vitalik.eth.limo/favicon.ico",
+    "feeds": [
+      "https://vitalik.eth.limo/feed.xml"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "Dark Mode Toggle Vitalik Buterin's website Vitalik Buterin's website Blockchains Cryptography Economics Fun General Gitcoin Math Philosophy Translations 2026 Jun 29 Obfuscation: building the final boss of cryptography (Part I) 2026 May 18 A shallow dive into formal verification 2026 Apr 02 My self-sovereign / local / private / secure LLM setup, April 2026 2025 Dec 30 Balance of power 2025 Dec 17 Let a thousand societies bloom 2025 Nov 25 Plinko PIR tutorial 2025 Nov 07 Galaxy brain resistance 2025 Oct 19 A GKR Tutorial 2025 Oct 05 Memory access is O(N^[1/3]) 2025 Sep 24 The importance of full-stack openness and verifiability 2025 Sep 21 Low-risk defi can be for Ethereum what search was for Google 2025 Aug 12 \"I support it only if it's open source\" should be a more common viewpoint 2025 Aug 12 On idea-driven ideas 2025 Jul 10 My response to AI 2027 2025 Jul 07 Why I used to prefer permissive licenses and now favor copyleft 2025 Jun 28 Does digital ID have risks even if it's ZK-wrapped? 2025 May 11 A simple explanation of a/(b+c) + b/(c+a) + c/(a+b) = 4 2025 May 06 The math of when stage 1 and stage 2 make sense 2025 May 03 Simplifying the L1 2025 Apr 14 Why I support privacy 2025 Ma",
+    "status": "ok",
+    "screenshot": "/shots/vitalik-eth-limo.jpg"
+  },
+  {
+    "id": "dhh-dk",
+    "host": "dhh.dk",
+    "url": "https://dhh.dk/",
+    "finalUrl": "https://dhh.dk/",
+    "title": "David Heinemeier Hansson (DHH)",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://dhh.dk/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "world.hey.com",
+      "37signals.com",
+      "rubyonrails.org",
+      "shopify.com",
+      "airbnb.com",
+      "squareup.com",
+      "coinbase.com",
+      "zendesk.com",
+      "omarchy.org",
+      "basecamp.com",
+      "signalvnoise.com",
+      "hey.com",
+      "fizzy.do",
+      "once.com",
+      "en.wikipedia.org",
+      "fiawec.com",
+      "workfeed.io",
+      "ziik.io",
+      "turis.app",
+      "servicelovers.com",
+      "upteko.com",
+      "itb.dk",
+      "tim.blog",
+      "devtools.fm",
+      "corecursive.com",
+      "thetwentyminutevc.com",
+      "2centdad.com",
+      "fullstackradio.com"
+    ],
+    "textSnippet": "David Heinemeier Hansson (DHH) DAVID HEINEMEIER HANSSON I am the creator of Ruby on Rails , creator of Omarchy , co-owner of 37signals , best-selling author , Le Mans class-winning racing driver , investor in Danish startups , Shopify board member , frequent podcast guest , and family man . I write regularly on HEY World and speak on The REWORK Podcast . You can also find me on X , LinkedIn , Instagram , and YouTube . Or send me an email to dhh@hey.com . Creator of Ruby on Rails Hundreds of thousands of programmers around the world have built amazing applications using Ruby on Rails . The open-source web framework that I created in 2003 , and continue to develop to this day. Some of the more famous include Github , Shopify , Airbnb , Square , Coinbase , and Zendesk . In 2022, I started The Rails Foundation , which aims to improve the documentation, education, marketing, and events of our framework to the benefit of all new and existing Rails developers, and to ensure a prosperous ecosystem that continues to improve for decades to come. I serve as its chairman. Creator of Omarchy Omarchy is a beautiful, modern Linux-based operating system built on terminal interfaces and webapps. It",
+    "status": "ok",
+    "screenshot": "/shots/dhh-dk.jpg"
+  },
+  {
+    "id": "dharmesh-com",
+    "host": "dharmesh.com",
+    "url": "https://dharmesh.com/",
+    "finalUrl": "https://dharmesh.com/",
+    "title": "dharmesh.com",
+    "description": "Personal website for Dharmesh Shah, co-founder and CTO of HubSpot.",
+    "ogImage": null,
+    "favicon": "https://dharmesh.com/hubfs/assets/logos/utility/favicon.svg",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "use.fontawesome.com",
+      "dharmesh.tv",
+      "onstartups.com"
+    ],
+    "textSnippet": "dharmesh.com Connecting Dots Projects Apps Domains Investments Dharmesh.tv Personal About Me Speaking Invite OnStartups.com LinkedIn Twitter YouTube Hi, I'm Dharmesh. I'm co-founder/CTO of HubSpot, creator of WordPlay.com (and other fun projects). My personal mission is to help&nbsp; millions grow better. I do it through building products, creating content and forging connections. To receive future posts (I write once every whenever), you can subscribe. Learn more about me Latest Thoughts Greetings, Fellow Humans! Personal September 25, 2023 Greetings, fellow humans! Welcome to my blog/newsletter/whatever-the-cool-kids-call-it-these-days. I'm Dharmesh. My day job is being co-founder/CTO of HubSpot (NYSE:HUBS), the… Read Post Subscribe In my Connecting Dots newsletter, I share ideas and lessons in the hope that some of these \"dots\" will connect for you in the future some day. Projects Additional content if necessary to provide more context and lead into the primary content. Apps Short explanation of this section. Domains Short explanation of this section. Investments Short explanation of this section. Dharmesh.tv Short explanation of this section. Connecting Dots Projects Apps Domai",
+    "status": "ok",
+    "screenshot": "/shots/dharmesh-com.jpg"
+  },
+  {
+    "id": "sahillavingia-com",
+    "host": "sahillavingia.com",
+    "url": "https://sahillavingia.com/",
+    "finalUrl": "https://sahillavingia.com/",
+    "title": "Sahil Lavingia",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://sahillavingia.com/icon?53dc3c9e8eb57a40",
+    "feeds": [],
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "outbound": [
+      "antiwork.com",
+      "zoom.sahillavingia.com"
+    ],
+    "textSnippet": "Sahil Lavingia Sahil Lavingia Founder Writer Painter 𝕏 sahillavingia.com is a Zoom call now Live DOGE Days New GOD Mode 2025 Paying Freelancers in Equity and Dividends 2024 The Minimalist Entrepreneur 2021 No Meetings, No Deadlines, No Full-Time Employees 2021 Reflecting on My Failure to Build a Billion-Dollar Company 2019 Across the Border 2018 From Bubble to Bubble 2018",
+    "status": "ok",
+    "screenshot": "/shots/sahillavingia-com.jpg"
+  },
+  {
+    "id": "levels-io",
+    "host": "levels.io",
+    "url": "https://levels.io/",
+    "finalUrl": "https://levels.io/",
+    "title": "@levelsio's blog",
+    "description": "Indie maker. Building companies as a one-person business.",
+    "ogImage": "https://levels.io/favicon.jpg?v=1783494312",
+    "favicon": "https://levels.io/favicon.jpg?v=1783494312",
+    "feeds": [
+      "https://levels.io/rss",
+      "https://levels.io/rss/longform"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "outbound": [
+      "pieter.com",
+      "levels.vc"
+    ],
+    "textSnippet": "@levelsio&#039;s blog Nav: home · stats · projects · tags · rss · long-form rss · pieter.com · investments Sort: latest · oldest · views · blog views · views 30d · blog views 30d Filter: all · blog · X posts · long form · presentations · podcasts Pinned 8 Jul Ask me anything 29 Jun List of all my projects ever 1 Oct &#039;25 levels.vc - my investment fund 20 Aug &#039;24 Lex Fridman Podcast 2 Sep &#039;14 How I build my minimum viable products 1 Mar &#039;14 I&#039;m Launching 12 Startups in 12 Months 22 Apr &#039;13 Reset your life To read every new post (including blogs from &#120143;) in full in your inbox, join 14,217 subscribers Subscribe Subscribing you... Subscribed! Check your inbox to confirm your email. You can unsubscribe easily and I promise to never spam you 2026 7 Jul EU keeps resubmitting chat control after 5 rejections proving it&#039;s undemocratic &#120143; 7 Jul One more week to escape the underclass &#120143; 4 Jul A working Atari ST inside a blog post with full internet 4 Jul Degrowth is likely just masked foreign sabotage &#120143; 4 Jul Europe fights for 6 years whether to install AC or not while China produces an AC every 6 seconds &#120143; 2 Jul Is the sto",
+    "status": "ok",
+    "screenshot": "/shots/levels-io.jpg"
+  },
+  {
+    "id": "nathanbarry-com",
+    "host": "nathanbarry.com",
+    "url": "https://nathanbarry.com/",
+    "finalUrl": "https://nathanbarry.com/",
+    "title": "Home | Nathan Barry",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://nathanbarry.com/wp-content/uploads/2019/03/favicon.png",
+    "feeds": [],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "nathanbarrystg.wpengine.com",
+      "thinklegend.com"
+    ],
+    "textSnippet": "Home | Nathan Barry Home Blog Books &#038; Products About Twitter YouTube Search Menu Home Blog Books &#038; Products About Twitter YouTube Hello, I’m Nathan Barry. I’m a creator, author, speaker, designer, and the founder of Kit. Subscribe to get my weekly newsletter and latest articles. I design products. I’ve always cared about great visual design, but a few years ago I learned that I loved to teach as well. That led to starting this blog, building iPhone apps, writing several books, and ultimately quitting my job to focus on creating my own products. This site chronicles my journey learning to create the best products possible. All while teaching others to do the same. A little more about me I&#8217;m a creator. I got my start as a web and software designer, but soon became obsessed with the world of audience building and book publishing. I wrote 3 books, 2 courses, and built an email list of 49,000 subscribers. learn more about my books and products Authority Learn More The App Design Handbook Learn More Designing Web Applications Learn More Photoshop for Web Design Learn More I’m the founder of Kit. As a creator I realized the tools for building an audience just didn’t cut it",
+    "status": "ok",
+    "screenshot": "/shots/nathanbarry-com.jpg"
+  },
+  {
+    "id": "joelonsoftware-com",
+    "host": "joelonsoftware.com",
+    "url": "https://joelonsoftware.com/",
+    "finalUrl": "https://www.joelonsoftware.com/",
+    "title": "Joel on Software",
+    "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
+    "ogImage": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1",
+    "favicon": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=32%2C32&#038;ssl=1",
+    "feeds": [
+      "https://www.joelonsoftware.com/feed/",
+      "https://www.joelonsoftware.com/comments/feed/"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "wp.me",
+      "i0.wp.com",
+      "stackoverflow.com",
+      "stackoverflowbusiness.com",
+      "fogcreek.com",
+      "trello.com",
+      "wordpress.org"
+    ],
+    "textSnippet": "Joel on Software Skip to content Customize -> Theme Options) --> View menu View sidebar Joel on Software Your host I’m Joel Spolsky, a software developer in New York City. More about me . Search Read the archives in dead-tree format! Many of these articles have been collected into four books , available at your favorite bookstore. It’s an excellent way to read the site in the bath, or throw it at your boss. Careers Ready to level up? Stack Overflow Jobs is the job site that puts the needs of developers first. Whether you want to take control of your search or let employers discover you , we’re on a mission to help every developer find a job they love. Looking to hire smart programmers who get things done? Stack Overflow Talent is a fully-customized sourcing solution that helps you understand, reach, and attract developers on the platform they trust most. Find the right candidates for your jobs. Learn more. For my day job, I'm the co-founder and CEO of Stack Overflow , the largest online community for programmers to learn, share their knowledge, and level up. Each month, more than 40 million professional and aspiring programmers visit Stack Overflow to ask and answer questions and f",
+    "status": "ok",
+    "screenshot": "/shots/joelonsoftware-com.jpg"
+  },
+  {
+    "id": "gatesnotes-com",
+    "host": "gatesnotes.com",
+    "url": "https://gatesnotes.com/",
+    "finalUrl": "https://gatesnotes.com/",
+    "title": "gatesnotes.com",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://gatesnotes.com/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "",
+    "status": "fetch_error",
+    "screenshot": "/shots/gatesnotes-com.jpg"
+  },
+  {
+    "id": "nav-al",
+    "host": "nav.al",
+    "url": "https://nav.al/",
+    "finalUrl": "https://nav.al/",
+    "title": "Naval",
+    "description": "",
+    "ogImage": "https://i0.wp.com/nav.al/wp-content/uploads/2019/12/Navatar.png?fit=1080%2C1080&ssl=1",
+    "favicon": "https://nav.al/wp-content/themes/naval/images/favicon/favicon.ico",
+    "feeds": [],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "c0.wp.com",
+      "use.typekit.net",
+      "ycombinator.com",
+      "abelpolice.com",
+      "traffic.libsyn.com",
+      "boomsupersonic.com",
+      "en.wikipedia.org"
+    ],
+    "textSnippet": "Naval --> Naval Archive X Instagram Subscribe Subscribe Subscribe Cancel Search Search --> Menu Archive X Instagram Subscribe --> Archive Twitter Instagram Subscribe Subscribe Cancel Podcast X Apple Spotify YouTube Substack Email Naval --> Jul 2 2026 Live in the Future Riding AGI, AI Anxiety, Who Funded COVID, Defending Taiwan, and California Empire Naval with three founders who are living in the future: Garry Tan ( Y Combinator ), Daniel Francis ( Abel Police ), and Farbood Nivi ( A-LIST ). More 1:07:52 Get podcast Apple Spotify YouTube Download Jul 2 2026 Naval --> Jun 1 2026 The AI Industrial Revolution Build your own factory Full episode with 20 minutes of new material at the end. With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science). Nivi : Welcome. You’re listening to Naval Podcast , your authoritative source for new knowledge. We’re trying something new today. More 1:10:02 Get podcast X Apple Spotify YouTube Substack Download Jun 1 2026 Naval --> May 29 2026 The Regulatory Frontier Battling red tape at scale Part 3 of our four-part discussion with three frontier founders: Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak",
+    "status": "ok",
+    "screenshot": "/shots/nav-al.jpg"
+  },
+  {
+    "id": "cdixon-com",
+    "host": "cdixon.com",
+    "url": "https://cdixon.com/",
+    "finalUrl": "https://cdixon.org/",
+    "title": "cdixon",
+    "description": "programming, philosophy, history, internet, startups",
+    "ogImage": null,
+    "favicon": "https://cdixon.org/favicon.svg",
+    "feeds": [
+      "https://cdixon.org/rss.xml"
+    ],
+    "tech": [],
+    "outbound": [],
+    "textSnippet": "cdixon cdixon programming, philosophy, history, internet, startups Selected Archive About Subscribe Jun 2023 I wrote a book: Read Write Own Jan 2019 Strong and weak technologies Feb 2018 Why decentralization matters Feb 2017 How Aristotle created the computer Aug 2016 Eleven reasons to be excited about the future of technology Feb 2016 What's next in computing? Jan 2015 Come for the tool, stay for the network Mar 2014 Full stack startups Aug 2013 The idea maze Mar 2013 What the smartest people do on the weekend is what everyone else will do during the week in ten years Jul 2012 How bundling benefits sellers and buyers Sep 2010 If you aren't getting rejected on a daily basis, your goals aren't ambitious enough Jan 2010 The next big thing will start out looking like a toy Sep 2009 Climbing the wrong hill Full archive &rarr; modern retro",
+    "status": "ok",
+    "screenshot": "/shots/cdixon-com.jpg"
+  },
+  {
+    "id": "eladgil-com",
+    "host": "eladgil.com",
+    "url": "https://eladgil.com/",
+    "finalUrl": "https://eladgil.com/",
+    "title": "Elad Gil",
+    "description": "I am a technology entrepreneur, investor, and future forward optimist.  I have been working on a series of investments, incubations, and operating companies focused on the technology future.",
+    "ogImage": "http://static1.squarespace.com/static/65ea1cb3529ccd1a677e7d09/t/65ee94095d2eb426b482e193/1710134282054/dragonball-tenkaichi-daibouken_400x400+%281%29.jpg?format=1500w",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/65ea1cb3529ccd1a677e7d09/bba0be90-63f5-48c3-bf60-d30c793bdedf/favicon.ico?format=100w",
+    "feeds": [],
+    "tech": [
+      "Squarespace"
+    ],
+    "outbound": [
+      "static1.squarespace.com",
+      "use.typekit.net",
+      "p.typekit.net",
+      "blog.eladgil.com",
+      "scale.ai",
+      "braintrustdata.com",
+      "forbes.com",
+      "harvey.ai",
+      "growth.eladgil.com",
+      "ncbi.nlm.nih.gov",
+      "pubmed.ncbi.nlm.nih.gov",
+      "bioagelabs.com",
+      "clinicaltrialsarena.com"
+    ],
+    "textSnippet": "Elad Gil 0 Skip to Content Home Open Menu Close Menu Home Open Menu Close Menu Home ( X/Twitter ), Substack , Book ) Elad Gil Technology entrepreneur, investor, &amp; future forward optimist I have been working on a series of investments, incubations, and operating companies focused on the technology future. Investing . I run Gil&amp;Co a multi-stage investment firm. Past investments include:&nbsp; Airbnb, Anduril, Anthropic, Applied Intuition, Base Power, Brex, Coinbase, Cognition, Decagon, Deel, Figma, Flexport, Gitlab, Gusto, Instacart, Long Lake, Navan, Notion, Opendoor, PagerDuty, Perplexity, Pinterest, Rippling, OpenAI, Samsara, Scale.AI , SpaceX, Square, Stripe, Waymo etc AI. I got involved with ML &amp; generative AI early. I invested early in, or led rounds for e.g. Abridge, Anthropic, Braintrust , Brain Co , Cerebras, Character, Cognition, Decagon, Harvey , Long Lake, Mistral, OpenAI, Perplexity , Waymo, and others I prior ran AI centric product orgs at Google &amp; Twitter I have an AI podcast named No Priors Entrepreneurship &amp; running companies. Started two companies (Mixerlabs - bought by Twitter - and Color Health) Recently incubated / helped start Braintrust , an",
+    "status": "ok",
+    "screenshot": "/shots/eladgil-com.jpg"
+  },
+  {
+    "id": "reidhoffman-org",
+    "host": "reidhoffman.org",
+    "url": "https://reidhoffman.org/",
+    "finalUrl": "https://www.reidhoffman.org/",
+    "title": "Reid Hoffman - Entrepreneur. Investor. Strategist.",
+    "description": "A hub of all my posts and essays online. I write about entrepreneurship, civics, and intellectual life.",
+    "ogImage": "https://www.reidhoffman.org/wp-content/uploads/2025/04/rh-share.png",
+    "favicon": "https://www.reidhoffman.org/wp-content/uploads/2025/03/P6-JSOM6_400x400-1.png",
+    "feeds": [
+      "https://www.reidhoffman.org/feed/"
+    ],
+    "tech": [
+      "WordPress",
+      "WebGL/Three.js"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "inflection.ai",
+      "manasai.co",
+      "greylock.com",
+      "en.wikipedia.org",
+      "sfstandard.com",
+      "superagency.ai"
+    ],
+    "textSnippet": "Reid Hoffman - Entrepreneur. Investor. Strategist. Skip to content Pitch Advice for Entrepreneurs Reid Hoffman Writing Books Co-Founder, LinkedIn, Manas AI & Inflection AI. Author of Superagency. Investor at Greylock. Podcasts About My current priority is investing in and building with AI to benefit humanity. I am Co-Founder of LinkedIn, Inflection , and Manas AI , and a Partner at Greylock . My LinkedIn profile My Greylock bio Wikipedia Featured The San Francisco Standard Move fast and make things: the new career mantra YouTube Reid Hoffman meets his AI twin and they change the world&#8230; Superagency.ai Make your own Personalized Book Covers&#8230; Reid Hoffman © 2026 Go to Top",
+    "status": "ok",
+    "screenshot": "/shots/reidhoffman-org.jpg"
+  },
+  {
+    "id": "bhorowitz-com",
+    "host": "bhorowitz.com",
+    "url": "https://bhorowitz.com/",
+    "finalUrl": "https://a16z.com/author/ben-horowitz/",
+    "title": "Ben Horowitz, Partner at Andreessen Horowitz",
+    "description": "Ben Horowitz is a cofounder and general partner at the venture capital firm Andreessen Horowitz. He is the author of the New York Times bestsellers, The",
+    "ogImage": null,
+    "favicon": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/06/Favicon-%E2%80%94-48x48px.png",
+    "feeds": [],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "use.typekit.net",
+      "d1lamhf6l6yk6d.cloudfront.net",
+      "a16zcrypto.com",
+      "build.a16z.com",
+      "jobs.a16z.com"
+    ],
+    "textSnippet": "Ben Horowitz, Partner at Andreessen Horowitz Portfolio Team Focus Areas Focus Areas AI American Dynamism Bio + Health Consumer Crypto Cultural Leadership Fund Enterprise Fintech Growth Infrastructure Perennial Speedrun Content Content News &amp; Content News &amp; Content The Latest Infra new Investing in Netris Guido Appenzeller, Raghu Raghuram, and Jason Cui Infra new Investing in Mirendil Matt Bornstein and Malika Aubakirova Consumer new The World-Building Doors Are Open, Again. Josh Elman Enterprise new Investing in Probook Alex Rampell, David Haber, Olivia Moore, and Seema Amble Newsletters Podcast Network Books Programs Programs a16z Build College Talent Company Company About Jobs Offices a16z Global Strategic Partnerships Twitter Linkedin Facebook Instagram Youtube-alt Substack Close Ben Horowitz Investing Team About Ben Horowitz is a cofounder and general partner at the venture capital firm Andreessen Horowitz. He is the author of the New York Times bestsellers, The Hard Thing About Hard Things and What You Do Is Who You Are . He also created the a16z Cultural Leadership Fund to connect the greatest cultural leaders to the best new technology companies, and enable more youn",
+    "status": "ok",
+    "screenshot": "/shots/bhorowitz-com.jpg"
+  },
+  {
+    "id": "avc-com",
+    "host": "avc.com",
+    "url": "https://avc.com/",
+    "finalUrl": "https://avc.com/",
+    "title": "AVC - Musings of a VC in NYC",
+    "description": "Musings of a VC in NYC",
+    "ogImage": null,
+    "favicon": "https://avc.com/content/uploads/2020/01/cropped-avc-eye-32x32.jpg",
+    "feeds": [
+      "https://avc.com/feed/",
+      "https://avc.com/comments/feed/"
+    ],
+    "tech": [
+      "WordPress",
+      "React"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "use.typekit.net",
+      "blog.usv.com",
+      "transitinnovation.org",
+      "a16zcrypto.com",
+      "readwriteown.com",
+      "vitalik.eth.limo",
+      "usv.com",
+      "tech-week.com",
+      "opensea.io"
+    ],
+    "textSnippet": "AVC - Musings of a VC in NYC Menu Archives About Subscribe Twitter Search Search Submit Archives About Subscribe Twitter Search Submit May 2, 2024 I've Moved Onchain Over the last few years, I&#8217;ve moved my internet life from web2 to web3 and rarely use any web2 services anymore. So I am starting a series called &#8220;I&#8217;ve Moved Onchain&#8221; to explain this journey to everyone and today&#8217;s opening post is about blogging, naturally. I&#8217;ve blogged at AVC.com for a very long time. I started out in September 2003 at avc.typepad.com but moved to avc.com a few years later. AVC.com has been my home for blogging for over twenty years. AVC.com has served me very well over the years but it lacks a few things that really matter to me. First, the posts are stored in a closed database hosted by me in the cloud. Second, the services that I use to create AVC.com are not &#8220;composable&#8221; meaning that others cannot build things on top of AVC.com and the services that create and display the posts I create here. Third, the identities of the authors (me) and readers (you) here at AVC.com are not tied to any sort of portable identity and reputation system. While none of t",
+    "status": "ok",
+    "screenshot": "/shots/avc-com.jpg"
+  },
+  {
+    "id": "feld-com",
+    "host": "feld.com",
+    "url": "https://feld.com/",
+    "finalUrl": "https://feld.com/",
+    "title": "Feld Thoughts",
+    "description": "Brad Feld's blog on entrepreneurship, venture capital, books, and life",
+    "ogImage": "https://feld.com/og-default.png",
+    "favicon": "https://feld.com/favicon.ico",
+    "feeds": [
+      "https://feld.com/index.xml"
+    ],
+    "tech": [
+      "Hugo",
+      "Vercel"
+    ],
+    "outbound": [
+      "gohugo.io"
+    ],
+    "textSnippet": "Feld Thoughts Feld Thoughts Blog Books Films Search About Subscribe Brad Feld Entrepreneur, author, and investor. Writing about startups, venture capital, books, and life since 2004. Read Zero Knowledge As I Write It Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open. Fiction Ai Writing June 19, 2026 &nbsp;·&nbsp; 4 min &nbsp;·&nbsp; Brad Feld RIP Josh Baer Josh Baer, the founder and CEO of Capital Factory and the godfather of Austin's startup scene, died last night in a plane crash. He was my friend and I'm sad today. June 17, 2026 &nbsp;·&nbsp; 4 min &nbsp;·&nbsp; Brad Feld Does the Rule of 40 Work for Hardware? I've written about the Rule of 40 since 2015, and it's now gospel in SaaS. Does it mean anything for a company that makes physical things? Yes - but you have to read the curve, not the snapshot. Rule of 40 Hardware Saas June 15, 2026 &nbsp;·&nbsp; 5 min &nbsp;·&nbsp; Brad Feld Writing a Novel with Phin Argofy I've written nine non-fiction books and have no idea if I can write a novel. I'm trying anyway: a crypto-thriller call",
+    "status": "ok",
+    "screenshot": "/shots/feld-com.jpg"
+  },
+  {
+    "id": "andrewchen-com",
+    "host": "andrewchen.com",
+    "url": "https://andrewchen.com/",
+    "finalUrl": "https://andrewchen.com/",
+    "title": "andrewchen",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://andrewchen.co/wp-content/uploads/2015/05/favicon.png",
+    "feeds": [
+      "https://andrewchen.com/feed/"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "andrewchen.wpenginepowered.com",
+      "andrewchen.co"
+    ],
+    "textSnippet": "andrewchen andrewchen --> Andrew Chen Archives Subscribe &middot; Featured &middot; Recent &middot; The Cold Start Problem 📘 Dear readers, I have moved to Substack and I will be writing here from now on: 👉 andrewchen.substack.com In the meantime, I will leave andrewchen.com up for posterity. Enjoy! Andrew Chen Hello there! I&#8217;m a general partner at Andreessen Horowitz, investing in brand new startups as part of a16z Speedrun . I write a newsletter. You&#8217;d enjoy if you like long-form essays on startups, user growth, and network effects &#8212; I&#8217;ve written over 650+ essays. If you want more, I&#8217;ve written The Cold Start Problem, a best-selling book featuring interviews from the founders/teams behind Slack, Clubhouse, Zoom, Twitch, Tinder, Reddit, Uber, Airbnb, PayPal, and more. Leave this field empty if you&#039;re human: &nbsp; PS. I have moved my primary writing to Substack and will be publishing there from now on. In the meantime, I will leave andrewchen.com up for posterity and for archives. Enjoy! PPS. Looking for chronologically sorted list of essays? Look here . Or, check out some of my best essays below or see the full list of featured essays . Growth ",
+    "status": "ok",
+    "screenshot": "/shots/andrewchen-com.jpg"
+  },
+  {
+    "id": "perell-com",
+    "host": "perell.com",
+    "url": "https://perell.com/",
+    "finalUrl": "https://perell.com/",
+    "title": "Hi, I'm David Perell.",
+    "description": "I write, host a podcast, and run a writing school called Write of Passage.",
+    "ogImage": "https://perell.com/wp-content/uploads/2020/12/Website-Home.png",
+    "favicon": "https://i0.wp.com/perell.com/wp-content/uploads/2020/12/cropped-dp_square-1.png?fit=32%2C32&#038;quality=80&#038;ssl=1",
+    "feeds": [
+      "https://perell.com/feed/",
+      "https://perell.com/comments/feed/"
+    ],
+    "tech": [
+      "WordPress"
+    ],
+    "outbound": [
+      "gmpg.org",
+      "i0.wp.com",
+      "long-water-221.ck.page",
+      "wordpress.com",
+      "pressable.com",
+      "writeofpassage.school"
+    ],
+    "textSnippet": "Hi, I&#039;m David Perell. Skip to content David Perell Menu expanded collapsed Essays Podcast Writing Examples Free Lesson Hi, I&#8217;m David Perell. Welcome to my online home. I write , host a podcast , and curate a collection of the best writing on Writing Examples . Join 70,000+ people who’ve chosen to follow along. As seen in Essays Most of my essays are about business, education, and what it means to be a citizen of the Internet. These essays are a record of my intellectual quest to make sense of the world. They’re the diary of my contemplative life.&nbsp; All Essays Latest essay Buenos Aires: The Paris of South America? Have you ever met somebody who was trying really hard to convince you that they’re somebody they’re not, and then you get to know them and you like them but not for the person they’re trying to be? That’s how I feel about Buenos Aires. Featured Peter Thiel&#8217;s Religion You know him as the most influential investor in Silicon Valley. But did you know that the source of his ideas is Christianity? Practice Analytically, Perform Intuitively The greats in every field follow this mantra to perfect their craft. How Learning Happens The conventional approach to ",
+    "status": "ok",
+    "screenshot": "/shots/perell-com.jpg"
+  },
+  {
+    "id": "julian-com",
+    "host": "julian.com",
+    "url": "https://julian.com/",
+    "finalUrl": "https://www.julian.com/",
+    "title": "Julian Shapiro",
+    "description": "I deconstruct how things work—like writing and storytelling—and share my learnings along the way.",
+    "ogImage": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/60f46e132252d8747321b3e6_Open%20Graph.png",
+    "favicon": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/5fc48da5c755c681091db4ed_App%20Icon%20%E2%80%94%2032.png",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "julian.capital",
+      "en.wikipedia.org"
+    ],
+    "textSnippet": "Julian Shapiro ::selection { background: #9c9c9c; } .body, .header-links.blog { background-color: #1e242e !important; color: #e6e6e6 !important; } .header-image, .blog-post-listing-image { filter: grayscale(0.8); } .container h1, h2, h3, h4 { transition-duration: 1ms; background-color: transparent !important; color: #ebebeb !important; } .floating-toc, .floating-toc-link { background-color: transparent !important; color: #f5f5f5 !important; } * { text-shadow: none !important; box-shadow: none !important; } a { color: #3fa9eb !important; } ul, ol, blockquote, h5, h6, .home-guide-link, .blog-post-listing-name, .blog-post-listing-summary { background-color: #babbbf !important; color: #000 !important; border-color: transparent !important; } ul a, ol a, h5 a, h6 a { color: black !important; text-decoration: underline !important; } ul a:hover, ol a:hover, h5 a:hover, h6 a:hover { color: #4a4a4a !important; } li { list-style-image: none !important; } .power-link, input[type='submit'] { background-color: #1da1f2 !important; color: #fafafa !important; border-color: transparent !important; } .blog-post-listing-name { color: #1e2d36 !important; } I invest in deeptech startups. Are you fundrai",
+    "status": "ok",
+    "screenshot": "/shots/julian-com.jpg"
+  },
+  {
+    "id": "ryanhoover-me",
+    "host": "ryanhoover.me",
+    "url": "https://ryanhoover.me/",
+    "finalUrl": "https://www.ryanhoover.me/",
+    "title": "Ryan Hoover on the internet",
+    "description": "",
+    "ogImage": null,
+    "favicon": "https://cdn.prod.website-files.com/5f4a71e71909bd081387449a/5f53c37cfd7f2313a8afcfde_ryan-hoover-profile-pic%20favicon.jpeg",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "weekend.fund",
+      "signatureblock.co",
+      "fastround.co",
+      "adaptive.ai",
+      "airgarage.com",
+      "techcrunch.com",
+      "around.co",
+      "athenago.me",
+      "atlys.com",
+      "blueland.com",
+      "braintrust.dev",
+      "carrd.co",
+      "certn.com",
+      "deel.com",
+      "flybyrobotics.com",
+      "functionhealth.com",
+      "marsghc.com",
+      "intercom.com",
+      "invideo.io",
+      "kineuphorics.com",
+      "luminai.com",
+      "mainfra.me",
+      "mindbloom.com",
+      "moonpay.com",
+      "outset.ai",
+      "passportglobal.com",
+      "pipe.com",
+      "pinwheelapi.com",
+      "rail.io",
+      "rosebud.app",
+      "superwall.com",
+      "getsystem2.com",
+      "thirdweb.com",
+      "truemed.com"
+    ],
+    "textSnippet": "Ryan Hoover on the internet Ryan Hoover Writing Tweeting Building Hi! 👋🏼 My name&#x27;s Ryan Hoover. I’m the Founder of Product Hunt and Investor at Weekend Fund. I helped write Hooked and sometimes I publish essays . Recent Essays Vibecoding is self-expression All that matters is winning Now&#x27;s the time for consumer health tech Silicon Valley&#x27;s new status symbols Iterative people And 200+ more Companies &amp; Projects ‍ Product Hunt ‍ The global launchpad for startups (acquired) Weekend Fund An early-stage venture fund backed by 350+ operator LPs ‍ Rolodexer A tool to search for people that know me ‍ Signature Block How to build a successful fund (50K+ subs) Fast Round A tool for founders to find investors that follow them on X Hooked How to build habit-forming products (500K+ copies sold) Home A visual music project with home videos from my childhood ‍ [TBA] A tool for our investor friends And more to come :) Investments Adaptive • AirGarage • Alt • Alter (acq. by Google) • Around (acq. by Miro) • Athena • Atlys • Blueland • Braintrust • Carrd • Certn • Deel • Diagram (acq. by Figma) • Extropic • Flyby Robotics • Function Health • GHC • Intercom • InVideo • Justpoint •",
+    "status": "ok",
+    "screenshot": "/shots/ryanhoover-me.jpg"
+  },
+  {
+    "id": "stephsmith-io",
+    "host": "stephsmith.io",
+    "url": "https://stephsmith.io/",
+    "finalUrl": "https://stephsmith.io/",
+    "title": "Steph | Smith - Remote Work, Continuous Growth, and Technology",
+    "description": "Join over 350k people who have read my articles spanning remote work, continuous growth, and technology.",
+    "ogImage": "https://stephsmith.io/stephsmith.jpg",
+    "favicon": "https://stephsmith.io/favicon.ico",
+    "feeds": [],
+    "tech": [],
+    "outbound": [
+      "internetpipes.com",
+      "eunoia.world",
+      "begreat.me",
+      "femake.tech",
+      "nomadhubb.com",
+      "unsplash.com",
+      "blog.stephsmith.io",
+      "mailchi.mp",
+      "jamesclear.com",
+      "elpha.com",
+      "indiehackers.com",
+      "softwareleadweekly.com",
+      "hackernoon.com",
+      "fortune.com",
+      "dev.to",
+      "groq.com",
+      "thehustle.co",
+      "trends.co",
+      "listenandlearn.co",
+      "a16z.com",
+      "future.com",
+      "podchaser.com",
+      "progression.page",
+      "click.linksynergy.com",
+      "simpleleadership.io",
+      "dojobali.org",
+      "wifitribe.co",
+      "liv.it",
+      "hqcasanova.com"
+    ],
+    "textSnippet": "Steph | Smith - Remote Work, Continuous Growth, and Technology --> Steph | Smith &nbsp;Steph | Smith Made: Internet Pipes 50 Days of Fun My Book My Protocol Eunoia MYGA FeMake nomad(hubb) More: Open Podcast Books Photos Travel COVID Resources --> Scholarships FAQ Blog Pipes Subscribe Contact hi, I'm Steph As seen in: - ABOUT - Hi! Thank you for visiting my site. I'm Steph. :) I spend my days working at Nvidia , after leading growth at Groq ( relevant ). Before that, I hosted the a16z podcast and worked for companies like The Hustle (led their product Trends to millions in ARR) and HubSpot (leading their creator program ). As a perpetual night owl 🦉, I’m always cooking something up. Since teaching myself to code in '18, I've built many a side project ( Eunoia is my favorite!), wrote a book on content , have an unhealthy Twitter addiction , and run my own podcast with my husband. My latest project is Internet Pipes , which helps you make sense of all the incredible data online. The community is ~3k people strong, and growing daily. This crazy adventure all started nearly a decade ago, when I was unhappy with my life and decided to design a new one. Since then, I’ve worked remotely w",
+    "status": "ok",
+    "screenshot": "/shots/stephsmith-io.jpg"
   }
 ]
