@@ -579,16 +579,17 @@
     "url": "https://monkbent.net/",
     "host": "monkbent.net",
     "finalUrl": "https://monkbent.net/",
-    "name": "Ben Thompson (monkbent)",
+    "name": "Ben Thompson",
     "title": "monkbent.net – A personal blog by Ben Thompson",
-    "summary": "Personal blog of Stratechery's Ben Thompson.",
+    "summary": "Personal blog of Ben Thompson, the writer behind Stratechery.",
     "description": "",
-    "screenshot": "/shots/monkbent-net.jpg",
+    "screenshot": "/shots/monkbent-net-hero.jpg",
     "ogImage": null,
     "favicon": "https://i0.wp.com/monkbent.net/wp-content/uploads/2020/06/cropped-icon.png?fit=32%2C32&#038;ssl=1",
     "role": "Writer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Product"
     ],
     "features": [
       "Blog"

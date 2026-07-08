@@ -184,11 +184,12 @@
     ]
   },
   "monkbent-net": {
-    "name": "Ben Thompson (monkbent)",
-    "summary": "Personal blog of Stratechery's Ben Thompson.",
+    "name": "Ben Thompson",
+    "summary": "Personal blog of Ben Thompson, the writer behind Stratechery.",
     "role": "Writer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Product"
     ],
     "features": [
       "Blog"
