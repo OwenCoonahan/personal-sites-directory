@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import type { Site } from "@/lib/types";
+import Favicon from "./Favicon";
 
 export default function SiteDetail({
   site,
@@ -52,10 +53,7 @@ export default function SiteDetail({
 
         <div className="p-5 md:p-6">
           <div className="flex items-start gap-3">
-            {site.favicon && (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img src={site.favicon} alt="" width={28} height={28} className="rounded mt-0.5" style={{ objectFit: "cover" }} />
-            )}
+            <Favicon site={site} size={28} className="mt-0.5" />
             <div className="min-w-0 flex-1">
               <h2 className="text-[20px] font-semibold leading-tight" style={{ color: "var(--text-1)" }}>
                 {site.name}

@@ -1,6 +1,7 @@
 "use client";
 
 import type { Site } from "@/lib/types";
+import Favicon from "./Favicon";
 
 export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Site) => void }) {
   const img = site.screenshot || site.ogImage;
@@ -31,10 +32,7 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
       </div>
       <div className="p-3.5 flex flex-col flex-1">
         <div className="flex items-center gap-2">
-          {site.favicon && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={site.favicon} alt="" width={14} height={14} className="rounded-sm shrink-0" style={{ objectFit: "cover" }} />
-          )}
+          <Favicon site={site} size={16} />
           <span className="font-medium text-[14px] truncate" style={{ color: "var(--text-1)" }}>
             {site.name}
           </span>
