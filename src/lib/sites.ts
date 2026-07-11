@@ -3,6 +3,8 @@ import type { Site } from "./types";
 
 const SEED = seed as Site[];
 
+export const SITE_URL = "https://homepages.owencoonahan.xyz";
+
 // Recompute graph edges + in-degree over whatever set we're showing
 // (seed + approved community sites), so links stay correct as it grows.
 function computeGraph(sites: Site[]): Site[] {
@@ -23,8 +25,26 @@ function computeGraph(sites: Site[]): Site[] {
   return enriched;
 }
 
+let _all: Site[] | null = null;
 export function getSites(): Site[] {
-  return computeGraph(SEED).sort((a, b) => b.inDegree - a.inDegree || a.name.localeCompare(b.name));
+  if (!_all) _all = computeGraph(SEED).sort((a, b) => b.inDegree - a.inDegree || a.name.localeCompare(b.name));
+  return _all;
+}
+
+let _byId: Map<string, Site> | null = null;
+export function getSiteById(id: string): Site | undefined {
+  if (!_byId) _byId = new Map(getSites().map((s) => [s.id, s]));
+  return _byId.get(id);
+}
+
+// Related sites for a detail page: what it links to + who links to it (deduped).
+export function relatedSites(site: Site): Site[] {
+  const all = getSites();
+  const byId = new Map(all.map((s) => [s.id, s]));
+  const out = site.links.map((id) => byId.get(id)).filter((s): s is Site => !!s);
+  const inbound = all.filter((s) => s.links.includes(site.id));
+  const seen = new Set<string>();
+  return [...out, ...inbound].filter((s) => (seen.has(s.id) ? false : (seen.add(s.id), true)));
 }
 
 export function seedHosts(): Set<string> {

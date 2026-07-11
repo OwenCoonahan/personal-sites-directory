@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import type { Site } from "@/lib/types";
 import Favicon from "./Favicon";
 
@@ -33,9 +34,20 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
       <div className="p-3.5 flex flex-col flex-1">
         <div className="flex items-center gap-2">
           <Favicon site={site} size={16} />
-          <span className="font-medium text-[14px] truncate" style={{ color: "var(--text-1)" }}>
+          <Link
+            href={`/s/${site.id}`}
+            className="font-medium text-[14px] truncate min-w-0"
+            style={{ color: "var(--text-1)" }}
+            onClick={(e) => {
+              // plain left-click opens the modal; cmd/ctrl/middle-click follows the real link
+              if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+              e.preventDefault();
+              e.stopPropagation();
+              onOpen(site);
+            }}
+          >
             {site.name}
-          </span>
+          </Link>
           {site.role && (
             <span className="chip ml-auto shrink-0" style={{ fontSize: 10 }}>
               {site.role}
