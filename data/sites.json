@@ -7532,7 +7532,9 @@
     "favicon": "https://rush-nlp.com/favicon.ico",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Open Source",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -7568,6 +7570,7 @@
     "favicon": "https://aliabdaal.com/wp-content/uploads/2024/10/cropped-favicon-32x32.png",
     "role": "Founder",
     "tags": [
+      "Startups",
       "Writing"
     ],
     "features": [
@@ -7640,7 +7643,8 @@
     "role": "Researcher",
     "tags": [
       "AI",
-      "Writing"
+      "Writing",
+      "Crypto"
     ],
     "features": [
       "Blog"
@@ -7667,8 +7671,9 @@
     "screenshot": "/shots/awebb-info.jpg",
     "ogImage": null,
     "favicon": "https://www.awebb.info/images/favicon.ico",
-    "role": "",
+    "role": "Researcher",
     "tags": [
+      "AI",
       "Math"
     ],
     "features": [
@@ -7704,7 +7709,9 @@
     "favicon": "https://iamtrask.github.io/favicon.ico",
     "role": "",
     "tags": [
-      "AI"
+      "AI",
+      "Security",
+      "Education"
     ],
     "features": [],
     "tech": [],
@@ -7794,10 +7801,11 @@
     "screenshot": "/shots/avinayak-github-io.jpg",
     "ogImage": null,
     "favicon": "https://a.tulv.in/favicon.ico",
-    "role": "",
+    "role": "Photographer",
     "tags": [
       "AI",
       "Web Dev",
+      "Design",
       "Math"
     ],
     "features": [],
@@ -7829,6 +7837,7 @@
     "favicon": "https://www.binwang.me/favicon.ico",
     "role": "",
     "tags": [
+      "Open Source",
       "Math"
     ],
     "features": [],
@@ -7926,7 +7935,7 @@
     "screenshot": "/shots/huyenchip-com.jpg",
     "ogImage": null,
     "favicon": "https://huyenchip.com/favicon.ico",
-    "role": "Writer",
+    "role": "Researcher",
     "tags": [
       "AI",
       "Design",
@@ -8025,7 +8034,8 @@
     "role": "Founder",
     "tags": [
       "Startups",
-      "Writing"
+      "Writing",
+      "Politics"
     ],
     "features": [],
     "tech": [],
@@ -8057,7 +8067,9 @@
     "role": "",
     "tags": [
       "AI",
-      "Writing"
+      "Writing",
+      "Health",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -8094,7 +8106,8 @@
     "tags": [
       "AI",
       "Design",
-      "Writing"
+      "Writing",
+      "Art"
     ],
     "features": [],
     "tech": [],
@@ -8128,7 +8141,8 @@
     "favicon": "https://dennybritz.com/apple-touch-icon.png",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -8159,7 +8173,8 @@
     "favicon": "https://dennybritz.com/apple-touch-icon.png",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -8190,7 +8205,9 @@
     "favicon": "https://dustintran.com/img/favicon.ico",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Writing",
+      "Open Source"
     ],
     "features": [],
     "tech": [],
@@ -8262,7 +8279,7 @@
     "screenshot": "/shots/mlpowered-com.jpg",
     "ogImage": null,
     "favicon": "https://www.mlpowered.com/images/favicon-32x32.png",
-    "role": "",
+    "role": "Writer",
     "tags": [
       "AI",
       "Writing"
@@ -8359,8 +8376,11 @@
     "screenshot": "/shots/goku-me.jpg",
     "ogImage": "https://media.licdn.com/dms/image/v2/C5603AQFVlgco-QnVFg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1571511164620?e=2147483647&v=beta&t=sE-4eN6X31ZCY-W7U1Kusy0gWnDLOSRPmkPfcXEBios",
     "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-    "role": "",
-    "tags": [],
+    "role": "Researcher",
+    "tags": [
+      "Security",
+      "Politics"
+    ],
     "features": [],
     "tech": [
       "React"
@@ -8384,10 +8404,11 @@
     "screenshot": "/shots/notes-hamel-dev.jpg",
     "ogImage": "https://user-images.githubusercontent.com/1483922/208359222-2b7e938e-27c4-4556-aacb-f5a81ce77b2d.png",
     "favicon": "https://hamel.dev/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
-      "Open Source"
+      "Open Source",
+      "Education"
     ],
     "features": [
       "Blog"
@@ -8417,7 +8438,9 @@
     "role": "Developer",
     "tags": [
       "AI",
-      "Open Source"
+      "Writing",
+      "Open Source",
+      "Education"
     ],
     "features": [
       "Blog"
@@ -8483,7 +8506,8 @@
     "favicon": "https://jinglescode.github.io/assets/img/favicon.png?v=04953249d8deac7aeeda087fd94c58b1651c463e",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Health"
     ],
     "features": [],
     "tech": [
@@ -8557,7 +8581,8 @@
     "favicon": "https://jasjung.github.io/assets/images/logo/icon-ios-180x180.png",
     "role": "",
     "tags": [
-      "AI"
+      "AI",
+      "Web Dev"
     ],
     "features": [],
     "tech": [],
@@ -8691,9 +8716,10 @@
     "screenshot": "/shots/jk-lee-com.jpg",
     "ogImage": "https://example.com/blog-placeholder-1.jpg",
     "favicon": "https://jk-lee.com/favicon.svg",
-    "role": "",
+    "role": "Artist",
     "tags": [
-      "Design"
+      "Design",
+      "Politics"
     ],
     "features": [],
     "tech": [
@@ -8720,7 +8746,7 @@
     "screenshot": "/shots/jvns-ca.jpg",
     "ogImage": null,
     "favicon": "https://jvns.ca/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Web Dev"
     ],
@@ -8824,7 +8850,7 @@
     "screenshot": "/shots/scalarvectortensor-net.jpg",
     "ogImage": "http://sveltekit-prerender",
     "favicon": "https://scalarvectortensor.net/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI"
     ],
@@ -8853,6 +8879,7 @@
     "favicon": "https://www.kylegalbraith.com/favicon.png",
     "role": "Founder",
     "tags": [
+      "Startups",
       "Writing"
     ],
     "features": [],
@@ -8881,7 +8908,7 @@
     "screenshot": "/shots/kylemcdonald-net.jpg",
     "ogImage": null,
     "favicon": "https://kylemcdonald.net/favicon.ico",
-    "role": "Artist",
+    "role": "Researcher",
     "tags": [
       "AI",
       "Writing"
@@ -8952,7 +8979,7 @@
     "screenshot": "/shots/lankinen-xyz.jpg",
     "ogImage": "https://lankinen.xyz/preview.png",
     "favicon": "https://lankinen.xyz/favicon.ico?favicon.2852udsc6dfxy.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -9039,7 +9066,10 @@
     "favicon": "https://lexfridman.com/wordpress/wp-content/uploads/2017/06/cropped-lex-favicon-4-1-32x32.png",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Hardware",
+      "Health",
+      "Finance"
     ],
     "features": [],
     "tech": [
@@ -9071,7 +9101,7 @@
     "screenshot": "/shots/lilianweng-github-io.jpg",
     "ogImage": null,
     "favicon": "https://lilianweng.github.io/favicon_wine.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
       "Design"
@@ -9106,7 +9136,7 @@
     "screenshot": "/shots/mlinproduction-com.jpg",
     "ogImage": null,
     "favicon": "https://mlinproduction.com/favicon.ico",
-    "role": "",
+    "role": "Writer",
     "tags": [
       "AI",
       "Writing"
@@ -9145,7 +9175,8 @@
     "role": "",
     "tags": [
       "AI",
-      "Design"
+      "Design",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -9181,7 +9212,6 @@
     "role": "Designer",
     "tags": [
       "Design",
-      "Photography",
       "Art"
     ],
     "features": [
@@ -9248,8 +9278,10 @@
     "screenshot": "/shots/masatohagiwara-net.jpg",
     "ogImage": null,
     "favicon": "https://masatohagiwara.net/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Researcher",
+    "tags": [
+      "Health"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -9312,9 +9344,10 @@
     "screenshot": "/shots/mihaileric-com.jpg",
     "ogImage": null,
     "favicon": "https://www.mihaileric.com/static/favicon.64d552ee.ico",
-    "role": "Researcher",
+    "role": "Investor",
     "tags": [
-      "AI"
+      "AI",
+      "Education"
     ],
     "features": [],
     "tech": [
@@ -9361,7 +9394,7 @@
     "screenshot": "/shots/ntentional-com.jpg",
     "ogImage": null,
     "favicon": "https://www.ntentional.com/images/nt.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI"
     ],
@@ -9397,6 +9430,7 @@
     "role": "Artist",
     "tags": [
       "Writing",
+      "Security",
       "Music"
     ],
     "features": [],
@@ -9496,7 +9530,9 @@
     "role": "",
     "tags": [
       "AI",
-      "Writing"
+      "Writing",
+      "Open Source",
+      "Education"
     ],
     "features": [
       "Blog"
@@ -9564,7 +9600,9 @@
     "ogImage": "/assets/images/banner.png",
     "favicon": "https://prithvirajva.com/favicon.ico",
     "role": "Researcher",
-    "tags": [],
+    "tags": [
+      "Education"
+    ],
     "features": [
       "Blog"
     ],
@@ -9696,7 +9734,9 @@
     "ogImage": "http://static1.squarespace.com/static/63ba8308ecd6050681668753/t/698022b0d8d22f1b56e0dd8b/1770005168174/Ryoya-Takashima3-white-low-res.png?format=1500w",
     "favicon": "https://images.squarespace-cdn.com/content/v1/63ba8308ecd6050681668753/7fd2e791-19b0-40c1-89ab-fba766734bc0/favicon.ico?format=100w",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Art"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -9851,7 +9891,8 @@
     "role": "Researcher",
     "tags": [
       "AI",
-      "Open Source"
+      "Open Source",
+      "Hardware"
     ],
     "features": [],
     "tech": [],
@@ -9894,7 +9935,8 @@
     "favicon": "https://www.susanshu.com/favicon.ico",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -9986,7 +10028,8 @@
     "role": "Researcher",
     "tags": [
       "AI",
-      "Open Source"
+      "Open Source",
+      "Education"
     ],
     "features": [],
     "tech": [],
@@ -10169,9 +10212,10 @@
     "screenshot": "/shots/yihui-org.jpg",
     "ogImage": null,
     "favicon": "https://yihui.org/favicon.ico",
-    "role": "Researcher",
+    "role": "Founder",
     "tags": [
-      "Math"
+      "Math",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -10242,7 +10286,11 @@
     "ogImage": "https://lh3.googleusercontent.com/sitesv/AA5AbUBhTIb0VND3ccKJ2SivYZBw6w6KOB7SD5hPqDo922zORnH6pI4qpalZzjbv4P11RGU8X6TPaZrcsWggqMY_6fnjaEpbEWCHi_bZowtpVutMiK0HR0HXP0l8Nqb_xUeOi9iiHpdsPPdoLt2kSKzwaatZKZU22LFiy6_T6dPZHRXrl4d0m2FTZ62YdseZ1CE=w16383",
     "favicon": "https://lh3.googleusercontent.com/sitesv/AA5AbUDKiBJM6OPnO_a_ueoIoUeVJJsjW90zJ34KTfIb8k0rsD_ekyY8hh0ZzWgv6acnNmVQT9xdCXNcPhBDt8D987Y_ERm2gJyj2Qiv6MsGUWNGv6O_KHWrZmxEVBTyOYtGB-38ac4yeMh1NNkjx5H7iJeYRvg2shGoKLOMbkBrn1W-9uJMFNDHWmrt8NoXs9w132NFTJvnlG_Xg2cpL_GgUIBcjA",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design",
+      "Hardware",
+      "Art"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -10294,7 +10342,7 @@
     "role": "Designer",
     "tags": [
       "Design",
-      "Product"
+      "Finance"
     ],
     "features": [],
     "tech": [
@@ -10505,7 +10553,8 @@
     "favicon": "https://arjunmakesthings.github.io/assets/favicon.ico",
     "role": "",
     "tags": [
-      "Writing"
+      "Writing",
+      "Education"
     ],
     "features": [],
     "tech": [],
@@ -10531,6 +10580,7 @@
     "role": "Founder",
     "tags": [
       "AI",
+      "Design",
       "Startups",
       "Crypto"
     ],
@@ -10559,7 +10609,7 @@
     "tags": [
       "AI",
       "Design",
-      "Product"
+      "Art"
     ],
     "features": [],
     "tech": [],
@@ -10588,7 +10638,7 @@
     "role": "Photographer",
     "tags": [
       "Design",
-      "Photography"
+      "Finance"
     ],
     "features": [],
     "tech": [
@@ -10621,6 +10671,7 @@
     "role": "Developer",
     "tags": [
       "Design",
+      "Writing",
       "Music"
     ],
     "features": [],
@@ -10653,7 +10704,7 @@
     "tags": [
       "AI",
       "Design",
-      "Photography"
+      "Art"
     ],
     "features": [],
     "tech": [],
@@ -10785,8 +10836,7 @@
     "favicon": "https://craighooper.xyz/assets/favicon.ico",
     "role": "Designer",
     "tags": [
-      "Design",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [],
@@ -10850,6 +10900,7 @@
     "tags": [
       "Startups",
       "Writing",
+      "Math",
       "Music"
     ],
     "features": [
@@ -10883,7 +10934,9 @@
     "ogImage": "http://schmud.de/img/btf-logo.svg",
     "favicon": "https://schmud.de/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Art"
+    ],
     "features": [
       "Blog"
     ],
@@ -10927,8 +10980,9 @@
     "screenshot": "/shots/diegoar-space.jpg",
     "ogImage": null,
     "favicon": "https://diegoar.space/icon.png?0bd942cfaa6f4187",
-    "role": "Developer",
+    "role": "Designer",
     "tags": [
+      "AI",
       "Web Dev",
       "Design"
     ],
@@ -11005,9 +11059,11 @@
     "screenshot": "/shots/edgarlr-com.jpg",
     "ogImage": "https://www.edgarlr.com/assets/social-card.jpg",
     "favicon": "https://www.edgarlr.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Open Source"
+      "Web Dev",
+      "Open Source",
+      "Art"
     ],
     "features": [],
     "tech": [
@@ -11043,7 +11099,8 @@
     "role": "Founder",
     "tags": [
       "Design",
-      "Startups"
+      "Startups",
+      "Art"
     ],
     "features": [],
     "tech": [
@@ -11109,11 +11166,12 @@
     "screenshot": "/shots/femke-design.jpg",
     "ogImage": "https://framerusercontent.com/assets/Q6gWANfljWRBpxMuWWKDmS5Ie4.png",
     "favicon": "https://framerusercontent.com/images/qlWQh5D0zpV0aQpfUTo4dIpL6ig.png",
-    "role": "",
+    "role": "Designer",
     "tags": [
       "AI",
       "Design",
-      "Writing"
+      "Writing",
+      "Education"
     ],
     "features": [],
     "tech": [
@@ -11146,8 +11204,7 @@
     "role": "Founder",
     "tags": [
       "Design",
-      "Startups",
-      "Photography"
+      "Startups"
     ],
     "features": [],
     "tech": [
@@ -11179,7 +11236,8 @@
     "favicon": "https://framerusercontent.com/images/fINWFuq4LgJ68nUJIva6xqQJk.svg",
     "role": "Designer",
     "tags": [
-      "Design"
+      "Design",
+      "Product"
     ],
     "features": [],
     "tech": [
@@ -11226,8 +11284,7 @@
     "favicon": "https://framerusercontent.com/images/xAG6iaggJJ7yfPmK60QrtzBVGcU.svg",
     "role": "Designer",
     "tags": [
-      "Design",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [
@@ -11289,8 +11346,7 @@
     "role": "Designer",
     "tags": [
       "Design",
-      "Writing",
-      "Product"
+      "Writing"
     ],
     "features": [],
     "tech": [],
@@ -11389,7 +11445,9 @@
     "ogImage": "https://freight.cargo.site/i/c9d3d14511479b3a392ce9afe8ccf5127f8a581611a04d52780d85f0a7d53f13/Screenshot-2023-02-27-at-3.56.42-PM.png",
     "favicon": "https://freight.cargo.site/t/original/i/a554da08e8dcfbb690347f77daf2b29a50e9da4c5aeabb74ad310744b78dab90/yellow.ico",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -11420,7 +11478,7 @@
     "screenshot": "/shots/jarango-com.jpg",
     "ogImage": "https://jarango.com/assets/images/jarango-title-card-ph.jpg",
     "favicon": "https://jarango.com/apple-touch-icon.png",
-    "role": "",
+    "role": "Founder",
     "tags": [
       "AI"
     ],
@@ -11458,7 +11516,8 @@
     "tags": [
       "AI",
       "Design",
-      "Product"
+      "Product",
+      "Music"
     ],
     "features": [],
     "tech": [
@@ -11492,7 +11551,7 @@
     "favicon": "https://framerusercontent.com/images/1UNcAzqLiCLaDwKpLb9ZYdvTvw.png",
     "role": "Designer",
     "tags": [
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [
@@ -11561,7 +11620,9 @@
     "role": "Designer",
     "tags": [
       "Design",
-      "Product"
+      "Health",
+      "Product",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -11600,7 +11661,8 @@
     "tags": [
       "Web Dev",
       "Design",
-      "Crypto"
+      "Crypto",
+      "Product"
     ],
     "features": [],
     "tech": [
@@ -11698,11 +11760,12 @@
     "screenshot": "/shots/nazhamid-com.jpg",
     "ogImage": "https://nazhamid.com/assets/img/PreviewCard_06_26.jpg",
     "favicon": "https://nazhamid.com/assets/img/apple-touch-icon.png",
-    "role": "Designer",
+    "role": "Founder",
     "tags": [
       "AI",
       "Design",
-      "Writing"
+      "Writing",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -11737,7 +11800,9 @@
     "ogImage": "https://niklasrosen.se/og-image.jpg",
     "favicon": "https://www.niklasrosen.se/favicon.svg",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design"
+    ],
     "features": [],
     "tech": [
       "Astro"
@@ -11766,7 +11831,7 @@
     "role": "Designer",
     "tags": [
       "AI",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [],
@@ -11803,7 +11868,9 @@
     "ogImage": "https://noahbuscher.com/social-image.jpg",
     "favicon": "https://noahbuscher.com/favicon.ico",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -11835,7 +11902,7 @@
     "screenshot": "/shots/pierre-io.jpg",
     "ogImage": "https://pierre.io/meta.jpg",
     "favicon": "https://pierre.io/apple-touch-icon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -11999,7 +12066,8 @@
     "favicon": "https://www.nobadmemories.com/favicon.ico",
     "role": "Artist",
     "tags": [
-      "Design"
+      "Design",
+      "Art"
     ],
     "features": [],
     "tech": [],
@@ -12022,10 +12090,9 @@
     "screenshot": "/shots/ramses-work.jpg",
     "ogImage": "https://ramses.work/social_preview.png",
     "favicon": "https://cdn.u.pika.page/rbJGAVclth6CkAOTQxshpQaZdVv7dy-0Q5ovVNJVQO4/s:100:100/fn:icon/plain/s3://pika-production/ab8qmzu7syff3h733wn6qccf7m3c",
-    "role": "",
+    "role": "Designer",
     "tags": [
-      "Design",
-      "Photography"
+      "Design"
     ],
     "features": [
       "Blog"
@@ -12069,6 +12136,7 @@
     "tags": [
       "AI",
       "Design",
+      "Startups",
       "Writing"
     ],
     "features": [
@@ -12103,8 +12171,7 @@
     "favicon": "https://assets.squarespace.com/universal/default-favicon.ico",
     "role": "Designer",
     "tags": [
-      "Design",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [],
@@ -12136,7 +12203,8 @@
     "tags": [
       "AI",
       "Web Dev",
-      "Design"
+      "Design",
+      "Music"
     ],
     "features": [],
     "tech": [
@@ -12222,8 +12290,7 @@
     "favicon": "https://framerusercontent.com/images/gMCToK70btFGqm0xJ32g0J4ZbE.jpeg",
     "role": "Designer",
     "tags": [
-      "Design",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [
@@ -12258,7 +12325,7 @@
     "tags": [
       "Web Dev",
       "Design",
-      "Product"
+      "Health"
     ],
     "features": [],
     "tech": [],
@@ -12289,6 +12356,7 @@
     "tags": [
       "AI",
       "Design",
+      "Finance",
       "Product"
     ],
     "features": [],
@@ -12322,8 +12390,8 @@
     "favicon": "https://thu-le.com/assets/favicon.png",
     "role": "Designer",
     "tags": [
-      "Writing",
-      "Product"
+      "Design",
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -12355,7 +12423,9 @@
     "favicon": "https://www.toni.li/favicon.ico",
     "role": "Designer",
     "tags": [
-      "Design"
+      "Web Dev",
+      "Design",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -12388,7 +12458,7 @@
     "favicon": "https://trangbui.me/favicon.png",
     "role": "Designer",
     "tags": [
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [
@@ -12417,7 +12487,8 @@
     "favicon": "https://storage.ghost.io/c/46/e1/46e1395c-fd21-481f-88a8-d3179eb9f950/content/images/size/w256h256/2022/12/bam-logo-square-favicon.png",
     "role": "",
     "tags": [
-      "Writing"
+      "Writing",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -12451,7 +12522,7 @@
     "screenshot": "/shots/home-hedy-dev.jpg",
     "ogImage": "https://home.hedy.dev/dotslash-brush-512.00e0519fe76c3fa81c7b07fc4f5fccff.png",
     "favicon": "https://home.hedy.dev/favicon.90d06356c5e08f398149619025955e54.svg",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -12540,10 +12611,11 @@
     "screenshot": "/shots/abishekmuthian-com.jpg",
     "ogImage": "https://abishekmuthian.com/images/Abishek_Muthian_Featured_Image.png",
     "favicon": "https://abishekmuthian.com/icons/TheTallestDwarf_logo-96x96.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Startups",
-      "Writing"
+      "Writing",
+      "Health"
     ],
     "features": [
       "Blog"
@@ -12574,8 +12646,7 @@
     "favicon": "https://cdn.prod.website-files.com/5da0776a675e838577ac3613/61c4f9fd0232e710d1d8d1e4_Favicon%2032.png",
     "role": "Designer",
     "tags": [
-      "Design",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [],
@@ -12601,8 +12672,7 @@
     "role": "Designer",
     "tags": [
       "AI",
-      "Design",
-      "Product"
+      "Design"
     ],
     "features": [],
     "tech": [],
@@ -12625,8 +12695,10 @@
     "screenshot": "/shots/alexanderweichart-de.jpg",
     "ogImage": "https://https://alexw00.github.io/garden/static/og-image.png",
     "favicon": "https://alexanderweichart.de/static/favicons/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Researcher",
+    "tags": [
+      "Web Dev"
+    ],
     "features": [
       "Blog"
     ],
@@ -12658,7 +12730,9 @@
     "ogImage": null,
     "favicon": "https://alexeystar.com/images/favicon/favicon.ico",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -12691,7 +12765,8 @@
     "favicon": "https://www.splitbrain.org/_media/wiki/favicon.ico",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -12837,11 +12912,12 @@
     "screenshot": "/shots/ozorn-in.jpg",
     "ogImage": null,
     "favicon": "https://ozorn.in/favicon.svg",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "AI",
       "Web Dev",
-      "Writing"
+      "Writing",
+      "Music"
     ],
     "features": [
       "Blog"
@@ -12886,8 +12962,10 @@
     "screenshot": "/shots/asterisk-lol.jpg",
     "ogImage": "/gm_construct_ballz.jpg",
     "favicon": "https://asterisk.lol/apple-touch-icon.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
     "features": [
       "Blog"
     ],
@@ -12922,7 +13000,7 @@
     "screenshot": "/shots/benkuhn-net.jpg",
     "ogImage": null,
     "favicon": "https://www.benkuhn.net/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Writing"
     ],
@@ -12953,7 +13031,7 @@
     "screenshot": "/shots/bneo-xyz.jpg",
     "ogImage": null,
     "favicon": "https://www.bneo.xyz/favicon.ico?favicon.2m-q4my5_klnw.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Writing"
     ],
@@ -13022,7 +13100,9 @@
     "ogImage": null,
     "favicon": "https://bewilde.red/favicon-96x96.png",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Security"
+    ],
     "features": [
       "Blog"
     ],
@@ -13053,7 +13133,9 @@
     "ogImage": "https://boris.kourtoukov.com/migratory-bodies-augmented-reality-experience-02-social.jpg?v=qA3ww8LnRp2",
     "favicon": "https://boris.kourtoukov.com/apple-touch-icon.png?v=qA3ww8LnRp2",
     "role": "Artist",
-    "tags": [],
+    "tags": [
+      "Politics"
+    ],
     "features": [
       "Blog"
     ],
@@ -13088,11 +13170,12 @@
     "screenshot": "/shots/brajeshwar-com.jpg",
     "ogImage": null,
     "favicon": "https://brajeshwar.com/favicon.ico",
-    "role": "",
+    "role": "Designer",
     "tags": [
       "AI",
       "Design",
-      "Writing"
+      "Writing",
+      "Product"
     ],
     "features": [
       "Blog"
@@ -13188,7 +13271,9 @@
     "ogImage": "https://brianjdevries.com/images/social-preview-images/default-social-preview.jpeg",
     "favicon": "https://brianjdevries.com/apple-touch-icon.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Writing"
+    ],
     "features": [
       "Blog"
     ],
@@ -13222,7 +13307,8 @@
     "favicon": "https://bryanhogan.com/favicon.ico",
     "role": "Designer",
     "tags": [
-      "AI"
+      "AI",
+      "Design"
     ],
     "features": [
       "Blog"
@@ -13259,7 +13345,8 @@
     "tags": [
       "Startups",
       "Writing",
-      "Open Source"
+      "Open Source",
+      "Music"
     ],
     "features": [
       "Blog"
@@ -13294,6 +13381,7 @@
     "favicon": "https://entropicthoughts.com/image/favicon/favicon-48x48.png",
     "role": "",
     "tags": [
+      "AI",
       "Math"
     ],
     "features": [
@@ -13326,7 +13414,7 @@
     "screenshot": "/shots/christinalj-com.jpg",
     "ogImage": null,
     "favicon": "https://www.christinalj.com/icon.ico?ddb84f9148c4bad5",
-    "role": "",
+    "role": "Researcher",
     "tags": [],
     "features": [
       "Blog"
@@ -13392,7 +13480,7 @@
     "screenshot": "/shots/mtsolitary-com.jpg",
     "ogImage": "https://www.mtsolitary.com/thumbnail.png",
     "favicon": "https://www.mtsolitary.com/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Math"
     ],
@@ -13467,6 +13555,8 @@
     "role": "",
     "tags": [
       "Web Dev",
+      "Hardware",
+      "Music",
       "Education"
     ],
     "features": [],
@@ -13499,7 +13589,10 @@
     "ogImage": "https://www.solomenko.com/wp-content/uploads/2021/01/Darya_Thumbnail.jpg",
     "favicon": "https://www.solomenko.com/wp-content/uploads/2024/08/dasha-favicon.png",
     "role": "",
-    "tags": [],
+    "tags": [
+      "AI",
+      "Math"
+    ],
     "features": [
       "Blog"
     ],
@@ -13638,6 +13731,7 @@
     "role": "Founder",
     "tags": [
       "AI",
+      "Startups",
       "Writing",
       "Music"
     ],
@@ -13702,8 +13796,7 @@
     "role": "Photographer",
     "tags": [
       "AI",
-      "Writing",
-      "Photography"
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -13802,7 +13895,7 @@
     "screenshot": "/shots/ewpratten-com.jpg",
     "ogImage": "/assets/profile-photos/2022/460x460.webp",
     "favicon": "https://ewpratten.com/&#x2F;assets&#x2F;profile-photos&#x2F;2022&#x2F;460x460.webp",
-    "role": "Developer",
+    "role": "Photographer",
     "tags": [
       "Writing",
       "Music"
@@ -13833,6 +13926,8 @@
     "favicon": "https://brentter.com/favicon.ico",
     "role": "Designer",
     "tags": [
+      "Web Dev",
+      "Design",
       "Open Source",
       "Music"
     ],
@@ -13868,7 +13963,7 @@
     "screenshot": "/shots/eyalgoren-com.jpg",
     "ogImage": null,
     "favicon": "https://eyalgoren.com/favicon.svg",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -13894,7 +13989,9 @@
     "ogImage": null,
     "favicon": "https://almer.dev/favicon-32x32.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Hardware"
+    ],
     "features": [
       "Blog"
     ],
@@ -13927,7 +14024,7 @@
     "screenshot": "/shots/anderegg-ca.jpg",
     "ogImage": "https://anderegg.ca/img/logo.png",
     "favicon": "https://anderegg.ca/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -13965,8 +14062,10 @@
     "screenshot": "/shots/blog-gregtech-eu.jpg",
     "ogImage": null,
     "favicon": "https://blog.gregtech.eu/assets/img/favicons/favicon-96x96.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Politics"
+    ],
     "features": [],
     "tech": [
       "Jekyll"
@@ -14027,6 +14126,7 @@
     "tags": [
       "AI",
       "Web Dev",
+      "Design",
       "Writing"
     ],
     "features": [
@@ -14079,7 +14179,7 @@
     "screenshot": "/shots/hankruiger-com.jpg",
     "ogImage": null,
     "favicon": "https://www.hankruiger.com/favicon.jpg",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -14114,6 +14214,7 @@
     "role": "Artist",
     "tags": [
       "AI",
+      "Design",
       "Crypto",
       "Math"
     ],
@@ -14140,9 +14241,12 @@
     "screenshot": "/shots/blog-hashin-me.jpg",
     "ogImage": null,
     "favicon": "https://blog.hashin.me/images/icon.png",
-    "role": "",
+    "role": "Writer",
     "tags": [
-      "Writing"
+      "Design",
+      "Writing",
+      "Health",
+      "Education"
     ],
     "features": [
       "Blog"
@@ -14181,7 +14285,8 @@
     "favicon": "https://hayobethlehem.nl/favicon.svg",
     "role": "",
     "tags": [
-      "AI"
+      "AI",
+      "Politics"
     ],
     "features": [
       "Blog"
@@ -14215,7 +14320,8 @@
     "favicon": "https://henriquegodoy.com/vite.svg",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Finance"
     ],
     "features": [],
     "tech": [
@@ -14242,7 +14348,7 @@
     "screenshot": "/shots/ikesau-co.jpg",
     "ogImage": null,
     "favicon": "https://ikesau.co/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -14298,7 +14404,9 @@
     "ogImage": "https://jcarlosroldan.com/img/icon/apple-touch-icon.png",
     "favicon": "https://jcarlosroldan.com/img/icon/favicon.ico",
     "role": "Founder",
-    "tags": [],
+    "tags": [
+      "Startups"
+    ],
     "features": [
       "Blog"
     ],
@@ -14363,7 +14471,8 @@
     "favicon": "https://jahir.dev/images/favicons/light/favicon-16x16.png",
     "role": "Developer",
     "tags": [
-      "Web Dev"
+      "Web Dev",
+      "Open Source"
     ],
     "features": [
       "Blog"
@@ -14431,6 +14540,7 @@
     "role": "Writer",
     "tags": [
       "Writing",
+      "Art",
       "Music"
     ],
     "features": [
@@ -14517,7 +14627,8 @@
     "favicon": "https://blog.jatinnagpal.com/favicon.ico",
     "role": "Writer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Security"
     ],
     "features": [],
     "tech": [],
@@ -14579,7 +14690,9 @@
     "ogImage": null,
     "favicon": "https://johnnywebber.com/wp-content/uploads/2024/10/cropped-me-32x32.png",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Writing"
+    ],
     "features": [
       "Blog"
     ],
@@ -14681,7 +14794,7 @@
     "screenshot": "/shots/justanotherinternetguy-github-io.jpg",
     "ogImage": null,
     "favicon": "https://internetguy.dev/favicon.svg",
-    "role": "",
+    "role": "Researcher",
     "tags": [
       "AI"
     ],
@@ -14789,7 +14902,8 @@
     "tags": [
       "AI",
       "Writing",
-      "Open Source"
+      "Open Source",
+      "Health"
     ],
     "features": [
       "Blog"
@@ -14845,7 +14959,7 @@
     "screenshot": "/shots/goncharov-xyz.jpg",
     "ogImage": null,
     "favicon": "https://www.goncharov.xyz/favicon.ico",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [],
     "features": [],
     "tech": [],
@@ -14886,7 +15000,7 @@
     "screenshot": "/shots/lloydatkinson-net.jpg",
     "ogImage": "https://www.lloydatkinson.net/assets/images/default-plant.jpeg",
     "favicon": "https://www.lloydatkinson.net/apple-touch-icon.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Design",
       "Writing"
@@ -14919,7 +15033,7 @@
     "screenshot": "/shots/todepond-com.jpg",
     "ogImage": "/og.png",
     "favicon": "https://www.todepond.com/favicon.png",
-    "role": "",
+    "role": "Researcher",
     "tags": [
       "Music"
     ],
@@ -15021,7 +15135,7 @@
     "screenshot": "/shots/martinrue-com.jpg",
     "ogImage": "https://martinrue.com/assets/images/og/home.jpg",
     "favicon": "https://martinrue.com/assets/images/favicon/favicon-96x96.png",
-    "role": "",
+    "role": "Maker",
     "tags": [
       "Writing"
     ],
@@ -15055,7 +15169,7 @@
     "favicon": "https://mmathias.com/favicon.ico",
     "role": "Photographer",
     "tags": [
-      "Photography",
+      "Web Dev",
       "Music"
     ],
     "features": [
@@ -15090,7 +15204,8 @@
     "favicon": "https://cdn.gingerbeardman.com/favicon.ico",
     "role": "Developer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -15121,7 +15236,7 @@
     "screenshot": "/shots/maxbo-me.jpg",
     "ogImage": "https://maxbo.me/og.jpg",
     "favicon": "https://maxbo.me/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -15193,9 +15308,10 @@
     "screenshot": "/shots/mihirnaik-com.jpg",
     "ogImage": "https://www.mihirnaik.com/opengraph-image?1ed73044a140629c",
     "favicon": "https://www.mihirnaik.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Writing"
     ],
     "features": [],
     "tech": [
@@ -15228,8 +15344,11 @@
     "screenshot": "/shots/one-mikro2nd-net.jpg",
     "ogImage": null,
     "favicon": "https://one.mikro2nd.net/images/favicon.ico",
-    "role": "Developer",
-    "tags": [],
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -15325,11 +15444,12 @@
     "screenshot": "/shots/nathanupchurch-com.jpg",
     "ogImage": null,
     "favicon": "https://nathanupchurch.com/img/logo_favicon.svg",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "AI",
       "Design",
-      "Open Source"
+      "Open Source",
+      "Security"
     ],
     "features": [
       "Blog"
@@ -15427,7 +15547,10 @@
     "ogImage": null,
     "favicon": "https://garden.pivic.com/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "AI",
+      "Hardware"
+    ],
     "features": [],
     "tech": [
       "Vercel"
@@ -15453,7 +15576,8 @@
     "favicon": "https://koehr.ing/favicon.png",
     "role": "Artist",
     "tags": [
-      "Open Source"
+      "Open Source",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -15486,7 +15610,7 @@
     "role": "Researcher",
     "tags": [
       "AI",
-      "Photography",
+      "Web Dev",
       "Music"
     ],
     "features": [
@@ -15522,7 +15646,8 @@
     "role": "",
     "tags": [
       "AI",
-      "Writing"
+      "Writing",
+      "Math"
     ],
     "features": [
       "Blog"
@@ -15558,6 +15683,8 @@
     "favicon": "https://cobbaut.be/favicon.ico",
     "role": "",
     "tags": [
+      "Design",
+      "Open Source",
       "Music"
     ],
     "features": [],
@@ -15603,6 +15730,8 @@
     "role": "",
     "tags": [
       "Web Dev",
+      "Hardware",
+      "Health",
       "Education"
     ],
     "features": [
@@ -15631,7 +15760,9 @@
     "ogImage": "https://laihoconsulting.com/atlas.png",
     "favicon": "https://laihoconsulting.com/favicon.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Finance"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -15718,11 +15849,10 @@
     "screenshot": "/shots/ricos-site.jpg",
     "ogImage": "https://d30tjytedanmsx.cloudfront.net/assets/midjourney/young-man-looking-absolutely-relaxed-while-reading-a-book-in-the-milkyway/1080.webp",
     "favicon": "https://ricos.site/favicon/apple-touch-icon.png",
-    "role": "Writer",
+    "role": "Photographer",
     "tags": [
       "AI",
-      "Writing",
-      "Photography"
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -15785,8 +15915,12 @@
     "screenshot": "/shots/rishikeshs-com.jpg",
     "ogImage": "https://rishikeshs.com/hotlink-ok/avatar.png",
     "favicon": "https://rishikeshs.com/favicons/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Writing",
+      "Health",
+      "Art"
+    ],
     "features": [
       "Blog"
     ],
@@ -15815,8 +15949,10 @@
     "screenshot": "/shots/robkohr-com.jpg",
     "ogImage": null,
     "favicon": "https://robkohr.com/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Health"
+    ],
     "features": [
       "Blog"
     ],
@@ -15918,6 +16054,8 @@
     "favicon": "https://www.roshanshibu.com/favicon.ico",
     "role": "Designer",
     "tags": [
+      "Web Dev",
+      "Design",
       "Music"
     ],
     "features": [],
@@ -15949,9 +16087,11 @@
     "screenshot": "/shots/rosia-me.jpg",
     "ogImage": null,
     "favicon": "https://rosia.me/willow.ico",
-    "role": "",
+    "role": "Researcher",
     "tags": [
-      "Writing"
+      "Writing",
+      "Hardware",
+      "Art"
     ],
     "features": [],
     "tech": [],
@@ -15980,9 +16120,10 @@
     "screenshot": "/shots/skruban-com.jpg",
     "ogImage": "https://www.skruban.com/images/monet.webp",
     "favicon": "https://www.skruban.com/images/favicon.webp",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -16019,7 +16160,7 @@
     "screenshot": "/shots/scattershot-blog.jpg",
     "ogImage": null,
     "favicon": "https://micro.blog/scattershot/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Music"
     ],
@@ -16078,7 +16219,7 @@
     "screenshot": "/shots/shreyasprakash-com.jpg",
     "ogImage": "https://shreyasprakash.com/og/landing.jpg?v=20260624",
     "favicon": "https://www.shreyasprakash.com/_assets/favico.ZgKHpbOC.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Design",
       "Writing"
@@ -16115,7 +16256,9 @@
     "ogImage": "/images/social-card.png",
     "favicon": "https://cshubh.com/favicon-96x96.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Web Dev"
+    ],
     "features": [
       "Blog"
     ],
@@ -16158,8 +16301,10 @@
     "screenshot": "/shots/shyamjos-com.jpg",
     "ogImage": null,
     "favicon": "https://shyamjos.com/apple-touch-icon.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Hardware"
+    ],
     "features": [
       "Blog"
     ],
@@ -16410,7 +16555,9 @@
     "ogImage": "https://pic.fish/https://taylor.town",
     "favicon": "https://taylor.town/favicon-16x16.png",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Math"
+    ],
     "features": [
       "Blog"
     ],
@@ -16449,8 +16596,10 @@
     "screenshot": "/shots/thomaspaulin-me.jpg",
     "ogImage": null,
     "favicon": "https://thomaspaulin.me/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
     "features": [
       "Blog"
     ],
@@ -16512,7 +16661,9 @@
     "role": "Investor",
     "tags": [
       "AI",
-      "Startups"
+      "Startups",
+      "Hardware",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -16544,8 +16695,10 @@
     "screenshot": "/shots/ttntm-me.jpg",
     "ogImage": "https://ttntm.me/img/social.jpg",
     "favicon": "https://ttntm.me/img/favicon/android-chrome-512x512.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
     "features": [
       "Blog"
     ],
@@ -16614,7 +16767,7 @@
     "screenshot": "/shots/tylerknowsnothing-com.jpg",
     "ogImage": "https://micro.blog/tylerknowsnothing/podcast.png",
     "favicon": "https://micro.blog/tylerknowsnothing/favicon.png",
-    "role": "",
+    "role": "Investor",
     "tags": [],
     "features": [
       "Blog"
@@ -16662,10 +16815,12 @@
     "screenshot": "/shots/udara-io.jpg",
     "ogImage": "https://udaraio-shader-og.vercel.app/api/uio?title=Udara+Jay&tag=Index&year=NaN",
     "favicon": "https://udara.io/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
-      "Design"
+      "Design",
+      "Startups",
+      "Writing"
     ],
     "features": [],
     "tech": [
@@ -16697,6 +16852,7 @@
     "favicon": "https://vedran.miletic.net/images/favicon-32x32.png",
     "role": "Researcher",
     "tags": [
+      "Web Dev",
       "Open Source",
       "Education"
     ],
@@ -16748,8 +16904,10 @@
     "screenshot": "/shots/tegowerk-eu.jpg",
     "ogImage": null,
     "favicon": "https://tegowerk.eu/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
     "features": [
       "Blog"
     ],
@@ -16778,7 +16936,9 @@
     "ogImage": "https://wargaluk.comhttps://wargaluk.com/assets/images/template/opengraph-default.jpg",
     "favicon": "https://wargaluk.com/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Art"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -16837,7 +16997,7 @@
     "screenshot": "/shots/williamhleucka-com.jpg",
     "ogImage": "https://williamhleucka.com/images/me.jpeg",
     "favicon": "https://williamhleucka.com/icons/favicon.ico",
-    "role": "Developer",
+    "role": "Designer",
     "tags": [
       "Web Dev",
       "Design",
@@ -16864,7 +17024,7 @@
     "screenshot": "/shots/winnielim-org.jpg",
     "ogImage": null,
     "favicon": "https://winnielim.org/favicon.ico",
-    "role": "",
+    "role": "Writer",
     "tags": [
       "Writing"
     ],
@@ -16903,7 +17063,9 @@
     "favicon": "https://www.winstoncooke.com/favicon.ico",
     "role": "Developer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Hardware",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -16964,7 +17126,10 @@
     "favicon": "https://yuv.al/ico/favicon.ico",
     "role": "Founder",
     "tags": [
-      "Music"
+      "Web Dev",
+      "Startups",
+      "Writing",
+      "Hardware"
     ],
     "features": [],
     "tech": [],
@@ -17024,9 +17189,7 @@
     "ogImage": null,
     "favicon": "https://storage.ghost.io/c/af/a0/afa0d5dc-4a5a-492f-891e-e66b35b9b71e/content/images/size/w256h256/2023/08/billdilllogo5-1.png",
     "role": "Photographer",
-    "tags": [
-      "Photography"
-    ],
+    "tags": [],
     "features": [
       "Blog"
     ],
@@ -17057,7 +17220,7 @@
     "screenshot": "/shots/roose-digital.jpg",
     "ogImage": null,
     "favicon": "https://roo.se/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
       "Design"
@@ -17092,7 +17255,7 @@
     "role": "Photographer",
     "tags": [
       "Writing",
-      "Photography"
+      "Education"
     ],
     "features": [],
     "tech": [
@@ -17185,6 +17348,7 @@
     "favicon": "https://abgn.me/favicon.ico",
     "role": "Developer",
     "tags": [
+      "AI",
       "Web Dev",
       "Design",
       "Open Source"
@@ -17219,6 +17383,7 @@
     "favicon": "https://tiniuc.com/favicon.ico",
     "role": "Artist",
     "tags": [
+      "Hardware",
       "Music"
     ],
     "features": [
@@ -17246,8 +17411,11 @@
     "screenshot": "/shots/ameye-dev.jpg",
     "ogImage": "https://alexanderameye.github.io/cover.png",
     "favicon": "https://ameye.dev/favicon/apple-touch-icon.png",
-    "role": "Developer",
-    "tags": [],
+    "role": "Writer",
+    "tags": [
+      "Design",
+      "Art"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -17305,7 +17473,9 @@
     "favicon": "https://aezarebski.github.io/resources/nicemacs-favicon.png",
     "role": "Researcher",
     "tags": [
-      "Math"
+      "Math",
+      "Health",
+      "Education"
     ],
     "features": [],
     "tech": [],
@@ -17334,8 +17504,10 @@
     "favicon": "https://www.quaxio.com/favicon.svg",
     "role": "Writer",
     "tags": [
+      "Web Dev",
       "Writing",
-      "Security"
+      "Security",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -17372,7 +17544,8 @@
     "favicon": "https://cdn.fasterthanli.me/content/img/favicon~72ac4ba96bed6dad.jxl",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Health"
     ],
     "features": [
       "Blog"
@@ -17460,9 +17633,12 @@
     "screenshot": "/shots/andreinc-net.jpg",
     "ogImage": null,
     "favicon": "https://www.andreinc.net/favicon.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
-      "AI"
+      "AI",
+      "Writing",
+      "Security",
+      "Math"
     ],
     "features": [
       "Blog"
@@ -17493,7 +17669,9 @@
     "favicon": "https://andrewwalpole.com/favicon.svg",
     "role": "Designer",
     "tags": [
+      "Web Dev",
       "Design",
+      "Art",
       "Education"
     ],
     "features": [
@@ -17527,7 +17705,7 @@
     "screenshot": "/shots/aneeshsathe-com.jpg",
     "ogImage": null,
     "favicon": "https://aneeshsathe.com/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Writing",
       "Education"
@@ -17555,7 +17733,7 @@
     "screenshot": "/shots/ashconnolly-com.jpg",
     "ogImage": "https://ashconnolly.com/img/og.png",
     "favicon": "https://ashconnolly.com/icon.png?6ac1c1ba80a25448",
-    "role": "Developer",
+    "role": "Designer",
     "tags": [
       "Web Dev",
       "Design"
@@ -17599,7 +17777,10 @@
     "ogImage": "https://drashsmith.com/static/og-image.png",
     "favicon": "https://www.drashsmith.com/static/icon.png",
     "role": "Researcher",
-    "tags": [],
+    "tags": [
+      "Web Dev",
+      "Hardware"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -17625,7 +17806,9 @@
     "ogImage": null,
     "favicon": "https://ashishb.net/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -17649,7 +17832,8 @@
     "favicon": "https://www.autodidacts.io/content/images/size/w256h256/2022/10/autodidacts-logo-small.png",
     "role": "",
     "tags": [
-      "Writing"
+      "Writing",
+      "Health"
     ],
     "features": [
       "Blog"
@@ -17710,9 +17894,10 @@
     "screenshot": "/shots/benjamincongdon-me.jpg",
     "ogImage": "https://benjamincongdon.me/img/icon.png",
     "favicon": "https://benjamincongdon.me/img/icon_hu26f271b218bfbcdcc2d7c4970e2dc205_23311_32x32_resize_lanczos_3.bdb8d133ecfda01b5ca7514a8d82cfa2a299e749146ec343da375ae1d907646f.png",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -17747,7 +17932,10 @@
     "ogImage": null,
     "favicon": "https://www.hekster.org/favicon.ico",
     "role": "Researcher",
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Music"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -17771,9 +17959,10 @@
     "screenshot": "/shots/belief-driven-design-com.jpg",
     "ogImage": null,
     "favicon": "https://belief-driven-design.com/favicons/apple-touch-icon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Design"
+      "Design",
+      "Security"
     ],
     "features": [
       "Blog"
@@ -17871,7 +18060,10 @@
     "favicon": "https://www.brendanlentz.com/_next/static/media/favicon.e5ed5fc7.ico",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Web Dev",
+      "Open Source",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -17906,7 +18098,9 @@
     "favicon": "https://www.deverman.org/static/images/favicon.ico",
     "role": "Developer",
     "tags": [
-      "Writing"
+      "AI",
+      "Writing",
+      "Open Source"
     ],
     "features": [
       "Blog"
@@ -18004,7 +18198,8 @@
     "favicon": "https://brianpeek.com/favicon.ico",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -18065,8 +18260,10 @@
     "screenshot": "/shots/bryanleetc-com.jpg",
     "ogImage": "https://www.bryanleetc.com/astropaper-og.jpg",
     "favicon": "https://www.bryanleetc.com/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -18094,7 +18291,7 @@
     "screenshot": "/shots/blog-brycekerley-net.jpg",
     "ogImage": null,
     "favicon": "https://blog.brycekerley.net/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -18198,8 +18395,8 @@
     "favicon": "https://calebjay.com/favicon.ico",
     "role": "Photographer",
     "tags": [
-      "Writing",
-      "Photography"
+      "Design",
+      "Writing"
     ],
     "features": [],
     "tech": [
@@ -18318,7 +18515,8 @@
     "favicon": "https://images.squarespace-cdn.com/content/v1/5a4c933a8fd4d255d22eda93/1542609251239-R66KAGJJS7R715S2EWVZ/favicon.ico?format=100w",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Design"
     ],
     "features": [
       "Blog"
@@ -18388,8 +18586,7 @@
     "favicon": "https://www.charmaineklee.com/assets/favicon-O_aii6Kn.ico",
     "role": "Writer",
     "tags": [
-      "AI",
-      "Product"
+      "AI"
     ],
     "features": [],
     "tech": [
@@ -18515,7 +18712,9 @@
     "ogImage": null,
     "favicon": "https://www.clemsau.com/apple-touch-icon.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Hardware"
+    ],
     "features": [
       "Blog"
     ],
@@ -18544,7 +18743,10 @@
     "ogImage": "https://damieng.com/_og/s/o_57av3w.png",
     "favicon": "https://damieng.com/favicon-16x16.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Design",
+      "Hardware"
+    ],
     "features": [
       "Blog"
     ],
@@ -18576,9 +18778,10 @@
     "screenshot": "/shots/blog-danslimmon-com.jpg",
     "ogImage": "https://blog.danslimmon.com/wp-content/uploads/2024/03/cropped-d2e_pip_transparent.png?w=200",
     "favicon": "https://blog.danslimmon.com/wp-content/uploads/2024/03/cropped-d2e_pip_transparent.png?w=32",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Math",
+      "Health",
       "Education"
     ],
     "features": [
@@ -18637,7 +18840,9 @@
     "favicon": "https://danieldk.eu/static/icon.png",
     "role": "",
     "tags": [
-      "AI"
+      "AI",
+      "Web Dev",
+      "Politics"
     ],
     "features": [],
     "tech": [],
@@ -18660,7 +18865,7 @@
     "screenshot": "/shots/dagrz-com.jpg",
     "ogImage": null,
     "favicon": "https://dagrz.com/images/favicon.ico",
-    "role": "",
+    "role": "Writer",
     "tags": [
       "Writing"
     ],
@@ -18690,7 +18895,7 @@
     "role": "Photographer",
     "tags": [
       "Web Dev",
-      "Photography"
+      "Education"
     ],
     "features": [
       "Blog"
@@ -18728,7 +18933,8 @@
     "favicon": "https://dlaa.me/favicon.ico",
     "role": "Developer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Math"
     ],
     "features": [
       "Blog"
@@ -18756,8 +18962,10 @@
     "screenshot": null,
     "ogImage": "https://blog.singleton.io/",
     "favicon": "https://blog.singleton.io/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Art"
+    ],
     "features": [
       "Blog"
     ],
@@ -18788,7 +18996,9 @@
     "ogImage": null,
     "favicon": "https://deborahzhang.com/statics/zhsite/images/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -18813,7 +19023,7 @@
     "role": "Designer",
     "tags": [
       "Web Dev",
-      "Photography"
+      "Design"
     ],
     "features": [
       "Blog"
@@ -18847,7 +19057,7 @@
     "screenshot": "/shots/den-dev.jpg",
     "ogImage": "https://assets.den.dev/images/shared/header_utag.webp",
     "favicon": "https://assets.den.dev/images/icon/apple-touch-icon.png",
-    "role": "",
+    "role": "Maker",
     "tags": [
       "Writing"
     ],
@@ -19006,8 +19216,9 @@
     "screenshot": "/shots/duncanmackenzie-net.jpg",
     "ogImage": null,
     "favicon": "https://www.duncanmackenzie.net/favicon.svg",
-    "role": "",
+    "role": "Developer",
     "tags": [
+      "Web Dev",
       "Writing"
     ],
     "features": [
@@ -19037,10 +19248,11 @@
     "screenshot": "/shots/dylanfisher-com.jpg",
     "ogImage": null,
     "favicon": "https://www.dylanfisher.com/assets/images/favicon.png",
-    "role": "Researcher",
+    "role": "Investor",
     "tags": [
       "Web Dev",
-      "Design"
+      "Design",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -19112,7 +19324,8 @@
     "tags": [
       "AI",
       "Web Dev",
-      "Design"
+      "Design",
+      "Writing"
     ],
     "features": [],
     "tech": [
@@ -19144,6 +19357,7 @@
     "favicon": "https://hernandis.me/static/websites/hernandis_me/img/favicon.1f4d13b0f81e.png",
     "role": "Founder",
     "tags": [
+      "Web Dev",
       "Startups"
     ],
     "features": [],
@@ -19174,7 +19388,8 @@
     "role": "",
     "tags": [
       "Web Dev",
-      "Security"
+      "Security",
+      "Politics"
     ],
     "features": [
       "Blog"
@@ -19201,9 +19416,10 @@
     "screenshot": "/shots/duncan-land.jpg",
     "ogImage": "/static/images/card.png",
     "favicon": "https://duncan.land/favicon.ico",
-    "role": "Developer",
+    "role": "Designer",
     "tags": [
       "Web Dev",
+      "Design",
       "Writing",
       "Open Source"
     ],
@@ -19239,8 +19455,9 @@
     "screenshot": "/shots/blog-erlend-sh.jpg",
     "ogImage": "https://i.snap.as/Mq88gpNP.jpg",
     "favicon": "https://cdn.writeas.net/favicon.ico",
-    "role": "",
+    "role": "Founder",
     "tags": [
+      "Startups",
       "Writing"
     ],
     "features": [
@@ -19311,9 +19528,10 @@
     "screenshot": "/shots/flaviocopes-com.jpg",
     "ogImage": "https://flaviocopes.com/img/ai-generated-image.webp",
     "favicon": "https://flaviocopes.com/favicon.ico",
-    "role": "Developer",
+    "role": "Founder",
     "tags": [
       "AI",
+      "Web Dev",
       "Writing"
     ],
     "features": [
@@ -19346,7 +19564,7 @@
     "screenshot": "/shots/gabewolford-com.jpg",
     "ogImage": "https://gabewolford.com/images/og-image.png",
     "favicon": "https://gabewolford.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -19392,7 +19610,8 @@
     "favicon": "https://www.sicpers.info/wp-content/uploads/2022/02/image-150x150.jpg",
     "role": "Writer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Security"
     ],
     "features": [
       "Blog"
@@ -19432,9 +19651,10 @@
     "screenshot": "/shots/glthr-com.jpg",
     "ogImage": "https://glthr.com/api/og/home?og=eyJ0aXRsZSI6ImdsdGhyLmNvbSUyMCU3QyUyMEd1aWxsYXVtZSUyMExldGh1aWxsaWVyJ3MlMjBibG9nIiwiaXNEZWZhdWx0TW9kZURhcmsiOmZhbHNlLCJwaG90byI6Imh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjk4MDgyMDgxNDE0L2U1YmMxOWNlLWQ0MGItNDY0ZS04N2MxLTI0ODEwNTEwMjk5OS5wbmciLCJsb2dvIjpudWxsLCJsb2dvRGFyayI6bnVsbCwiaXNUZWFtIjp0cnVlLCJkb21haW4iOiJnbHRoci5jb20iLCJmb2xsb3dlcnMiOjMwLCJhcnRpY2xlcyI6MCwiZmF2aWNvbiI6bnVsbH0=",
     "favicon": "https://glthr.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Art"
     ],
     "features": [],
     "tech": [
@@ -19463,8 +19683,12 @@
     "screenshot": "/shots/hamishcampbell-com.jpg",
     "ogImage": null,
     "favicon": "https://hamishcampbell.com/wp-content/uploads/2024/03/cropped-CARROT-32x32.png",
-    "role": "",
-    "tags": [],
+    "role": "Student",
+    "tags": [
+      "AI",
+      "Health",
+      "Finance"
+    ],
     "features": [
       "Blog"
     ],
@@ -19543,8 +19767,10 @@
     "screenshot": "/shots/hynek-me.jpg",
     "ogImage": "https://hynek.me/img/avatar_w200h200.jpg",
     "favicon": "https://hynek.me/apple-touch-icon.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
     "features": [
       "Blog"
     ],
@@ -19577,7 +19803,8 @@
     "role": "Developer",
     "tags": [
       "AI",
-      "Open Source"
+      "Open Source",
+      "Security"
     ],
     "features": [
       "Blog"
@@ -19671,7 +19898,7 @@
     "screenshot": "/shots/thejavaguy-org.jpg",
     "ogImage": "https://thejavaguy.org/social_img.webp",
     "favicon": "https://thejavaguy.org/favicon.svg",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "AI",
       "Writing"
@@ -19705,7 +19932,7 @@
     "screenshot": "/shots/jbcrawford-us.jpg",
     "ogImage": null,
     "favicon": "https://jbcrawford.us/favicon.png",
-    "role": "Writer",
+    "role": "Researcher",
     "tags": [
       "Writing",
       "Security"
@@ -19740,6 +19967,7 @@
     "favicon": "https://www.jacquescorbytuech.com/core/misc/favicon.ico",
     "role": "",
     "tags": [
+      "AI",
       "Writing",
       "Education"
     ],
@@ -19768,7 +19996,9 @@
     "ogImage": null,
     "favicon": "https://storage.ghost.io/c/eb/aa/ebaa2665-01a8-4415-8825-69d1f0e8fd19/content/images/size/w256h256/2020/06/3cffc4b347c3587f19fe222caaac69f63b9a5e73.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Education"
+    ],
     "features": [
       "Blog"
     ],
@@ -19841,7 +20071,8 @@
     "role": "Writer",
     "tags": [
       "Writing",
-      "Open Source"
+      "Open Source",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -19903,7 +20134,7 @@
     "screenshot": "/shots/jeffwilcox-blog.jpg",
     "ogImage": null,
     "favicon": "https://jeffwilcox.blog/favicon.ico?favicon.3wj2wyrk93uo6.ico",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [],
     "features": [],
     "tech": [
@@ -19993,7 +20224,7 @@
     "screenshot": "/shots/sjer-red.jpg",
     "ogImage": "https://sjer.red/index.png",
     "favicon": "https://sjer.red/favicon-48x48.png",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [],
     "features": [],
     "tech": [
@@ -20021,9 +20252,10 @@
     "screenshot": "/shots/jess-dev.jpg",
     "ogImage": "/img/share.png",
     "favicon": "https://blog.jessfraz.com/favicon.ico",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [
-      "Design"
+      "Design",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -20058,7 +20290,10 @@
     "ogImage": null,
     "favicon": "https://joethor.dev/favicon.ico",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
     "features": [
       "Blog"
     ],
@@ -20088,9 +20323,11 @@
     "screenshot": "/shots/daringfireball-net.jpg",
     "ogImage": "https://daringfireball.net/graphics/df-wide-card.png",
     "favicon": "https://daringfireball.net/graphics/apple-touch-icon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Design"
+      "Design",
+      "Hardware",
+      "Politics"
     ],
     "features": [
       "Blog"
@@ -20163,6 +20400,7 @@
     "favicon": "https://www.johnpapa.net/favicon.ico",
     "role": "Researcher",
     "tags": [
+      "Web Dev",
       "Writing",
       "Open Source"
     ],
@@ -20201,7 +20439,7 @@
     "screenshot": "/shots/jonathan-rico-live.jpg",
     "ogImage": null,
     "favicon": "https://jonathan.rico.live/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -20455,9 +20693,10 @@
     "screenshot": "/shots/thespatula-io.jpg",
     "ogImage": null,
     "favicon": "https://www.thespatula.io/images/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Web Dev"
     ],
     "features": [
       "Blog"
@@ -20523,8 +20762,7 @@
     "favicon": "https://knowing.net/theme/img/favicon.ico",
     "role": "Photographer",
     "tags": [
-      "AI",
-      "Photography"
+      "AI"
     ],
     "features": [
       "Blog"
@@ -20578,8 +20816,10 @@
     "screenshot": "/shots/lesleylai-info.jpg",
     "ogImage": null,
     "favicon": "https://lesleylai.info/favicon-32x32.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Math"
+    ],
     "features": [
       "Blog"
     ],
@@ -20728,7 +20968,9 @@
     "favicon": "https://hjr265.me/apple-touch-icon.b53c95df327e0b8a52815acaced4dbab40864837304b5a794e886c7615bb6618.png",
     "role": "Founder",
     "tags": [
-      "Startups"
+      "Startups",
+      "Writing",
+      "Open Source"
     ],
     "features": [
       "Blog"
@@ -20790,7 +21032,7 @@
     "screenshot": "/shots/gibney-org.jpg",
     "ogImage": null,
     "favicon": "https://www.gibney.org/assets/images/og_logo.png",
-    "role": "",
+    "role": "Writer",
     "tags": [],
     "features": [
       "Blog"
@@ -20932,7 +21174,7 @@
     "screenshot": "/shots/meg-dev.jpg",
     "ogImage": null,
     "favicon": "https://www.meg.dev/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI"
     ],
@@ -21025,7 +21267,10 @@
     "ogImage": null,
     "favicon": "https://tirania.org/favicon.ico",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Design",
+      "Open Source"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -21053,7 +21298,8 @@
     "favicon": "https://mijndertstuij.nl/favicon/apple-touch-icon.png",
     "role": "Developer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Open Source"
     ],
     "features": [
       "Blog"
@@ -21084,8 +21330,11 @@
     "screenshot": "/shots/mikekasberg-com.jpg",
     "ogImage": "https://www.mikekasberg.com//images/social_header.jpg",
     "favicon": "https://www.mikekasberg.com/apple-touch-icon.png",
-    "role": "Developer",
-    "tags": [],
+    "role": "Writer",
+    "tags": [
+      "Web Dev",
+      "Hardware"
+    ],
     "features": [
       "Blog"
     ],
@@ -21123,9 +21372,10 @@
     "screenshot": "/shots/xaml-dev.jpg",
     "ogImage": null,
     "favicon": "https://xaml.dev/Content/images/blog/blogengine.ico",
-    "role": "",
+    "role": "Designer",
     "tags": [
-      "Web Dev"
+      "Web Dev",
+      "Design"
     ],
     "features": [
       "Blog"
@@ -21169,8 +21419,10 @@
     "screenshot": "/shots/muhammadraza-me.jpg",
     "ogImage": "//muhammadraza.me",
     "favicon": "https://muhammadraza.me/favicon.ico",
-    "role": "Developer",
-    "tags": [],
+    "role": "Writer",
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -21299,7 +21551,8 @@
     "favicon": "https://nickgnd.com/apple-touch-icon.png",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -21364,6 +21617,7 @@
     "favicon": "https://www.unsungnovelty.org/favicon.ico",
     "role": "Developer",
     "tags": [
+      "AI",
       "Web Dev",
       "Open Source",
       "Security"
@@ -21393,7 +21647,8 @@
     "favicon": "https://ninio.ninarski.com/wp-content/uploads/2024/02/contract_edit_FILL0_wght200_GRAD0_opsz48.svg",
     "role": "Developer",
     "tags": [
-      "Web Dev"
+      "Web Dev",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -21537,7 +21792,9 @@
     "ogImage": null,
     "favicon": "https://paul.totterman.name/images/favicon.ico",
     "role": "Founder",
-    "tags": [],
+    "tags": [
+      "Startups"
+    ],
     "features": [
       "Blog"
     ],
@@ -21597,6 +21854,7 @@
     "role": "",
     "tags": [
       "AI",
+      "Health",
       "Music"
     ],
     "features": [
@@ -21629,7 +21887,9 @@
     "ogImage": null,
     "favicon": "https://i0.wp.com/qsantos.fr/wp-content/uploads/2022/07/avatar.png?fit=29%2C32&#038;ssl=1",
     "role": "Researcher",
-    "tags": [],
+    "tags": [
+      "Security"
+    ],
     "features": [
       "Blog"
     ],
@@ -21662,7 +21922,7 @@
     "screenshot": "/shots/untested-sonnet-io.jpg",
     "ogImage": "https://untested.sonnet.io/assets/cover-default.png",
     "favicon": "https://untested.sonnet.io/assets/favicons/icon-180.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -21693,6 +21953,7 @@
     "favicon": "https://www.ralfj.de/favicon.ico",
     "role": "Developer",
     "tags": [
+      "Security",
       "Education"
     ],
     "features": [],
@@ -21722,7 +21983,10 @@
     "ogImage": null,
     "favicon": "https://rtpg.co/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
     "features": [
       "Blog"
     ],
@@ -21748,8 +22012,10 @@
     "screenshot": "/shots/syscall-eu.jpg",
     "ogImage": null,
     "favicon": "https://syscall.eu/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Researcher",
+    "tags": [
+      "Hardware"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -21881,10 +22147,11 @@
     "screenshot": "/shots/seirdy-one.jpg",
     "ogImage": "https://seirdy.one/favicon512.2364016307.png",
     "favicon": "https://seirdy.one/favicon.2229316949.svg",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Design",
-      "Security"
+      "Security",
+      "Health"
     ],
     "features": [
       "Blog"
@@ -21945,10 +22212,11 @@
     "screenshot": "/shots/rb-ax.jpg",
     "ogImage": null,
     "favicon": "https://rb.ax/favicon-16x16.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Writing",
-      "Security"
+      "Security",
+      "Politics"
     ],
     "features": [
       "Blog"
@@ -21975,7 +22243,7 @@
     "screenshot": "/shots/ryanlynch-me.jpg",
     "ogImage": "https://ryanlynch.me/og-image.png",
     "favicon": "https://ryanlynch.me/favicon-32x32.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "AI",
       "Writing"
@@ -22014,6 +22282,7 @@
     "tags": [
       "Startups",
       "Writing",
+      "Art",
       "Education"
     ],
     "features": [
@@ -22109,7 +22378,7 @@
     "screenshot": "/shots/sasharosenbaum-com.jpg",
     "ogImage": null,
     "favicon": "https://www.sasharosenbaum.com/images/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -22188,10 +22457,11 @@
     "screenshot": "/shots/scastiel-dev.jpg",
     "ogImage": "https://scastiel.dev/banner.png",
     "favicon": "https://scastiel.dev/favicon.ico",
-    "role": "Writer",
+    "role": "Founder",
     "tags": [
       "Web Dev",
-      "Open Source"
+      "Open Source",
+      "Security"
     ],
     "features": [],
     "tech": [
@@ -22268,7 +22538,9 @@
     "ogImage": null,
     "favicon": "https://blog.shaishav.kr/assets/images/favicon.png",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Health"
+    ],
     "features": [
       "Blog"
     ],
@@ -22304,7 +22576,9 @@
     "ogImage": "https://cosmicqbit.dev/images/banner.png",
     "favicon": "https://cosmicqbit.dev/images/avatar_hu_a80515a8d0a8a69.jpeg",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -22336,7 +22610,9 @@
     "favicon": "https://sirajchokshi.com/favicon.ico?v=0",
     "role": "Designer",
     "tags": [
-      "Design"
+      "Design",
+      "Open Source",
+      "Health"
     ],
     "features": [],
     "tech": [
@@ -22365,6 +22641,9 @@
     "favicon": "https://muffinman.io/favicon/blue/icon-32.ico",
     "role": "Developer",
     "tags": [
+      "Design",
+      "Hardware",
+      "Math",
       "Art"
     ],
     "features": [
@@ -22396,7 +22675,8 @@
     "tags": [
       "AI",
       "Design",
-      "Writing"
+      "Writing",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -22498,7 +22778,7 @@
     "screenshot": "/shots/blog-timcappalli-me.jpg",
     "ogImage": null,
     "favicon": "https://blog.timcappalli.me/apple-touch-icon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -22550,7 +22830,7 @@
     "screenshot": "/shots/tomkennes-com.jpg",
     "ogImage": "https://tomkennes.com/",
     "favicon": "https://tomkennes.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
       "Design",
@@ -22652,7 +22932,7 @@
     "favicon": "data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZgBmAH9/fwD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzMzMAADIiMzMxEwAAMiIzMzETAAAyIjMxEzMAADIiMzETMwAAMiIxEzMzAAAyIjETMzMAADIiMzETMwAAMiIzMRMzAAAyIjMzMRMAADIiMzMxEwAAMzMzMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "role": "Photographer",
     "tags": [
-      "Photography"
+      "Web Dev"
     ],
     "features": [],
     "tech": [
@@ -22679,7 +22959,7 @@
     "screenshot": "/shots/vitochin-com.jpg",
     "ogImage": null,
     "favicon": "https://vitochin.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -22714,7 +22994,8 @@
     "role": "Founder",
     "tags": [
       "AI",
-      "Startups"
+      "Startups",
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -22790,9 +23071,10 @@
     "screenshot": "/shots/vladsiv-com.jpg",
     "ogImage": "https://www.vladsiv.com/site-og-image.jpg",
     "favicon": "https://www.vladsiv.com/favicon.ico",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Art"
     ],
     "features": [],
     "tech": [
@@ -22825,7 +23107,8 @@
     "tags": [
       "AI",
       "Writing",
-      "Open Source"
+      "Open Source",
+      "Security"
     ],
     "features": [],
     "tech": [],
@@ -22850,7 +23133,8 @@
     "favicon": "https://y.tsutsumi.io/favicon.ico",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Design"
     ],
     "features": [
       "Blog"
@@ -22883,6 +23167,7 @@
     "favicon": "https://zck.org/favicon.ico",
     "role": "",
     "tags": [
+      "Art",
       "Music"
     ],
     "features": [],
@@ -22915,7 +23200,8 @@
     "role": "Founder",
     "tags": [
       "AI",
-      "Startups"
+      "Startups",
+      "Finance"
     ],
     "features": [],
     "tech": [],
@@ -23004,7 +23290,8 @@
     "favicon": "https://news.ycombinator.com/y18.svg",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Politics"
     ],
     "features": [
       "Blog"
@@ -23056,10 +23343,9 @@
     "screenshot": "/shots/akpain-net.jpg",
     "ogImage": "/assets/img/metaimg.png",
     "favicon": "https://www.akpain.net/apple-touch-icon.png",
-    "role": "Photographer",
+    "role": "Researcher",
     "tags": [
       "Writing",
-      "Photography",
       "Music"
     ],
     "features": [],
@@ -23133,7 +23419,8 @@
     "favicon": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E%F0%9F%90%88%3C/text%3E%3C/svg%3E",
     "role": "",
     "tags": [
-      "Writing"
+      "Writing",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -23167,8 +23454,10 @@
     "favicon": "https://alangrow.com/favicon.ico",
     "role": "Founder",
     "tags": [
+      "Web Dev",
       "Design",
-      "Startups"
+      "Startups",
+      "Open Source"
     ],
     "features": [],
     "tech": [],
@@ -23200,8 +23489,7 @@
     "favicon": "http://tsalolikhin.com/favicon.ico",
     "role": "Photographer",
     "tags": [
-      "Writing",
-      "Photography"
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -23232,7 +23520,8 @@
     "favicon": "https://alexhans.github.io/favicon.ico",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -23259,10 +23548,12 @@
     "screenshot": "/shots/alexharri-com.jpg",
     "ogImage": null,
     "favicon": "https://alexharri.com/favicon.ico",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Web Dev",
-      "Writing"
+      "Design",
+      "Writing",
+      "Math"
     ],
     "features": [],
     "tech": [
@@ -23291,7 +23582,7 @@
     "screenshot": "/shots/alexlance-blog.jpg",
     "ogImage": null,
     "favicon": "https://alexlance.blog/favicon.ico",
-    "role": "",
+    "role": "Maker",
     "tags": [
       "Web Dev",
       "Writing"
@@ -23322,7 +23613,9 @@
     "favicon": "https://gigatexal.blog/favicon.ico",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Finance",
+      "Politics"
     ],
     "features": [
       "Blog"
@@ -23409,7 +23702,7 @@
     "screenshot": "/shots/amankumar-ai.jpg",
     "ogImage": "https://amankumar.ai/images/social-optimized.webp",
     "favicon": "https://amankumar.ai/apple-touch-icon.png",
-    "role": "Developer",
+    "role": "Founder",
     "tags": [
       "AI",
       "Web Dev",
@@ -23446,7 +23739,7 @@
     "screenshot": "/shots/nextfive-xyz.jpg",
     "ogImage": "https://nextfive.xyz//embedr.flickr.com/assets/client-code.js",
     "favicon": "https://nextfive.xyz/assets/favicon.jpeg",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Writing"
     ],
@@ -23480,7 +23773,7 @@
     "screenshot": "/shots/afranca-com-br.jpg",
     "ogImage": "https://afranca.com.br/images/feature/brutal-feature-image.png",
     "favicon": "https://afranca.com.br/images/favicons/apple-icon-57x57.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Open Source"
     ],
@@ -23593,7 +23886,9 @@
     "ogImage": null,
     "favicon": "https://xorvoid.com/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Math"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -23615,7 +23910,7 @@
     "screenshot": "/shots/carette-xyz.jpg",
     "ogImage": null,
     "favicon": "https://carette.xyz/favicons/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -23674,10 +23969,12 @@
     "screenshot": "/shots/aartaka-me.jpg",
     "ogImage": "https://aartaka.me/assets/artyom-decor.png",
     "favicon": "https://aartaka.me/favicons/apple-touch-icon.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Web Dev",
-      "Open Source"
+      "Open Source",
+      "Security",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -23715,7 +24012,8 @@
     "tags": [
       "AI",
       "Web Dev",
-      "Design"
+      "Design",
+      "Startups"
     ],
     "features": [
       "Blog"
@@ -23800,7 +24098,7 @@
     "screenshot": "/shots/bboy-app.jpg",
     "ogImage": "https://www.bboy.app/oss/head.webp",
     "favicon": "https://www.bboy.app/oss/head_rounder.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -23852,7 +24150,7 @@
     "screenshot": "/shots/bendangelo-me.jpg",
     "ogImage": null,
     "favicon": "https://www.bendangelo.me/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
       "Web Dev"
@@ -23888,7 +24186,6 @@
     "favicon": "https://crocidb.com/favicon.ico",
     "role": "Artist",
     "tags": [
-      "Photography",
       "Music"
     ],
     "features": [
@@ -23947,7 +24244,7 @@
     "screenshot": "/shots/quarters-captaintouch-com.jpg",
     "ogImage": null,
     "favicon": "https://quarters.captaintouch.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [],
@@ -23971,7 +24268,9 @@
     "ogImage": null,
     "favicon": "https://chrismorgan.info/favicon.ico",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Web Dev"
+    ],
     "features": [
       "Blog"
     ],
@@ -23997,7 +24296,7 @@
     "screenshot": "/shots/ciju-in.jpg",
     "ogImage": "https://ciju.in/profile-light.jpeg",
     "favicon": "https://ciju.in/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "Web Dev"
     ],
@@ -24037,7 +24336,10 @@
     "ogImage": null,
     "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A6%94%3C/text%3E%3C/svg%3E",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
     "features": [],
     "tech": [
       "React"
@@ -24073,7 +24375,9 @@
     "favicon": "https://cookie.engineer/favicon.ico",
     "role": "Developer",
     "tags": [
-      "Security"
+      "AI",
+      "Security",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -24169,9 +24473,10 @@
     "screenshot": "/shots/davidfrancoeur-com.jpg",
     "ogImage": null,
     "favicon": "https://davidfrancoeur.com/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Web Dev"
+      "Web Dev",
+      "Writing"
     ],
     "features": [
       "Blog"
@@ -24324,6 +24629,7 @@
     "favicon": "https://doug.lon.dev/favicon.ico",
     "role": "Artist",
     "tags": [
+      "Hardware",
       "Music"
     ],
     "features": [
@@ -24412,7 +24718,10 @@
     "favicon": "https://ed-thomas.dev/favicon-32x32.png",
     "role": "Writer",
     "tags": [
-      "AI"
+      "AI",
+      "Web Dev",
+      "Crypto",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -24446,7 +24755,8 @@
     "favicon": "https://eldrid.ge/images/favicon.svg",
     "role": "Developer",
     "tags": [
-      "Security"
+      "Security",
+      "Finance"
     ],
     "features": [
       "Blog"
@@ -24482,7 +24792,7 @@
     "screenshot": "/shots/blog-eldrid-ge.jpg",
     "ogImage": "/img/eldridge_alexander.jpg",
     "favicon": "https://blog.eldrid.ge/images/favicon.svg",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -24532,7 +24842,7 @@
     "screenshot": "/shots/emgoto-com.jpg",
     "ogImage": "https://www.emgoto.com/hiking-social-card.png",
     "favicon": "https://www.emgoto.com/favicon-96x96.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Writing"
     ],
@@ -24600,7 +24910,7 @@
     "screenshot": "/shots/olano-dev.jpg",
     "ogImage": "https://olano.dev/assets/img/inchequeable.png",
     "favicon": "https://olano.dev/favicon.ico",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "Writing"
     ],
@@ -24632,7 +24942,8 @@
     "role": "Designer",
     "tags": [
       "Design",
-      "Writing"
+      "Writing",
+      "Security"
     ],
     "features": [],
     "tech": [],
@@ -24712,7 +25023,7 @@
     "screenshot": "/shots/idiallo-com.jpg",
     "ogImage": "https://cdn.idiallo.com/assets/images/self.png",
     "favicon": "https://cdn.idiallo.com/favicon.ico",
-    "role": "",
+    "role": "Founder",
     "tags": [
       "Writing"
     ],
@@ -24857,9 +25168,10 @@
     "screenshot": "/shots/drshapeless-com.jpg",
     "ogImage": null,
     "favicon": "https://drshapeless.com/apple-touch-icon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Web Dev"
+      "Web Dev",
+      "Health"
     ],
     "features": [],
     "tech": [],
@@ -24920,7 +25232,9 @@
     "ogImage": null,
     "favicon": "https://ztoz.blog/favicon.ico",
     "role": "Writer",
-    "tags": [],
+    "tags": [
+      "Security"
+    ],
     "features": [
       "Blog"
     ],
@@ -24951,7 +25265,9 @@
     "ogImage": "https://www.jim-nielsen.com/og.png",
     "favicon": "https://www.jim-nielsen.com/favicon.ico",
     "role": "Designer",
-    "tags": [],
+    "tags": [
+      "Design"
+    ],
     "features": [
       "Blog"
     ],
@@ -25021,6 +25337,7 @@
     "favicon": "https://blog.jim-nielsen.com/favicon.ico",
     "role": "Designer",
     "tags": [
+      "Design",
       "Writing"
     ],
     "features": [
@@ -25052,7 +25369,7 @@
     "screenshot": "/shots/jgc-org.jpg",
     "ogImage": null,
     "favicon": "https://jgc.org/favicon.png",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [],
     "features": [],
     "tech": [],
@@ -25129,8 +25446,10 @@
     "screenshot": "/shots/jarv-org.jpg",
     "ogImage": null,
     "favicon": "https://jarv.org/%22data:image/svg+xml,%3Csvg",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Finance"
+    ],
     "features": [
       "Blog"
     ],
@@ -25218,8 +25537,10 @@
     "screenshot": "/shots/johnzanussi-com.jpg",
     "ogImage": "https://johnzanussi.com/_astro/home.CWyqjegK_247Eg7.jpeg",
     "favicon": "https://johnzanussi.com/icons/apple-touch-icon-180x180.png",
-    "role": "",
-    "tags": [],
+    "role": "Writer",
+    "tags": [
+      "Web Dev"
+    ],
     "features": [],
     "tech": [
       "Astro",
@@ -25246,7 +25567,9 @@
     "favicon": "https://jordan.matelsky.com/favicon.ico",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Open Source",
+      "Health"
     ],
     "features": [],
     "tech": [],
@@ -25389,9 +25712,10 @@
     "screenshot": "/shots/joshbeckman-org.jpg",
     "ogImage": "https://www.joshbeckman.org/assets/img/profile.png",
     "favicon": "https://www.joshbeckman.org/assets/img/profile.png",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Open Source"
     ],
     "features": [
       "Blog"
@@ -25423,6 +25747,8 @@
     "favicon": "https://joshua.hu/favicon.ico",
     "role": "Developer",
     "tags": [
+      "Web Dev",
+      "Writing",
       "Security",
       "Music"
     ],
@@ -25528,7 +25854,8 @@
     "tags": [
       "Startups",
       "Writing",
-      "Open Source"
+      "Open Source",
+      "Music"
     ],
     "features": [],
     "tech": [],
@@ -25554,8 +25881,10 @@
     "screenshot": "/shots/skushagra-com.jpg",
     "ogImage": null,
     "favicon": "https://skushagra.com/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Open Source"
+    ],
     "features": [],
     "tech": [
       "Hugo"
@@ -25581,6 +25910,7 @@
     "favicon": "https://ktross.com/favicon.svg",
     "role": "Developer",
     "tags": [
+      "AI",
       "Web Dev"
     ],
     "features": [
@@ -25614,9 +25944,10 @@
     "screenshot": "/shots/laurentrdc-xyz.jpg",
     "ogImage": null,
     "favicon": "https://laurentrdc.xyz/images/atom-solid.png",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [
-      "Open Source"
+      "Open Source",
+      "Finance"
     ],
     "features": [],
     "tech": [],
@@ -25678,7 +26009,8 @@
     "tags": [
       "AI",
       "Web Dev",
-      "Writing"
+      "Writing",
+      "Finance"
     ],
     "features": [],
     "tech": [
@@ -25756,6 +26088,7 @@
     "favicon": "https://makc.co/images/favicon.ico",
     "role": "",
     "tags": [
+      "AI",
       "Writing"
     ],
     "features": [],
@@ -25781,7 +26114,8 @@
     "favicon": "https://marcolabarile.me/assets/images/favicon-16x16.png",
     "role": "Founder",
     "tags": [
-      "Startups"
+      "Startups",
+      "Open Source"
     ],
     "features": [
       "Blog"
@@ -25815,9 +26149,10 @@
     "screenshot": "/shots/terra-incognita-blog.jpg",
     "ogImage": null,
     "favicon": "https://terra-incognita.blog/apple-touch-icon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Math"
     ],
     "features": [],
     "tech": [
@@ -25935,8 +26270,10 @@
     "screenshot": "/shots/italianpoetry-it.jpg",
     "ogImage": "https://italianpoetry.it/img/dante-og.ac289bbfb928a5186eec2cb41002149b466f7b266f8d7e69c79101ef81f3b0b2.webp",
     "favicon": "https://italianpoetry.it/img/apple-touch-icon.217ee016ca2a75ca9894e18b51ef510e3e2d96045a72cbc0fffbc3182f8030ee.png",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
     "features": [
       "Blog"
     ],
@@ -26068,7 +26405,8 @@
     "favicon": "https://mattshams.com/favicon/favicon-96x96.png",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Open Source"
     ],
     "features": [],
     "tech": [
@@ -26127,7 +26465,7 @@
     "screenshot": "/shots/blog-matthewbrunelle-com.jpg",
     "ogImage": null,
     "favicon": "https://blog.matthewbrunelle.com/favicon.ico",
-    "role": "",
+    "role": "Writer",
     "tags": [],
     "features": [
       "Blog"
@@ -26257,8 +26595,10 @@
     "screenshot": "/shots/myhsu-xyz.jpg",
     "ogImage": null,
     "favicon": "https://myhsu.xyz/favicon.ico",
-    "role": "Developer",
-    "tags": [],
+    "role": "Researcher",
+    "tags": [
+      "Open Source"
+    ],
     "features": [
       "Blog"
     ],
@@ -26288,7 +26628,8 @@
     "favicon": "https://mitanshu7.github.io/favicon.ico",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Health"
     ],
     "features": [],
     "tech": [],
@@ -26315,7 +26656,7 @@
     "screenshot": "/shots/akr-am.jpg",
     "ogImage": null,
     "favicon": "https://akr.am/favicon.ico",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -26357,7 +26698,9 @@
     "role": "Developer",
     "tags": [
       "Web Dev",
-      "Writing"
+      "Writing",
+      "Hardware",
+      "Finance"
     ],
     "features": [],
     "tech": [
@@ -26385,7 +26728,8 @@
     "favicon": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E%F0%9F%A6%89%3C/text%3E%3C/svg%3E",
     "role": "Developer",
     "tags": [
-      "AI"
+      "AI",
+      "Web Dev"
     ],
     "features": [
       "Blog"
@@ -26418,7 +26762,7 @@
     "screenshot": "/shots/neilkakkar-com.jpg",
     "ogImage": "https://neilkakkar.com/assets/favicon.png",
     "favicon": "https://neilkakkar.com/assets/favicon.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -26486,7 +26830,8 @@
     "role": "Developer",
     "tags": [
       "Web Dev",
-      "Design"
+      "Design",
+      "Art"
     ],
     "features": [
       "Blog"
@@ -26522,6 +26867,7 @@
     "favicon": "https://nchagnet.eu/favicon.ico",
     "role": "Researcher",
     "tags": [
+      "AI",
       "Product"
     ],
     "features": [
@@ -26555,7 +26901,7 @@
     "screenshot": "/shots/nikhil-io.jpg",
     "ogImage": "/assets/img/og-image.png",
     "favicon": "https://nikhil.io/assets/img/favicon.png",
-    "role": "Student",
+    "role": "Researcher",
     "tags": [
       "Web Dev"
     ],
@@ -26588,7 +26934,8 @@
     "tags": [
       "Web Dev",
       "Design",
-      "Writing"
+      "Writing",
+      "Math"
     ],
     "features": [
       "Blog"
@@ -26756,8 +27103,9 @@
     "screenshot": "/shots/peter-demin-dev.jpg",
     "ogImage": null,
     "favicon": "https://peter.demin.dev/favicon.ico",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
+      "Web Dev",
       "Open Source"
     ],
     "features": [],
@@ -26787,7 +27135,9 @@
     "ogImage": null,
     "favicon": "https://www.strchr.com/favicon.ico",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Hardware"
+    ],
     "features": [
       "Blog"
     ],
@@ -26871,7 +27221,8 @@
     "role": "Photographer",
     "tags": [
       "Writing",
-      "Photography"
+      "Security",
+      "Math"
     ],
     "features": [
       "Blog"
@@ -26906,9 +27257,10 @@
     "screenshot": "/shots/maxim-usindic-us.jpg",
     "ogImage": "https://maxim.usindic.us/og-default.png",
     "favicon": "https://maxim.usindic.us/favicon.ico",
-    "role": "",
+    "role": "Writer",
     "tags": [
-      "Writing"
+      "Writing",
+      "Education"
     ],
     "features": [
       "Blog"
@@ -27068,7 +27420,7 @@
     "screenshot": "/shots/spikepuppet-io.jpg",
     "ogImage": null,
     "favicon": "https://spikepuppet.io/favicon-96x96.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
       "AI",
       "Writing"
@@ -27101,7 +27453,9 @@
     "ogImage": null,
     "favicon": "https://rkallos.com/favicon.svg",
     "role": "",
-    "tags": [],
+    "tags": [
+      "Math"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -27123,7 +27477,7 @@
     "screenshot": "/shots/staticnotes-org.jpg",
     "ogImage": "/hugo-bearcub/images/share.webp",
     "favicon": "https://staticnotes.org/favicon.ico",
-    "role": "",
+    "role": "Researcher",
     "tags": [],
     "features": [
       "Blog"
@@ -27183,8 +27537,10 @@
     "screenshot": "/shots/robertismo-com.jpg",
     "ogImage": null,
     "favicon": "https://robertismo.com/favicon.ico",
-    "role": "",
-    "tags": [],
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
     "features": [],
     "tech": [
       "Hugo"
@@ -27208,7 +27564,7 @@
     "screenshot": "/shots/lr0-org.jpg",
     "ogImage": null,
     "favicon": "https://lr0.org/favicon.svg",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [],
     "tech": [
@@ -27236,6 +27592,8 @@
     "role": "Investor",
     "tags": [
       "AI",
+      "Design",
+      "Startups",
       "Writing"
     ],
     "features": [
@@ -27274,6 +27632,7 @@
     "favicon": "https://samwho.dev/favicon.ico",
     "role": "Writer",
     "tags": [
+      "Design",
       "Writing"
     ],
     "features": [
@@ -27455,9 +27814,10 @@
     "screenshot": "/shots/silvestar-codes.jpg",
     "ogImage": "https://www.silvestar.codes/og.png?text=Home+of+fearless+web+developer+Silvestar+Bistrovi%C4%87",
     "favicon": "https://www.silvestar.codes/apple-touch-icon.png?v=2023",
-    "role": "Designer",
+    "role": "Researcher",
     "tags": [
       "Web Dev",
+      "Design",
       "Writing"
     ],
     "features": [
@@ -27491,6 +27851,7 @@
     "role": "",
     "tags": [
       "AI",
+      "Design",
       "Product"
     ],
     "features": [
@@ -27553,7 +27914,10 @@
     "favicon": "https://www.stefanjudis.com/%22data:image/svg+xml,%3Csvg",
     "role": "Writer",
     "tags": [
-      "Writing"
+      "AI",
+      "Web Dev",
+      "Writing",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -27587,7 +27951,9 @@
     "ogImage": null,
     "favicon": "https://iambateman.com/favicon.svg",
     "role": "Developer",
-    "tags": [],
+    "tags": [
+      "Web Dev"
+    ],
     "features": [],
     "tech": [],
     "feeds": [],
@@ -27612,7 +27978,7 @@
     "screenshot": "/shots/degraeve-com.jpg",
     "ogImage": "https://www.degraeve.com/og-image.png",
     "favicon": "https://www.degraeve.com/apple-touch-icon.png",
-    "role": "",
+    "role": "Maker",
     "tags": [
       "Art"
     ],
@@ -27721,7 +28087,9 @@
     "favicon": "https://tamim.io/safari-pinned-tab.svg",
     "role": "Founder",
     "tags": [
-      "Security"
+      "Startups",
+      "Security",
+      "Hardware"
     ],
     "features": [
       "Blog"
@@ -27754,8 +28122,7 @@
     "favicon": "https://www.teeg.no/favicon.ico",
     "role": "Photographer",
     "tags": [
-      "Writing",
-      "Photography"
+      "Writing"
     ],
     "features": [],
     "tech": [
@@ -27790,7 +28157,8 @@
     "favicon": "https://tjmorley.com/assets/favicon.ico",
     "role": "Researcher",
     "tags": [
-      "AI"
+      "AI",
+      "Health"
     ],
     "features": [],
     "tech": [],
@@ -27851,7 +28219,9 @@
     "ogImage": null,
     "favicon": "https://thomastartiere.com/images/favicon.png",
     "role": "Founder",
-    "tags": [],
+    "tags": [
+      "Security"
+    ],
     "features": [
       "Blog"
     ],
@@ -27938,7 +28308,8 @@
     "role": "Designer",
     "tags": [
       "AI",
-      "Web Dev"
+      "Web Dev",
+      "Design"
     ],
     "features": [],
     "tech": [
@@ -27992,9 +28363,11 @@
     "screenshot": "/shots/vijethph-github-io.jpg",
     "ogImage": null,
     "favicon": "https://vijethph.github.io/assets/img/avataaars.svg",
-    "role": "Developer",
+    "role": "Researcher",
     "tags": [
-      "Web Dev"
+      "Web Dev",
+      "Art",
+      "Music"
     ],
     "features": [],
     "tech": [
@@ -28021,9 +28394,10 @@
     "screenshot": "/shots/vinitkumar-me.jpg",
     "ogImage": "https://vinitkumar.me/static/27647c39cf7156e094c7cc98c0ed989f/blog.jpg",
     "favicon": "https://vinitkumar.me/favicon-32x32.png?v=2a29b860387b7d9b9cbc80f850e7996b",
-    "role": "Developer",
+    "role": "Writer",
     "tags": [
       "AI",
+      "Web Dev",
       "Writing",
       "Open Source"
     ],
@@ -28058,7 +28432,7 @@
     "screenshot": "/shots/willabides-com.jpg",
     "ogImage": null,
     "favicon": "https://willabides.com/images/apple-touch-icon.a9ac6d0613555b0f0f462241d2c1068355482a2dca79e573694ee1dff7d6928a.png",
-    "role": "",
+    "role": "Developer",
     "tags": [],
     "features": [
       "Blog"
@@ -28115,9 +28489,11 @@
     "screenshot": "/shots/entropylogs-com.jpg",
     "ogImage": "https://astro-erudite.vercel.app/static/1200x630.png",
     "favicon": "https://entropylogs.com/favicon-96x96.png",
-    "role": "",
+    "role": "Developer",
     "tags": [
-      "Writing"
+      "AI",
+      "Writing",
+      "Music"
     ],
     "features": [
       "Blog"
@@ -28150,7 +28526,9 @@
     "ogImage": "https://yashmehrotra.com/android-chrome-512x512.png",
     "favicon": "https://yashmehrotra.com/favicon.ico",
     "role": "Writer",
-    "tags": [],
+    "tags": [
+      "Security"
+    ],
     "features": [],
     "tech": [
       "Hugo"
