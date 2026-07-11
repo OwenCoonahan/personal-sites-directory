@@ -24,6 +24,7 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
   const [submitOpen, setSubmitOpen] = useState(false);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [sortOpen, setSortOpen] = useState(false);
+  const [notableOnly, setNotableOnly] = useState(false);
   const sortRef = useRef<HTMLDivElement>(null);
 
   const byId = useMemo(() => new Map(sites.map((s) => [s.id, s])), [sites]);
@@ -35,6 +36,7 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
     setRole(null);
     setFeature(null);
     setTags([]);
+    setNotableOnly(false);
   };
 
   // Close the sort dropdown on outside-click / Escape.
@@ -55,6 +57,7 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
   const filtered = useMemo(() => {
     const needle = q.trim().toLowerCase();
     let out = sites.filter((s) => {
+      if (notableOnly && !s.notable) return false;
       if (role && s.role !== role) return false;
       if (feature && !s.features.includes(feature)) return false;
       if (tags.length && !tags.every((t) => s.tags.includes(t))) return false;
@@ -67,7 +70,7 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
     if (sort === "az") out = [...out].sort((a, b) => a.name.localeCompare(b.name));
     else if (sort === "random") out = shuffle(out, seed);
     return out;
-  }, [sites, q, role, feature, tags, sort, seed]);
+  }, [sites, q, role, feature, tags, sort, seed, notableOnly]);
 
   const activeFilters = (role ? 1 : 0) + (feature ? 1 : 0) + tags.length;
   const topTags = showAllTags ? facets.tags : facets.tags.slice(0, 12);
@@ -143,6 +146,14 @@ export default function Directory({ sites, facets }: { sites: Site[]; facets: Fa
               value={q}
               onChange={(e) => setQ(e.target.value)}
             />
+            <button
+              className="filter-pill shrink-0"
+              data-active={notableOnly}
+              onClick={() => setNotableOnly((v) => !v)}
+              title="Show only well-known people (CEOs, founders, notable individuals)"
+            >
+              <span aria-hidden>★</span> Famous
+            </button>
             <button
               className="filter-pill shrink-0"
               data-active={filtersOpen || activeFilters > 0}

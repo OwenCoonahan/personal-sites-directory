@@ -18,6 +18,12 @@ const OUT = join(ROOT, "data", "sites.json");
 
 const raw = JSON.parse(readFileSync(RAW, "utf8"));
 const enrich = existsSync(ENRICH) ? JSON.parse(readFileSync(ENRICH, "utf8")) : {};
+const NOTABLE_PATH = join(ROOT, "data", "notable.txt");
+const notable = new Set(
+  existsSync(NOTABLE_PATH)
+    ? readFileSync(NOTABLE_PATH, "utf8").split("\n").map((l) => l.trim()).filter((l) => l && !l.startsWith("#")).map((h) => h.replace(/^www\./, ""))
+    : []
+);
 
 function titleCaseHost(host) {
   return host.replace(/^www\./, "");
@@ -64,6 +70,7 @@ const sites = raw.map((r) => {
     outbound: r.outbound || [],
     links,
     inDegree: 0,
+    notable: notable.has(r.host.replace(/^www\./, "")),
     status: r.status || "ok",
   };
 });

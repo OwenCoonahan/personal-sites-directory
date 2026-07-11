@@ -27,6 +27,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -57,6 +58,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -95,6 +97,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -129,6 +132,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -163,6 +167,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -216,6 +221,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -256,6 +262,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -289,6 +296,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -328,6 +336,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -368,6 +377,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -407,6 +417,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -442,6 +453,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -472,6 +484,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -501,6 +514,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -572,6 +586,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -631,6 +646,7 @@
       "daringfireball-net"
     ],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -678,6 +694,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -714,6 +731,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -746,6 +764,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -775,6 +794,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -810,6 +830,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -845,6 +866,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -890,6 +912,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -935,6 +958,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -976,6 +1000,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1010,6 +1035,7 @@
     ],
     "links": [],
     "inDegree": 2,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1046,6 +1072,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1081,6 +1108,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1107,6 +1135,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1136,6 +1165,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1177,6 +1207,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1215,6 +1246,7 @@
       "simonwillison-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1249,6 +1281,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1281,6 +1314,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -1316,6 +1350,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1354,6 +1389,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1383,6 +1419,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1433,6 +1470,7 @@
       "goldenstack-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1503,6 +1541,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1556,6 +1595,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1599,6 +1639,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1633,6 +1674,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1662,6 +1704,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1693,6 +1736,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1726,6 +1770,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1760,6 +1805,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1788,6 +1834,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1823,6 +1870,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1857,6 +1905,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1896,6 +1945,7 @@
       "pont-is"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1931,6 +1981,7 @@
       "bento-me"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -1960,6 +2011,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2004,6 +2056,7 @@
       "perell-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2042,6 +2095,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2077,6 +2131,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2164,6 +2219,7 @@
       "cretu-dev"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2199,6 +2255,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2242,6 +2299,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2273,6 +2331,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2348,6 +2407,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -2408,6 +2468,7 @@
       "paulgraham-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2445,6 +2506,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2476,6 +2538,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2504,6 +2567,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2534,6 +2598,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2569,6 +2634,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2610,6 +2676,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2642,6 +2709,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2686,6 +2754,7 @@
       "eka-hn"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2722,6 +2791,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2772,6 +2842,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2806,6 +2877,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2839,6 +2911,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2867,6 +2940,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2903,6 +2977,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2939,6 +3014,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -2970,6 +3046,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3016,6 +3093,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3051,6 +3129,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3093,6 +3172,7 @@
       "walzr-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3123,6 +3203,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3167,6 +3248,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3221,6 +3303,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3258,6 +3341,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3294,6 +3378,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3329,6 +3414,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3367,6 +3453,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3405,6 +3492,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3436,6 +3524,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3465,6 +3554,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3500,6 +3590,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3537,6 +3628,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3568,6 +3660,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3601,6 +3694,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3632,6 +3726,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3668,6 +3763,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3719,6 +3815,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3750,6 +3847,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3783,6 +3881,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3817,6 +3916,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3848,6 +3948,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3878,6 +3979,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3911,6 +4013,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3947,6 +4050,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -3983,6 +4087,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4018,6 +4123,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4056,6 +4162,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4089,6 +4196,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4123,6 +4231,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4161,6 +4270,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4204,6 +4314,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4239,6 +4350,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4274,6 +4386,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4308,6 +4421,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -4341,6 +4455,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4386,6 +4501,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -4413,6 +4529,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4444,6 +4561,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4474,6 +4592,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4518,6 +4637,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4548,6 +4668,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4602,6 +4723,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4628,6 +4750,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4659,6 +4782,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4694,6 +4818,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4729,6 +4854,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4768,6 +4894,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4799,6 +4926,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4828,6 +4956,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4863,6 +4992,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4906,6 +5036,7 @@
       "daringfireball-net"
     ],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -4934,6 +5065,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -4970,6 +5102,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5017,6 +5150,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5046,6 +5180,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5077,6 +5212,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5108,6 +5244,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5136,6 +5273,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5166,6 +5304,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5208,6 +5347,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5252,6 +5392,7 @@
       "bento-me"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5285,6 +5426,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5318,6 +5460,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5352,6 +5495,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5389,6 +5533,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5433,6 +5578,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5464,6 +5610,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5497,6 +5644,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5523,6 +5671,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5566,6 +5715,7 @@
       "worrydream-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5600,6 +5750,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5638,6 +5789,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5674,6 +5826,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5701,6 +5854,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5723,6 +5877,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5760,6 +5915,7 @@
     ],
     "links": [],
     "inDegree": 3,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5790,6 +5946,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5825,6 +5982,7 @@
     ],
     "links": [],
     "inDegree": 2,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5862,6 +6020,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5912,6 +6071,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5934,6 +6094,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -5966,6 +6127,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -5995,6 +6157,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6041,6 +6204,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6070,6 +6234,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6127,6 +6292,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6158,6 +6324,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6191,6 +6358,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6228,6 +6396,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6260,6 +6429,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6303,6 +6473,7 @@
     ],
     "links": [],
     "inDegree": 2,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6330,6 +6501,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "fetch_error"
   },
   {
@@ -6367,6 +6539,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6396,6 +6569,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6439,6 +6613,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6479,6 +6654,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6514,6 +6690,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6560,6 +6737,7 @@
       "vitalik-eth-limo"
     ],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6594,6 +6772,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6628,6 +6807,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6668,6 +6848,7 @@
     ],
     "links": [],
     "inDegree": 2,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6699,6 +6880,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6761,6 +6943,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6819,6 +7002,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6850,6 +7034,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6880,6 +7065,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6910,6 +7096,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6944,6 +7131,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -6976,6 +7164,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7015,6 +7204,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7062,6 +7252,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7102,6 +7293,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7138,6 +7330,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7174,6 +7367,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7206,6 +7400,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7251,6 +7446,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7319,6 +7515,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7354,6 +7551,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7395,6 +7593,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7423,6 +7622,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7452,6 +7652,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7486,6 +7687,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7510,6 +7712,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7541,6 +7744,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7575,6 +7779,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7607,6 +7812,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7634,6 +7840,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7656,6 +7863,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7678,6 +7886,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7702,6 +7911,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7738,6 +7948,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7764,6 +7975,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7795,6 +8007,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7826,6 +8039,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7861,6 +8075,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7896,6 +8111,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -7926,6 +8142,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7956,6 +8173,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -7991,6 +8209,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8028,6 +8247,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8061,6 +8281,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8092,6 +8313,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -8122,6 +8344,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8146,6 +8369,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8175,6 +8399,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8216,6 +8441,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8240,6 +8466,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8269,6 +8496,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8312,6 +8540,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8339,6 +8568,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8410,6 +8640,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8445,6 +8676,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8473,6 +8705,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8508,6 +8741,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8537,6 +8771,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8574,6 +8809,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8600,6 +8836,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8629,6 +8866,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8699,6 +8937,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8725,6 +8964,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8782,6 +9022,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8815,6 +9056,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8849,6 +9091,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8884,6 +9127,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8919,6 +9163,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8954,6 +9199,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -8987,6 +9233,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9050,6 +9297,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9098,6 +9346,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9130,6 +9379,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9160,6 +9410,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9227,6 +9478,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9262,6 +9514,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9295,6 +9548,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9331,6 +9585,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9368,6 +9623,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9399,6 +9655,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9423,6 +9680,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9449,6 +9707,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9480,6 +9739,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9543,6 +9803,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9572,6 +9833,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9615,6 +9877,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9649,6 +9912,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9681,6 +9945,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9703,6 +9968,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9739,6 +10005,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9767,6 +10034,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9795,6 +10063,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9830,6 +10099,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9854,6 +10124,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9883,6 +10154,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9920,6 +10192,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9953,6 +10226,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -9975,6 +10249,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10001,6 +10276,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10044,6 +10320,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10075,6 +10352,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10113,6 +10391,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10149,6 +10428,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10180,6 +10460,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10207,6 +10488,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10231,6 +10513,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10257,6 +10540,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10286,6 +10570,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10318,6 +10603,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10348,6 +10634,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10376,6 +10663,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10414,6 +10702,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10446,6 +10735,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10478,6 +10768,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10505,6 +10796,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10539,6 +10831,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10574,6 +10867,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10618,6 +10912,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10661,6 +10956,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10694,6 +10990,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10728,6 +11025,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10764,6 +11062,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10795,6 +11094,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10828,6 +11128,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10861,6 +11162,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10907,6 +11209,7 @@
       "emilkowal-ski"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10941,6 +11244,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10967,6 +11271,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -10998,6 +11303,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11033,6 +11339,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11066,6 +11373,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11097,6 +11405,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11130,6 +11439,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11165,6 +11475,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11200,6 +11511,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11231,6 +11543,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11268,6 +11581,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11301,6 +11615,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11334,6 +11649,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11367,6 +11683,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11404,6 +11721,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11430,6 +11748,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11468,6 +11787,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11500,6 +11820,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11531,6 +11852,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11593,6 +11915,7 @@
       "joelonsoftware-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11630,6 +11953,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11658,6 +11982,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11682,6 +12007,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11724,6 +12050,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11759,6 +12086,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11789,6 +12117,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11820,6 +12149,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11852,6 +12182,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11874,6 +12205,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "fetch_error"
   },
   {
@@ -11907,6 +12239,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11937,6 +12270,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -11971,6 +12305,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12003,6 +12338,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12035,6 +12371,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12063,6 +12400,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12098,6 +12436,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12132,6 +12471,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12158,6 +12498,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12184,6 +12525,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12215,6 +12557,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12240,6 +12583,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12266,6 +12610,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12297,6 +12642,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12328,6 +12674,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12384,6 +12731,7 @@
       "chrismorgan-info"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12413,6 +12761,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12473,6 +12822,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12521,6 +12871,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12556,6 +12907,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12586,6 +12938,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12614,6 +12967,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12652,6 +13006,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12682,6 +13037,7 @@
       "wargaluk-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12717,6 +13073,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12762,6 +13119,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12814,6 +13172,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12846,6 +13205,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12880,6 +13240,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12916,6 +13277,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12949,6 +13311,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -12981,6 +13344,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13013,6 +13377,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13047,6 +13412,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13083,6 +13449,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13116,6 +13483,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13149,6 +13517,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13212,6 +13581,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13250,6 +13620,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13286,6 +13657,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13312,6 +13684,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13345,6 +13718,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13382,6 +13756,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13412,6 +13787,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13440,6 +13816,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13476,6 +13853,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13500,6 +13878,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13533,6 +13912,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13570,6 +13950,7 @@
       "simonwillison-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13596,6 +13977,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13626,6 +14008,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13658,6 +14041,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13680,6 +14064,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13711,6 +14096,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13739,6 +14125,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13777,6 +14164,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13810,6 +14198,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13838,6 +14227,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13862,6 +14252,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13891,6 +14282,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13922,6 +14314,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13953,6 +14346,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -13994,6 +14388,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14018,6 +14413,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14053,6 +14449,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14103,6 +14500,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14132,6 +14530,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14164,6 +14563,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14206,6 +14606,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14242,6 +14643,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14264,6 +14666,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "fetch_error"
   },
   {
@@ -14302,6 +14705,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14334,6 +14738,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14365,6 +14770,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14401,6 +14807,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14423,6 +14830,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14463,6 +14871,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14495,6 +14904,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14536,6 +14946,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14572,6 +14983,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14594,6 +15006,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14625,6 +15038,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14659,6 +15073,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14691,6 +15106,7 @@
       "gingerbeardman-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14762,6 +15178,7 @@
       "gwern-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14796,6 +15213,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14828,6 +15246,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14860,6 +15279,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14890,6 +15310,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14932,6 +15353,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14958,6 +15380,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -14988,6 +15411,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15012,6 +15436,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15043,6 +15468,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15078,6 +15504,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15114,6 +15541,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15157,6 +15585,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15186,6 +15615,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15208,6 +15638,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15240,6 +15671,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15271,6 +15703,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15307,6 +15740,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15336,6 +15770,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15365,6 +15800,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15438,6 +15874,7 @@
       "interconnected-org"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15464,6 +15901,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15496,6 +15934,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15526,6 +15965,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15564,6 +16004,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15622,6 +16063,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15657,6 +16099,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15700,6 +16143,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15730,6 +16174,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15786,6 +16231,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15829,6 +16275,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15853,6 +16300,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15882,6 +16330,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15916,6 +16365,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15944,6 +16394,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -15983,6 +16434,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16011,6 +16463,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16041,6 +16494,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16075,6 +16529,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16106,6 +16561,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16143,6 +16599,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16190,6 +16647,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16222,6 +16680,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16274,6 +16733,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16302,6 +16762,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16334,6 +16795,7 @@
       "bewilde-red"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16360,6 +16822,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16386,6 +16849,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16422,6 +16886,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16457,6 +16922,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16481,6 +16947,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16516,6 +16983,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16540,6 +17008,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16573,6 +17042,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16604,6 +17074,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16635,6 +17106,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16668,6 +17140,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16695,6 +17168,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16728,6 +17202,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16756,6 +17231,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16778,6 +17254,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16811,6 +17288,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16839,6 +17317,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16876,6 +17355,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16914,6 +17394,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16964,6 +17445,7 @@
       "simonwillison-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -16994,6 +17476,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17029,6 +17512,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17056,6 +17540,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17098,6 +17583,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17123,6 +17609,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17145,6 +17632,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17178,6 +17666,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17206,6 +17695,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17241,6 +17731,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17265,6 +17756,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17295,6 +17787,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17329,6 +17822,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17360,6 +17854,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17394,6 +17889,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17427,6 +17923,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17461,6 +17958,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17489,6 +17987,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17528,6 +18027,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17550,6 +18050,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17578,6 +18079,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17608,6 +18110,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17646,6 +18149,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17677,6 +18181,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17727,6 +18232,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17756,6 +18262,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17794,6 +18301,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17824,6 +18332,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17862,6 +18371,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17898,6 +18408,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17920,6 +18431,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17953,6 +18465,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -17986,6 +18499,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18014,6 +18528,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18046,6 +18561,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18104,6 +18620,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18128,6 +18645,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18154,6 +18672,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18192,6 +18711,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18221,6 +18741,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18251,6 +18772,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18273,6 +18795,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18309,6 +18832,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18339,6 +18863,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18365,6 +18890,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18400,6 +18926,7 @@
       "rsms-me"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18431,6 +18958,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18463,6 +18991,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18493,6 +19022,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18563,6 +19093,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18596,6 +19127,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18624,6 +19156,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18653,6 +19186,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18690,6 +19224,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18761,6 +19296,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18795,6 +19331,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18838,6 +19375,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18879,6 +19417,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18909,6 +19448,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18957,6 +19497,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -18987,6 +19528,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19017,6 +19559,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19052,6 +19595,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19083,6 +19627,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19111,6 +19656,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19144,6 +19690,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19176,6 +19723,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19204,6 +19752,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19274,6 +19823,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19305,6 +19855,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19337,6 +19888,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19364,6 +19916,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19394,6 +19947,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19424,6 +19978,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19451,6 +20006,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19486,6 +20042,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19516,6 +20073,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19588,6 +20146,7 @@
     ],
     "links": [],
     "inDegree": 5,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -19627,6 +20186,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19651,6 +20211,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19681,6 +20242,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19707,6 +20269,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19735,6 +20298,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19776,6 +20340,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19811,6 +20376,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19874,6 +20440,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19905,6 +20472,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19938,6 +20506,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19971,6 +20540,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -19993,6 +20563,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20029,6 +20600,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20106,6 +20678,7 @@
       "thingelstad-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20138,6 +20711,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20171,6 +20745,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20200,6 +20775,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20228,6 +20804,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20273,6 +20850,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20305,6 +20883,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20338,6 +20917,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20368,6 +20948,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20394,6 +20975,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20427,6 +21009,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20453,6 +21036,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20485,6 +21069,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20523,6 +21108,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20568,6 +21154,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20596,6 +21183,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20626,6 +21214,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20656,6 +21245,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20692,6 +21282,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20722,6 +21313,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20755,6 +21347,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20783,6 +21376,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20819,6 +21413,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20867,6 +21462,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20892,6 +21488,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20924,6 +21521,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20952,6 +21550,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -20980,6 +21579,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21013,6 +21613,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21046,6 +21647,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21074,6 +21676,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21103,6 +21706,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21129,6 +21733,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21165,6 +21770,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21196,6 +21802,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21230,6 +21837,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21258,6 +21866,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21321,6 +21930,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21350,6 +21960,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21384,6 +21995,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21416,6 +22028,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21449,6 +22062,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21480,6 +22094,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21511,6 +22126,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21557,6 +22173,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21591,6 +22208,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21634,6 +22252,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21669,6 +22288,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21699,6 +22319,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21727,6 +22348,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21755,6 +22377,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21785,6 +22408,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21821,6 +22445,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21858,6 +22483,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21886,6 +22512,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21908,6 +22535,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21938,6 +22566,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -21971,6 +22600,7 @@
       "blog-gregtech-eu"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22005,6 +22635,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22033,6 +22664,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22064,6 +22696,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22111,6 +22744,7 @@
       "simonwillison-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22141,6 +22775,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22171,6 +22806,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22197,6 +22833,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22229,6 +22866,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22259,6 +22897,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22296,6 +22935,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22320,6 +22960,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22346,6 +22987,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22399,6 +23041,7 @@
       "jeffgeerling-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22431,6 +23074,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22472,6 +23116,7 @@
       "kk-org"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22505,6 +23150,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22537,6 +23183,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22568,6 +23215,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22596,6 +23244,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22627,6 +23276,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22655,6 +23305,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22685,6 +23336,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22711,6 +23363,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22741,6 +23394,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22777,6 +23431,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22810,6 +23465,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22841,6 +23497,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22867,6 +23524,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22919,6 +23577,7 @@
       "paulgraham-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22941,6 +23600,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22972,6 +23632,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -22998,6 +23659,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23034,6 +23696,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23067,6 +23730,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23089,6 +23753,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23120,6 +23785,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23148,6 +23814,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23170,6 +23837,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23203,6 +23871,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23238,6 +23907,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23262,6 +23932,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23284,6 +23955,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23310,6 +23982,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23348,6 +24021,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23382,6 +24056,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23411,6 +24086,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23442,6 +24118,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23477,6 +24154,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23507,6 +24185,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23531,6 +24210,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23561,6 +24241,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23591,6 +24272,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23625,6 +24307,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23653,6 +24336,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23684,6 +24368,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23710,6 +24395,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23743,6 +24429,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23780,6 +24467,7 @@
       "blog-eldrid-ge"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23806,6 +24494,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23828,6 +24517,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23857,6 +24547,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23894,6 +24585,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23922,6 +24614,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23947,6 +24640,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -23975,6 +24669,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24002,6 +24697,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24031,6 +24727,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24063,6 +24760,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24108,6 +24806,7 @@
       "blog-flurdy-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24143,6 +24842,7 @@
       "flurdy-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24169,6 +24869,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24203,6 +24904,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24233,6 +24935,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24301,6 +25004,7 @@
       "daringfireball-net"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24333,6 +25037,7 @@
       "jim-nielsen-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24371,6 +25076,7 @@
       "blog-jgc-org"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24408,6 +25114,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24436,6 +25143,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24495,6 +25203,7 @@
       "simonwillison-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24520,6 +25229,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24551,6 +25261,7 @@
       "blog-jordan-matelsky-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24593,6 +25304,7 @@
       "daringfireball-net"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24627,6 +25339,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24661,6 +25374,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24692,6 +25406,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24724,6 +25439,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24764,6 +25480,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24792,6 +25509,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24821,6 +25539,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24845,6 +25564,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24879,6 +25599,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24910,6 +25631,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24937,6 +25659,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -24971,6 +25694,7 @@
       "rsms-me"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25015,6 +25739,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25039,6 +25764,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25074,6 +25800,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25101,6 +25828,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25141,6 +25869,7 @@
       "lr0-org"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25163,6 +25892,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25190,6 +25920,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25221,6 +25952,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25256,6 +25988,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25318,6 +26051,7 @@
       "blog-gingerbeardman-com"
     ],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25349,6 +26083,7 @@
       "rsms-me"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25377,6 +26112,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25407,6 +26143,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25442,6 +26179,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25481,6 +26219,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25503,6 +26242,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25531,6 +26271,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25559,6 +26300,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25597,6 +26339,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25625,6 +26368,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25659,6 +26403,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25691,6 +26436,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25722,6 +26468,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25758,6 +26505,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25792,6 +26540,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25820,6 +26569,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25854,6 +26604,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25887,6 +26638,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25926,6 +26678,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25958,6 +26711,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -25987,6 +26741,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26016,6 +26771,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26045,6 +26801,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26073,6 +26830,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26095,6 +26853,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26132,6 +26891,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26198,6 +26958,7 @@
       "daringfireball-net"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26232,6 +26993,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26254,6 +27016,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26290,6 +27053,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26321,6 +27085,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26343,6 +27108,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26402,6 +27168,7 @@
       "rednafi-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26426,6 +27193,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26450,6 +27218,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26488,6 +27257,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26533,6 +27303,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26576,6 +27347,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26613,6 +27385,7 @@
     ],
     "links": [],
     "inDegree": 1,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26637,6 +27410,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26666,6 +27440,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26698,6 +27473,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26760,6 +27536,7 @@
       "joelonsoftware-com"
     ],
     "inDegree": 8,
+    "notable": true,
     "status": "ok"
   },
   {
@@ -26794,6 +27571,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26819,6 +27597,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26860,6 +27639,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26897,6 +27677,7 @@
       "perell-com"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26923,6 +27704,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26955,6 +27737,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -26990,6 +27773,7 @@
       "sive-rs"
     ],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27020,6 +27804,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27050,6 +27835,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27078,6 +27864,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27110,6 +27897,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27132,6 +27920,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "fetch_error"
   },
   {
@@ -27165,6 +27954,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27187,6 +27977,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "fetch_error"
   },
   {
@@ -27215,6 +28006,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27251,6 +28043,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27279,6 +28072,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27306,6 +28100,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27339,6 +28134,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27363,6 +28159,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27389,6 +28186,7 @@
     ],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   },
   {
@@ -27413,6 +28211,7 @@
     "outbound": [],
     "links": [],
     "inDegree": 0,
+    "notable": false,
     "status": "ok"
   }
 ]

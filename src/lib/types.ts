@@ -22,6 +22,7 @@ export type Site = {
   outbound: string[]; // external hostnames found on the page
   links: string[]; // ids of OTHER sites in the directory this one links to (graph edges)
   inDegree: number; // how many directory sites link TO this one (ranking signal)
+  notable?: boolean; // curated "famous" flag (well-known CEOs/founders/individuals)
 
   status: string;
 };
