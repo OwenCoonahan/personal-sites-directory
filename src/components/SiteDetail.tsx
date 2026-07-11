@@ -61,7 +61,8 @@ export default function SiteDetail({
               <a
                 href={site.finalUrl}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener"
+                referrerPolicy="origin"
                 className="text-[13px] mono hover:underline"
                 style={{ color: "var(--text-3)" }}
               >
@@ -121,7 +122,8 @@ export default function SiteDetail({
             <a
               href={site.finalUrl}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener"
+              referrerPolicy="origin"
               className="flex-1 text-center rounded-lg py-2.5 text-[14px] font-medium"
               style={{ background: "var(--accent)", color: "var(--bg-card)" }}
             >

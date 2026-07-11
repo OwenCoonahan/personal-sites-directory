@@ -56,7 +56,8 @@ export default function SiteCard({ site, onOpen }: { site: Site; onOpen: (s: Sit
           <a
             href={site.finalUrl}
             target="_blank"
-            rel="noreferrer"
+            rel="noopener"
+            referrerPolicy="origin"
             className="host-link truncate"
             onClick={(e) => e.stopPropagation()}
             title={`Visit ${host}`}
