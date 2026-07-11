@@ -2393,5 +2393,6072 @@
     "features": [
       "Blog"
     ]
+  },
+  "rush-nlp-com": {
+    "name": "Main",
+    "summary": "Personal site of Main.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "aliabdaal-com": {
+    "name": "Ali Abdaal",
+    "summary": "I’m a doctor turned entrepreneur & author with 8m+ followers on social media. I share books, ideas, strategies and tools for building a life you love.",
+    "role": "Founder",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "amitness-com": {
+    "name": "Amit Chaudhary",
+    "summary": "I’m an independent AI engineer helping companies build robust AI-powered products.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "karpathy-github-io": {
+    "name": "Andrej Karpathy",
+    "summary": "Musings of a Computer Scientist.",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "awebb-info": {
+    "name": "Andrew M. Webb",
+    "summary": "Personal site of Andrew M. Webb.",
+    "role": "",
+    "tags": [
+      "Math"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "iamtrask-github-io": {
+    "name": "i am trask",
+    "summary": "A machine learning craftsmanship blog.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "angelabassa-com": {
+    "name": "Angela Manzo",
+    "summary": "Angela Manzo's Personal Website",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "anishacharya-github-io": {
+    "name": "Anish Acharya, PhD",
+    "summary": "I am currently a Senior Research Scientist @Amazon",
+    "role": "Researcher",
+    "tags": [
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "avinayak-github-io": {
+    "name": "a.tulv.in",
+    "summary": "Coding, scientific development, finance, data analysis, visualization, statistics, and machine learning",
+    "role": "",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Math"
+    ],
+    "features": []
+  },
+  "binwang-me": {
+    "name": "Bin Wang",
+    "summary": "Personal site of Bin Wang.",
+    "role": "",
+    "tags": [
+      "Math"
+    ],
+    "features": []
+  },
+  "bomani-xyz": {
+    "name": "bomani.xyz",
+    "summary": "bomani.xyz Click here to enter",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "cameronraymond-me": {
+    "name": "Loading...",
+    "summary": "Personal site of Loading....",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "catchen-me": {
+    "name": "Catchen",
+    "summary": "Personal website of Cat Chen (aka catchen). Find Cat's resume, projects, services, and writing here.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "huyenchip-com": {
+    "name": "Chip Huyen",
+    "summary": "I work to bring AI into production. I write about AI system design.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Design",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "rickydangc-github-io": {
+    "name": "CHONG DANG",
+    "summary": "Machine Learning, Computer Science | 党翀, Data Scientist, Software Engineer",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "mccormickml-com": {
+    "name": "Mccormickml",
+    "summary": "Personal site of Mccormickml.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "clarissawei-com": {
+    "name": "CLARISSA WEI",
+    "summary": "American freelance journalist based in Taipei.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": []
+  },
+  "mrdbourke-com": {
+    "name": "Daniel Bourke",
+    "summary": "The official blog of Daniel Bourke. I play at the crossroads of artificial intelligence, health science, life and art.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "otoro-net": {
+    "name": "otoro.net",
+    "summary": "Personal site of otoro.net.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "wildml-com": {
+    "name": "Denny",
+    "summary": "Denny's Blog",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dennybritz-com": {
+    "name": "Denny",
+    "summary": "Denny's Blog",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dustintran-com": {
+    "name": "Dustin Tran",
+    "summary": "Research website of Dustin Tran, an AI research scientist.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "elle-obrien-com": {
+    "name": "Elle O’Brien, Ph.D.",
+    "summary": "This is the personal website of Dr. Elle O’Brien.",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mlpowered-com": {
+    "name": "mlpowered",
+    "summary": "Blog posts and other information",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eugeneyan-com": {
+    "name": "Eugene Yan",
+    "summary": "Personal site of Eugene Yan.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": []
+  },
+  "evanyou-me": {
+    "name": "Evan You",
+    "summary": "Evan You Evan You I am the founder of VoidZero , a company building the next generation toolchain for JavaScript and TypeScript.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "goku-me": {
+    "name": "Goku Mohandas",
+    "summary": "Personal site of Goku Mohandas.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "notes-hamel-dev": {
+    "name": "Notes",
+    "summary": "Notes on applied AI engineering, machine learning, and data science.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hamel-dev": {
+    "name": "Hamel Husain’s",
+    "summary": "Notes on applied AI engineering, machine learning, and data science.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hankgreen-com": {
+    "name": "Hank Green",
+    "summary": "Personal site of Hank Green.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "jinglescode-github-io": {
+    "name": "Jinglescode",
+    "summary": "Hong Jing is a data scientist & Alibaba PhD student, write about Machine Learning & Neuroscience",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "jasonbenn-com": {
+    "name": "Jason Benn",
+    "summary": "Jason Benn Homepage Jason Benn Welcome!",
+    "role": "Founder",
+    "tags": [
+      "Startups"
+    ],
+    "features": []
+  },
+  "jasjung-github-io": {
+    "name": "Jason",
+    "summary": "Personal site of Jason.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "jalammar-github-io": {
+    "name": "Jay Alammar",
+    "summary": "Visualizing machine learning one concept at a time.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jeremyjordan-me": {
+    "name": "Jeremy Jordan",
+    "summary": "Thoughts, ideas, and new things I've learned.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jk-lee-com": {
+    "name": "Joey Lee",
+    "summary": "Your friendly, neighborhood creative technologist",
+    "role": "",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "jvns-ca": {
+    "name": "Julia Evans",
+    "summary": "Personal site of Julia Evans.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "justinpinkney-com": {
+    "name": "Justin Pinkney",
+    "summary": "Justin Pinkney's home on the web",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "keunwoochoi-wordpress-com": {
+    "name": "Keunwoo Choi",
+    "summary": "Personal site of Keunwoo Choi.",
+    "role": "Researcher",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "scalarvectortensor-net": {
+    "name": "고아침",
+    "summary": "인공지능, 인터넷, 지식생산 인프라의 기술정치",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "kylegalbraith-com": {
+    "name": "Kyle Galbraith",
+    "summary": "Software engineer and entrepreneur based in Portland, OR focused on building exceptional software solutions leveraging the cloud.",
+    "role": "Founder",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "kylemcdonald-net": {
+    "name": "Kyle McDonald",
+    "summary": "Media artist working with code, based in Los Angeles.",
+    "role": "Artist",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": []
+  },
+  "lankinen-xyz": {
+    "name": "lankinen.xyz",
+    "summary": "Personal website of Elias Lankinen. Projects, notes, books, and other hobbies.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "lena-voita-github-io": {
+    "name": "Lena Voita",
+    "summary": "I'm Elena (Lena) Voita and I work on Natural Language Processing. More details inside!",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Writing",
+      "Education"
+    ],
+    "features": []
+  },
+  "lexfridman-com": {
+    "name": "Lex Fridman",
+    "summary": "AI researcher working on human-AI interaction, robotics, and machine learning at MIT and beyond. Host of Lex Fridman Podcast.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "lilianweng-github-io": {
+    "name": "Lil'Log",
+    "summary": "Document my learning notes.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mlinproduction-com": {
+    "name": "ML in Production",
+    "summary": "Best practices for building real world machine learning systems",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "lydiajessup-me": {
+    "name": "Lydia Jessup",
+    "summary": "Personal site of Lydia Jessup.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "marcelanowak-com": {
+    "name": "Marcela Nowak",
+    "summary": "Personal site of Marcela Nowak.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Photography",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "martin-thoma-com": {
+    "name": "Martin Thoma",
+    "summary": "Personal site of Martin Thoma.",
+    "role": "",
+    "tags": [
+      "Design",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "masatohagiwara-net": {
+    "name": "Masato Hagiwara",
+    "summary": "Personal site of Masato Hagiwara's Page.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "mihaileric-com": {
+    "name": "About me",
+    "summary": "Engineer, researcher, educator.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "ntentional-com": {
+    "name": "ntentional",
+    "summary": "Morgan McGuire’s machine learning journey through blogs and code",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nahresol-com": {
+    "name": "Nahre Sol",
+    "summary": "Learn all about Music, Piano, and Nahre's Compositions and Teachings, Trusted by over 500.000 Subscribers",
+    "role": "Artist",
+    "tags": [
+      "Writing",
+      "Music"
+    ],
+    "features": []
+  },
+  "paul-copplest-one": {
+    "name": "Paul Copplestone",
+    "summary": "Techie and entrepreneur",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Writing"
+    ],
+    "features": []
+  },
+  "neuralnet-ai": {
+    "name": "NeuralNet.ai",
+    "summary": "Personal site of NeuralNet.ai.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "pratik-ai": {
+    "name": "Pratik Bhavsar",
+    "summary": "Pratik Bhavsar builds agent systems, evaluation loops, benchmarks, and field guides for production AI.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": []
+  },
+  "prithvirajva-com": {
+    "name": "Prithviraj (Raj) Ammanabrolu",
+    "summary": "All things language agents!",
+    "role": "Researcher",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "rctatman-com": {
+    "name": "Dr. Rachael Tatman",
+    "summary": "Data scientist, Developer advocate, Linguist",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dingran-github-io": {
+    "name": "Dingran",
+    "summary": "Ran Ding’s homepage",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "roberthodgin-com": {
+    "name": "Robert Hodgin",
+    "summary": "Personal site of Robert Hodgin.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "ryoyatakashima-com": {
+    "name": "Ryoya Takashima",
+    "summary": "Personal site of Ryoya Takashima.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "sjmielke-com": {
+    "name": "Sabrina J. Mielke",
+    "summary": "Hi. I'm a MLE with a PhD from JHU working on LLMs in NYC. Machine learning and natural language are fascinating.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "caisq-github-io": {
+    "name": "Shanqing Cai",
+    "summary": "Shanqing Cai's Homepage Shanqing Cai, Ph.D.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "simonekeelah-com": {
+    "name": "simone keelah",
+    "summary": "Personal site of simone keelah.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "soumith-ch": {
+    "name": "Soumith Chintala",
+    "summary": "Soumith Chintala Soumith Chintala |&nbsp&nbsp Blog Media X LinkedIn Github Publications I am an AI researcher, engineer and community builder.",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "susanshu-com": {
+    "name": "a how-to",
+    "summary": "Productivity, achievement, overcoming failure, and everything in between. Postmortems and how-tos on life, career, and academics.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "sgugger-github-io": {
+    "name": "Another data science student",
+    "summary": "Personal site of Another data science student.",
+    "role": "Student",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "carpedm20-github-io": {
+    "name": "carpedm20",
+    "summary": "carpedm20 NEW WORLD .",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "tqchen-com": {
+    "name": "Tianqi Chen",
+    "summary": "Personal site of Tianqi Chen.",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "timilearning-com": {
+    "name": "Timilearning",
+    "summary": "Writing about computer science topics that I am curious about.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vibertthio-com": {
+    "name": "vibertthio",
+    "summary": "Vibert Thio makes music easier to play with.",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vineet-tiruvadi-com": {
+    "name": "Vineet Tiruvadi",
+    "summary": "Founder, nform.ai",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vivekpanyam-com": {
+    "name": "Vivek Panyam",
+    "summary": "Personal site of Vivek Panyam.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "ohmeow-com": {
+    "name": "Applied AI Solutions for Modern Businesses",
+    "summary": "ohmeow.com is dedicated to providing resources for full stack web application and machine learning developement",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "yihui-org": {
+    "name": "Yihui Xie",
+    "summary": "Personal website of Yihui Xie; 谢益辉的个人网站",
+    "role": "Researcher",
+    "tags": [
+      "Math"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "1023-io": {
+    "name": "Yining Shi",
+    "summary": "Personal site of Yining Shi.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "yueli-art": {
+    "name": "yueli.art",
+    "summary": "Yue Li Freelance illustrator and graphic designer",
+    "role": "Designer",
+    "tags": [],
+    "features": []
+  },
+  "wangz10-github-io": {
+    "name": "Zichen Wang's",
+    "summary": "Web site created using create-react-app",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "adarshdk-com": {
+    "name": "Adarsh DK",
+    "summary": "Design engineer with a passion for creating beautiful and functional user interfaces.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "adi-ac": {
+    "name": "Adi Chakravarty",
+    "summary": "Hi! I'm Adi, a software designer creating simple, intuitive, and functional experiences that empower users and make an impact.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "ale-fyi": {
+    "name": "Alessandro Mingione",
+    "summary": "Howdy! I'm an Italian designer living in Oakland, California. These days I work at Tailscale. This is my home on the web.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "alexbaldwin-com": {
+    "name": "Alex Baldwin",
+    "summary": "Product designer and writer from Austin, Texas. Previously designer-in-residence with Techstars and 500 Startups.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "anh-ng": {
+    "name": "Ánh",
+    "summary": "Ánh designs, writes, and creates with care.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "arielnorling-com": {
+    "name": "Ariel Norling",
+    "summary": "Ariel Norling &#8211; Designer &amp; Writer Ariel Norling is a designer and writer based in New York City (and sometimes Oakland, CA).",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "arjunmakesthings-github-io": {
+    "name": "arjun's archive",
+    "summary": "an archive of arjun's work — projects, pieces of writing and teaching activities.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "mahanti-co": {
+    "name": "Arjun Mahanti",
+    "summary": "A multidisciplinary designer building delightful solutions to complex problems.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Startups",
+      "Crypto"
+    ],
+    "features": []
+  },
+  "barbaraschussmann-de": {
+    "name": "Barbara Schussmann",
+    "summary": "Barbara Schussmann Babsi Schussmann Designer Work About I'm Babsi.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "billytseng-com": {
+    "name": "Billy Tseng",
+    "summary": "Based in NY | Design at Moment",
+    "role": "Photographer",
+    "tags": [
+      "Design",
+      "Photography"
+    ],
+    "features": []
+  },
+  "bradcerasani-me": {
+    "name": "Brad Cerasani",
+    "summary": "Personal site of Brad Cerasani.",
+    "role": "Developer",
+    "tags": [
+      "Design",
+      "Music"
+    ],
+    "features": []
+  },
+  "caneraras-com": {
+    "name": "Caneraras",
+    "summary": "Creative AI design strategy consultant Caner Aras. AI Powered Strategic Design Partner, delivering innovative design automation solutions and services.",
+    "role": "Photographer",
+    "tags": [
+      "AI",
+      "Design",
+      "Photography"
+    ],
+    "features": []
+  },
+  "carlbarenbrug-com": {
+    "name": "Carl Barenbrug",
+    "summary": "A product designer and creative director at Minimalissimo and 099",
+    "role": "Founder",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "charliedeets-com": {
+    "name": "Charlie Deets",
+    "summary": "Designer at The Browser Company. Previously Apple, WhatsApp, and Facebook.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "chrbutler-com": {
+    "name": "Christopher Butler",
+    "summary": "The latest on Christopher Butler",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "craighooper-xyz": {
+    "name": "Craighooper",
+    "summary": "Working on design systems and digital modernization for Canadian Blood Services.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "danilotanic-com": {
+    "name": "Danilo Tanic",
+    "summary": "Software designer based in Berlin, Germany.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Music"
+    ],
+    "features": []
+  },
+  "arbourtrary-com": {
+    "name": "ɑrbərtrɛri",
+    "summary": "Trying out a couple concepts. Writing about nature, tech, poetry, mathematics. Providing safe arbour in a darkening forest.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "schmud-de": {
+    "name": "Beyond the Frame",
+    "summary": "The metaphysics of information, art, and narrative",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "diegoar-space": {
+    "name": "Diego Alarcon",
+    "summary": "Diego Alarcon is a Creative Front-End Developer with over 10 years of experience bringing digital products to life through code.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "dylan-james-co": {
+    "name": "CakhiaTV",
+    "summary": "CakhiaTV cập nhật trực tiếp 24/7 giúp bạn theo dõi trọn vẹn mùa World Cup, tỷ lệ bóng đá hôm nay cùng đội ngũ BLV hấp dẫn, máu lửa như: Giàng A Phò, Giàng A Lữ, LEO,....",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "edgarlr-com": {
+    "name": "Edgar López",
+    "summary": "I build user interfaces, interactions, animations, and other web-related stuff.",
+    "role": "",
+    "tags": [
+      "Open Source"
+    ],
+    "features": []
+  },
+  "edinabazi-com": {
+    "name": "Edin Abazi",
+    "summary": "Edin Abazi is a design engineer and founder building brands, websites, apps, and software with a strong point of view on taste, craft, and shipping.",
+    "role": "Founder",
+    "tags": [
+      "Design",
+      "Startups"
+    ],
+    "features": []
+  },
+  "ericwbailey-website": {
+    "name": "Eric Bailey",
+    "summary": "Accessibility advocate, writer, developer, and speaker",
+    "role": "Writer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "femke-design": {
+    "name": "femke.design",
+    "summary": "Great craft gets you to senior — strategic influence gets you beyond it. I offer product strategy course, coaching, and resources to help product designers lead with impact.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "glauber-xyz": {
+    "name": "Glauber",
+    "summary": "Design & Technology",
+    "role": "Founder",
+    "tags": [
+      "Design",
+      "Startups",
+      "Photography"
+    ],
+    "features": []
+  },
+  "glenn-me": {
+    "name": "Glenn Hitchcock",
+    "summary": "Glenn Hitchcock. Designer and Director, focussed on brand, product & process at poolside. Previously led Vercel, Sketch and Fueled.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "gonzija-com": {
+    "name": "Gonzalo García Paz",
+    "summary": "I'm a product designer based in Argentina. Currently working at Unsplash. Previously led design at Firstbase and worked in press at the United States Embassy in Argentina.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "grantpurtle-com": {
+    "name": "Grant Purtle • Strategic UX/UI Design Leader",
+    "summary": "Grant Purtle • Strategic UX/UI Design Leader Grant Purtle Send me an email Design leadership through craft, clarity and impact.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "guilhermesimoes-com": {
+    "name": "Guilherme Simoes",
+    "summary": "Personal site of Guilherme Simoes.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing",
+      "Product"
+    ],
+    "features": []
+  },
+  "jasonjun-dev": {
+    "name": "Jason Jun",
+    "summary": "Software engineer based in Melbourne, Australia.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design"
+    ],
+    "features": []
+  },
+  "joesakjf-com": {
+    "name": "Joesak Josefianoes",
+    "summary": "A product designer, passionate about simplicity and delightful user experiences.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "reynoldsj-co": {
+    "name": "John Reynolds",
+    "summary": "Designer & Creative Director in Dallas, TX",
+    "role": "Designer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jarango-com": {
+    "name": "Jorge Arango",
+    "summary": "Information Architecture Consulting & Training Services",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jshmllr-com": {
+    "name": "Josh Miller",
+    "summary": "JshMllr's software design portfolio",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "kevdu-co": {
+    "name": "Kevin Dukkon",
+    "summary": "A freelance product designer based in Germany, Düsseldorf.",
+    "role": "Designer",
+    "tags": [
+      "Product"
+    ],
+    "features": []
+  },
+  "luxonauta-com": {
+    "name": "Luxonauta",
+    "summary": "Hey, I'm Lucas! Front-end developer, designer, and illustrator.",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "interroban-gg": {
+    "name": "Luke Mitchell",
+    "summary": "Personal website and blog of Luke Mitchell, a design director, product designer, and UI developer.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "marcelokunze-com": {
+    "name": "Marcelo Kunze",
+    "summary": "Product Designer and Frontend Developer",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Crypto"
+    ],
+    "features": []
+  },
+  "interconnected-org": {
+    "name": "Matt Webb",
+    "summary": "Matt Webb Hi, I’m Matt Webb.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Design",
+      "Startups"
+    ],
+    "features": []
+  },
+  "moritzkindler-com": {
+    "name": "Moritz Kindler",
+    "summary": "Technical founder building with determination and curiosity",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Startups"
+    ],
+    "features": []
+  },
+  "nazhamid-com": {
+    "name": "Naz Hamid",
+    "summary": "Designer, photographer, and writer based in San Francisco. Writing about design, craft, and intentional living.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "niklasrosen-se": {
+    "name": "Niklas Rosén",
+    "summary": "Personal site of Niklas Rosén.",
+    "role": "Designer",
+    "tags": [],
+    "features": []
+  },
+  "nikolasklein-de": {
+    "name": "nikolas klein",
+    "summary": "Using interfaces should feel like slicing tomatoes with a really sharp knife!",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Product"
+    ],
+    "features": []
+  },
+  "noahbuscher-com": {
+    "name": "Noah Buscher",
+    "summary": "Noah Buscher is a web developer and designer based in Los Angeles, CA.",
+    "role": "Designer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "pierre-io": {
+    "name": "Pierre",
+    "summary": "Specialized in building fast, scalable Jamstack sites with headless CMS and e-commerce integration.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "pketh-org": {
+    "name": "pketh.org",
+    "summary": "Making things simple, radical and beautiful",
+    "role": "Developer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "pjonori-blog": {
+    "name": "PJ Onori’s",
+    "summary": "It's a blog. Typically about design systems. By your ol’ pal PJ.",
+    "role": "Developer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "pranathiperi-com": {
+    "name": "Pranathi Peri",
+    "summary": "Designer & sometimes developer based in New York. Currently designing Claude Code at Anthropic. Previously led design on v0 at Vercel.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "nobadmemories-com": {
+    "name": "NO REFUNDS",
+    "summary": "NO BAD MEMORIES is the personal website of artist Rachel Simone Weil.",
+    "role": "Artist",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "ramses-work": {
+    "name": "ramsés cabello",
+    "summary": "interaction design / 1990 / denmark + spain + 日本",
+    "role": "",
+    "tags": [
+      "Design",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "solomon-io": {
+    "name": "Sam Solomon",
+    "summary": "Designer and entrepreneur in Atlanta. Notes on building with AI agents, plus essays, photography and side projects from a decade and a half of making things.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "saraclayton-com": {
+    "name": "Sara Clayton",
+    "summary": "Personal site of Sara Clayton.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "shawnfarsai-com": {
+    "name": "Shawn Farsai",
+    "summary": "I build things. Usually with code. I currently lead frontend projects at Scale AI. I have a wide range of interests that span javascript, design, ai, gaming, and music.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "simonausterberry-co-uk": {
+    "name": "Freelance UX Designer Manchester, UK",
+    "summary": "Freelance UX Designer based in Manchester, UK. 10+ years experience. Currently taking on new freelance work.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "stephaniestimac-com": {
+    "name": "stephaniestimac.com",
+    "summary": "Personal site of stephaniestimac.com.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "stuart-re": {
+    "name": "Stuart Regan",
+    "summary": "Personal site of Stuart Regan.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "tedgoas-com": {
+    "name": "Tedgoas",
+    "summary": "Ted Goas is a reliable product designer and front-end developer working on websites, applications, and HTML emails.",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "thaonf-com": {
+    "name": "Thao P. Nguyen",
+    "summary": "Product Design Leader.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "thu-le-com": {
+    "name": "Thu Le",
+    "summary": "Personal site of Thu Le, designer who builds and writes. Powered by cold brew and matcha.",
+    "role": "Designer",
+    "tags": [
+      "Writing",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "toni-li": {
+    "name": "Toni Lijic, Designer",
+    "summary": "A software designer with a scientific background who loves building random whimsical things, books, art and anything orange.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "trangbui-me": {
+    "name": "Trang Bui",
+    "summary": "UX and Product Designer based in Viet Nam. Curious about how things work and why they matter. Always learning something.",
+    "role": "Designer",
+    "tags": [
+      "Product"
+    ],
+    "features": []
+  },
+  "bitsaboutmoney-com": {
+    "name": "Bitsaboutmoney",
+    "summary": "Biweekly newsletter about intersection of tech and finance. Deep dives into the plumbing that moves money and the businesses that build those pipes.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "home-hedy-dev": {
+    "name": "~hedy",
+    "summary": "~hedy's home: hedy's canonical web presence including contact information and a blog.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "twomorecents-org": {
+    "name": "Two More Cents",
+    "summary": "Two More Cents Two More Cents Home Site Map Contact me About Me RSS # Welcome to my website!",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "risingthumb-xyz": {
+    "name": "risingthumb.xyz This is my boomstick!",
+    "summary": "Personal site of risingthumb.xyz This is my boomstick!.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "abishekmuthian-com": {
+    "name": "Abishek Muthian",
+    "summary": "Personal blog of the Abishek Muthian.",
+    "role": "",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "alxmurashko-com": {
+    "name": "Alex Murashko",
+    "summary": "I'm a designer working on honest and practical digital products for everyday use.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "alexschemagin-com": {
+    "name": "Alex Schemagin",
+    "summary": "Alex Schemagin - Design and Creative Code",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "alexanderweichart-de": {
+    "name": "content",
+    "summary": "👋 Welcome, traveler! I’m Alex, this is my 🌳 Digital Garden. It is a place where I collect and create, process and present.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "alexeystar-com": {
+    "name": "Alexey Staroselets",
+    "summary": "Personal website and portfolio",
+    "role": "Designer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "splitbrain-org": {
+    "name": "Welcome [splitbrain.org]",
+    "summary": "Andreas Gohr is a web developer and maker based in Berlin, Germany, sharing blog posts and links on his website, splitbrain.org.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "aitorres-com": {
+    "name": "Aitorres",
+    "summary": "A software engineer rambling about code, literature and everything in between.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "andrewkdinh-com": {
+    "name": "Andrew Dinh",
+    "summary": "Andrew Dinh - Software engineer developing a better feature",
+    "role": "Developer",
+    "tags": [
+      "Open Source",
+      "Security"
+    ],
+    "features": []
+  },
+  "ozorn-in": {
+    "name": "Andrey Ozornin",
+    "summary": "Fast version of ozorn.in",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "asterisk-lol": {
+    "name": "Asterisk's Den",
+    "summary": "👋 Hi there!",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "benkuhn-net": {
+    "name": "benkuhn.net",
+    "summary": "Ben Kuhn's personal website.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bneo-xyz": {
+    "name": "benneo",
+    "summary": "writing daily",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "benji-org": {
+    "name": "Benji Taylor",
+    "summary": "Born in London, UK. Based in Los Angeles, CA.",
+    "role": "Founder",
+    "tags": [
+      "Design",
+      "Startups",
+      "Crypto"
+    ],
+    "features": []
+  },
+  "bewilde-red": {
+    "name": "Bewilde",
+    "summary": "Personal site of Bewilde.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "boris-kourtoukov-com": {
+    "name": "Boris Kourtoukov",
+    "summary": "Personal site of Boris Kourtoukov.",
+    "role": "Artist",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "brajeshwar-com": {
+    "name": "Brajeshwar Oinam",
+    "summary": "I’m on an adventure to create beautiful, meaningful products that improve the world for my daughters and their friends.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bret-io": {
+    "name": "bret.io",
+    "summary": "A running log of announcements, projects and accomplishments.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "brianjdevries-com": {
+    "name": "Brianjdevries",
+    "summary": "Brian DeVries's personal website. He writes occasionally on his blog and frequently updates his site with new information.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bryanhogan-com": {
+    "name": "Bryan Hogan",
+    "summary": "I'm Bryan Hogan, a Web Developer, Digital Creator and Blogger. Welcome to my personal page for you.",
+    "role": "Designer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cassidoo-co": {
+    "name": "Cassidy Williams",
+    "summary": "I'm Cassidy Williams, a software engineer, mom, and overall nerd in Chicago. I write about tech, projects, and whatever else I'm thinking about!",
+    "role": "Investor",
+    "tags": [
+      "Startups",
+      "Writing",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "entropicthoughts-com": {
+    "name": "Entropicthoughts",
+    "summary": "Index Entropic Thoughts Index Home Archive Tags About xkqr.org Index Following is a selection of the best articles based on various criteria.",
+    "role": "",
+    "tags": [
+      "Math"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "christinalj-com": {
+    "name": "christina chen",
+    "summary": "just passing through",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "namchee-dev": {
+    "name": "Namchee",
+    "summary": "Namchee is a no-nonsense software engineer that is dedicated to solving real-life problems through performant and sustainable software-based solutions.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "mtsolitary-com": {
+    "name": "mt. solitary",
+    "summary": "Mt. Solitary is a digital garden.",
+    "role": "",
+    "tags": [
+      "Math"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dbohdan-com": {
+    "name": "Hey there!",
+    "summary": "The introduction to and index of D. Bohdan’s personal wiki.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "daltonrowe-com": {
+    "name": "Dalton Rowe",
+    "summary": "Dalton Rowe Dalton Rowe Code Work Links Bluesky Thoughts on bands Bands are cool, do them.",
+    "role": "",
+    "tags": [
+      "Web Dev",
+      "Education"
+    ],
+    "features": []
+  },
+  "solomenko-com": {
+    "name": "Darya Solomenko",
+    "summary": "Data professional with 18 years of consulting and online marketing experience looking for a Data Analyst job.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-darylsun-page": {
+    "name": "Daryl Sun's Journal",
+    "summary": "An online diary of a lady's misadventures in two worlds",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stucky-tech": {
+    "name": "Stucky",
+    "summary": "Gregory \"Dave\" Stucky: life veteran, essayist, father, lowborn, ex-Stoic, ex-con, child of God, compulsive philosopher",
+    "role": "Writer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "sive-rs": {
+    "name": "Derek Sivers",
+    "summary": "Derek Sivers official site. Thoughts on philosophy, culture, self-improvement. Author of Useful Not True, How to Live, Hell Yeah or No, Anything You Want.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Writing",
+      "Music"
+    ],
+    "features": []
+  },
+  "blog-dlmw-ch": {
+    "name": "Making sure you're not a bot!",
+    "summary": "Making sure you&#39;re not a bot!",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "weberdominik-com": {
+    "name": "Dominik Weber",
+    "summary": "I develop products, share what I learn and how I think about things.",
+    "role": "Photographer",
+    "tags": [
+      "AI",
+      "Writing",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ellesho-me": {
+    "name": "elle",
+    "summary": "this is elle's homepage. my home on the internet. i like to make stuff with html and i will put some of it on here",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ericthomas-ca": {
+    "name": "Eric Thomas",
+    "summary": "Personal site of Eric Thomas.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ewpratten-com": {
+    "name": "Evan Pratten",
+    "summary": "Personal site of Evan Pratten.",
+    "role": "Developer",
+    "tags": [
+      "Writing",
+      "Music"
+    ],
+    "features": []
+  },
+  "brentter-com": {
+    "name": "Everythings Better With Brentter",
+    "summary": "A collection of thoughts, links and code on topics like programming, self-hosting, open source projects, music and more.",
+    "role": "Designer",
+    "tags": [
+      "Open Source",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eyalgoren-com": {
+    "name": "Eyal",
+    "summary": "Eyal Eyal Goren Blog Projects About Twitter Admin © 2026 Eyal Goren",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "almer-dev": {
+    "name": "almer.dev",
+    "summary": "Felix' personal website",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "anderegg-ca": {
+    "name": "anderegg.ca",
+    "summary": "Something (slightly) less boring than nothing.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-gregtech-eu": {
+    "name": "GregTech",
+    "summary": "A blog page for my own stuff, mostly about Linux and tech in general and politics.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "giventotri-com": {
+    "name": "Giventotri",
+    "summary": "A triathlon training & racing blog by Guillermo Esteves, a late-onset triathlete based in Jackson Hole, Wyoming.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "gwern-net": {
+    "name": "Essays",
+    "summary": "Personal site of Essays.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bepbop-github-io": {
+    "name": "Redirecting to: /2025",
+    "summary": "Redirecting to: /2025 Redirecting from / to /2025",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "hankruiger-com": {
+    "name": "Hankruiger",
+    "summary": "Han Kruiger's home page",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "harshkn-com": {
+    "name": "Harshkn",
+    "summary": "I am an amateur artist. I am also a collector of beautiful things/ideas.",
+    "role": "Artist",
+    "tags": [
+      "AI",
+      "Crypto",
+      "Math"
+    ],
+    "features": []
+  },
+  "blog-hashin-me": {
+    "name": "Hashin Jithu",
+    "summary": "I write about the world.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hayobethlehem-nl": {
+    "name": "Welcome! on Hayo Bethlehem",
+    "summary": "Personal site of Welcome! on Hayo Bethlehem.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "henriquegodoy-com": {
+    "name": "HENRIQUE GODOY",
+    "summary": "HENRIQUE GODOY About Henrique Godoy Henrique Godoy is a Brazilian AI engineer and researcher based in São Paulo.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "ikesau-co": {
+    "name": "ikesau.co",
+    "summary": "The website of Ike Saunders",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "izzys-casa": {
+    "name": "Izzy Muerte &bull; Self Unemployed",
+    "summary": "My Personal Web Zone",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jcarlosroldan-com": {
+    "name": "Blog • Carlos Roldán",
+    "summary": "Technology or anything else. By Carlos Roldán, researcher, entrepreneur and hobbyist.",
+    "role": "Founder",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jacobfilipp-com": {
+    "name": "Jacob Filipp",
+    "summary": "Jacob Filipp Jacob Filipp Contact Me Writing Wish RSS My name is Jacob &#8211; I am a marketing operations professional based in midtown Toronto.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jahir-dev": {
+    "name": "Jahir Fiquitiva",
+    "summary": "I'm a passionate and creative software engineer from Colombia 🇨🇴. Visit my website to learn more about me and my projects",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jake-reich-co-uk": {
+    "name": "Jake Reich",
+    "summary": "Jake Reich's website",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "jamesg-blog": {
+    "name": "James' Coffee",
+    "summary": "Personal site of James' Coffee.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "thingelstad-com": {
+    "name": "Jamie Thingelstad",
+    "summary": "Writer of The Weekly Thing. Explorer of tech, the open web, AI, and a good escape room. Minneapolis is home.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-jatinnagpal-com": {
+    "name": "Posts",
+    "summary": "Personal Collection",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "blog-johnys-io": {
+    "name": "Clearer Thinking",
+    "summary": "Entrepreneurship, Existentialism, and Entertainment",
+    "role": "",
+    "tags": [
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "johnnywebber-com": {
+    "name": "Johnny",
+    "summary": "Personal site of Johnny.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jlericson-com": {
+    "name": "Jon Quixote",
+    "summary": "In which the author considers whether a community is more like a giant or more like a windmill.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jordangonen-com": {
+    "name": "www.jordangonen.com",
+    "summary": "Personal site of www.jordangonen.com.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "justanotherinternetguy-github-io": {
+    "name": "internetguy's space on the www",
+    "summary": "internetguy's space on the www internetguy.dev/home home posts about welcome!",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "justus-pw": {
+    "name": "Index of ~justus",
+    "summary": "Landing page",
+    "role": "",
+    "tags": [
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "kemal-earth": {
+    "name": "kemal",
+    "summary": "earth based design engineer.",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Product"
+    ],
+    "features": []
+  },
+  "kennethreitz-org": {
+    "name": "Kenneth Reitz",
+    "summary": "Personal site of Kenneth Reitz.",
+    "role": "Photographer",
+    "tags": [
+      "AI",
+      "Writing",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "simple-industries": {
+    "name": "simple.industries",
+    "summary": "Open notes on topics of curiosity—personal website of Kim Burgess.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "goncharov-xyz": {
+    "name": "Goncharov",
+    "summary": "Personal site of Goncharov.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "lloydatkinson-net": {
+    "name": "Lloyd Atkinson",
+    "summary": "Software engineer writing about the web, design systems, and building software.",
+    "role": "Developer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "todepond-com": {
+    "name": "Todepond dot com",
+    "summary": "Personal site of Todepond dot com.",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": []
+  },
+  "marclittlemore-com": {
+    "name": "Hello, I'm Marc Littlemore",
+    "summary": "Hello! I'm Marc Littlemore, a Software Engineering Manager who writes about software development and technical leadership.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "martin-irwin-github-io": {
+    "name": "黒潮 KUROSHI[O]",
+    "summary": "黒潮 KUROSHI[O] | 黒潮 黒潮 KUROSHI[O] — 434.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "martinrue-com": {
+    "name": "Martin Rue",
+    "summary": "I build things on the internet.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mmathias-com": {
+    "name": "Mathias Müller's Online",
+    "summary": "This is my home on the web.",
+    "role": "Photographer",
+    "tags": [
+      "Photography",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-gingerbeardman-com": {
+    "name": "Get Info",
+    "summary": "Personal site of Get Info.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "maxbo-me": {
+    "name": "✶ Max Bo ✶",
+    "summary": "The personal website and portfolio of Max Bo",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mihirnaik-com": {
+    "name": "Mihir Naik",
+    "summary": "Mihir Naik is an SEO consultant specializing in technical SEO at scale, AI search visibility, and custom SEO workflow automation. Former Loblaw, eBay Classifieds, Scotiabank.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "one-mikro2nd-net": {
+    "name": "one mikro2nd",
+    "summary": "one fool, one hill, one μs",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cellio-org": {
+    "name": "Monica",
+    "summary": "Jew. Writer. Reader. Techie. Cook. Board-gamer. Musician. Hard to categorize. I'm curious and sometimes geeky about many things and aspire to keep…",
+    "role": "Artist",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "rmukeshgupta-com": {
+    "name": "Leaders Worth Following",
+    "summary": "Personal site of Leaders Worth Following.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "nathanupchurch-com": {
+    "name": "Nathan Upchurch",
+    "summary": "Personal site of Nathan Upchurch.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Design",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nizzlay-com": {
+    "name": "Nizzlay",
+    "summary": "Personal site of Nizzlay.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nikhilvishnu-com": {
+    "name": "Nikhil Vishnu",
+    "summary": "Product Management, Books and More",
+    "role": "",
+    "tags": [
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "garden-pivic-com": {
+    "name": "Introduction",
+    "summary": "Introduction =1000) ?",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "koehr-ing": {
+    "name": "About // the codeartist",
+    "summary": "The personal page and weblog of Norman Köhring",
+    "role": "Artist",
+    "tags": [
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "osc-garden": {
+    "name": "~/osc",
+    "summary": "Óscar is data scientist and clinical psychologist aiming to leverage his positive impact in the world.",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Photography",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "invertedpassion-com": {
+    "name": "Welcome, friend",
+    "summary": "Personal site of Welcome, friend.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cobbaut-be": {
+    "name": "cobbaut.be",
+    "summary": "cobbaut.be Paul Cobbaut 2000 Antwerp Find me here: 3D designs and prints at printables.com .",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": []
+  },
+  "arachnoid-com": {
+    "name": "* arachnoid.com",
+    "summary": "A site for people who think. Intellectual resources, programming, astronomy, science, mathematics, Java/JavaScript applets, programming instruction, home of Arachnophilia.",
+    "role": "",
+    "tags": [
+      "Web Dev",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "laihoconsulting-com": {
+    "name": "Pekka Laiho",
+    "summary": "Website and personal blog of Pekka Laiho, software engineer and financial enthusiast.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "petesprojects-net": {
+    "name": "Pete",
+    "summary": "Software Developer living in Kassel, Germany",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "evilcookie-de": {
+    "name": "Evilcookie",
+    "summary": "blog blog Hi, I'm Raphael by day and evilcookie by night.",
+    "role": "Developer",
+    "tags": [
+      "Design",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ricos-site": {
+    "name": "Rico Trebeljahr",
+    "summary": "Explore Rico Trebeljahr's writing on AI, philosophy, travel, and programming. Book notes, photography, newsletters, and creative coding projects.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Writing",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "onerinas-com": {
+    "name": "Rinas",
+    "summary": "TIL posts and notes on software, indie projects, and life.",
+    "role": "Developer",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "rishikeshs-com": {
+    "name": "Rishikesh Sreehari",
+    "summary": "This is my webspace. A niche-less blog where I gather and share my ideas and document my life. I consider this blog as an evolving art project itself.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "robkohr-com": {
+    "name": "RobKohr",
+    "summary": "RobKohr's Blog RobKohr's Blog My father says almost the whole world's asleep.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ronaldsvilcins-com": {
+    "name": "Ronalds Vilciņš",
+    "summary": "Ronalda Vilciņa personīgā mājaslapa, blogs un portfolio.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "roshanshibu-com": {
+    "name": "Roshan Shibu",
+    "summary": "Roshan Shibu's corner of the internet. Check out some of my best projects, or connect with me over LinkedIn to collaborate on something awesome!",
+    "role": "Designer",
+    "tags": [
+      "Music"
+    ],
+    "features": []
+  },
+  "rosia-me": {
+    "name": "Rosia Evans Homepage and",
+    "summary": "Personal site of Rosia Evans Homepage and Blog.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "skruban-com": {
+    "name": "About • Ruban",
+    "summary": "Ruban's personal website",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "scattershot-blog": {
+    "name": "scattershot",
+    "summary": "Follow <a href=\"https://micro.blog/scattershot\">@scattershot on Micro.blog</a>.",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "shreyasprakash-com": {
+    "name": "Shreyas",
+    "summary": "Shreyas Prakash - Product, Design, and Technology",
+    "role": "",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cshubh-com": {
+    "name": "Shubh A Chudasama",
+    "summary": "My corner of the interwebz ^_^",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "shyamjos-com": {
+    "name": "Shyam Jos",
+    "summary": "Hi I'm Shyam Jos, documenting my adventures in Linux, Kubernetes, DevOps and IoT.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vreeman-com": {
+    "name": "Vreeman",
+    "summary": "Hi, I am Simon Vreeman, and I am a Growth & Technical Marketing Advisor. I optimize websites based on insights & data.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Education"
+    ],
+    "features": []
+  },
+  "sixey-es": {
+    "name": "SIX_EYES",
+    "summary": "Personal site of SIX_EYES.",
+    "role": "",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": []
+  },
+  "sofianbettayeb-com": {
+    "name": "Sofian Bettayeb",
+    "summary": "I grow your business with organic engines. SEO, AEO, martech, and CRO — done for you. Working with founders and agencies in Switzerland and beyond.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "spenc-es": {
+    "name": "Spencer Scorcelletti",
+    "summary": "A personal website of just text and links about software, philosophy, and whatever else makes Spence!",
+    "role": "Developer",
+    "tags": [
+      "Writing",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stefanimhoff-de": {
+    "name": "Stefan Imhoff",
+    "summary": "Design Engineer from Hamburg, Germany",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stevenscrawls-com": {
+    "name": "Stevenscrawls",
+    "summary": "Home Home Posts Mailing List RSS Contact Steven Scrawls A place to share various things I scrawl—essays, stories, and thoughts.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "taylor-town": {
+    "name": "taylor.town",
+    "summary": "🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "thomaspaulin-me": {
+    "name": "thomaspaulin.me",
+    "summary": "The intersection of aerospace, science, and programming.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tiagorangel-com": {
+    "name": "Tiago Rangel ✦ Designer & Brand Strategist",
+    "summary": "Personal site of Tiago Rangel ✦ Designer & Brand Strategist.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "disruptingjapan-com": {
+    "name": "Disrupting Japan",
+    "summary": "Startups and Venture Capital in Japan",
+    "role": "Investor",
+    "tags": [
+      "AI",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ttntm-me": {
+    "name": "Ttntm",
+    "summary": "Tom's homepage. A personal website, journal and playground.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tracydurnell-com": {
+    "name": "Tracy Durnell's Mind Garden",
+    "summary": "Personal site of Tracy Durnell's Mind Garden.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tylerknowsnothing-com": {
+    "name": "Tyler Knows Nothing",
+    "summary": "All the nothing Tyler knows in one place!",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "udara-io": {
+    "name": "Udara Jay",
+    "summary": "ideas, work and experiments",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design"
+    ],
+    "features": []
+  },
+  "vedran-miletic-net": {
+    "name": "Vedran Miletić's personal parallel world",
+    "summary": "Homepage of Dr. Vedran Miletić: researcher, teacher, open source software developer, and not that kind of doctor.",
+    "role": "Researcher",
+    "tags": [
+      "Open Source",
+      "Education"
+    ],
+    "features": []
+  },
+  "tegowerk-eu": {
+    "name": "Tegowerk",
+    "summary": "Personal site of Tegowerk.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "wargaluk-com": {
+    "name": "Wargaluk",
+    "summary": "The personal website of wargaluk, a conscious physical being and a person.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "ides-dev": {
+    "name": "ides.dev",
+    "summary": "ides.dev ides.dev 7th June 2026 The Right Stuff - Tom Wolfe Shining a light on the Mercury Seven.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "williamhleucka-com": {
+    "name": "William Hleucka",
+    "summary": "William Hleucka — Full Stack Developer in Lethbridge, AB. Explore my projects, work experience, education, and writing on building for the web.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "winnielim-org": {
+    "name": "Winnie Lim",
+    "summary": "fragments expressed as a whole",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "winstoncooke-com": {
+    "name": "Winston Cooke",
+    "summary": "Winston Cooke home blog gallery projects notes [w@π ~] $ cat .winstonrc # Howdy & γειά σας!",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "wittegrond-net": {
+    "name": "Witte Grond",
+    "summary": "Music composed by Tjerk Busstra",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": []
+  },
+  "yuv-al": {
+    "name": "Yuval Adam",
+    "summary": "Software engineer, entrepreneur, and technology enthusiast. Working on Namekit, experimenting with agentic coding, and sharing insights about modern web development.",
+    "role": "Founder",
+    "tags": [
+      "Music"
+    ],
+    "features": []
+  },
+  "zygimantas-com": {
+    "name": "Zygimantas: Full-stack software developer",
+    "summary": "Personal site of Zygimantas: Full-stack software developer.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "chillbilldill-com": {
+    "name": "Chillbilldill",
+    "summary": "How to sell usage rights to your photos. All about microstock and print-on-demand. Guides, tips, news, software reviews, marketplace comparisons, and more.",
+    "role": "Photographer",
+    "tags": [
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "roose-digital": {
+    "name": "roo.se",
+    "summary": "Personal site of roo.se.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "spaq-in": {
+    "name": "Spaq",
+    "summary": "the homepage",
+    "role": "Photographer",
+    "tags": [
+      "Writing",
+      "Photography"
+    ],
+    "features": []
+  },
+  "aayushsahu-com": {
+    "name": "Aayush Kumar Sahu",
+    "summary": "Developer and Explorer",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "abhishekbanthia-com": {
+    "name": "Abhishek",
+    "summary": "Abhishek 👋 Abhishek Banthia Software Engineer Hi!",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "abgn-me": {
+    "name": "Albin Groen",
+    "summary": "Web and app developer with 8+ years of React/React-Native and TypeScript experience. Design enthusiast, speaker, and Open Source maintainer.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "tiniuc-com": {
+    "name": "Alex Tiniuc",
+    "summary": "Personal site of Alex Tiniuc.",
+    "role": "Artist",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ameye-dev": {
+    "name": "Technical blog by Alexander Ameye.",
+    "summary": "My technical blog containing articles about Unity, games, shaders, graphics engineering, rendering, technical art and programming.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "isora-me": {
+    "name": "Isora",
+    "summary": "A blog about making and launching startups and side projects.",
+    "role": "",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": []
+  },
+  "aezarebski-github-io": {
+    "name": "Alexander Zarebski",
+    "summary": "Personal site of Alexander Zarebski.",
+    "role": "Researcher",
+    "tags": [
+      "Math"
+    ],
+    "features": []
+  },
+  "quaxio-com": {
+    "name": "Alok Menghrajani",
+    "summary": "Previously: security engineer at Square/Block, co-author of HackLang, put the 's' in https at Facebook/Meta. Maker of CTFs.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "fasterthanli-me": {
+    "name": "fasterthanli.me",
+    "summary": "fasterthanli.me amos wenger · they/them French&#x2F;Swiss enby making videos about Rust, how computers work, and whatever strikes my fancy.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-x-way-org": {
+    "name": "x-log",
+    "summary": "x-log - personal weblog of Andreas Jaggi",
+    "role": "",
+    "tags": [
+      "Writing",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "andreinc-net": {
+    "name": "Andreinc",
+    "summary": "A minimalist developer blog.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "andrewwalpole-com": {
+    "name": "Andrew Walpole",
+    "summary": "Principal Web Developer and Engineering Manager",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "aneeshsathe-com": {
+    "name": "Aneeshsathe",
+    "summary": "Personal site of Aneeshsathe.",
+    "role": "",
+    "tags": [
+      "Writing",
+      "Education"
+    ],
+    "features": []
+  },
+  "ashconnolly-com": {
+    "name": "Ash Connolly",
+    "summary": "Consultant Software Engineer working with TypeScript, React, Next.js, based in the UK.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "drashsmith-com": {
+    "name": "Open Data Anti-Hero",
+    "summary": "Personal site of Open Data Anti-Hero.",
+    "role": "Researcher",
+    "tags": [],
+    "features": []
+  },
+  "ashishb-net": {
+    "name": "Selected Posts",
+    "summary": "A collection of selected posts",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "autodidacts-io": {
+    "name": "The Autodidacts",
+    "summary": "Exploring the universe from the inside out",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "lackofimagination-org": {
+    "name": "Lack of Imagination",
+    "summary": "Personal site of Lack of Imagination.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "benjamincongdon-me": {
+    "name": "Ben Congdon",
+    "summary": "The personal website of Ben Congdon",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hekster-org": {
+    "name": "Ben Hekster",
+    "summary": "Personal site of Ben Hekster.",
+    "role": "Researcher",
+    "tags": [],
+    "features": []
+  },
+  "belief-driven-design-com": {
+    "name": "belief driven design",
+    "summary": "belief driven design belief driven design .",
+    "role": "",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bernd-dev": {
+    "name": "Bernd Verst",
+    "summary": "Posts from Bernd Verst about technology, gadgets, music production, travel and running.",
+    "role": "Developer",
+    "tags": [
+      "Open Source",
+      "Security",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "brandur-org": {
+    "name": "Brandur",
+    "summary": "Home — brandur.org brandur.org Articles Atoms Fragments Newsletter Sequences Now Uses About Auto I'm Brandur.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "brendanlentz-com": {
+    "name": "Brendan Lentz",
+    "summary": "Senior software engineer sharing ideas on building reliable software, simplifying systems, and taking ownership in engineering.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "deverman-org": {
+    "name": "Brent Deverman",
+    "summary": "Swift in unexpected places. Stream Deck plugins, Miro via WebAssembly, MCP servers, server-side.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "snarky-ca": {
+    "name": "Tall, Snarky Canadian",
+    "summary": "Python core developer. Tall, snarky Canadian.",
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bytes-zone": {
+    "name": "bytes.zone",
+    "summary": "bytes.zone bytes.zone posts projects talks open invitation 👋 Hey there!",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "brianpeek-com": {
+    "name": "BrianPeek.com",
+    "summary": "I'm a software engineer at Microsoft in the Xbox Advanced Technology Group (ATG). In my spare time, I write new & retro games and tinker with hardware.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "brittanycheng-com": {
+    "name": "Brittany Cheng Betten",
+    "summary": "Brittany Cheng Betten's Lovable Generated Personal Website",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "bryanleetc-com": {
+    "name": "Bryan Lee",
+    "summary": "Bryan Lee is a product leader based in Düsseldorf, Germany",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-brycekerley-net": {
+    "name": "Blog",
+    "summary": "Copyright 2005-present Bryce Kerley.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bunniestudios-com": {
+    "name": "bunnie",
+    "summary": "Personal site of bunnie.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cahyawibawa-com": {
+    "name": "Cahya Wibawa",
+    "summary": "Developer, designer, and creator.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "calebjay-com": {
+    "name": "Caleb",
+    "summary": "The personal website of Caleb Jay Rogers, Software Engineer",
+    "role": "Photographer",
+    "tags": [
+      "Writing",
+      "Photography"
+    ],
+    "features": []
+  },
+  "cprimozic-net": {
+    "name": "Casey Primozic",
+    "summary": "The homepage of Casey Primozic / Ameo",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "catalins-tech": {
+    "name": "Catalin's Tech",
+    "summary": "A software developer who enjoys sharing knowledge with others",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "celestineyeh-com": {
+    "name": "Celestine Yeh",
+    "summary": "Personal site of Celestine Yeh.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ceklog-kindel-com": {
+    "name": "tig.log",
+    "summary": "This is Tig Kindel's blog. He writes about leadership and building products. Also about books, cars, guns, soccer, skiing, and beer.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "charmaineklee-com": {
+    "name": "Charmaine Lee",
+    "summary": "Personal site of Charmaine Lee.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Product"
+    ],
+    "features": []
+  },
+  "chrisritchie-org": {
+    "name": "Christopher Ritchie",
+    "summary": "Christopher Ritchie Photo portfolio Blog",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "cri-dev": {
+    "name": "Christian Fei",
+    "summary": "Christian Fei&#39;s blog - Software Developer and hobbyist maker - A blog about Programming, DIY and personal ramblings",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "christina-is": {
+    "name": "Christina Warren",
+    "summary": "Christina Warren | Christina Warren: Senior Tech Analyst at Mashable. Lover of film, media and technology. I have opinions.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "clemsau-com": {
+    "name": "Clément Sauvage",
+    "summary": "Personal site of Clément Sauvage.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "damieng-com": {
+    "name": "DamienG.com",
+    "summary": "Damien Guard on software development, typography, vintage computing, and .NET.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-danslimmon-com": {
+    "name": "Dan Slimmon",
+    "summary": "Scientific incident response",
+    "role": "",
+    "tags": [
+      "Math",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "danieldk-eu": {
+    "name": "Daniël",
+    "summary": "Hi! My name is Daniël 👋 (Short Bio, Socials). Read this site’s AI policy.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "dagrz-com": {
+    "name": "Meanderings by Daniel Grzelak",
+    "summary": "Personal site of Meanderings by Daniel Grzelak.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "darekkay-com": {
+    "name": "Darek Kay",
+    "summary": "Darek Kay is a professional front-end developer and an accessibility advocate.",
+    "role": "Photographer",
+    "tags": [
+      "Web Dev",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dlaa-me": {
+    "name": "dlaa.me",
+    "summary": "The web site of David Anson",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-singleton-io": {
+    "name": "flurries of latent creativity",
+    "summary": "Personal site of flurries of latent creativity.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "deborahzhang-com": {
+    "name": "PA尊龙时凯·(中国区)人生就是搏!",
+    "summary": "PA尊龙时凯【✅ ZL5.NET ✅】数字时代，围绕企业数字化转型，PA尊龙时凯开创性的提出“数云融合”战略和技术体系框架，着力在云原生、数字原生、数云融合关键技术和信创产业上架构产品和服务能力。",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "vale-rocks": {
+    "name": "Vale.Rocks",
+    "summary": "Personal site of Vale.Rocks.",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "den-dev": {
+    "name": "Den Delimarsky",
+    "summary": "Personal site of Den Delimarsky.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dhrumil-ca": {
+    "name": "Dhrumil Patel",
+    "summary": "Data, Dogs, and Minimalism",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "didiercatz-com": {
+    "name": "Didier Catz",
+    "summary": "Design engineer from the Netherlands obsessed with details. Currently at Linear.",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "digi-ing-de": {
+    "name": "Digi-Ing",
+    "summary": "Personal site of Digi-Ing.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "doantranminhthanh-com": {
+    "name": "đoàn trần minh thành",
+    "summary": "Personal site of đoàn trần minh thành.",
+    "role": "Developer",
+    "tags": [
+      "Writing",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "duncanmackenzie-net": {
+    "name": "Duncan Mackenzie",
+    "summary": "Articles about web development, engineering leadership, and some random personal ramblings",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dylanfisher-com": {
+    "name": "Dylan Fisher",
+    "summary": "Dylan Fisher Labud and former adjunct professor at Parsons School of Design.",
+    "role": "Researcher",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "edfreitas-me": {
+    "name": "Ed",
+    "summary": "Personal site of Ed.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Design"
+    ],
+    "features": []
+  },
+  "hernandis-me": {
+    "name": "Elias Hernandis",
+    "summary": "This is my personal website, where I sometimes write stuff about mathematics and code, although it is almost always nonsense.",
+    "role": "Founder",
+    "tags": [
+      "Startups"
+    ],
+    "features": []
+  },
+  "eklausmeier-goip-de": {
+    "name": "Elmar Klausmeier",
+    "summary": "Elmar Klausmeier's Blog on Computers, Programming, and Mathematics",
+    "role": "",
+    "tags": [
+      "Web Dev",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "duncan-land": {
+    "name": "Ephraim Duncan",
+    "summary": "Software engineer and open-source developer building polished web experiences. Passionate about TypeScript, Go, and creating beautiful, functional software.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "blog-erlend-sh": {
+    "name": "Open Indie",
+    "summary": "Writing about open & equitable product development",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "flaviocopes-com": {
+    "name": "Flavio Copes",
+    "summary": "I help people learn to code.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "gabewolford-com": {
+    "name": "Gabe Wolford",
+    "summary": "A little bit of this, a little bit of that.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "sicpers-info": {
+    "name": "Sicpers",
+    "summary": "Structure and Interpretation of Computer Programmers | From programmer to software engineer.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "glthr-com": {
+    "name": "glthr.com",
+    "summary": "A blog powered by Hashnode",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "hamishcampbell-com": {
+    "name": "#OMN (Open Media Network)",
+    "summary": "Personal site of #OMN (Open Media Network).",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-horaceg-xyz": {
+    "name": "Regression toward the meaning",
+    "summary": "A blog by Horace Guy",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Math"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hynek-me": {
+    "name": "Hynek Schlawack",
+    "summary": "Hynek Schlawack: Pythonista, Gopher, blogger, speaker, and YouTuber from Berlin / Germany.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-kulman-sk": {
+    "name": "Igor Kulman",
+    "summary": "A personal blog",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "imran-khan-com": {
+    "name": "Imran Khan",
+    "summary": "Imran Khan Imran Khan about posts tags archives search software engineer.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "irensaltali-com": {
+    "name": "İren Saltalı",
+    "summary": "Notes on cloud, code, community and whatever else İren Saltalı — a Turkish computer engineer in Ankara — is curious about that quarter.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": []
+  },
+  "thejavaguy-org": {
+    "name": "TheJavaGuy Software &",
+    "summary": "Personal site of TheJavaGuy Software & Blog.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jbcrawford-us": {
+    "name": "J. B. Crawford",
+    "summary": "Personal site of J. B. Crawford.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Security"
+    ],
+    "features": []
+  },
+  "jacquescorbytuech-com": {
+    "name": "Jacquescorbytuech",
+    "summary": "Personal site of Jacquescorbytuech.",
+    "role": "",
+    "tags": [
+      "Writing",
+      "Education"
+    ],
+    "features": []
+  },
+  "blog-codinghorror-com": {
+    "name": "Coding Horror",
+    "summary": "programming and human factors",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jeffgeerling-com": {
+    "name": "Jeff Geerling",
+    "summary": "Jeff Geerling | Home Jeff Geerling YouTube Merch Blog About RSS Father, author, developer, maker.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "lapcatsoftware-com": {
+    "name": "Jeff Johnson",
+    "summary": "The résumé of Jeff Johnson, professional Mac and iOS developer.",
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
+    "features": []
+  },
+  "jeffwilcox-blog": {
+    "name": "Jeff Wilcox",
+    "summary": "Jeff Wilcox is a principal engineer at Microsoft working on Microsoft's engineering system. Jeff lives in Seattle.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "jensrantil-github-io": {
+    "name": "Jens Rantil",
+    "summary": "Backend/security/infrastructure/DevOps/staff(ish) engineer, engineering mathematics, traveller, nerd, juggler, guitar/african drum player. Inspired Swede.",
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "danyow-net": {
+    "name": "Jeremy Danyow",
+    "summary": "SPA development and other stuff",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "sjer-red": {
+    "name": "Jerred Shepherd",
+    "summary": "Jerred Shepherd Home Projects Blog Bookmarks I’m a person who loves learning.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "jess-dev": {
+    "name": "Ramblings from Jessie",
+    "summary": "The blog of Jessie Frazelle, hacker of all things: systems, kernels, operating systems, etc...",
+    "role": "Developer",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "joethor-dev": {
+    "name": "Joe Thor",
+    "summary": "Personal Blog",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "daringfireball-net": {
+    "name": "Daring Fireball",
+    "summary": "Commentary on Apple, technology, design, politics, and more.",
+    "role": "",
+    "tags": [
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "johnpapa-net": {
+    "name": "John Papa",
+    "summary": "John Papa is a professional Web Developer and storyteller. He currently leads the Academic Cloud Advocacy teams at Microsoft and formerly worked for Disney.",
+    "role": "Researcher",
+    "tags": [
+      "Writing",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jonathan-rico-live": {
+    "name": "Redirecting…",
+    "summary": "Redirecting… Redirecting to about …",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "jmmv-dev": {
+    "name": "Julio Merino",
+    "summary": "Personal site of Julio Merino.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "karnwong-me": {
+    "name": "Karn Wong",
+    "summary": "Homepage and blog by Karn Wong",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "blog-vashishtha-in": {
+    "name": "kart",
+    "summary": "Broadly interested in programming languages and systems programming.",
+    "role": "",
+    "tags": [
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "akkartik-name": {
+    "name": "Kartik Agaram",
+    "summary": "Kartik Agaram about contact Kartik Agaram Freewheeling Apps I build Freewheeling Apps , computer programs that reward curiosity.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "keithcirkel-co-uk": {
+    "name": "Keith Cirkel",
+    "summary": "Software Cyber Shepherd",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "righto-com": {
+    "name": "Ken Shirriff",
+    "summary": "Computer history, restoring vintage computers, IC reverse engineering, and whatever",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "thespatula-io": {
+    "name": "the spatula",
+    "summary": "Personal site of the spatula.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "primaryobjects-com": {
+    "name": "Primary Objects",
+    "summary": "Software development articles by Kory Becker. Javascript, artificial intelligence, data science, .NET, databases, UI design, web services, and more.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "knowing-net": {
+    "name": "That blog I keep intending to update",
+    "summary": "Personal site of That blog I keep intending to update.",
+    "role": "Photographer",
+    "tags": [
+      "AI",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "galasoft-ch": {
+    "name": "GalaSoft Laurent Bugnion",
+    "summary": "Personal site of GalaSoft Laurent Bugnion.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "lesleylai-info": {
+    "name": "Lesley Lai",
+    "summary": "Personal website of Lesley Lai, featuring a blog, public notes, and a portfolio of personal projects",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "lqdev-me": {
+    "name": "Luis Quintanilla",
+    "summary": "Personal site of Luis Quintanilla.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-lukesalamone-com": {
+    "name": "Luke Salamone",
+    "summary": "Luke Salamone's blog on machine learning, AI research, and software engineering.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hjr265-me": {
+    "name": "Mahmud Ridwan (hjr265)",
+    "summary": "Founder of Furqan Software. Built Toph, Bangladesh's leading competitive programming platform. Software engineer based in Dhaka 🇧🇩.",
+    "role": "Founder",
+    "tags": [
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "manpreet-fyi": {
+    "name": "Manpreet Kunnath",
+    "summary": "I build software for the web and mobile.",
+    "role": "Writer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": []
+  },
+  "gibney-org": {
+    "name": "Marek Gibney",
+    "summary": "Personal site of Marek Gibney.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bernsteinbear-com": {
+    "name": "Max Bernstein",
+    "summary": "Max Bernstein home blog microblog favorites pl resources bread recipes rss Mastodon I’m Max Bernstein.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hellomayuko-com": {
+    "name": "Mayuko Inoue",
+    "summary": "MAYUKO INOUE IS A CONTENT CREATOR AND SOFTWARE ENGINEER BASED IN SAN DIEGO",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "mayurbhoi-com": {
+    "name": "Mayur Bhoi",
+    "summary": "Full-stack developer; doing what I love.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "meg-dev": {
+    "name": "Hello",
+    "summary": "Product @ Kaggle (Google). Community, data science, language, & weirdness.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "zerowidthjoiner-net": {
+    "name": "Zero Width Joiner (U+200D)",
+    "summary": "Zero Width Joiner (U+200D) - Random thoughts and coding. Melvyn Laïly's personal (website|blog)...",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "michael-mior-ca": {
+    "name": "Michael Mior",
+    "summary": "Software & Data Engineer | Data Unity Lab Director | Assistant Professor at RIT, PhD",
+    "role": "Researcher",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tirania-org": {
+    "name": "Tirania",
+    "summary": "Stuff: blog PGP Public Key My projects: Xamarin Mono project Gnumeric Gnome Midnight Commander ( Wikipedia page ).",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "mijndertstuij-nl": {
+    "name": "Mijndert Stuij",
+    "summary": "A lead platform engineer writing about cloud infrastructure, DevOps, running, and minimalism.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mikekasberg-com": {
+    "name": "&middot; Mike Kasberg",
+    "summary": "Home &middot; Mike Kasberg Mike Kasberg Husband.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "xaml-dev": {
+    "name": "dotMorten",
+    "summary": "dotMorten - .NET Ramblings, XAML hacking and some GIS endeavors - .NET Ramblings, XAML hacking and some GIS endeavors",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "muhammadraza-me": {
+    "name": "Muhammad",
+    "summary": "Personal Blog where I write about things I learn or discover.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nelson-cloud": {
+    "name": "Nelson Figueroa",
+    "summary": "Nelson Figueroa — Software Engineer based in Los Angeles, California. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nicolasbouliane-com": {
+    "name": "Nicolas Bouliane",
+    "summary": "I'm a former software engineer in big, beautiful Berlin",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ntietz-com": {
+    "name": "hello!",
+    "summary": "Personal site of hello!.",
+    "role": "",
+    "tags": [
+      "Writing",
+      "Open Source",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nickgnd-com": {
+    "name": "nickgnd’s",
+    "summary": "nickgnd - software engineer passionate about technology. sharing whatever comes to my mind, read it at your own risk.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "swimburger-net": {
+    "name": "Swimburger",
+    "summary": "Swimburger.net is a blog about .NET, Web, Azure, Umbraco, and whatever comes across Swimburger's plate. Swimburger.net is run by Niels Swimberghe.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "unsungnovelty-org": {
+    "name": "unsungNovelty",
+    "summary": "unsungNovelty section - Data, Information accessibility and Security.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source",
+      "Security"
+    ],
+    "features": []
+  },
+  "ninio-ninarski-com": {
+    "name": "Ninio's Learning Notes",
+    "summary": "Just notes on problems I face",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "orvillemcdonald-com": {
+    "name": "Orville McDonald",
+    "summary": "Random thoughts on technology and business",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "outlore-dev": {
+    "name": "Outlore",
+    "summary": "Techno-babble from the wilderness.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "paulirish-com": {
+    "name": "Paul Irish",
+    "summary": "Personal site of Paul Irish.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "paul-totterman-name": {
+    "name": "Paul",
+    "summary": "Personal site of Paul's page.",
+    "role": "Founder",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "petermekhaeil-com": {
+    "name": "Peter Mekhaeil",
+    "summary": "Peter is a software engineer with a focus on optimizing performance and delivering a seamless user experience.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "philippcannons-com": {
+    "name": "Philipp Cannons",
+    "summary": "Product, Music, Fitness, AI",
+    "role": "",
+    "tags": [
+      "AI",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "qsantos-fr": {
+    "name": "Quentin Santos",
+    "summary": "Obsessed with computers since 2002",
+    "role": "Researcher",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "untested-sonnet-io": {
+    "name": "Untested",
+    "summary": "Projects, experiments and toys by Rafał Pastuszak",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "ralfj-de": {
+    "name": "ralfj.de",
+    "summary": "ralfj.de ralfj.de Projects Blog ralfj.de Welcome Welcome at ralfj.de, my server for experiments and digital autonomy.",
+    "role": "Developer",
+    "tags": [
+      "Education"
+    ],
+    "features": []
+  },
+  "rtpg-co": {
+    "name": "Raphael",
+    "summary": "Personal site of Raphael.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "syscall-eu": {
+    "name": "Homepage of Raphaël Rigo",
+    "summary": "Homepage of Raphaël Rigo Publications Conferences papers INFILTRATE 2020 : Attacking Xerox Multi Function Printers.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "rednafi-com": {
+    "name": "Redowan's Reflections",
+    "summary": "Personal site of Redowan's Reflections.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "reprodev-com": {
+    "name": "ReproDev",
+    "summary": "We're on a mission to explore the DIY tech world. This blog features resources and tutorials on self-hosting, AI, open source software, scripting, and more",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "robertheaton-com": {
+    "name": "Robert Heaton",
+    "summary": "Software engineer. One-track lover down a two-way lane",
+    "role": "Developer",
+    "tags": [
+      "Writing",
+      "Crypto",
+      "Security"
+    ],
+    "features": []
+  },
+  "seirdy-one": {
+    "name": "Seirdy’s",
+    "summary": "My personal IndieWeb site. I write about and develop software to promote user autonomy. Topics include accessibility, security, privacy, and software freedom.",
+    "role": "Developer",
+    "tags": [
+      "Design",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "rb-ax": {
+    "name": "Ryan Bagley",
+    "summary": "Personal blog of network engineer Ryan Bagley.",
+    "role": "Developer",
+    "tags": [
+      "Writing",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ryanlynch-me": {
+    "name": "Ryan Lynch",
+    "summary": "Ryan Lynch — Software Engineer, Builder, Learner",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "salman-io": {
+    "name": "Salman Ansari",
+    "summary": "Salman Ansari salman.io about &nbsp; blog &nbsp; book &nbsp; garden The Courage to be Disliked Stop worrying about what other people think.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "saltycrane-com": {
+    "name": "SaltyCrane",
+    "summary": "SaltyCrane SaltyCrane — Notes on JavaScript and web development My homepage has very little content.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "trycatch-dev": {
+    "name": "trycatch.dev",
+    "summary": "Code, musings, and tea. Lots of tea.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "sasharosenbaum-com": {
+    "name": "Sasha Rosenbaum website and",
+    "summary": "Personal site of Sasha Rosenbaum website and blog.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "hanselman-com": {
+    "name": "Scott Hanselman",
+    "summary": "Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, inclusion advocate and more.",
+    "role": "Writer",
+    "tags": [
+      "Writing",
+      "Education"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "scastiel-dev": {
+    "name": "Sebastien Castiel",
+    "summary": "Personal site of Sebastien Castiel.",
+    "role": "Writer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "dsebastien-net": {
+    "name": "Sébastien Dubois",
+    "summary": "Organize your thoughts, life & work ⚡ AI, Personal Organization, LifeOS, Obsidian.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-shaishav-kr": {
+    "name": "wiresurfer's library",
+    "summary": "Hello there! I'm Shaishav Kr , often known by my internet alias @wiresufer",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cosmicqbit-dev": {
+    "name": "cosmicqbit.dev",
+    "summary": "Developer & Designer",
+    "role": "Designer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "sirajchokshi-com": {
+    "name": "Siraj Chokshi",
+    "summary": "Siraj Chokshi. Programmer and software designer. I like simple solutions to complex problems.",
+    "role": "Designer",
+    "tags": [
+      "Design"
+    ],
+    "features": []
+  },
+  "muffinman-io": {
+    "name": "Muffin Man",
+    "summary": "Hello, I'm Stanko, a programmer who makes tools, generative art, games and interactive blog posts",
+    "role": "Developer",
+    "tags": [
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stephango-com": {
+    "name": "Steph Ango",
+    "summary": "Ideas, essays, and projects by Steph Ango.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vgel-me": {
+    "name": "Theia Vogel",
+    "summary": "Blog about linguistics, programming, and my projects",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Writing",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "thejeshgn-com": {
+    "name": "Thejesh GN",
+    "summary": "A container for all my views with excerpts from technology, travel, films, books, kannada, friends and other interests. I am Thejesh GN, friends call me Thej.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-timcappalli-me": {
+    "name": "Timbits",
+    "summary": "Personal site of Timbits.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "timheuer-com": {
+    "name": "Timheuer",
+    "summary": "Personal site of Timheuer.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "tomkennes-com": {
+    "name": "Tom Kennes",
+    "summary": "Tom Kennes — Technology leader designing cloud platforms for Data & AI where engineering decisions drive cost, reliability, and organizational performance.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "tsugu-xyz": {
+    "name": "Tsugu's cave",
+    "summary": "A landing page for anyone interested in my other social media or my work.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "victorbjorklund-com": {
+    "name": "Victor Björklund",
+    "summary": "Developer and consultant specializing in Svelte, Elixir, Phoenix Framework, and PostgreSQL. Building amazing apps and websites that deliver value.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vk7-eu": {
+    "name": "Personal homepage of Vitalii Kovalenko",
+    "summary": "Web development and internet history notes, travel photography, and other hobby projects.",
+    "role": "Photographer",
+    "tags": [
+      "Photography"
+    ],
+    "features": []
+  },
+  "vitochin-com": {
+    "name": "Vito Chin",
+    "summary": "Personal site of Vito Chin.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vladiliescu-net": {
+    "name": "Vlad Iliescu",
+    "summary": "Microsoft Most Valuable Professional on AI, coding architect and/or manager, public speaker and storyteller, forever learning.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "haltakov-net": {
+    "name": "Vlad's Chatbot Page",
+    "summary": "Chat with Vladimir Haltakov AI bot and ask about his work, projects, and personal interests.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Startups"
+    ],
+    "features": []
+  },
+  "vladsiv-com": {
+    "name": "vladsiv",
+    "summary": "Personal blog on modern data systems, machine learning, and cloud engineering - mixed with art, musings, and research notes.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "ym2132-github-io": {
+    "name": "Ym2132",
+    "summary": "Yusuf's Deep Learning Blog Welcome to my Blog!",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "y-tsutsumi-io": {
+    "name": "Yusuke Tsutsumi",
+    "summary": "My blog on software, productivity, and obsessively optimizing. I work at Google, ex-Zillow. Thoughts my own.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "zck-org": {
+    "name": "zck.org",
+    "summary": "zck.org zck.org No readers, no content.",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": []
+  },
+  "whizzoe-com": {
+    "name": "I'm Zoe Chew 👋",
+    "summary": "Making sense of emerging tech markets at Venturescale.to. Fractional operator and execution partner. Alum at On Deck Founder Fellowship (ODF10).",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Startups"
+    ],
+    "features": []
+  },
+  "web-libera-chat": {
+    "name": "Kiwi IRC",
+    "summary": "Personal site of Kiwi IRC.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "arkoinad-com": {
+    "name": "Decidedly Confused Thoughts",
+    "summary": "Decidedly Confused Thoughts Home About Contact All posts Hakyll Wishlist Decidedly Confused Thoughts Lost in thought, tangled in ideas.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "news-ycombinator-com": {
+    "name": "Hacker News",
+    "summary": "Hacker News Hacker News new | past | comments | ask | show | jobs | submit login 1.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "akpain-net": {
+    "name": "Hello! :: abi abi",
+    "summary": "Hi! I'm Abi, a UK-based Computer Science student, photographer and programmer.",
+    "role": "Photographer",
+    "tags": [
+      "Writing",
+      "Photography",
+      "Music"
+    ],
+    "features": []
+  },
+  "evalapply-org": {
+    "name": "Evalapply",
+    "summary": "Hi, I&apos;m Aditya Athalye.",
+    "role": "Developer",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "aishwaryagoel-com": {
+    "name": "Aishwarya Goel (Ash)",
+    "summary": "Hi, Welcome to my digital corner where i share and write about building startups, art of human interactions, joy of living life in present and anything that ...",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "alangrow-com": {
+    "name": "Homepage of Alan Grow",
+    "summary": "Homepage of Alan Grow Hello World I'm Alan Grow, a software developer and startup founder.",
+    "role": "Founder",
+    "tags": [
+      "Design",
+      "Startups"
+    ],
+    "features": []
+  },
+  "tsalolikhin-com": {
+    "name": "Aleksey Tsalolikhin",
+    "summary": "System Administrator & Trainer",
+    "role": "Photographer",
+    "tags": [
+      "Writing",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "alexhans-github-io": {
+    "name": "The Living Deadline",
+    "summary": "Personal site of The Living Deadline.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "alexharri-com": {
+    "name": "Alexharri",
+    "summary": "Welcome to my personal website and blog. I write about TypeScript and other software engineering topics.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": []
+  },
+  "alexlance-blog": {
+    "name": "Small Plates",
+    "summary": "Small Plates Small Plates Short stories and tech experiments.",
+    "role": "",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": []
+  },
+  "gigatexal-blog": {
+    "name": "Gigatexal",
+    "summary": "Personal site of Gigatexal.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "yak-supplies": {
+    "name": "Alex Antsiferov",
+    "summary": "Personal site of Alex Antsiferov.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "blog-yak-supplies": {
+    "name": "Alex",
+    "summary": "Learn how to build a personal website using Next.js",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "amankumar-ai": {
+    "name": "Aman Kumar (Aman AI)",
+    "summary": "Aman Kumar (Aman AI) is an AI engineer building AI products, apps, and practical engineering notes. Explore projects, blogs, experience, and tools.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nextfive-xyz": {
+    "name": "Amit @NextFive",
+    "summary": "Amit @NextFive | Amit @NextFive Amit @NextFive Home All Posts Projects Bits About Now 🌙 Hi, I’m Amit!",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "afranca-com-br": {
+    "name": "Andre Franca",
+    "summary": "Welcome to my personal blog, where I share my thoughts and interests.",
+    "role": "",
+    "tags": [
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "andrew-grahamyooll-com": {
+    "name": "Welcome friend",
+    "summary": "Welcome friend - AGY Home Writings About Hi there!",
+    "role": "",
+    "tags": [
+      "Open Source"
+    ],
+    "features": []
+  },
+  "amontalenti-com": {
+    "name": "Andrew Montalenti",
+    "summary": "@amontalenti - Founder/CTO. Coding in: Python, JavaScript, Zig.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "xorvoid-com": {
+    "name": "xorvoid",
+    "summary": "Personal site of xorvoid.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "carette-xyz": {
+    "name": "A journey into a wild pointer",
+    "summary": "A journey into a wild pointer A journey into a wild pointer /posts /projects /blame GitHub Forgejo LinkedIn RSS Hi.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "antoniosarro-dev": {
+    "name": "Making sure you're not a bot!",
+    "summary": "Making sure you&#39;re not a bot!",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "aartaka-me": {
+    "name": "Welcome!",
+    "summary": "A blog of Artyom Bologov, programmer-poet, privacy freak, and eco-activist. Programming, art, F/L/OSS, and other random stuff.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "arulpugazh-com": {
+    "name": "Arul Pugazhendi",
+    "summary": "Personal site of Arul Pugazhendi.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "asukawang-com": {
+    "name": "Asuka Wang",
+    "summary": "Asuka Wang's personal website",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "mercurialsolo-github-io": {
+    "name": "Barada's log",
+    "summary": "Ideas, projects, and explorations",
+    "role": "Founder",
+    "tags": [
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "bboy-app": {
+    "name": "Bboysoul",
+    "summary": "Personal site of Bboysoul.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "beasthacker-com": {
+    "name": "Beast Hacker",
+    "summary": "Beast Hacker Beast Hacker A place for my experiments, prototypes, and early-stage ideas.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "bendangelo-me": {
+    "name": "Bendangelo",
+    "summary": "I build apps using Ruby on Rails and AI. Also am fluent in Mandarin Chinese.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "crocidb-com": {
+    "name": "Bruno Croci",
+    "summary": "I write about programming, gamedev, hacking projects, creative code, photography and my thoughts about anything that I like.",
+    "role": "Artist",
+    "tags": [
+      "Photography",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "cliftbar-site": {
+    "name": "Cliftbar",
+    "summary": "Cliftbar Home Home Reference Musings Odin Glances Ski Climb Satellite Blahg Landing Page It's my site.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "quarters-captaintouch-com": {
+    "name": "Captain's Quarters",
+    "summary": "Captain's Quarters * █▀▀ █▀█ █▀█ ▀█▀ █▀█ █ █▄ █ ▀ █▀▀ .-----------.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "chrismorgan-info": {
+    "name": "Chrismorgan",
+    "summary": "I’m a software developer by trade and a Christian by life.",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ciju-in": {
+    "name": "ciju's curiosities and explorations",
+    "summary": "ciju&#x27;s curiosities and explorations explorations, interests &amp; opinions of a mind writings Ciju writes little, codes a little.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "smnx-sh": {
+    "name": "SMNX.SH",
+    "summary": "Personal site of SMNX.SH.",
+    "role": "Designer",
+    "tags": [],
+    "features": []
+  },
+  "cookie-engineer": {
+    "name": "Cookie Engineer",
+    "summary": "Cookie Engineer's Ideas and Projects",
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "damianwalsh-co-uk": {
+    "name": "Damian Walsh",
+    "summary": "Designer (Interaction/UX/UI) based in Manchester, England",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "dsmurrell-com": {
+    "name": "Daniel Murrell",
+    "summary": "Daniel Murrell - Product engineer, founder, explorer, and photographer.",
+    "role": "Founder",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "davidfrancoeur-com": {
+    "name": "daddykotex",
+    "summary": "Personal site of daddykotex.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "marscalendar-space": {
+    "name": "Time and date on Mars",
+    "summary": "Time and date on Mars Mars Date: Mars Time: (MTC) L S : About Cropped, Original Image Credit: AndreaLuck CC BY, raw data: ESA/DLR/FUBerlin.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "blog-winricklabs-com": {
+    "name": "winrickLabs",
+    "summary": "Personal site of winrickLabs Blog.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "potomushto-com": {
+    "name": "potomushto",
+    "summary": "journal of work & experiments | Dmitrii Loktev",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "domson-dev": {
+    "name": "domson.dev",
+    "summary": "⌨️ \" > domson.dev ⌨️ domson.dev Domson's Webbed Site Home I'm Dominic Mason , which can be shortened to Domson .",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "doug-lon-dev": {
+    "name": "Doug Hammond",
+    "summary": "Doug Hammond /index /blog Doug Hammond Software Engineer, Musician, Maker based in South London.",
+    "role": "Artist",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "slater-dev": {
+    "name": "Doug Slater",
+    "summary": "Software Engineering Leader and Mentor. Jesus follower",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "drornir-dev": {
+    "name": "drornir.dev",
+    "summary": "Dror Nir's Personal Website",
+    "role": "Developer",
+    "tags": [
+      "Startups"
+    ],
+    "features": []
+  },
+  "ed-thomas-dev": {
+    "name": "Ed Thomas",
+    "summary": "Ed Thomas - Developer, writer, and technology enthusiast",
+    "role": "Writer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "eldrid-ge": {
+    "name": "Eldridge Alexander",
+    "summary": "Eldridge's personal website",
+    "role": "Developer",
+    "tags": [
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-eldrid-ge": {
+    "name": "Eldridge",
+    "summary": "Personal site of Eldridge.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "embedding-shapes-github-io": {
+    "name": "Redirecting",
+    "summary": "Redirecting Redirecting to /en/ .",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "emgoto-com": {
+    "name": "Emma Goto",
+    "summary": "Japanese-Australian software engineer in Tokyo. Writing about hiking in Japan, coffee, birding, books and anything else that piques my interest.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "emschwartz-me": {
+    "name": "Evan Schwartz",
+    "summary": "Hi 👋, I'm Evan Schwartz. I'm an ideas person, inventor, and software engineer (Rust/Typescript). Currently, I'm working on a personalized content feed called 🐿️ Scour.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "olano-dev": {
+    "name": "olano.dev",
+    "summary": "olano.dev olano.dev blog about Hi 👋 I’m Facundo Olano , a software engineer from Buenos Aires, Argentina.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "gavinhoward-com": {
+    "name": "Gavin D. Howard",
+    "summary": "I am a member of The Church of Jesus Christ of Latter-day Saints, a husband, and a computing system designer. This is my professional blog and has only my professional writing.",
+    "role": "Designer",
+    "tags": [
+      "Design",
+      "Writing"
+    ],
+    "features": []
+  },
+  "hdocmsu-github-io": {
+    "name": "Hung P. Do, PhD, MSEE",
+    "summary": "Personal site of Hung P. Do, PhD, MSEE.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "ianreppel-org": {
+    "name": "Ian Reppel",
+    "summary": "Ian Reppel's website on quantum computing, machine learning, product management, stereoscopy, archaeology, fiction, and more",
+    "role": "",
+    "tags": [
+      "AI",
+      "Product"
+    ],
+    "features": []
+  },
+  "idiallo-com": {
+    "name": "Idiallo",
+    "summary": "A programming blog featuring insights, tutorials, and and clever tips to hack your code and daily life by Ibrahim Diallo",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "immibis-com": {
+    "name": "blog :: immibis",
+    "summary": "Personal site of blog :: immibis.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "flurdy-com": {
+    "name": "flurdy (Ivar Abrahamsen)",
+    "summary": "flurdy - Ivar Abrahamsen. Of Hampshire / Oslo / Manchester / Asker. Also known as Fjords. Main project, tutorials and code site.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": []
+  },
+  "blog-flurdy-com": {
+    "name": "flurdy's ranting",
+    "summary": "The ramblings and ranting of Ivar Abrahamsen at flurdy.com. Contain ideas, ranting at innocents, blinkered sporting opinions, tech bable, and probably not enough to be interesting.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "drshapeless-com": {
+    "name": "Drshapeless",
+    "summary": "index drshapeless blog | github Welcome!",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "jvt-me": {
+    "name": "Jamie Tanna",
+    "summary": "Personal site of Jamie Tanna.",
+    "role": "Developer",
+    "tags": [
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ztoz-blog": {
+    "name": "ℤ→ℤ",
+    "summary": "Personal site of ℤ→ℤ.",
+    "role": "Writer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jim-nielsen-com": {
+    "name": "Jim Nielsen",
+    "summary": "The personal website of Jim Nielsen.",
+    "role": "Designer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-jim-nielsen-com": {
+    "name": "Jim Nielsen’s",
+    "summary": "Writing about the big beautiful mess that is making things for the world wide web.",
+    "role": "Designer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jgc-org": {
+    "name": "John Graham-Cumming",
+    "summary": "Personal site of John Graham-Cumming.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "blog-jgc-org": {
+    "name": "John Graham-Cumming",
+    "summary": "Personal site of John Graham-Cumming.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jarv-org": {
+    "name": "jarv.org",
+    "summary": "Random thoughts and posts on tech",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "disassociated-com": {
+    "name": "disassociated.com",
+    "summary": "disassociated.com - self-publishing since 1997",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "johnzanussi-com": {
+    "name": "John Zanussi",
+    "summary": "A place where I write about technology, 3D Printing, and other hobby projects I have going on.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "jordan-matelsky-com": {
+    "name": "Jordan Matelsky",
+    "summary": "Jordan Matelsky Jordan Matelsky Code, Coffee, & Cortex I'm Jordan, a computational neuroscientist at the Johns Hopkins Applied Physics Laboratory&nbsp; .",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "blog-jordan-matelsky-com": {
+    "name": "Jordan Matelsky",
+    "summary": "Code, Coffee, & Cortex",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jjude-com": {
+    "name": "Joseph Jude",
+    "summary": "Building a flywheel of success for life and career",
+    "role": "Founder",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "jszym-com": {
+    "name": "Joseph Szymborski has a",
+    "summary": "A blog about code, cancer, and coddiwompling written by Joseph Szymborski, an PhD student at McGill studying machine learning and molecular biology.",
+    "role": "Researcher",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "joshbeckman-org": {
+    "name": "Josh Beckman's Organization",
+    "summary": "Josh Beckman's Organization Josh Building in the open Hello, friends.",
+    "role": "Developer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "joshua-hu": {
+    "name": "Joshua Rogers' Scribbles",
+    "summary": "Personal site of Joshua Rogers' Scribbles.",
+    "role": "Developer",
+    "tags": [
+      "Security",
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "zahlman-github-io": {
+    "name": "ℤahlblog",
+    "summary": "Ramblings of a veteran Pythonista with a passion for refactoring and education.",
+    "role": "",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "kevindangoor-com": {
+    "name": "Kevin Dangoor",
+    "summary": "Use the site navigation to check out the posts, or take a look at my About Me page.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "kevinsdias-com": {
+    "name": "Kevin Scott Dias: author and startup founder",
+    "summary": "The personal page of Kevin Scott Dias - The intersection of software development and speech language pathology.",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing",
+      "Open Source"
+    ],
+    "features": []
+  },
+  "skushagra-com": {
+    "name": "Declarative",
+    "summary": "Personal site of Declarative.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "ktross-com": {
+    "name": "Kyle Ross",
+    "summary": "Personal site of Kyle Ross.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "laurentrdc-xyz": {
+    "name": "Laurent's",
+    "summary": "Laurent's personal website - Laurent P.",
+    "role": "Developer",
+    "tags": [
+      "Open Source"
+    ],
+    "features": []
+  },
+  "gmnz-xyz": {
+    "name": "• Lawrence Gimenez",
+    "summary": "I'm Lawrence — a full-stack developer focused on native apps, independent products, and useful systems.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Music"
+    ],
+    "features": []
+  },
+  "blog-leiw-ai": {
+    "name": "Lei",
+    "summary": "Personal site of Lei.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev",
+      "Writing"
+    ],
+    "features": []
+  },
+  "trms-me": {
+    "name": "trms",
+    "summary": "Lorenzo's blog about habits, productivity, tech, and whatever else fancies him.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "makc-co": {
+    "name": "MAKC.CO",
+    "summary": "The personal website of Makc Criswell. A propagandist for pickled red onions, a rare meat activist, barely-monetizable YouTuber and Captain of the sailing vessel Argo.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": []
+  },
+  "marcolabarile-me": {
+    "name": "MARCO LABARILE",
+    "summary": "Marco Labarile’s personal website and blog.",
+    "role": "Founder",
+    "tags": [
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "terra-incognita-blog": {
+    "name": "msmetko",
+    "summary": "Personal site of msmetko.",
+    "role": "",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "blog-plover-com": {
+    "name": "The Universe of Discourse",
+    "summary": "From the highly eclectic blog of Mark Dominus",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "m0rtyn-cc": {
+    "name": "m0rtyn.cc",
+    "summary": "m0rtyn's personal links and projects",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "blog-m0rtyn-cc": {
+    "name": "Martyns's Wlog",
+    "summary": "Personal site of Martyns's Wlog.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "italianpoetry-it": {
+    "name": "Italian poetry for English speakers",
+    "summary": "This website aims to facilitate the appreciation of Italian poetry by English speakers who don't speak Italian.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mattcrampton-com": {
+    "name": "MattCrampton.com",
+    "summary": "A blog about software development, startups, camping and beards",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "gingerbeardman-com": {
+    "name": "Matt Sephton. Game Developer.",
+    "summary": "Personal website of Matt Sephton: award winning game and app developer.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mattshams-com": {
+    "name": "Matt Shams(Anis)",
+    "summary": "Researcher focused on distributed cognition, composable intelligence, and human intelligence acceleration (economic Turing completeness).",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "xnacly-me": {
+    "name": "xnacly",
+    "summary": "A blog all around tech, programming and whatever im currently interested in",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "blog-matthewbrunelle-com": {
+    "name": "Matthew Brunelle",
+    "summary": "I write about a variety of projects, events and thoughts, but they all share one aspect: I learned something and want to share my experience with others.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "michaelsalim-co-uk": {
+    "name": "Michael Salim",
+    "summary": "Get your projects a reality with a few steps. Michael Salim is a Senior Full Stack Freelancer and the creator of the Recall project management software.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Startups"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "grepular-com": {
+    "name": "grepular.com",
+    "summary": "Mike Cardwell's blog on Linux, security, and privacy — tutorials, analysis, and tools",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Crypto",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mikedamm-com": {
+    "name": "Mike Damm",
+    "summary": "Mike Damm linkedin.com/in/miked &nbsp;|&nbsp; Mastodon",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "myhsu-xyz": {
+    "name": "Min Hsu",
+    "summary": "Min-Yih \"Min\" Hsu's Personal Website",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "mitanshu7-github-io": {
+    "name": "Mitanshu Sukhwani’s",
+    "summary": "Mitanshu Sukhwani’s Blog Mitanshu Sukhwani’s Blog Nice To Meet You!",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "akr-am": {
+    "name": "akr.am",
+    "summary": "Personal site of akr.am.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nabraj-com": {
+    "name": "nabraj.com",
+    "summary": "The personal homepage of Nabraj (NT) covering web development, breadboard projects, tech insights, sports, philosophy, and musings on life beyond the code.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": []
+  },
+  "natemeyvis-com": {
+    "name": "Nate Meyvis",
+    "summary": "Pulpit! Canst thou not make a pulpit, by simply inverting the nearest tub...[^1] I am an itinerant software engineer who likes to raise children, read, an...",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "neilkakkar-com": {
+    "name": "Neil Kakkar",
+    "summary": "I want to understand how the world works. This blog tracks my growth, the things I’ve learned, and how I’m leveraging them to do epic things.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "ninkovic-dev": {
+    "name": "Nemanja Ninkovic",
+    "summary": "Personal website from Nemanja Ninkovic, an engineering manager and tech lead specializing in AI.",
+    "role": "Developer",
+    "tags": [
+      "AI"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nicchan-me": {
+    "name": "Nic Chan",
+    "summary": "Nic Chan is a front-end web developer who specializes in design systems, accessibility and Shopify.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nchagnet-pages-dev": {
+    "name": "Nchagnet",
+    "summary": "Welcome to my resume, portfolio and blog!",
+    "role": "Researcher",
+    "tags": [
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nikhil-io": {
+    "name": "Nikhil Anand",
+    "summary": "Personal site of Nikhil Anand.",
+    "role": "Student",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "nik-digital": {
+    "name": "Niklas Gadermann",
+    "summary": "Writing interactive articles about software, design, and the web.",
+    "role": "Developer",
+    "tags": [
+      "Web Dev",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "nibzard-com": {
+    "name": "nibzard",
+    "summary": "Detailed writeups on multi-agent orchestration, AI engineering patterns, and what actually works in production. By Nikola Balić — 50+ shipped AI projects.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "omar-engineer": {
+    "name": "Omar Bahareth",
+    "summary": "I have more than a decade of experience split across leading engineering teams, fullstack web development, game development, and iOS and Android app development.",
+    "role": "Founder",
+    "tags": [
+      "Web Dev",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "huffstler-github-io": {
+    "name": "Huff n' Stuff",
+    "summary": "Huff n' Stuff (In)coherent grumbles.",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "peterbe-com": {
+    "name": "Peterbe.com",
+    "summary": "Peterbe.com is the personal website and blog of Peter Bengtsson.",
+    "role": "",
+    "tags": [
+      "Web Dev",
+      "Security"
+    ],
+    "features": []
+  },
+  "peter-demin-dev": {
+    "name": "Peter Demin",
+    "summary": "Personal site of Peter Demin.",
+    "role": "Developer",
+    "tags": [
+      "Open Source"
+    ],
+    "features": []
+  },
+  "strchr-com": {
+    "name": "strchr.com",
+    "summary": "strchr.com strchr.com Updates Beware of Unverified TLS Certificates in PHP &amp; Python TLS certificate verification when using third-party APIs.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "peterspath-net": {
+    "name": "Peter's Path",
+    "summary": "Peter's Path is my personal endeavour to live a life of purpose through hiking, reading, and embracing the beauty of nature, faith, and ideas.",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "philbooth-me": {
+    "name": "Phil Booth",
+    "summary": "Personal website of Phil Booth",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "philipithomas-com": {
+    "name": "Philip Ilic Thomas",
+    "summary": "Philip Ilic Thomas is an engineer living in New York City, working at the intersection of math, software, and business.",
+    "role": "Photographer",
+    "tags": [
+      "Writing",
+      "Photography"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "maxim-usindic-us": {
+    "name": "Maximus Indicus",
+    "summary": "Not an Indian Elephant",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "shahpreetk-com": {
+    "name": "Software Developer",
+    "summary": "Frontend | HTMLS, CSS, React.js | Backend | Java, Nodejs, Express | Fullstack Web Developer | Kitty lover.",
+    "role": "Artist",
+    "tags": [
+      "Web Dev",
+      "Art"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "priyatham-in": {
+    "name": "Priyatham",
+    "summary": "https://priyatham.in/en/",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "rasikjain-com": {
+    "name": "Rasik Jain",
+    "summary": "Personal site of Rasik Jain.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "spikepuppet-io": {
+    "name": "Rhys' Ramblings",
+    "summary": "Personal site of Rhys' Ramblings.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "rkallos-com": {
+    "name": "Richard Kallos",
+    "summary": "Personal site of Richard Kallos.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "staticnotes-org": {
+    "name": "Staticnotes",
+    "summary": "Thoughts, learnings and ideas",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "robertismo-com": {
+    "name": "Robert Ismo",
+    "summary": "Personal site of Robert Ismo.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "lr0-org": {
+    "name": "La Vita Nouva",
+    "summary": "La Vita Nouva , or, if you’d rather find something specific, search the site.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "sambroner-com": {
+    "name": "Sam Broner",
+    "summary": "Generally Happy. NYC. Writing about my interests: stablecoins, local-first software, UX+AI, art...",
+    "role": "Investor",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "samwho-dev": {
+    "name": "samwho",
+    "summary": "Personal website of Sam Rose.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "swharden-com": {
+    "name": "SWHarden.com",
+    "summary": "The personal website of Scott W. Harden",
+    "role": "Developer",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "seangoedecke-com": {
+    "name": "All posts",
+    "summary": "Personal site of All posts.",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Design",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "vqi-io": {
+    "name": "vqi.io",
+    "summary": "vqi.io Home Blog Projects Hi, I&#39;m Sebastiaan Data scientist, tinkerer, and passionate about creating positive impact.",
+    "role": "Researcher",
+    "tags": [],
+    "features": []
+  },
+  "minvolai-com": {
+    "name": "Sharmi",
+    "summary": "Sharmi's Thoughts Ideas and Logs",
+    "role": "Founder",
+    "tags": [
+      "Startups",
+      "Writing"
+    ],
+    "features": []
+  },
+  "silvestar-codes": {
+    "name": "✣ S.Bistrović",
+    "summary": "I'm building modern, performant, and SEO-optimized websites since 2012 using the best coding practices to deliver the best experience for every user.",
+    "role": "Designer",
+    "tags": [
+      "Web Dev",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "simonwillison-net": {
+    "name": "Simon Willison’s",
+    "summary": "Personal site of Simon Willison’s Weblog.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Product"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "stefanjudis-com": {
+    "name": "Developer, writer and speaker",
+    "summary": "I love building things for the web. And I love writing sharing things about the web.",
+    "role": "Writer",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "iambateman-com": {
+    "name": "Laravel",
+    "summary": "Personal site of Laravel.",
+    "role": "Developer",
+    "tags": [],
+    "features": []
+  },
+  "degraeve-com": {
+    "name": "DeGraeve.com",
+    "summary": "A curated collection of useful web tools, playful internet projects, reference pages, puzzle generators, and generative art by Steven DeGraeve.",
+    "role": "",
+    "tags": [
+      "Art"
+    ],
+    "features": []
+  },
+  "suriya-cc": {
+    "name": "Suriya",
+    "summary": "and his ramblings in the void",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "susam-net": {
+    "name": "Susam Pal",
+    "summary": "Susam Pal Susam Pal On Technology, Mathematics, Etc.",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tamim-io": {
+    "name": "Tamimi",
+    "summary": "Electrical Engineer, Cyber Security (purple hat), Drones & Robotics, Professor, And an entrepreneur",
+    "role": "Founder",
+    "tags": [
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "teeg-no": {
+    "name": "My Server :D",
+    "summary": "Welcome to My Server :D Welcome to Teeg's Triangle A few safe bits of cyberspace.",
+    "role": "Photographer",
+    "tags": [
+      "Writing",
+      "Photography"
+    ],
+    "features": []
+  },
+  "tjmorley-com": {
+    "name": "Theodore Morley: Researcher",
+    "summary": "Personal site of Theodore Morley: Researcher.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "thomas-huehn-com": {
+    "name": "Thomas Hühn",
+    "summary": "Personal site of Thomas Hühn.",
+    "role": "",
+    "tags": [
+      "AI",
+      "Open Source",
+      "Security"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "thomastartiere-com": {
+    "name": "About me",
+    "summary": "Personal site of About me.",
+    "role": "Founder",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tomclancy-info": {
+    "name": "Tom Clancy",
+    "summary": "Personal site of Tom Clancy.",
+    "role": "",
+    "tags": [
+      "Music"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "tonyalicea-dev": {
+    "name": "tonyalicea.dev",
+    "summary": "Personal site of tonyalicea.dev.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "torrin-me": {
+    "name": "Torrin Leonard",
+    "summary": "Full-stack software engineer building AI-powered web apps, custom UI frameworks, and the infrastructure they run on.",
+    "role": "Designer",
+    "tags": [
+      "AI",
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "utk09-com": {
+    "name": "utk09.com",
+    "summary": "Personal site of utk09.com.",
+    "role": "",
+    "tags": [],
+    "features": []
+  },
+  "vijethph-github-io": {
+    "name": "Vijeth P H",
+    "summary": "Vijeth's Project Portfolio",
+    "role": "Developer",
+    "tags": [
+      "Web Dev"
+    ],
+    "features": []
+  },
+  "vinitkumar-me": {
+    "name": "Vinitkumar",
+    "summary": "My essays on programming, technology and life",
+    "role": "Developer",
+    "tags": [
+      "AI",
+      "Writing",
+      "Open Source"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "willabides-com": {
+    "name": "WillAbides",
+    "summary": "WillAbides' blog",
+    "role": "",
+    "tags": [],
+    "features": [
+      "Blog"
+    ]
+  },
+  "xeiaso-net": {
+    "name": "Making sure you're not a bot!",
+    "summary": "Xe Iaso's personal website.",
+    "role": "",
+    "tags": [
+      "Design",
+      "Security"
+    ],
+    "features": []
+  },
+  "entropylogs-com": {
+    "name": "Entropylogs",
+    "summary": "Articles on breaking things and trying to learn from it",
+    "role": "",
+    "tags": [
+      "Writing"
+    ],
+    "features": [
+      "Blog"
+    ]
+  },
+  "yashmehrotra-com": {
+    "name": "Yash Mehrotra",
+    "summary": "Developer · Explorer · Hacker · Writer",
+    "role": "Writer",
+    "tags": [],
+    "features": []
+  },
+  "yobibyte-github-io": {
+    "name": "yobihome",
+    "summary": "Welcome to yobihome I am a senior research scientist at NVIDIA's Applied Deep Learning Research team working on reinforcement learning for LLMs.",
+    "role": "Researcher",
+    "tags": [
+      "AI"
+    ],
+    "features": []
+  },
+  "blog-zacbentley-com": {
+    "name": "Blog",
+    "summary": "Logic Fault Have you considered running your software on a computer ?",
+    "role": "Developer",
+    "tags": [],
+    "features": []
   }
 }
